@@ -1,0 +1,134 @@
+{
+  "name": "Riftbound Trial Decks",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/88013f37b15b5e6515c07c8d5add65a43385824b/CardList(2)(2).json",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": [
+      {
+        "title": "1v1",
+        "gameplay": "1v1",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "1v1": {
+      "mulligan": {
+        "info": "Draw 4 and mulligan up to 2 cards. Those are put at the bottom.",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Base",
+          "Rune Zone",
+          "Champion Legend",
+          "Chosen Champion",
+          "Battlefield 1",
+          "Battlefield 2",
+          "Runes Deck"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Battlefield 1",
+                  "style": {
+                    "width": "50%"
+                  }
+                },
+                {
+                  "section": "Battlefield 2",
+                  "style": {
+                    "width": "50%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Runes Deck",
+                  "style": {
+                    "width": "10%"
+                  }
+                },
+                {
+                  "section": "Rune Zone",
+                  "style": {
+                    "width": "30%"
+                  }
+                },
+                {
+                  "section": "Base",
+                  "style": {
+                    "width": "40%"
+                  }
+                },
+                {
+                  "section": "Champion Legend",
+                  "style": {
+                    "width": "10%"
+                  }
+                },
+                {
+                  "section": "Chosen Champion",
+                  "style": {
+                    "width": "10%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "Unit": "Base",
+          "Champion Unit": "Base",
+          "Spell": "Stack",
+          "Gear": "Base"
+        },
+        "autoPlayFromStack": {
+          "Unit": "Base",
+          "Champion Unit": "Base",
+          "Spell": "Discard",
+          "Gear": "Base"
+        },
+        "sectionsDict": {}
+      }
+    }
+  }
+}
