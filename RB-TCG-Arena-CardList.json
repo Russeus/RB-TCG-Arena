@@ -7,7 +7,7 @@
         "name": "Blazing Scorcher",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651249950523433/001_Blazing_Scorcher.png?ex=6844a72d&is=684355ad&hm=dba5b899f516a26d5ddf5d6de538c09fb8c8a9bb62adace1149fa30ebb5545c3&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/001%20Blazing%20Scorcher.png",
         "isHorizontal": false
       }
     },
@@ -23,7 +23,7 @@
         "name": "Brazen Buccaneer",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651250575605820/002_Brazen_Buccaneer.png?ex=6844a72d&is=684355ad&hm=14243b1c88022602e4c9a02f0a24ad217c51111df00e3bc5c70360e1af00d4aa&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/002%20Brazen%20Buccaneer.png",
         "isHorizontal": false
       }
     },
@@ -39,7 +39,7 @@
         "name": "Chemtech Enforcer",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651251129389076/003_Chemtech_Enforcer.png?ex=6844a72d&is=684355ad&hm=27f2ebae9fca741ec15999f3c62923fc23f6a16aa011db4b21e21fc26d2be6ed&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/003%20Chemtech%20Enforcer.png",
         "isHorizontal": false
       }
     },
@@ -55,7 +55,7 @@
         "name": "Disintegrate",
         "type": "Spell",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651251645157427/005_Disintegrate.png?ex=6844a72d&is=684355ad&hm=e9815f2ea57f2f25c309c743f272b7f25929a9b62bcb8eed75aa7584218c07f9&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/005%20Disintegrate.png",
         "isHorizontal": false
       }
     },
@@ -71,7 +71,7 @@
         "name": "Flame Chompers",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651252211257375/006_Flame_Chompers.png?ex=6844a72d&is=684355ad&hm=51b042901daedd31116e65c9ecd5ff714d18b65599d0a0967b99077cdaeac119&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/006%20Flame%20Chompers.png",
         "isHorizontal": false
       }
     },
@@ -87,7 +87,7 @@
         "name": "Fury Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651252727287918/007_Fury_Rune.png?ex=6844a72d&is=684355ad&hm=042c01b369b6f9db069435d79a92e9e00b82f265aa3201fdbe6b034681841f5a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/007%20Fury%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -103,7 +103,7 @@
         "name": "Legion Rearguard",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651253226537102/009_Legion_Rearguard.png?ex=6844a72e&is=684355ae&hm=e1e64eb2ca9acf07c1a95787e2bfefe730b37ebe80bbea5cb4d7fc8c7eefd303&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/009%20Legion%20Rearguard.png",
         "isHorizontal": false
       }
     },
@@ -119,7 +119,7 @@
         "name": "Magma Wurm",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651253792641165/010_Magma_Wurm.png?ex=6844a72e&is=684355ae&hm=476332403b48d579829eb19c5eaa043207e552a919ff50149133fee040742afa&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/010%20Magma%20Wurm.png",
         "isHorizontal": false
       }
     },
@@ -135,7 +135,7 @@
         "name": "Noxus Hopeful",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651254371323955/012_Noxus_Hopeful.png?ex=6844a72e&is=684355ae&hm=b352360394683ee146edbc07a55127eb1a2c2a514bc570b606aeb7d6fcb4418f&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/012%20Noxus%20Hopeful.png",
         "isHorizontal": false
       }
     },
@@ -151,7 +151,7 @@
         "name": "Scrapyard Champion",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651254937681951/021_Scrapyard_Champion.png?ex=6844a72e&is=684355ae&hm=2bf99977be04c1ec82789d462ec6c61a604c3d0b4da035913d1679aec6c7d547&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/021%20Scrapyard%20Champion.png",
         "isHorizontal": false
       }
     },
@@ -167,7 +167,7 @@
         "name": "Jinx Demolitionist",
         "type": "Champion Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651280971862066/031_Jinx_DEMOLITIONIST.png?ex=6844a734&is=684355b4&hm=7ab205afbfc59baca21ee7ade26c227ef4552566733de8c2195971330a2f864e&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/031%20Jinx_DEMOLITIONIST.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Tryndamere Barbarian",
         "type": "Champion Unit",
         "cost": "7",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651281458270269/034_Tryndamere_BARBARIAN.png?ex=6844a734&is=684355b4&hm=aa6ca5b3d8c7e4f4e3f086d90d60429fe4477dbca22ce9565148a5e7c3c818b2&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/034%20Tryndamere_BARBARIAN.png",
         "isHorizontal": false
       }
     },
@@ -199,7 +199,7 @@
         "name": "Vi Destructive",
         "type": "Champion Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651282036949185/036_Vi_DESTRUCTIVE.png?ex=6844a734&is=684355b4&hm=f23d425adf3b7049498810fdcb00906c7bb7526882a76b0ef34247ad61ea929c&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/036%20Vi_DESTRUCTIVE.png",
         "isHorizontal": false
       }
     },
@@ -215,7 +215,7 @@
         "name": "Kadregrin the Infernal",
         "type": "Unit",
         "cost": "9",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651282653773834/038_Kadregrin_the_Infernal.png?ex=6844a735&is=684355b5&hm=d90d68737e46622ebc2c808f1f990dd4173e4fe0b0b9b873d264556c6f582b81&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/038%20Kadregrin%20the%20Infernal.png",
         "isHorizontal": false
       }
     },
@@ -231,7 +231,7 @@
         "name": "Seal of Rage",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651283232329839/040_Seal_of_Rage.png?ex=6844a735&is=684355b5&hm=6c172b85d3448d92525dda26b2d7df74703315e100489a6599e4adb684e188d6&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/040%20Seal%20of%20Rage.png",
         "isHorizontal": false
       }
     },
@@ -247,7 +247,7 @@
         "name": "Volibear Furious",
         "type": "Champion Unit",
         "cost": "10",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651283702349834/041_Volibear_FURIOUS.png?ex=6844a735&is=684355b5&hm=c8a7d08b3be82650c4dac7f939af7ede9b06a660e45a14bf258727da69e01ddf&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/041%20Volibear_FURIOUS.png",
         "isHorizontal": false
       }
     },
@@ -263,7 +263,7 @@
         "name": "Calm Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651284155203624/042_Calm_Rune.png?ex=6844a735&is=684355b5&hm=53e6cc5f14646241413efc7882d1618f467491ec48c8f80e4d782035912c99c8&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/042%20Calm%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -279,7 +279,7 @@
         "name": "Clockwork Keeper",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651284629028904/044_Clockwork_Keeper.png?ex=6844a735&is=684355b5&hm=26b95de440da71d7da7717486f92b74d902a107ef09c95f3d560abfeb746d1c3&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/044%20Clockwork%20Keeper.png",
         "isHorizontal": false
       }
     },
@@ -295,7 +295,7 @@
         "name": "Defy",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651285182812191/045_Defy.png?ex=6844a735&is=684355b5&hm=15c3dd745a0cefb17a777289e0c08a9faf6fb19cb747a681697d2be32e9f592a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/045%20Defy.png",
         "isHorizontal": false
       }
     },
@@ -311,7 +311,7 @@
         "name": "En Garde",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651285765689444/046_En_Garde.png?ex=6844a735&is=684355b5&hm=3fb769bdffe4e2b763f618586995e91ab72bd1bfe6e376cc5ea4c1da0906b17a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/046%20En%20Garde.png",
         "isHorizontal": false
       }
     },
@@ -327,7 +327,7 @@
         "name": "Meditation",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651316401012871/048_Meditation.png?ex=6844a73d&is=684355bd&hm=8907f9153270a685ed07dcf894259045eb130f397ca1b505d861a0d08eadf403&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/048%20Meditation.png",
         "isHorizontal": false
       }
     },
@@ -343,7 +343,7 @@
         "name": "Wielder of Water",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651316954533998/055_Wielder_of_Water.png?ex=6844a73d&is=684355bd&hm=b12ab3269f6f54bb127eacb5cf9f834692ae013d6af41be044fd64ccbcfb1173&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/055%20Wielder%20of%20Water.png",
         "isHorizontal": false
       }
     },
@@ -359,7 +359,7 @@
         "name": "Discipline",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651317533478932/058_Discipline.png?ex=6844a73d&is=684355bd&hm=5c94191c9f9f9808b1e26edb2bc938ff2c238d1589457fd29b679d8209a54fb2&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/058%20Discipline.png",
         "isHorizontal": false
       }
     },
@@ -375,7 +375,7 @@
         "name": "Wind Wall",
         "type": "Spell",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651318007431230/064_Wind_Wall.png?ex=6844a73d&is=684355bd&hm=74a336c6a39239750041fc1887f9a946864e738a47853a02d19fce510eba85c7&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/064%20Wind%20Wall.png",
         "isHorizontal": false
       }
     },
@@ -391,7 +391,7 @@
         "name": "Seal of Focus",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651318439317544/080_Seal_of_Focus.png?ex=6844a73d&is=684355bd&hm=ed5a0369d7d29df3cf42f15dd83d0886235a36b15b669f63a7195aeca456d51d&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/080%20Seal%20of%20Focus.png",
         "isHorizontal": false
       }
     },
@@ -407,7 +407,7 @@
         "name": "Yasuo Remorseful",
         "type": "Champion Unit",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651318871461969/082_Yasuo_REMORSEFUL.png?ex=6844a73d&is=684355bd&hm=bbf3552faee8c88028b4290be20b3456da6fb7577ebcc04edcaf284131215c04&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/082%20Yasuo_REMORSEFUL.png",
         "isHorizontal": false
       }
     },
@@ -423,7 +423,7 @@
         "name": "Mind Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651319370580099/089_Mind_Rune.png?ex=6844a73d&is=684355bd&hm=edd8c17eb1bb29b692f93ecbb8574e655dedf34de5a767c5d34e1957eeb18be4&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/089%20Mind%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -439,7 +439,7 @@
         "name": "Stupefy",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651319819243560/095_Stupefy.png?ex=6844a73d&is=684355bd&hm=a7a377a779081002598f8a7aa6c8d6140c1bd6627653fa99c199b92de69a6fd6&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/095%20Stupefy.png",
         "isHorizontal": false
       }
     },
@@ -455,7 +455,7 @@
         "name": "Watchful Sentry",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651320276553748/096_Watchful_Sentry.png?ex=6844a73e&is=684355be&hm=a157177a2cb09a2f132b9400e8c6b7c5db545033b022c1a9fb4965ed9b091ad4&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/096%20Watchful%20Sentry.png",
         "isHorizontal": false
       }
     },
@@ -471,7 +471,7 @@
         "name": "Wraith of Echoes",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651320872140891/118_Wraith_of_Echoes.png?ex=6844a73e&is=684355be&hm=89cbad9970f0dd12296d2245e23a468184f9701b909016d825b85c8184a4e755&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/118%20Wraith%20of%20Echoes.png",
         "isHorizontal": false
       }
     },
@@ -487,7 +487,7 @@
         "name": "Unchecked Power",
         "type": "Spell",
         "cost": "7",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651345064890499/123_Unchecked_Power.png?ex=6844a743&is=684355c3&hm=f6b3198685afd75ae4bbaf7406bcd6f1403ea0c452886d7a933d8fa9713b3802&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/123%20Unchecked%20Power.png",
         "isHorizontal": false
       }
     },
@@ -503,7 +503,7 @@
         "name": "Challenge",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651345618403420/127_Challenge.png?ex=6844a744&is=684355c4&hm=3627665dcea651b7bcf8d57fa5fc8d5c8316cca26650f5b737037b351421d989&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/127%20Challenge.png",
         "isHorizontal": false
       }
     },
@@ -519,7 +519,7 @@
         "name": "Mobilize",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651346205868042/133_Mobilize.png?ex=6844a744&is=684355c4&hm=5878d3451e76307f0062cc4d357f83f3c20b6a3fe062a8c601b2a2cd6cc6f3f3&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/133%20Mobilize.png",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Body Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651346725965935/135_Body_Rune.png?ex=6844a744&is=684355c4&hm=8e9465e46bab43b9038beba0e13b5fc063499d41741f0a0d712087c8d2cc7ee5&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/135%20Body%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -551,7 +551,7 @@
         "name": "Stormclaw Ursine",
         "type": "Unit",
         "cost": "7",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651347325485249/137_Stormclaw_Ursine.png?ex=6844a744&is=684355c4&hm=61987c2870969e0c74f06b580a329492fffada93bb9ea86a41cc0fc65d8d1f68&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/137%20Stormclaw%20Ursine.png",
         "isHorizontal": false
       }
     },
@@ -567,7 +567,7 @@
         "name": "Catalyst of Aeons",
         "type": "Spell",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651347942309969/138_Catalyst_of_Aeons.png?ex=6844a744&is=684355c4&hm=4b6e37d558caff474bd1c988edab9f2a390c2ec455b4173829e879d5fa0e6018&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/138%20Catalyst%20of%20Aeons.png",
         "isHorizontal": false
       }
     },
@@ -583,7 +583,7 @@
         "name": "Carnivorous Snapvine",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651348470661161/149_Carnivorous_Snapvine.png?ex=6844a744&is=684355c4&hm=dfe8d7de37eea23024330f712beabeca419ad5aaa3457abad38a2eef3b80b19c&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/149%20Carnivorous%20Snapvine.png",
         "isHorizontal": false
       }
     },
@@ -599,7 +599,7 @@
         "name": "Volibear Imposing",
         "type": "Unit",
         "cost": "12",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651349036765345/158_Volibear_IMPOSING.png?ex=6844a744&is=684355c4&hm=4f79d33379efdc79c951924c36961dd430dcb550daf1b40a9c8b667e25db66e5&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/158%20Volibear_IMPOSING.png",
         "isHorizontal": false
       }
     },
@@ -615,7 +615,7 @@
         "name": "Deadbloom Predator",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651349502328992/161_Deadbloom_Predator.png?ex=6844a744&is=684355c4&hm=306e05db8d773a985da0bd2154dac98fd0c248088927a5c77592027968b2c861&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/161%20Deadbloom%20Predator.png",
         "isHorizontal": false
       }
     },
@@ -631,7 +631,7 @@
         "name": "Miss Fortune Captain",
         "type": "Champion Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651350089535631/162_Miss_Fortune_CAPTAIN.png?ex=6844a745&is=684355c5&hm=061c8d3a55db26d9076fecf726cd718ef0d75b89eebe4078a8040284d48b169e&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/162%20Miss%20Fortune_CAPTAIN.png",
         "isHorizontal": false
       }
     },
@@ -647,7 +647,7 @@
         "name": "Cemetery Attendant",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651388140519504/165_Cemetery_Attendant.png?ex=6844a74e&is=684355ce&hm=220b25148de73ed5ebbe53be58fa54a8df9f3266b17c4676592de93325b5d9de&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/165%20Cemetery%20Attendant.png",
         "isHorizontal": false
       }
     },
@@ -663,7 +663,7 @@
         "name": "Chaos Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651388572401764/166_Chaos_Rune.png?ex=6844a74e&is=684355ce&hm=0e5a53e49466ba9eb11ed4cff5401e00e379210318f2d4938a0ece1350bff4e7&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/166%20Chaos%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -679,7 +679,7 @@
         "name": "Gust",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651389083975760/169_Gust.png?ex=6844a74e&is=684355ce&hm=5d8558cbea7025a0e582ae8195a96a133d8ebf5e522f29b7d3f1eef8577317b4&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/169%20Gust.png",
         "isHorizontal": false
       }
     },
@@ -695,7 +695,7 @@
         "name": "Rebuke",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651389570777240/172_Rebuke.png?ex=6844a74e&is=684355ce&hm=4cea5fef20c973e6568e7542f66e54e21677e8503eb0f73355e198da9ce7de0b&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/172%20Rebuke.png",
         "isHorizontal": false
       }
     },
@@ -711,7 +711,7 @@
         "name": "Stealthy Pursuer",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651390057189486/177_Stealthy_Pursuer.png?ex=6844a74e&is=684355ce&hm=45a15fb61536dc3a588f4f516fa4ac7ddba0bf23a72f0e978d6214a5011e34d6&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/177%20Stealthy%20Pursuer.png",
         "isHorizontal": false
       }
     },
@@ -727,7 +727,7 @@
         "name": "Undercover Agent",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651390581604414/178_Undercover_Agent.png?ex=6844a74e&is=684355ce&hm=fdf7e67ddf7595530b579fa19d8ef113f76eef52b574c62de15cf78db0915c36&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/178%20Undercover%20Agent.png",
         "isHorizontal": false
       }
     },
@@ -743,7 +743,7 @@
         "name": "Traveling Merchant",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651391038656662/185_Traveling_Merchant.png?ex=6844a74e&is=684355ce&hm=63519365534cf6410177d5c3aa3106dcc2a0aaaae1015f4e74bc8fabe5104e85&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/185%20Traveling%20Merchant.png",
         "isHorizontal": false
       }
     },
@@ -759,7 +759,7 @@
         "name": "Kayn Unleashed",
         "type": "Champion Unit",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651391525322863/189_Kayn_UNLEASHED.png?ex=6844a74f&is=684355cf&hm=4201fe219c4ad81826535420885decf6555ba9370807453c4bd230afb3b1b953&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/189%20Kayn_UNLEASHED.png",
         "isHorizontal": false
       }
     },
@@ -775,7 +775,7 @@
         "name": "Maddened Marauder",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651392082903123/191_Maddened_Marauder.png?ex=6844a74f&is=684355cf&hm=531486d7847d2459392d596a0e41d6095ae069dde05e9ec0126b34d733edcf64&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/191%20Maddened%20Marauder.png",
         "isHorizontal": false
       }
     },
@@ -791,7 +791,7 @@
         "name": "Jinx Rebel",
         "type": "Champion Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651392620036126/202_Jinx_REBEL.png?ex=6844a74f&is=684355cf&hm=4c00cdd9a1a6ddaddbcd5e0c026e21f4535da70eea7550fbaf31d356d8b19ce9&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/202%20Jinx_REBEL.png",
         "isHorizontal": false
       }
     },
@@ -807,7 +807,7 @@
         "name": "Miss Fortune Buccaneer",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651454850666639/203_Miss_Fortune_BUCCANEER.png?ex=6844a75e&is=684355de&hm=98a64e9a9e9e4b53c294c70690b5788b3e7ae5f2053f8872a90ba526daa61406&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/203%20Miss%20Fortune_BUCCANEER.png",
         "isHorizontal": false
       }
     },
@@ -823,7 +823,7 @@
         "name": "Possesion",
         "type": "Spell",
         "cost": "8",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651455345856662/204_Possession.png?ex=6844a75e&is=684355de&hm=72fd34ef98a6bb8f1475b22cb52ae1ecd41ed8ffbd930ee0c60dfc017b69b22e&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/204%20Possession.png",
         "isHorizontal": false
       }
     },
@@ -839,7 +839,7 @@
         "name": "Seal of Discord",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651455844712610/205_Seal_of_Discord.png?ex=6844a75e&is=684355de&hm=d982967705f0f4eb05f66f100fb0c61bc4d247696ced1327dd1bd9ddedbfb961&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/205%20Seal%20of%20Discord.png",
         "isHorizontal": false
       }
     },
@@ -855,7 +855,7 @@
         "name": "Cruel Patron",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651456356679690/208_Cruel_Patron.png?ex=6844a75e&is=684355de&hm=79c312977d8408d8230cf3b5aa226b467c21cc4726590941e0aa01b9e82ddc33&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/208%20Cruel%20Patron.png",
         "isHorizontal": false
       }
     },
@@ -871,7 +871,7 @@
         "name": "Cull the Weak",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651457010864249/209_Cull_the_Weak.png?ex=6844a75e&is=684355de&hm=25f91e6bb483bbbc96d20d49d7769a7c666367f62dcd8a95c701f6128e219814&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/209%20Cull%20the%20Weak.png",
         "isHorizontal": false
       }
     },
@@ -887,7 +887,7 @@
         "name": "Faithful Manufactor",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651457518375023/211_Faithful_Manufactor.png?ex=6844a75e&is=684355de&hm=199b7030fd216dc840e29f162a60893a9510a823d36cfe97e54df052d3fa1b1a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/211%20Faithful%20Manufactor.png",
         "isHorizontal": false
       }
     },
@@ -903,7 +903,7 @@
         "name": "Hidden Blade",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651458050920510/213_Hidden_Blade.png?ex=6844a75e&is=684355de&hm=e809ed6e25b6d9d930d019a97dcfa6f0a300346e9a2dc7cd29139e206716158d&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/213%20Hidden%20Blade.png",
         "isHorizontal": false
       }
     },
@@ -919,7 +919,7 @@
         "name": "Order Rune",
         "type": "Rune",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651458676133929/214_Order_Rune.png?ex=6844a75f&is=684355df&hm=4cdfca5d380bae7b7031a76fd464bf4d096b7cc8b86b11dde532362c38590415&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/214%20Order%20Rune.png",
         "isHorizontal": false
       }
     },
@@ -935,7 +935,7 @@
         "name": "Soaring Scout",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651459183378492/216_Soaring_Scout.png?ex=6844a75f&is=684355df&hm=6fd630cb7c0ec02b5518b90b40c0576ff3b65c0090b5de3e7a9f1ddf463e740c&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/216%20Soaring%20Scout.png",
         "isHorizontal": false
       }
     },
@@ -951,7 +951,7 @@
         "name": "Vanguard Captain",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651459674374303/218_Vanguard_Captain.png?ex=6844a75f&is=684355df&hm=d0e7c2d4c2c3fba99dde112bad7cc08c82f2a318881a46736a44514f31f7aac9&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/218%20Vanguard%20Captain.png",
         "isHorizontal": false
       }
     },
@@ -967,7 +967,7 @@
         "name": "Machine Evangel",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651488422002749/232_Machine_Evangel.png?ex=6844a766&is=684355e6&hm=f15dd97ea93388016d4ef60db5591756bf2c84ab07d8f0c926e4c38984d35917&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/232%20Machine%20Evangel.png",
         "isHorizontal": false
       }
     },
@@ -983,7 +983,7 @@
         "name": "Grand Strategem",
         "type": "Spell",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651488849825902/234_Grand_Strategem.png?ex=6844a766&is=684355e6&hm=7985555ca6d34a1c867c77b609a854594e3482026f990d02fcd49d43c01a6616&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/234%20Grand%20Strategem.png",
         "isHorizontal": false
       }
     },
@@ -999,7 +999,7 @@
         "name": "Harnessed Dragon",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651489319452782/235_Harnessed_Dragon.png?ex=6844a766&is=684355e6&hm=0839bb48df372f37a5ae9f63401269c4f65b4f90f56b782b2335ef8cd41a01b9&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/235%20Harnessed%20Dragon.png",
         "isHorizontal": false
       }
     },
@@ -1015,7 +1015,7 @@
         "name": "Seal of Unity",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651489852133459/245_Seal_of_Unity.png?ex=6844a766&is=684355e6&hm=2896ad03ca70fb10c898bd919605521a0476b40a06a4b96cebfec57fe7d33278&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/245%20Seal%20of%20Unity.png",
         "isHorizontal": false
       }
     },
@@ -1031,7 +1031,7 @@
         "name": "Viktor Leader",
         "type": "Champion Unit",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651490296991744/246_Viktor_LEADER.png?ex=6844a766&is=684355e6&hm=dd5230f3bbe56ca6247e7121fc5ea7cfea2ac3c295c80825ba69fe3c66d47ca2&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/246%20Viktor_LEADER.png",
         "isHorizontal": false
       }
     },
@@ -1047,7 +1047,7 @@
         "name": "Relentless Storm Volibear",
         "type": "Champion Legend",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651490838052874/249_Relentless_Storm_VOLIBEAR.png?ex=6844a766&is=684355e6&hm=175f88acfb84225ee90d305279a480b37ee64d40897cc3684668ce6420af8f2a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/249%20Relentless%20Storm_VOLIBEAR.png",
         "isHorizontal": false
       }
     },
@@ -1063,7 +1063,7 @@
         "name": "Stormbringer",
         "type": "Signature Spell",
         "cost": "6",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651491479785502/250_Stormbringer_VOLIBEAR.png?ex=6844a766&is=684355e6&hm=3c1e40dac5c0e9b11a84008f749e19987b38c9719e45f55acb8fd06382a3f4fb&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/250%20Stormbringer_VOLIBEAR.png",
         "isHorizontal": false
       }
     },
@@ -1079,7 +1079,7 @@
         "name": "Loose Cannon Jinx",
         "type": "Champion Legend",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651492045881406/251_Loose_Cannon_JINX.png?ex=6844a766&is=684355e6&hm=ef10defd7eeb621d0853eb681d7cfc5253efc4323577758f86d7306edf9054d5&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/251%20Loose%20Cannon_JINX.png",
         "isHorizontal": false
       }
     },
@@ -1095,7 +1095,7 @@
         "name": "Super Mega Death Rocket!",
         "type": "Signature Spell",
         "cost": "4",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651492599533588/252_Super_Mega_Death_Rocket_JINX.png?ex=6844a767&is=684355e7&hm=015f325ec6de1a0cdb06e25a92fabddba91e04f4e8ee0071812729a263ac95d4&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/252%20Super%20Mega%20Death%20Rocket!_JINX.png",
         "isHorizontal": false
       }
     },
@@ -1111,7 +1111,7 @@
         "name": "Unforgiven Yasuo",
         "type": "Champion Legend",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651493102846133/259_Unforgiven_YASUO.png?ex=6844a767&is=684355e7&hm=d0e32ee2eb916acc3fe727b62fb2fa6acbbc8bf0f32f1e091ca4e6cc78333ae1&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/259%20Unforgiven_YASUO.png",
         "isHorizontal": false
       }
     },
@@ -1127,7 +1127,7 @@
         "name": "Last Breath",
         "type": "Signature Spell",
         "cost": "3",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651530100932760/260_Last_Breath_YASUO.png?ex=6844a770&is=684355f0&hm=f0b065e87b171d6576172be60b851ed771283bee16da2c5f2b4c2c6b3ebd8c67&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/260%20Last%20Breath_YASUO.png",
         "isHorizontal": false
       }
     },
@@ -1143,7 +1143,7 @@
         "name": "Herald of the Arcane Viktor",
         "type": "Champion Legend",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651530608447538/265_Herald_of_the_Arcane_VIKTOR.png?ex=6844a770&is=684355f0&hm=5f27de4a757864e25ebe5c4d78499d99ce4a5693cd5c492e195c95afbe585b75&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/265%20Herald%20of%20the%20Arcane_VIKTOR.png",
         "isHorizontal": false
       }
     },
@@ -1159,7 +1159,7 @@
         "name": "Siphon Power",
         "type": "Signature Spell",
         "cost": "2",
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651531313086494/266_Siphon_Power_VIKTOR.png?ex=6844a770&is=684355f0&hm=a3ec5412a377d0e850b8c3f1dde59e48e00aaaa1387401a4c2fbf7c4f1bc494f&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/266%20Siphon%20Power_VIKTOR.png",
         "isHorizontal": false
       }
     },
@@ -1175,7 +1175,7 @@
         "name": "Recruit",
         "type": "Unit",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651531795304469/273_Recruit.png?ex=6844a770&is=684355f0&hm=cdf832c252bec5cc98e5ccc3c86308fd5454dd7e6674c482ca723fcbaafc89b9&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/273%20Recruit.png",
         "isHorizontal": false
       }
     },
@@ -1191,7 +1191,7 @@
         "name": "Altar to Unity",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651532285902958/275_Altar_to_Unity.png?ex=6844a770&is=684355f0&hm=f871d61eea91c94b35bd5d9690f73aa034d4cdbc0f64d9ce2cf5cce8407e3125&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/275%20Altar%20to%20Unity.png",
         "isHorizontal": true
       }
     },
@@ -1207,7 +1207,7 @@
         "name": "Obelisk of Power",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651532831428699/284_Obelisk_of_Power.png?ex=6844a770&is=684355f0&hm=06bcc5e07783c4997efd2ce8149b63d04278f1999759f078984dea2e3badc0a8&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/284%20Obelisk%20of%20Power.png",
         "isHorizontal": true
       }
     },
@@ -1223,7 +1223,7 @@
         "name": "Reaver's Row",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651533393199185/285_Reavers_Row.png?ex=6844a770&is=684355f0&hm=6f8b6c126c2afd144c06b5eb819ca6fbf5747bc646a0592803dd771c24874274&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/285%20Reaver's%20Row.png",
         "isHorizontal": true
       }
     },
@@ -1239,7 +1239,7 @@
         "name": "Sigil of the Storm",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651533967822888/287_Sigil_of_the_Storm.png?ex=6844a770&is=684355f0&hm=487450e3fd7b89c05accc73913edae5b1d40629cb478cd02cdcb646f64299077&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/287%20Sigil%20of%20the%20Storm.png",
         "isHorizontal": true
       }
     },
@@ -1255,7 +1255,7 @@
         "name": "Targon's Peak",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651535515652096/289_Targons_Peak.png?ex=6844a771&is=684355f1&hm=4fe10085814ac14952ccb345a6f0d7a485d8e8c719af08d6ea8def3079340c9a&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/289%20Targon's%20Peak.png",
         "isHorizontal": true
       }
     },
@@ -1271,7 +1271,7 @@
         "name": "The Grand Plaza",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651536283205765/293_The_Grand_Plaza.png?ex=6844a771&is=684355f1&hm=b4cef75340f6a98dc3998a73f5e0874fe7e8718f9a71baf7e2a66a289c652b51&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/293%20The%20Grand%20Plaza.png",
         "isHorizontal": true
       }
     },
@@ -1287,7 +1287,7 @@
         "name": "Trifrian War Camp",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651565479890965/294_Trifarian_War_Camp.png?ex=6844a778&is=684355f8&hm=fcc1e07785eab0df119ac7babc211e8ae242c4c4392d98541aa2daaa0cae2b6e&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/294%20Trifarian%20War%20Camp.png",
         "isHorizontal": true
       }
     },
@@ -1303,7 +1303,7 @@
         "name": "Void Gate",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651566138265732/296_Void_Gate.png?ex=6844a778&is=684355f8&hm=79a86aac3f869e4835f882d23b5b326f7227c60f7ec0ddd4f52ff590bbdcf22e&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/296%20Void%20Gate.png",
         "isHorizontal": true
       }
     },
@@ -1319,7 +1319,7 @@
         "name": "Windswept Hillock",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651566788513885/297_Windswept_Hillock.png?ex=6844a778&is=684355f8&hm=bd9dd25c5d008093dd0933aed46c531e22f7bd1e921930a8d2dfd6221a3f7608&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/297%20Windswept%20Hillock.png",
         "isHorizontal": true
       }
     },
@@ -1335,7 +1335,7 @@
         "name": "Zaun Warrens",
         "type": "Battlefield",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1380651045814013984/1380651567333769266/298_Zaun_Warrens.png?ex=6844a778&is=684355f8&hm=77fcc127b2b163188c1ed237b34dcb43701f57038ed01b0ec9faed410b117635&",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/298%20Zaun%20Warrens.png",
         "isHorizontal": true
       }
     },
