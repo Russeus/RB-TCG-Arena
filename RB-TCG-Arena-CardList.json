@@ -1,0 +1,1346 @@
+{
+  "FND-001": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blazing Scorcher",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-001/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blazing Scorcher",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-002": {
+    "id": "002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brazen Buccaneer",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-002/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brazen Buccaneer",
+    "type": "Unit",
+    "cost": "6"
+  },
+  "FND-003": {
+    "id": "003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chemtech Enforcer",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-003/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chemtech Enforcer",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-005": {
+    "id": "FND-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disintegrate",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-005/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disintegrate",
+    "type": "Spell",
+    "cost": "4"
+  },
+  "FND-006": {
+    "id": "FND-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame Chompers",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-006/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame Chompers",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "FND-007": {
+    "id": "FND-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fury Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-007/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fury Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-010": {
+    "id": "FND-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legion Rearguard",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-010/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Legion Rearguard",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-011": {
+    "id": "FND-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magma Wurm",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-011/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magma Wurm",
+    "type": "Unit",
+    "cost": "8"
+  },
+  "FND-012": {
+    "id": "FND-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxus Hopeful",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-012/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxus Hopeful",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "FND-020": {
+    "id": "FND-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scrapyard Champion",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-020/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrapyard Champion",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-030": {
+    "id": "FND-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx Demolitionist",
+        "type": "Champion Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-030/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx Demolitionist",
+    "type": "Champion Unit",
+    "cost": "3"
+  },
+  "FND-034": {
+    "id": "FND-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tryndamere Barbarian",
+        "type": "Champion Unit",
+        "cost": "7",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-034/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tryndamere Barbarian",
+    "type": "Champion Unit",
+    "cost": "7"
+  },
+  "FND-036": {
+    "id": "FND-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi Destructive",
+        "type": "Champion Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-036/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi Destructive",
+    "type": "Champion Unit",
+    "cost": "2"
+  },
+  "FND-038": {
+    "id": "FND-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kadregrin the Infernal",
+        "type": "Unit",
+        "cost": "9",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-038/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kadregrin the Infernal",
+    "type": "Unit",
+    "cost": "9"
+  },
+  "FND-040": {
+    "id": "FND-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Rage",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-040/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Rage",
+    "type": "Gear",
+    "cost": 0
+  },
+  "FND-041": {
+    "id": "FND-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volibear Furious",
+        "type": "Champion Unit",
+        "cost": "10",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-041/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volibear Furious",
+    "type": "Champion Unit",
+    "cost": "10"
+  },
+  "FND-042": {
+    "id": "FND-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calm Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-042/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calm Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-044": {
+    "id": "FND-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clockwork Keeper",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-044/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clockwork Keeper",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-045": {
+    "id": "FND-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Defy",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-045/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Defy",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "FND-046": {
+    "id": "FND-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "En Garde",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-046/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "En Garde",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "FND-048": {
+    "id": "FND-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meditation",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-048/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meditation",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-055": {
+    "id": "FND-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wielder of Water",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-055/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wielder of Water",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "FND-058": {
+    "id": "FND-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Discipline",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-058/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Discipline",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-064": {
+    "id": "FND-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wind Wall",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-064/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wind Wall",
+    "type": "Spell",
+    "cost": "3"
+  },
+  "FND-081": {
+    "id": "FND-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Focus",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-081/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Focus",
+    "type": "Gear",
+    "cost": 0
+  },
+  "FND-076": {
+    "id": "FND-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo Remorseful",
+        "type": "Champion Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-076/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo Remorseful",
+    "type": "Champion Unit",
+    "cost": "6"
+  },
+  "FND-089": {
+    "id": "FND-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-089/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-095": {
+    "id": "FND-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stupefy",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-095/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stupefy",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "FND-096": {
+    "id": "FND-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Watchful Sentry",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-096/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watchful Sentry",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-118": {
+    "id": "FND-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wraith of Echoes",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-118/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wraith of Echoes",
+    "type": "Unit",
+    "cost": "6"
+  },
+  "FND-123": {
+    "id": "FND-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unchecked Power",
+        "type": "Spell",
+        "cost": "7",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-123/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unchecked Power",
+    "type": "Spell",
+    "cost": "7"
+  },
+  "FND-128": {
+    "id": "FND-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Challenge",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-128/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Challenge",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-134": {
+    "id": "FND-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mobilize",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-134/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mobilize",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-126": {
+    "id": "FND-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Body Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-126/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-137": {
+    "id": "FND-137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormclaw Ursine",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-137/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormclaw Ursine",
+    "type": "Unit",
+    "cost": "7"
+  },
+  "FND-138": {
+    "id": "FND-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catalyst of Aeons",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-138/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catalyst of Aeons",
+    "type": "Spell",
+    "cost": "4"
+  },
+  "FND-149": {
+    "id": "FND-149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carnivorous Snapvine",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-149/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carnivorous Snapvine",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-158": {
+    "id": "FND-158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volibear Imposing",
+        "type": "Unit",
+        "cost": "12",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-158/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volibear Imposing",
+    "type": "Unit",
+    "cost": "12"
+  },
+  "FND-161": {
+    "id": "FND-161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deadbloom Predator",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-161/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deadbloom Predator",
+    "type": "Unit",
+    "cost": "8"
+  },
+  "FND-162": {
+    "id": "FND-162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miss Fortune Captain",
+        "type": "Champion Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-162/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Fortune Captain",
+    "type": "Champion Unit",
+    "cost": "5"
+  },
+  "FND-165": {
+    "id": "FND-165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cemetery Attendant",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-165/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cemetery Attendant",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "FND-166": {
+    "id": "FND-166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-166/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-169": {
+    "id": "FND-169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gust",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-169/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gust",
+    "type": "Spell",
+    "cost": "1"
+  },
+  "FND-172": {
+    "id": "FND-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebuke",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-172/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebuke",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-177": {
+    "id": "FND-177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stealthy Pursuer",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-177/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stealthy Pursuer",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "FND-178": {
+    "id": "FND-178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Undercover Agent",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-178/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Undercover Agent",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-185": {
+    "id": "FND-185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Traveling Merchant",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-185/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Traveling Merchant",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-189": {
+    "id": "FND-189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayn Unleashed",
+        "type": "Champion Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-189/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayn Unleashed",
+    "type": "Champion Unit",
+    "cost": "6"
+  },
+  "FND-191": {
+    "id": "FND-191",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maddened Marauder",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-191/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maddened Marauder",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-202": {
+    "id": "FND-202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx Rebel",
+        "type": "Champion Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-202/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx Rebel",
+    "type": "Champion Unit",
+    "cost": "5"
+  },
+  "FND-193": {
+    "id": "FND-203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miss Fortune Buccaneer",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-193/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Fortune Buccaneer",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "FND-203": {
+    "id": "FND-204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Possesion",
+        "type": "Spell",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-203/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Possesion",
+    "type": "Spell",
+    "cost": "8"
+  },
+  "FND-204": {
+    "id": "FND-205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Discord",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-204/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Discord",
+    "type": "Gear",
+    "cost": 0
+  },
+  "FND-208": {
+    "id": "FND-208",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cruel Patron",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-208/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cruel Patron",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "FND-209": {
+    "id": "FND-209",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cull the Weak",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-209/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cull the Weak",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-211": {
+    "id": "FND-211",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faithful Manufactor",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-211/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faithful Manufactor",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "FND-213": {
+    "id": "FND-213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hidden Blade",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-213/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hidden Blade",
+    "type": "Spell",
+    "cost": "2"
+  },
+  "FND-214": {
+    "id": "FND-214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Rune",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-214/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Rune",
+    "cost": 0
+  },
+  "FND-216": {
+    "id": "FND-216",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soaring Scout",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-216/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soaring Scout",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "FND-218": {
+    "id": "FND-218",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Captain",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-218/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Captain",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "FND-239": {
+    "id": "FND-232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Machine Evangel",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-239/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Machine Evangel",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "FND-233": {
+    "id": "FND-234",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grand Strategem",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-233/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grand Strategem",
+    "type": "Spell",
+    "cost": "6"
+  },
+  "FND-234": {
+    "id": "FND-235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Harnessed Dragon",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-234/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Harnessed Dragon",
+    "type": "Unit",
+    "cost": "8"
+  },
+  "FND-245": {
+    "id": "FND-245",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Unity",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-245/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Unity",
+    "type": "Gear",
+    "cost": 0
+  },
+  "FND-246": {
+    "id": "FND-246",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor Leader",
+        "type": "Champion Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-246/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor Leader",
+    "type": "Champion Unit",
+    "cost": "4"
+  },
+  "FND-249": {
+    "id": "FND-249",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relentless Storm Volibear",
+        "type": "Champion Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-249/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relentless Storm Volibear",
+    "type": "Champion Legend",
+    "cost": 0
+  },
+  "FND-250": {
+    "id": "FND-250",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormbringer",
+        "type": "Signature Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-250/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormbringer",
+    "type": "Signature Spell",
+    "cost": "6"
+  },
+  "FND-251": {
+    "id": "FND-251",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loose Cannon Jinx",
+        "type": "Champion Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-251/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loose Cannon Jinx",
+    "type": "Champion Legend",
+    "cost": 0
+  },
+  "FND-252": {
+    "id": "FND-252",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Mega Death Rocket!",
+        "type": "Signature Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-252/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Mega Death Rocket!",
+    "type": "Signature Spell",
+    "cost": "4"
+  },
+  "FND-259": {
+    "id": "FND-259",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unforgiven Yasuo",
+        "type": "Champion Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-259/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unforgiven Yasuo",
+    "type": "Champion Legend",
+    "cost": 0
+  },
+  "FND-260": {
+    "id": "FND-260",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Breath",
+        "type": "Signature Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-260/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Breath",
+    "type": "Signature Spell",
+    "cost": "3"
+  },
+  "FND-265": {
+    "id": "FND-265",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herald of the Arcane Viktor",
+        "type": "Champion Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-265/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Herald of the Arcane Viktor",
+    "type": "Champion Legend",
+    "cost": 0
+  },
+  "FND-266": {
+    "id": "FND-266",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siphon Power",
+        "type": "Signature Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-266/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siphon Power",
+    "type": "Signature Spell",
+    "cost": "2"
+  },
+  "FND-273": {
+    "id": "FND-273",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Recruit",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-273/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recruit",
+    "type": "Unit",
+    "cost": 0
+  },
+  "FND-275": {
+    "id": "FND-275",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar to Unity",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-275/full-desktop-2x.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Altar to Unity",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-284": {
+    "id": "FND-284",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Obelisk of Power",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-284p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Obelisk of Power",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-285": {
+    "id": "FND-285",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reaver's Row",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-285p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Reaver's Row",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-287": {
+    "id": "FND-287",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sigil of the Storm",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-287p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Sigil of the Storm",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-289": {
+    "id": "FND-289",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Targon's Peak",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-289p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Targon's Peak",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-293": {
+    "id": "FND-293",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Grand Plaza",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-293p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Grand Plaza",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-294": {
+    "id": "FND-294",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trifrian War Camp",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-294p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Trifrian War Camp",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-296": {
+    "id": "FND-296",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Gate",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-296p.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Void Gate",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-297": {
+    "id": "FND-297",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windswept Hillock",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-297/full-desktop-2x.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Windswept Hillock",
+    "type": "Battlefield",
+    "cost": 0
+  },
+  "FND-298": {
+    "id": "FND-298",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaun Warrens",
+        "type": "Battlefield",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-298/full-desktop-2x.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Zaun Warrens",
+    "type": "Battlefield",
+    "cost": 0
+  }
+}
