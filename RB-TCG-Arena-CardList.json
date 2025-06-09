@@ -14,6 +14,7 @@
     "name": "Blazing Scorcher",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Fury"
   },
   "FND-002": {
     "id": "002",
@@ -30,6 +31,7 @@
     "name": "Brazen Buccaneer",
     "type": "Unit",
     "cost": "6"
+    "Domain": "Fury"
   },
   "FND-003": {
     "id": "003",
@@ -46,6 +48,7 @@
     "name": "Chemtech Enforcer",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Fury"
   },
   "FND-005": {
     "id": "FND-005",
@@ -62,6 +65,7 @@
     "name": "Disintegrate",
     "type": "Spell",
     "cost": "4"
+    "Domain": "Fury"
   },
   "FND-006": {
     "id": "FND-006",
@@ -78,6 +82,7 @@
     "name": "Flame Chompers",
     "type": "Unit",
     "cost": "3"
+    "Domain": "Fury"
   },
   "FND-007": {
     "id": "FND-007",
@@ -94,6 +99,7 @@
     "name": "Fury Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Fury"
   },
   "FND-009": {
     "id": "FND-009",
@@ -110,6 +116,7 @@
     "name": "Legion Rearguard",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Fury"
   },
   "FND-010": {
     "id": "FND-010",
@@ -126,6 +133,7 @@
     "name": "Magma Wurm",
     "type": "Unit",
     "cost": "8"
+    "Domain": "Fury"
   },
   "FND-012": {
     "id": "FND-012",
@@ -142,6 +150,7 @@
     "name": "Noxus Hopeful",
     "type": "Unit",
     "cost": "4"
+    "Domain": "Fury"
   },
   "FND-021": {
     "id": "FND-021",
@@ -158,6 +167,7 @@
     "name": "Scrapyard Champion",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Fury"
   },
   "FND-031": {
     "id": "FND-031",
@@ -174,6 +184,7 @@
     "name": "Jinx Demolitionist",
     "type": "Champion Unit",
     "cost": "3"
+    "Domain": "Fury"
   },
   "FND-034": {
     "id": "FND-034",
@@ -190,6 +201,7 @@
     "name": "Tryndamere Barbarian",
     "type": "Champion Unit",
     "cost": "7"
+    "Domain": "Fury"
   },
   "FND-036": {
     "id": "FND-036",
@@ -206,6 +218,7 @@
     "name": "Vi Destructive",
     "type": "Champion Unit",
     "cost": "2"
+    "Domain": "Fury"
   },
   "FND-038": {
     "id": "FND-038",
@@ -222,6 +235,7 @@
     "name": "Kadregrin the Infernal",
     "type": "Unit",
     "cost": "9"
+    "Domain": "Fury"
   },
   "FND-040": {
     "id": "FND-040",
@@ -238,6 +252,7 @@
     "name": "Seal of Rage",
     "type": "Gear",
     "cost": 0
+    "Domain": "Fury"
   },
   "FND-041": {
     "id": "FND-041",
@@ -254,6 +269,7 @@
     "name": "Volibear Furious",
     "type": "Champion Unit",
     "cost": "10"
+    "Domain": "Fury"
   },
   "FND-042": {
     "id": "FND-042",
@@ -270,6 +286,7 @@
     "name": "Calm Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Calm"
   },
   "FND-044": {
     "id": "FND-044",
@@ -286,6 +303,7 @@
     "name": "Clockwork Keeper",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Calm"
   },
   "FND-045": {
     "id": "FND-045",
@@ -302,6 +320,7 @@
     "name": "Defy",
     "type": "Spell",
     "cost": "1"
+    "Domain": "Calm"
   },
   "FND-046": {
     "id": "FND-046",
@@ -318,6 +337,7 @@
     "name": "En Garde",
     "type": "Spell",
     "cost": "1"
+    "Domain": "Calm"
   },
   "FND-048": {
     "id": "FND-048",
@@ -334,6 +354,7 @@
     "name": "Meditation",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Calm"
   },
   "FND-055": {
     "id": "FND-055",
@@ -350,6 +371,7 @@
     "name": "Wielder of Water",
     "type": "Unit",
     "cost": "3"
+    "Domain": "Calm"
   },
   "FND-058": {
     "id": "FND-058",
@@ -366,6 +388,7 @@
     "name": "Discipline",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Calm"
   },
   "FND-064": {
     "id": "FND-064",
@@ -382,6 +405,7 @@
     "name": "Wind Wall",
     "type": "Spell",
     "cost": "3"
+    "Domain": "Calm"
   },
   "FND-080": {
     "id": "FND-080",
@@ -398,6 +422,7 @@
     "name": "Seal of Focus",
     "type": "Gear",
     "cost": 0
+    "Domain": "Calm"
   },
   "FND-082": {
     "id": "FND-082",
@@ -414,6 +439,7 @@
     "name": "Yasuo Remorseful",
     "type": "Champion Unit",
     "cost": "6"
+    "Domain": "Calm"
   },
   "FND-089": {
     "id": "FND-089",
@@ -430,6 +456,7 @@
     "name": "Mind Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Mind"
   },
   "FND-095": {
     "id": "FND-095",
@@ -446,6 +473,7 @@
     "name": "Stupefy",
     "type": "Spell",
     "cost": "1"
+    "Domain": "Mind"
   },
   "FND-096": {
     "id": "FND-096",
@@ -462,6 +490,7 @@
     "name": "Watchful Sentry",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Mind"
   },
   "FND-118": {
     "id": "FND-118",
@@ -478,6 +507,7 @@
     "name": "Wraith of Echoes",
     "type": "Unit",
     "cost": "6"
+    "Domain": "Mind"
   },
   "FND-123": {
     "id": "FND-123",
@@ -494,6 +524,7 @@
     "name": "Unchecked Power",
     "type": "Spell",
     "cost": "7"
+    "Domain": "Mind"
   },
   "FND-127": {
     "id": "FND-127",
@@ -510,6 +541,7 @@
     "name": "Challenge",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Mind"
   },
   "FND-133": {
     "id": "FND-133",
@@ -526,6 +558,7 @@
     "name": "Mobilize",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Body"
   },
   "FND-135": {
     "id": "FND-135",
@@ -542,6 +575,7 @@
     "name": "Body Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Body"
   },
   "FND-137": {
     "id": "FND-137",
@@ -558,6 +592,7 @@
     "name": "Stormclaw Ursine",
     "type": "Unit",
     "cost": "7"
+    "Domain": "Body"
   },
   "FND-138": {
     "id": "FND-138",
@@ -574,6 +609,7 @@
     "name": "Catalyst of Aeons",
     "type": "Spell",
     "cost": "4"
+    "Domain": "Body"
   },
   "FND-149": {
     "id": "FND-149",
@@ -590,6 +626,7 @@
     "name": "Carnivorous Snapvine",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Body"
   },
   "FND-158": {
     "id": "FND-158",
@@ -606,6 +643,7 @@
     "name": "Volibear Imposing",
     "type": "Unit",
     "cost": "12"
+    "Domain": "Body"
   },
   "FND-161": {
     "id": "FND-161",
@@ -622,6 +660,7 @@
     "name": "Deadbloom Predator",
     "type": "Unit",
     "cost": "8"
+    "Domain": "Body"
   },
   "FND-162": {
     "id": "FND-162",
@@ -638,6 +677,7 @@
     "name": "Miss Fortune Captain",
     "type": "Champion Unit",
     "cost": "5"
+    "Domain": "Body"
   },
   "FND-165": {
     "id": "FND-165",
@@ -654,6 +694,7 @@
     "name": "Cemetery Attendant",
     "type": "Unit",
     "cost": "3"
+    "Domain": "Chaos"
   },
   "FND-166": {
     "id": "FND-166",
@@ -670,6 +711,7 @@
     "name": "Chaos Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Chaos"
   },
   "FND-169": {
     "id": "FND-169",
@@ -686,6 +728,7 @@
     "name": "Gust",
     "type": "Spell",
     "cost": "1"
+    "Domain": "Chaos"
   },
   "FND-172": {
     "id": "FND-172",
@@ -702,6 +745,7 @@
     "name": "Rebuke",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Chaos"
   },
   "FND-177": {
     "id": "FND-177",
@@ -718,6 +762,7 @@
     "name": "Stealthy Pursuer",
     "type": "Unit",
     "cost": "4"
+    "Domain": "Chaos"
   },
   "FND-178": {
     "id": "FND-178",
@@ -734,6 +779,7 @@
     "name": "Undercover Agent",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Chaos"
   },
   "FND-185": {
     "id": "FND-185",
@@ -750,6 +796,7 @@
     "name": "Traveling Merchant",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Chaos"
   },
   "FND-189": {
     "id": "FND-189",
@@ -766,6 +813,7 @@
     "name": "Kayn Unleashed",
     "type": "Champion Unit",
     "cost": "6"
+    "Domain": "Chaos"
   },
   "FND-191": {
     "id": "FND-191",
@@ -782,6 +830,7 @@
     "name": "Maddened Marauder",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Chaos"
   },
   "FND-202": {
     "id": "FND-202",
@@ -798,6 +847,7 @@
     "name": "Jinx Rebel",
     "type": "Champion Unit",
     "cost": "5"
+    "Domain": "Chaos"
   },
   "FND-203": {
     "id": "FND-203",
@@ -814,6 +864,7 @@
     "name": "Miss Fortune Buccaneer",
     "type": "Unit",
     "cost": "4"
+    "Domain": "Chaos"
   },
   "FND-204": {
     "id": "FND-204",
@@ -830,6 +881,7 @@
     "name": "Possesion",
     "type": "Spell",
     "cost": "8"
+    "Domain": "Chaos"
   },
   "FND-205": {
     "id": "FND-205",
@@ -846,6 +898,7 @@
     "name": "Seal of Discord",
     "type": "Gear",
     "cost": 0
+    "Domain": "Chaos"
   },
   "FND-208": {
     "id": "FND-208",
@@ -862,6 +915,7 @@
     "name": "Cruel Patron",
     "type": "Unit",
     "cost": "4"
+    "Domain": "Order"
   },
   "FND-209": {
     "id": "FND-209",
@@ -878,6 +932,7 @@
     "name": "Cull the Weak",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Order"
   },
   "FND-211": {
     "id": "FND-211",
@@ -894,6 +949,7 @@
     "name": "Faithful Manufactor",
     "type": "Unit",
     "cost": "3"
+    "Domain": "Order"
   },
   "FND-213": {
     "id": "FND-213",
@@ -910,6 +966,7 @@
     "name": "Hidden Blade",
     "type": "Spell",
     "cost": "2"
+    "Domain": "Order"
   },
   "FND-214": {
     "id": "FND-214",
@@ -926,6 +983,7 @@
     "name": "Order Rune",
     "type": "Rune",
     "cost": 0
+    "Domain": "Order"
   },
   "FND-216": {
     "id": "FND-216",
@@ -942,6 +1000,7 @@
     "name": "Soaring Scout",
     "type": "Unit",
     "cost": "2"
+    "Domain": "Order"
   },
   "FND-218": {
     "id": "FND-218",
@@ -958,6 +1017,7 @@
     "name": "Vanguard Captain",
     "type": "Unit",
     "cost": "3"
+    "Domain": "Order"
   },
   "FND-232": {
     "id": "FND-232",
@@ -974,6 +1034,7 @@
     "name": "Machine Evangel",
     "type": "Unit",
     "cost": "5"
+    "Domain": "Order"
   },
   "FND-234": {
     "id": "FND-234",
@@ -990,6 +1051,7 @@
     "name": "Grand Strategem",
     "type": "Spell",
     "cost": "6"
+    "Domain": "Order"
   },
   "FND-235": {
     "id": "FND-235",
@@ -1006,6 +1068,7 @@
     "name": "Harnessed Dragon",
     "type": "Unit",
     "cost": "8"
+    "Domain": "Order"
   },
   "FND-245": {
     "id": "FND-245",
@@ -1022,6 +1085,7 @@
     "name": "Seal of Unity",
     "type": "Gear",
     "cost": 0
+    "Domain": "Order"
   },
   "FND-246": {
     "id": "FND-246",
@@ -1038,6 +1102,7 @@
     "name": "Viktor Leader",
     "type": "Champion Unit",
     "cost": "4"
+    "Domain": "Order"
   },
   "FND-249": {
     "id": "FND-249",
@@ -1054,6 +1119,7 @@
     "name": "Relentless Storm Volibear",
     "type": "Champion Legend",
     "cost": 0
+    "Domain": "Fury/Body"
   },
   "FND-250": {
     "id": "FND-250",
@@ -1070,6 +1136,7 @@
     "name": "Stormbringer",
     "type": "Signature Spell",
     "cost": "6"
+    "Domain": "Fury/Body"
   },
   "FND-251": {
     "id": "FND-251",
@@ -1086,6 +1153,7 @@
     "name": "Loose Cannon Jinx",
     "type": "Champion Legend",
     "cost": 0
+    "Domain": "Fury/Chaos"
   },
   "FND-252": {
     "id": "FND-252",
@@ -1102,6 +1170,7 @@
     "name": "Super Mega Death Rocket!",
     "type": "Signature Spell",
     "cost": "4"
+    "Domain": "Fury/Chaos"
   },
   "FND-259": {
     "id": "FND-259",
@@ -1118,6 +1187,7 @@
     "name": "Unforgiven Yasuo",
     "type": "Champion Legend",
     "cost": 0
+    "Domain": "Calm/Chaos"
   },
   "FND-260": {
     "id": "FND-260",
@@ -1134,6 +1204,7 @@
     "name": "Last Breath",
     "type": "Signature Spell",
     "cost": "3"
+    "Domain": "Calm/Chaos"
   },
   "FND-265": {
     "id": "FND-265",
@@ -1150,6 +1221,7 @@
     "name": "Herald of the Arcane Viktor",
     "type": "Champion Legend",
     "cost": 0
+    "Domain": "Mind/Order"
   },
   "FND-266": {
     "id": "FND-266",
@@ -1166,6 +1238,7 @@
     "name": "Siphon Power",
     "type": "Signature Spell",
     "cost": "2"
+    "Domain": "Mind/Order"
   },
   "FND-273": {
     "id": "FND-273",
