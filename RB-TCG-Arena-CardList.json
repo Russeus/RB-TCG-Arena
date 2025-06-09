@@ -1342,5 +1342,37 @@
     "name": "Zaun Warrens",
     "type": "Battlefield",
     "cost": 0
+  },
+  "OGN-120": {
+    "id": "OGN-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Insight",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-120/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Insight",
+    "type": "Gear",
+    "cost": 0
+  },
+  "OGN-163": {
+    "id": "Seal of Strenght",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Strenght",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-163/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Strenght",
+    "type": "Gear",
+    "cost": 0
   }
 }
