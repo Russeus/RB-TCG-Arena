@@ -451,6 +451,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-089/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Mine Rune Back",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
+        "isHorizontal": false
       }
     },
     "name": "Mind Rune",
