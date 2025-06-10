@@ -94,6 +94,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-007/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "false",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
+        "isHorizontal": false
       }
     },
     "name": "Fury Rune",
@@ -281,6 +288,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-042/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "false",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
+        "isHorizontal": false
       }
     },
     "name": "Calm Rune",
@@ -434,6 +448,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-076/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Yasuo Remorseful",
@@ -453,8 +474,8 @@
         "isHorizontal": false
       },
       "back": {
-        "name": "Mine Rune Back",
-        "type": "",
+        "name": "",
+        "type": "false",
         "cost": 0,
         "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
         "isHorizontal": false
@@ -576,6 +597,13 @@
         "type": "Rune",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-126/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
         "isHorizontal": false
       }
     },
@@ -712,6 +740,13 @@
         "type": "Rune",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-166/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
         "isHorizontal": false
       }
     },
@@ -985,6 +1020,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-214/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GmwTTdZh/back-rune.png",
+        "isHorizontal": false
       }
     },
     "name": "Order Rune",
@@ -1121,6 +1163,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-249/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Relentless Storm Volibear",
@@ -1154,6 +1203,13 @@
         "type": "Champion Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-251/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
         "isHorizontal": false
       }
     },
@@ -1223,6 +1279,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-265/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Herald of the Arcane Viktor",
@@ -1273,6 +1336,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-275/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Altar to Unity",
@@ -1289,6 +1359,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-284p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Obelisk of Power",
@@ -1305,6 +1382,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-285p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Reaver's Row",
@@ -1321,6 +1405,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-287p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Sigil of the Storm",
@@ -1337,6 +1428,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-289p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Targon's Peak",
@@ -1353,6 +1451,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-293p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "The Grand Plaza",
@@ -1369,6 +1474,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-294p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Trifrian War Camp",
@@ -1385,6 +1497,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-296p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Void Gate",
@@ -1401,6 +1520,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-297/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Windswept Hillock",
@@ -1417,6 +1543,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-298/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
+        "isHorizontal": false
       }
     },
     "name": "Zaun Warrens",
