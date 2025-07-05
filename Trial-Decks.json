@@ -1,63 +1,23 @@
 {
-  "title": "Jinx Trial Deck",
-  "id": "9c385c71-70a8-4b53-8598-81883a182967",
+  "title": "asd",
+  "id": "6440332d-1c83-491b-9f69-c4c97abf7cff",
   "game": "Riftbound",
   "format": "1v1 Bo1",
   "cardCount": 56,
-  "createdAt": "2025-07-05T20:50:39.940Z",
-  "lastModifiedAt": "2025-07-05T20:50:39.940Z",
+  "createdAt": "2025-07-05T21:00:37.273Z",
+  "lastModifiedAt": "2025-07-05T21:00:37.273Z",
   "deckList": {
     "categoriesOrder": [
       "Chosen_Champion",
+      "Unit",
       "Legend",
       "Runes",
       "Battlefields",
-      "Unit",
       "Gear",
       "Spell"
     ],
     "Sideboard": [],
-    "Legend": [
-      {
-        "count": 1,
-        "id": "OGN-251"
-      }
-    ],
-    "Runes": [
-      {
-        "count": 6,
-        "id": "OGN-007"
-      },
-      {
-        "count": 6,
-        "id": "OGN-166"
-      }
-    ],
-    "Battlefields": [
-      {
-        "count": 1,
-        "id": "OGN-298"
-      },
-      {
-        "count": 1,
-        "id": "OGN-297"
-      },
-      {
-        "count": 1,
-        "id": "OGN-285"
-      }
-    ],
-    "Chosen_Champion": [
-      {
-        "count": 1,
-        "id": "OGN-030"
-      }
-    ],
     "Unit": [
-      {
-        "count": 2,
-        "id": "OGN-030"
-      },
       {
         "count": 1,
         "id": "OGN-202"
@@ -97,6 +57,40 @@
       {
         "count": 3,
         "id": "OGN-002"
+      },
+      {
+        "count": 2,
+        "id": "OGN-030"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-285"
       }
     ],
     "Gear": [
@@ -125,6 +119,12 @@
       {
         "count": 2,
         "id": "OGN-203"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-030"
       }
     ]
   }
