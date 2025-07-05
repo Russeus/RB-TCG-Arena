@@ -15,8 +15,7 @@
     "mainFilters": [
       "type",
       "cost",
-      "name",
-      "Domain"
+      "name"
     ],
     "formats": [
       {
