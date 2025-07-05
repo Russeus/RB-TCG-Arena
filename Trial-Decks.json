@@ -1,11 +1,12 @@
+[
 {
-  "title": "asd",
-  "id": "6440332d-1c83-491b-9f69-c4c97abf7cff",
+  "title": "Jinx Trial Deck",
+  "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
   "game": "Riftbound",
   "format": "1v1 Bo1",
   "cardCount": 56,
-  "createdAt": "2025-07-05T21:00:37.273Z",
-  "lastModifiedAt": "2025-07-05T21:00:37.273Z",
+  "createdAt": "2025-07-05T21:13:55.194Z",
+  "lastModifiedAt": "2025-07-05T21:15:56.125Z",
   "deckList": {
     "categoriesOrder": [
       "Chosen_Champion",
@@ -128,4 +129,132 @@
       }
     ]
   }
+},
+{
+  "title": "Viktor Trial Deck",
+  "id": "f155c212-b26c-4ec6-8e0f-14497195aefc",
+  "game": "Riftbound",
+  "format": "1v1 Bo1",
+  "cardCount": 56,
+  "createdAt": "2025-07-05T21:16:35.949Z",
+  "lastModifiedAt": "2025-07-05T21:18:57.149Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Runes",
+      "Battlefields",
+      "Unit",
+      "Gear",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-265"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-089"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-293"
+      },
+      {
+        "count": 1,
+        "id": "OGN-294"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-246"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-246"
+      },
+      {
+        "count": 2,
+        "id": "OGN-216"
+      },
+      {
+        "count": 2,
+        "id": "OGN-211"
+      },
+      {
+        "count": 3,
+        "id": "OGN-218"
+      },
+      {
+        "count": 3,
+        "id": "OGN-208"
+      },
+      {
+        "count": 2,
+        "id": "OGN-239"
+      },
+      {
+        "count": 2,
+        "id": "OGN-234"
+      },
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 2,
+        "id": "OGN-118"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "OGN-245"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-213"
+      },
+      {
+        "count": 3,
+        "id": "OGN-266"
+      },
+      {
+        "count": 3,
+        "id": "OGN-209"
+      },
+      {
+        "count": 2,
+        "id": "OGN-233"
+      },
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 2,
+        "id": "OGN-123"
+      }
+    ]
+  }
 }
+]
