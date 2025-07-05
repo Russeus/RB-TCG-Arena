@@ -1,0 +1,131 @@
+{
+  "title": "Jinx Trial Deck",
+  "id": "9c385c71-70a8-4b53-8598-81883a182967",
+  "game": "Riftbound",
+  "format": "1v1 Bo1",
+  "cardCount": 56,
+  "createdAt": "2025-07-05T20:50:39.940Z",
+  "lastModifiedAt": "2025-07-05T20:50:39.940Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Runes",
+      "Battlefields",
+      "Unit",
+      "Gear",
+      "Spell"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-285"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-030"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-030"
+      },
+      {
+        "count": 1,
+        "id": "OGN-202"
+      },
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "OGN-036"
+      },
+      {
+        "count": 3,
+        "id": "OGN-010"
+      },
+      {
+        "count": 3,
+        "id": "OGN-003"
+      },
+      {
+        "count": 3,
+        "id": "OGN-006"
+      },
+      {
+        "count": 3,
+        "id": "OGN-012"
+      },
+      {
+        "count": 1,
+        "id": "OGN-178"
+      },
+      {
+        "count": 1,
+        "id": "OGN-020"
+      },
+      {
+        "count": 3,
+        "id": "OGN-002"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "OGN-040"
+      },
+      {
+        "count": 3,
+        "id": "OGN-204"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-169"
+      },
+      {
+        "count": 2,
+        "id": "OGN-172"
+      },
+      {
+        "count": 2,
+        "id": "OGN-252"
+      },
+      {
+        "count": 2,
+        "id": "OGN-203"
+      }
+    ]
+  }
+}
