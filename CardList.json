@@ -1316,7 +1316,7 @@
         "name": "Sigil of the Storm",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-287p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/287p.png",
         "isHorizontal": true
       }
     },
@@ -1333,7 +1333,7 @@
         "name": "Targon's Peak",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-289p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/289p.png",
         "isHorizontal": true
       }
     },
@@ -1384,7 +1384,7 @@
         "name": "Void Gate",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-296p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/296p.png",
         "isHorizontal": true
       }
     },
