@@ -12,7 +12,12 @@
     "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
   },
   "deckBuilding": {
-    "mainFilters": [],
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "Domain"
+    ],
     "formats": [
       {
         "title": "1v1 Bo1",
