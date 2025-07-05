@@ -202,7 +202,7 @@
           "Played_Runes": {
             "title": "Played_Runes",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
