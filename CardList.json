@@ -267,7 +267,7 @@
       }
     },
     "name": "Volibear Furious",
-    "type": false,
+    "type": "Unit",
     "cost": "10",
     "Domain": "Fury"
   },
@@ -437,7 +437,7 @@
       },
       "back": {
         "name": "",
-        "type": false,
+        "type": "Unit",
         "cost": 0,
         "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
         "isHorizontal": false
