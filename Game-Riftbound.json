@@ -13,6 +13,7 @@
   },
   "deckBuilding": {
     "mainFilters": [
+      "Domain",
       "type",
       "cost",
       "name"
