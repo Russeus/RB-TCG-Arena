@@ -1,0 +1,114 @@
+{
+  "title": "Test Blue Yellow",
+  "id": "4c056bd4-9909-4c6b-964e-956cee61f40d",
+  "game": "Riftbound",
+  "format": "1v1 Bo1",
+  "cardCount": 50,
+  "createdAt": "2025-07-05T04:34:17.720Z",
+  "lastModifiedAt": "2025-07-05T04:39:12.264Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Choosen Champ",
+      "Legend",
+      "Battlefields",
+      "Runes Deck",
+      "Champion Unit",
+      "Unit",
+      "Spell",
+      "Gear"
+    ],
+    "Sideboard": [],
+    "Runes Deck": [
+      {
+        "count": 6,
+        "id": "OGN-089"
+      },
+      {
+        "count": 6,
+        "id": "OGN-214"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-298"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-265"
+      }
+    ],
+    "Choosen Champ": [
+      {
+        "count": 1,
+        "id": "OGN-246"
+      }
+    ],
+    "Champion Unit": [
+      {
+        "count": 2,
+        "id": "OGN-246"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-218"
+      },
+      {
+        "count": 3,
+        "id": "OGN-216"
+      },
+      {
+        "count": 3,
+        "id": "OGN-211"
+      },
+      {
+        "count": 3,
+        "id": "OGN-208"
+      },
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 3,
+        "id": "OGN-118"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-235"
+      },
+      {
+        "count": 3,
+        "id": "OGN-213"
+      },
+      {
+        "count": 3,
+        "id": "OGN-209"
+      },
+      {
+        "count": 3,
+        "id": "OGN-095"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "OGN-245"
+      }
+    ]
+  }
+}
