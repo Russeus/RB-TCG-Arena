@@ -90,7 +90,7 @@
     "face": {
       "front": {
         "name": "Fury Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-007/full-desktop-2x.avif",
         "isHorizontal": false
@@ -104,7 +104,7 @@
       }
     },
     "name": "Fury Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Fury"
   },
@@ -284,7 +284,7 @@
     "face": {
       "front": {
         "name": "Calm Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-042/full-desktop-2x.avif",
         "isHorizontal": false
@@ -298,7 +298,7 @@
       }
     },
     "name": "Calm Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Calm"
   },
@@ -468,7 +468,7 @@
     "face": {
       "front": {
         "name": "Mind Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-089/full-desktop-2x.avif",
         "isHorizontal": false
@@ -482,7 +482,7 @@
       }
     },
     "name": "Mind Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Mind"
   },
@@ -594,7 +594,7 @@
     "face": {
       "front": {
         "name": "Body Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-126/full-desktop-2x.avif",
         "isHorizontal": false
@@ -608,7 +608,7 @@
       }
     },
     "name": "Body Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Body"
   },
@@ -737,7 +737,7 @@
     "face": {
       "front": {
         "name": "Chaos Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-166/full-desktop-2x.avif",
         "isHorizontal": false
@@ -751,7 +751,7 @@
       }
     },
     "name": "Chaos Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Chaos"
   },
@@ -1016,7 +1016,7 @@
     "face": {
       "front": {
         "name": "Order Rune",
-        "type": "Rune",
+        "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-214/full-desktop-2x.avif",
         "isHorizontal": false
@@ -1030,7 +1030,7 @@
       }
     },
     "name": "Order Rune",
-    "type": "Rune",
+    "type": "Runes",
     "cost": 0,
     "Domain": "Order"
   },

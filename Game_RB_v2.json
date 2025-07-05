@@ -1,5 +1,5 @@
 {
-  "name": "RB v1",
+  "name": "RB v2",
   "menuBackgroundImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/6cf5ae382207a6569b542e215d49d0e4266fc617-1200x630.png",
   "defaultRessources": {
     "backgrounds": [],
@@ -18,7 +18,6 @@
         "title": "1v1 Bo1",
         "gameplay": "Bo1",
         "customCategories": [
-          "Runes",
           "Chosen_Champion"
         ]
       }
@@ -115,8 +114,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Runes",
-          "Battlefields",
-          "Legend"
+          "Battlefields"
         ],
         "autoPlayFromHand": {
           "Runes": "Played_Runes",
