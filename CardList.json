@@ -14,8 +14,7 @@
     "name": "Blazing Scorcher",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-002": {
     "id": "002",
@@ -32,8 +31,7 @@
     "name": "Brazen Buccaneer",
     "type": "Unit",
     "cost": "6",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-003": {
     "id": "003",
@@ -50,8 +48,7 @@
     "name": "Chemtech Enforcer",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-005": {
     "id": "OGN-005",
@@ -68,8 +65,7 @@
     "name": "Disintegrate",
     "type": "Spell",
     "cost": "4",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-006": {
     "id": "OGN-006",
@@ -86,8 +82,7 @@
     "name": "Flame Chompers",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-007": {
     "id": "OGN-007",
@@ -104,8 +99,7 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-010": {
     "id": "OGN-009",
@@ -122,8 +116,7 @@
     "name": "Legion Rearguard",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-011": {
     "id": "OGN-010",
@@ -140,8 +133,7 @@
     "name": "Magma Wurm",
     "type": "Unit",
     "cost": "8",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-012": {
     "id": "OGN-012",
@@ -158,8 +150,7 @@
     "name": "Noxus Hopeful",
     "type": "Unit",
     "cost": "4",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-020": {
     "id": "OGN-021",
@@ -176,8 +167,7 @@
     "name": "Scrapyard Champion",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-030": {
     "id": "OGN-031",
@@ -194,8 +184,7 @@
     "name": "Jinx Demolitionist",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-034": {
     "id": "OGN-034",
@@ -212,8 +201,7 @@
     "name": "Tryndamere Barbarian",
     "type": "Unit",
     "cost": "7",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-036": {
     "id": "OGN-036",
@@ -230,8 +218,7 @@
     "name": "Vi Destructive",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-038": {
     "id": "OGN-038",
@@ -248,8 +235,7 @@
     "name": "Kadregrin the Infernal",
     "type": "Unit",
     "cost": "9",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-040": {
     "id": "OGN-040",
@@ -266,8 +252,7 @@
     "name": "Seal of Rage",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-041": {
     "id": "OGN-041",
@@ -284,8 +269,7 @@
     "name": "Volibear Furious",
     "type": "Unit",
     "cost": "10",
-    "Domain 1": "Fury",
-    "Domain 2": "Fury"
+    "Domain": "Fury"
   },
   "OGN-042": {
     "id": "OGN-042",
@@ -302,8 +286,7 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-044": {
     "id": "OGN-044",
@@ -320,8 +303,7 @@
     "name": "Clockwork Keeper",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-045": {
     "id": "OGN-045",
@@ -338,8 +320,7 @@
     "name": "Defy",
     "type": "Spell",
     "cost": "1",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-046": {
     "id": "OGN-046",
@@ -356,8 +337,7 @@
     "name": "En Garde",
     "type": "Spell",
     "cost": "1",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-048": {
     "id": "OGN-048",
@@ -374,8 +354,7 @@
     "name": "Meditation",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-055": {
     "id": "OGN-055",
@@ -392,8 +371,7 @@
     "name": "Wielder of Water",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-058": {
     "id": "OGN-058",
@@ -410,8 +388,7 @@
     "name": "Discipline",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-064": {
     "id": "OGN-064",
@@ -428,8 +405,7 @@
     "name": "Wind Wall",
     "type": "Spell",
     "cost": "3",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-081": {
     "id": "OGN-080",
@@ -446,8 +422,7 @@
     "name": "Seal of Focus",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-076": {
     "id": "OGN-082",
@@ -464,8 +439,7 @@
     "name": "Yasuo Remorseful",
     "type": "Unit",
     "cost": "6",
-    "Domain 1": "Calm",
-    "Domain 2": "Calm"
+    "Domain": "Calm"
   },
   "OGN-089": {
     "id": "OGN-089",
@@ -482,8 +456,7 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-095": {
     "id": "OGN-095",
@@ -500,8 +473,7 @@
     "name": "Stupefy",
     "type": "Spell",
     "cost": "1",
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-096": {
     "id": "OGN-096",
@@ -518,8 +490,7 @@
     "name": "Watchful Sentry",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-118": {
     "id": "OGN-118",
@@ -536,8 +507,7 @@
     "name": "Wraith of Echoes",
     "type": "Unit",
     "cost": "6",
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-123": {
     "id": "OGN-123",
@@ -554,8 +524,7 @@
     "name": "Unchecked Power",
     "type": "Spell",
     "cost": "7",
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-128": {
     "id": "OGN-127",
@@ -572,8 +541,7 @@
     "name": "Challenge",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-134": {
     "id": "OGN-133",
@@ -590,8 +558,7 @@
     "name": "Mobilize",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-126": {
     "id": "OGN-135",
@@ -608,8 +575,7 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-137": {
     "id": "OGN-137",
@@ -626,8 +592,7 @@
     "name": "Stormclaw Ursine",
     "type": "Unit",
     "cost": "7",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-138": {
     "id": "OGN-138",
@@ -644,8 +609,7 @@
     "name": "Catalyst of Aeons",
     "type": "Spell",
     "cost": "4",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-149": {
     "id": "OGN-149",
@@ -662,8 +626,7 @@
     "name": "Carnivorous Snapvine",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-158": {
     "id": "OGN-158",
@@ -680,8 +643,7 @@
     "name": "Volibear Imposing",
     "type": "Unit",
     "cost": "12",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-161": {
     "id": "OGN-161",
@@ -698,8 +660,7 @@
     "name": "Deadbloom Predator",
     "type": "Unit",
     "cost": "8",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-162": {
     "id": "OGN-162",
@@ -716,8 +677,7 @@
     "name": "Miss Fortune Captain",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   },
   "OGN-165": {
     "id": "OGN-165",
@@ -734,8 +694,7 @@
     "name": "Cemetery Attendant",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-166": {
     "id": "OGN-166",
@@ -752,8 +711,7 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-169": {
     "id": "OGN-169",
@@ -770,8 +728,7 @@
     "name": "Gust",
     "type": "Spell",
     "cost": "1",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-172": {
     "id": "OGN-172",
@@ -788,8 +745,7 @@
     "name": "Rebuke",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-177": {
     "id": "OGN-177",
@@ -806,8 +762,7 @@
     "name": "Stealthy Pursuer",
     "type": "Unit",
     "cost": "4",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-178": {
     "id": "OGN-178",
@@ -824,8 +779,7 @@
     "name": "Undercover Agent",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-185": {
     "id": "OGN-185",
@@ -842,8 +796,7 @@
     "name": "Traveling Merchant",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-189": {
     "id": "OGN-189",
@@ -860,8 +813,7 @@
     "name": "Kayn Unleashed",
     "type": "Unit",
     "cost": "6",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-191": {
     "id": "OGN-191",
@@ -878,8 +830,7 @@
     "name": "Maddened Marauder",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-202": {
     "id": "OGN-202",
@@ -896,8 +847,7 @@
     "name": "Jinx Rebel",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-193": {
     "id": "OGN-203",
@@ -914,8 +864,7 @@
     "name": "Miss Fortune Buccaneer",
     "type": "Unit",
     "cost": "4",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-203": {
     "id": "OGN-204",
@@ -932,8 +881,7 @@
     "name": "Possesion",
     "type": "Spell",
     "cost": "8",
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-204": {
     "id": "OGN-205",
@@ -950,8 +898,7 @@
     "name": "Seal of Discord",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Chaos",
-    "Domain 2": "Chaos"
+    "Domain": "Chaos"
   },
   "OGN-208": {
     "id": "OGN-208",
@@ -968,8 +915,7 @@
     "name": "Cruel Patron",
     "type": "Unit",
     "cost": "4",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-209": {
     "id": "OGN-209",
@@ -986,8 +932,7 @@
     "name": "Cull the Weak",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-211": {
     "id": "OGN-211",
@@ -1004,8 +949,7 @@
     "name": "Faithful Manufactor",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-213": {
     "id": "OGN-213",
@@ -1022,8 +966,7 @@
     "name": "Hidden Blade",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-214": {
     "id": "OGN-214",
@@ -1040,8 +983,7 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-216": {
     "id": "OGN-216",
@@ -1058,8 +1000,7 @@
     "name": "Soaring Scout",
     "type": "Unit",
     "cost": "2",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-218": {
     "id": "OGN-218",
@@ -1076,8 +1017,7 @@
     "name": "Vanguard Captain",
     "type": "Unit",
     "cost": "3",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-239": {
     "id": "OGN-232",
@@ -1094,8 +1034,7 @@
     "name": "Machine Evangel",
     "type": "Unit",
     "cost": "5",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-233": {
     "id": "OGN-234",
@@ -1112,8 +1051,7 @@
     "name": "Grand Strategem",
     "type": "Spell",
     "cost": "6",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-234": {
     "id": "OGN-235",
@@ -1130,8 +1068,7 @@
     "name": "Harnessed Dragon",
     "type": "Unit",
     "cost": "8",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-245": {
     "id": "OGN-245",
@@ -1148,8 +1085,7 @@
     "name": "Seal of Unity",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-246": {
     "id": "OGN-246",
@@ -1166,8 +1102,7 @@
     "name": "Viktor Leader",
     "type": "Unit",
     "cost": "4",
-    "Domain 1": "Order",
-    "Domain 2": "Order"
+    "Domain": "Order"
   },
   "OGN-249": {
     "id": "OGN-249",
@@ -1184,8 +1119,7 @@
     "name": "Relentless Storm Volibear",
     "type": "Legend",
     "cost": 0,
-    "Domain 1": "Fury",
-    "Domain 2": "Body"
+    "Domain": "Fury/Body"
   },
   "OGN-250": {
     "id": "OGN-250",
@@ -1202,8 +1136,7 @@
     "name": "Stormbringer",
     "type": "Spell",
     "cost": "6",
-    "Domain 1": "Fury",
-    "Domain 2": "Body"
+    "Domain": "Fury/Body"
   },
   "OGN-251": {
     "id": "OGN-251",
@@ -1220,8 +1153,7 @@
     "name": "Loose Cannon Jinx",
     "type": "Legend",
     "cost": 0,
-    "Domain 1": "Fury",
-    "Domain 2": "Chaos"
+    "Domain": "Fury/Chaos"
   },
   "OGN-252": {
     "id": "OGN-252",
@@ -1238,8 +1170,7 @@
     "name": "Super Mega Death Rocket!",
     "type": "Spell",
     "cost": "4",
-    "Domain 1": "Fury",
-    "Domain 2": "Chaos"
+    "Domain": "Fury/Chaos"
   },
   "OGN-259": {
     "id": "OGN-259",
@@ -1256,8 +1187,7 @@
     "name": "Unforgiven Yasuo",
     "type": "Legend",
     "cost": 0,
-    "Domain 1": "Calm",
-    "Domain 2": "Chaos"
+    "Domain": "Calm/Chaos"
   },
   "OGN-260": {
     "id": "OGN-260",
@@ -1274,8 +1204,7 @@
     "name": "Last Breath",
     "type": "Spell",
     "cost": "3",
-    "Domain 1": "Calm",
-    "Domain 2": "Chaos"
+    "Domain": "Calm/Chaos"
   },
   "OGN-265": {
     "id": "OGN-265",
@@ -1292,8 +1221,7 @@
     "name": "Herald of the Arcane Viktor",
     "type": "Legend",
     "cost": 0,
-    "Domain 1": "Mind",
-    "Domain 2": "Order"
+    "Domain": "Mind/Order"
   },
   "OGN-266": {
     "id": "OGN-266",
@@ -1310,8 +1238,7 @@
     "name": "Siphon Power",
     "type": "Spell",
     "cost": "2",
-    "Domain 1": "Mind",
-    "Domain 2": "Order"
+    "Domain": "Mind/Order"
   },
   "OGN-273": {
     "id": "OGN-273",
@@ -1328,8 +1255,7 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-275": {
     "id": "OGN-275",
@@ -1346,8 +1272,7 @@
     "name": "Altar to Unity",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-284": {
     "id": "OGN-284",
@@ -1364,8 +1289,7 @@
     "name": "Obelisk of Power",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-285": {
     "id": "OGN-285",
@@ -1382,8 +1306,7 @@
     "name": "Reaver's Row",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-287": {
     "id": "OGN-287",
@@ -1400,8 +1323,7 @@
     "name": "Sigil of the Storm",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-289": {
     "id": "OGN-289",
@@ -1418,8 +1340,7 @@
     "name": "Targon's Peak",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-293": {
     "id": "OGN-293",
@@ -1436,8 +1357,7 @@
     "name": "The Grand Plaza",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-294": {
     "id": "OGN-294",
@@ -1454,8 +1374,7 @@
     "name": "Trifrian War Camp",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-296": {
     "id": "OGN-296",
@@ -1472,8 +1391,7 @@
     "name": "Void Gate",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-297": {
     "id": "OGN-297",
@@ -1490,8 +1408,7 @@
     "name": "Windswept Hillock",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-298": {
     "id": "OGN-298",
@@ -1508,8 +1425,7 @@
     "name": "Zaun Warrens",
     "type": "Battlefields",
     "cost": 0,
-    "Domain 1": "Domainless",
-    "Domain 2": "Domainless"
+    "Domain": "Domainless"
   },
   "OGN-120": {
     "id": "OGN-120",
@@ -1526,8 +1442,7 @@
     "name": "Seal of Insight",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Mind",
-    "Domain 2": "Mind"
+    "Domain": "Mind"
   },
   "OGN-163": {
     "id": "Seal of Strenght",
@@ -1544,7 +1459,6 @@
     "name": "Seal of Strenght",
     "type": "Gear",
     "cost": 0,
-    "Domain 1": "Body",
-    "Domain 2": "Body"
+    "Domain": "Body"
   }
 }
