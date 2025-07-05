@@ -1,0 +1,487 @@
+[
+{
+  "title": "Viktor Trial Deck",
+  "id": "bd75a0a2-28d3-4ffc-ad22-16cdccf099f7",
+  "game": "dominios",
+  "format": "Riftbound 1v1",
+  "cardCount": 56,
+  "createdAt": "2025-06-09T23:46:34.892Z",
+  "lastModifiedAt": "2025-06-09T23:48:47.449Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Champion Legend",
+      "Signature Spell",
+      "Rune",
+      "Spell",
+      "Unit",
+      "Gear",
+      "Champion Unit",
+      "Battlefield"
+    ],
+    "Sideboard": [],
+    "Champion Legend": [
+      {
+        "count": 1,
+        "id": "OGN-265"
+      }
+    ],
+    "Signature Spell": [
+      {
+        "count": 3,
+        "id": "OGN-266"
+      }
+    ],
+    "Rune": [
+      {
+        "count": 6,
+        "id": "OGN-089"
+      },
+      {
+        "count": 6,
+        "id": "OGN-214"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 2,
+        "id": "OGN-123"
+      },
+      {
+        "count": 3,
+        "id": "OGN-209"
+      },
+      {
+        "count": 3,
+        "id": "OGN-213"
+      },
+      {
+        "count": 1,
+        "id": "OGN-234"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-096"
+      },
+      {
+        "count": 2,
+        "id": "OGN-118"
+      },
+      {
+        "count": 3,
+        "id": "OGN-208"
+      },
+      {
+        "count": 2,
+        "id": "OGN-211"
+      },
+      {
+        "count": 3,
+        "id": "OGN-216"
+      },
+      {
+        "count": 3,
+        "id": "OGN-218"
+      },
+      {
+        "count": 2,
+        "id": "OGN-232"
+      },
+      {
+        "count": 2,
+        "id": "OGN-235"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "OGN-245"
+      }
+    ],
+    "Champion Unit": [
+      {
+        "count": 3,
+        "id": "OGN-246"
+      }
+    ],
+    "Battlefield": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-293"
+      },
+      {
+        "count": 1,
+        "id": "OGN-294"
+      }
+    ]
+  }
+},
+{
+  "title": "Jinx Trial Deck",
+  "id": "cb161b72-067f-47b6-9956-e321daf0685b",
+  "game": "dominios",
+  "format": "Riftbound 1v1",
+  "cardCount": 40,
+  "createdAt": "2025-06-10T00:40:54.800Z",
+  "lastModifiedAt": "2025-06-10T00:43:27.242Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Champion Legend",
+      "Unit",
+      "Champion Unit",
+      "Gear",
+      "Spell",
+      "Rune",
+      "Signature Spell",
+      "Battlefield"
+    ],
+    "Sideboard": [],
+    "Champion Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-006"
+      },
+      {
+        "count": 3,
+        "id": "OGN-012"
+      },
+      {
+        "count": 1,
+        "id": "OGN-178"
+      },
+      {
+        "count": 3,
+        "id": "OGN-185"
+      }
+    ],
+    "Champion Unit": [
+      {
+        "count": 2,
+        "id": "OGN-036"
+      },
+      {
+        "count": 1,
+        "id": "OGN-202"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "OGN-040"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-169"
+      },
+      {
+        "count": 2,
+        "id": "OGN-172"
+      },
+      {
+        "count": 2,
+        "id": "OGN-205"
+      }
+    ],
+    "Rune": [
+      {
+        "count": 6,
+        "id": "OGN-166"
+      },
+      {
+        "count": 6,
+        "id": "OGN-007"
+      }
+    ],
+    "Signature Spell": [
+      {
+        "count": 2,
+        "id": "OGN-252"
+      }
+    ],
+    "Battlefield": [
+      {
+        "count": 1,
+        "id": "OGN-285"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      },
+      {
+        "count": 1,
+        "id": "OGN-298"
+      }
+    ]
+  }
+},
+{
+  "title": "Volibear Trial Deck",
+  "id": "cd0766b5-250f-4a5a-8ceb-4f108a5db8c8",
+  "game": "dominios",
+  "format": "Riftbound 1v1",
+  "cardCount": 56,
+  "createdAt": "2025-06-10T00:44:19.877Z",
+  "lastModifiedAt": "2025-06-10T00:47:16.469Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Champion Legend",
+      "Unit",
+      "Spell",
+      "Champion Unit",
+      "Rune",
+      "Signature Spell",
+      "Battlefield"
+    ],
+    "Sideboard": [],
+    "Champion Legend": [
+      {
+        "count": 1,
+        "id": "OGN-249"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "001"
+      },
+      {
+        "count": 3,
+        "id": "OGN-009"
+      },
+      {
+        "count": 1,
+        "id": "OGN-010"
+      },
+      {
+        "count": 2,
+        "id": "OGN-038"
+      },
+      {
+        "count": 3,
+        "id": "OGN-137"
+      },
+      {
+        "count": 3,
+        "id": "OGN-149"
+      },
+      {
+        "count": 2,
+        "id": "OGN-158"
+      },
+      {
+        "count": 3,
+        "id": "OGN-161"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-005"
+      },
+      {
+        "count": 3,
+        "id": "OGN-127"
+      },
+      {
+        "count": 2,
+        "id": "OGN-133"
+      },
+      {
+        "count": 3,
+        "id": "OGN-138"
+      }
+    ],
+    "Champion Unit": [
+      {
+        "count": 2,
+        "id": "OGN-034"
+      },
+      {
+        "count": 3,
+        "id": "OGN-041"
+      },
+      {
+        "count": 2,
+        "id": "OGN-162"
+      }
+    ],
+    "Rune": [
+      {
+        "count": 6,
+        "id": "OGN-135"
+      },
+      {
+        "count": 6,
+        "id": "OGN-007"
+      }
+    ],
+    "Signature Spell": [
+      {
+        "count": 2,
+        "id": "OGN-250"
+      }
+    ],
+    "Battlefield": [
+      {
+        "count": 1,
+        "id": "OGN-284"
+      },
+      {
+        "count": 1,
+        "id": "OGN-287"
+      },
+      {
+        "count": 1,
+        "id": "OGN-296"
+      }
+    ]
+  }
+},
+{
+  "title": "Yasuo Trial Deck",
+  "id": "9565a4ef-ce36-4763-b356-db52668f90f7",
+  "game": "dominios",
+  "format": "Riftbound 1v1",
+  "cardCount": 56,
+  "createdAt": "2025-06-10T00:47:43.640Z",
+  "lastModifiedAt": "2025-06-10T00:49:20.654Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Champion Legend",
+      "Signature Spell",
+      "Rune",
+      "Unit",
+      "Spell",
+      "Champion Unit",
+      "Gear",
+      "Battlefield"
+    ],
+    "Sideboard": [],
+    "Champion Legend": [
+      {
+        "count": 1,
+        "id": "OGN-259"
+      }
+    ],
+    "Signature Spell": [
+      {
+        "count": 3,
+        "id": "OGN-260"
+      }
+    ],
+    "Rune": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGN-044"
+      },
+      {
+        "count": 3,
+        "id": "OGN-055"
+      },
+      {
+        "count": 2,
+        "id": "OGN-165"
+      },
+      {
+        "count": 3,
+        "id": "OGN-177"
+      },
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "OGN-191"
+      },
+      {
+        "count": 2,
+        "id": "OGN-203"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-045"
+      },
+      {
+        "count": 2,
+        "id": "OGN-046"
+      },
+      {
+        "count": 2,
+        "id": "OGN-048"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 1,
+        "id": "OGN-064"
+      },
+      {
+        "count": 2,
+        "id": "OGN-172"
+      }
+    ],
+    "Champion Unit": [
+      {
+        "count": 3,
+        "id": "OGN-082"
+      },
+      {
+        "count": 3,
+        "id": "OGN-189"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "OGN-080"
+      }
+    ],
+    "Battlefield": [
+      {
+        "count": 1,
+        "id": "OGN-285"
+      },
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-297"
+      }
+    ]
+  }
+}
+]

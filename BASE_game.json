@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/RB-TCG-Arena-CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/BASE_cardlist.json",
     "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
   },
   "deckBuilding": {
