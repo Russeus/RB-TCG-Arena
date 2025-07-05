@@ -434,13 +434,6 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-076/full-desktop-2x.avif",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "Unit",
-        "cost": 0,
-        "image": "https://i.postimg.cc/L8JcZMF5/back-battlefield-and-legend.png",
-        "isHorizontal": false
       }
     },
     "name": "Yasuo Remorseful",
