@@ -1,0 +1,147 @@
+{
+  "name": "Riftbound",
+  "menuBackgroundImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/6cf5ae382207a6569b542e215d49d0e4266fc617-1200x630.png",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/BASE_cardlist.json",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": [
+      {
+        "title": "1v1 Bo1",
+        "gameplay": "Bo1",
+        "customCategories": [
+          "Legend",
+          "Runes Deck",
+          "Battlefields",
+          "Choosen Champ"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Bo1": {
+      "mulligan": {
+        "info": "Mulligan up to 2 cards. Put them at the bottom, then draw up to 4 cards in hand.",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Battlefield 1",
+          "Battlefield 2",
+          "Battlefields",
+          "Choosen Battlefield",
+          "Base",
+          "Runes Deck",
+          "Played Runes",
+          "Legend",
+          "Choosen Champ"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Battlefield 1",
+                  "style": false
+                },
+                {
+                  "section": "Choosen Battlefield",
+                  "style": false
+                },
+                {
+                  "section": "Battlefields",
+                  "style": false
+                },
+                {
+                  "section": "Battlefield 2",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Runes Deck",
+                  "style": false
+                },
+                {
+                  "section": "Played Runes",
+                  "style": false
+                },
+                {
+                  "section": "Base",
+                  "style": false
+                },
+                {
+                  "section": "Legend",
+                  "style": false
+                },
+                {
+                  "section": "Choosen Champ",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Battlefields",
+          "Runes Deck",
+          "Legend",
+          "Choosen Champ"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Runes Deck": {
+            "title": "Runes_Deck",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Runes Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
