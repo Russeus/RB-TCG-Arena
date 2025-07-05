@@ -1,6 +1,6 @@
 {
   "OGN-001": {
-    "id": "001",
+    "id": "OGN-001",
     "isToken": false,
     "face": {
       "front": {
@@ -17,7 +17,7 @@
     "Domain": "Fury"
   },
   "OGN-002": {
-    "id": "002",
+    "id": "OGN-002",
     "isToken": false,
     "face": {
       "front": {
@@ -34,7 +34,7 @@
     "Domain": "Fury"
   },
   "OGN-003": {
-    "id": "003",
+    "id": "OGN-003",
     "isToken": false,
     "face": {
       "front": {
@@ -102,7 +102,7 @@
     "Domain": "Fury"
   },
   "OGN-010": {
-    "id": "OGN-009",
+    "id": "OGN-010",
     "isToken": false,
     "face": {
       "front": {
@@ -119,7 +119,7 @@
     "Domain": "Fury"
   },
   "OGN-011": {
-    "id": "OGN-010",
+    "id": "OGN-011",
     "isToken": false,
     "face": {
       "front": {
@@ -153,7 +153,7 @@
     "Domain": "Fury"
   },
   "OGN-020": {
-    "id": "OGN-021",
+    "id": "OGN-020",
     "isToken": false,
     "face": {
       "front": {
@@ -170,7 +170,7 @@
     "Domain": "Fury"
   },
   "OGN-030": {
-    "id": "OGN-031",
+    "id": "OGN-030",
     "isToken": false,
     "face": {
       "front": {
@@ -408,7 +408,7 @@
     "Domain": "Calm"
   },
   "OGN-081": {
-    "id": "OGN-080",
+    "id": "OGN-081",
     "isToken": false,
     "face": {
       "front": {
@@ -425,7 +425,7 @@
     "Domain": "Calm"
   },
   "OGN-076": {
-    "id": "OGN-082",
+    "id": "OGN-076",
     "isToken": false,
     "face": {
       "front": {
@@ -527,7 +527,7 @@
     "Domain": "Mind"
   },
   "OGN-128": {
-    "id": "OGN-127",
+    "id": "OGN-128",
     "isToken": false,
     "face": {
       "front": {
@@ -544,7 +544,7 @@
     "Domain": "Body"
   },
   "OGN-134": {
-    "id": "OGN-133",
+    "id": "OGN-134",
     "isToken": false,
     "face": {
       "front": {
@@ -561,7 +561,7 @@
     "Domain": "Body"
   },
   "OGN-126": {
-    "id": "OGN-135",
+    "id": "OGN-126",
     "isToken": false,
     "face": {
       "front": {
@@ -850,7 +850,7 @@
     "Domain": "Chaos"
   },
   "OGN-193": {
-    "id": "OGN-203",
+    "id": "OGN-193",
     "isToken": false,
     "face": {
       "front": {
@@ -867,7 +867,7 @@
     "Domain": "Chaos"
   },
   "OGN-203": {
-    "id": "OGN-204",
+    "id": "OGN-203",
     "isToken": false,
     "face": {
       "front": {
@@ -884,7 +884,7 @@
     "Domain": "Chaos"
   },
   "OGN-204": {
-    "id": "OGN-205",
+    "id": "OGN-204",
     "isToken": false,
     "face": {
       "front": {
@@ -1020,7 +1020,7 @@
     "Domain": "Order"
   },
   "OGN-239": {
-    "id": "OGN-232",
+    "id": "OGN-239",
     "isToken": false,
     "face": {
       "front": {
@@ -1037,7 +1037,7 @@
     "Domain": "Order"
   },
   "OGN-233": {
-    "id": "OGN-234",
+    "id": "OGN-233",
     "isToken": false,
     "face": {
       "front": {
@@ -1054,7 +1054,7 @@
     "Domain": "Order"
   },
   "OGN-234": {
-    "id": "OGN-235",
+    "id": "OGN-234",
     "isToken": false,
     "face": {
       "front": {
@@ -1316,7 +1316,7 @@
         "name": "Sigil of the Storm",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-287p.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-287p.png",
         "isHorizontal": true
       }
     },
@@ -1333,7 +1333,7 @@
         "name": "Targon's Peak",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-289p.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-289p.png",
         "isHorizontal": true
       }
     },
@@ -1384,7 +1384,7 @@
         "name": "Void Gate",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/Cards/OGN-296p.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/OGN-296p.png",
         "isHorizontal": true
       }
     },
@@ -1445,7 +1445,7 @@
     "Domain": "Mind"
   },
   "OGN-163": {
-    "id": "Seal of Strenght",
+    "id": "OGN-163",
     "isToken": false,
     "face": {
       "front": {
