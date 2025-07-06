@@ -7,7 +7,7 @@
         "name": "Blazing Scorcher",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-001/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -26,7 +26,7 @@
         "name": "Brazen Buccaneer",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-002/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-002/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -45,7 +45,7 @@
         "name": "Chemtech Enforcer",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-003/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-003/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -64,7 +64,7 @@
         "name": "Disintegrate",
         "type": "Spell",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-005/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-005/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -83,7 +83,7 @@
         "name": "Flame Chompers",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-006/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-006/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -102,7 +102,7 @@
         "name": "Fury Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-007/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -121,7 +121,7 @@
         "name": "Legion Rearguard",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-010/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-010/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -140,7 +140,7 @@
         "name": "Magma Wurm",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-011/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-011/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -159,7 +159,7 @@
         "name": "Noxus Hopeful",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-012/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-012/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -178,7 +178,7 @@
         "name": "Scrapyard Champion",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-020/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-020/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -197,7 +197,7 @@
         "name": "Jinx Demolitionist",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-030/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -216,7 +216,7 @@
         "name": "Tryndamere Barbarian",
         "type": "Unit",
         "cost": "7",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-034/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-034/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -235,7 +235,7 @@
         "name": "Vi Destructive",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-036/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-036/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -254,7 +254,7 @@
         "name": "Kadregrin the Infernal",
         "type": "Unit",
         "cost": "9",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-038/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-038/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -273,7 +273,7 @@
         "name": "Seal of Rage",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-040/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-040/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -292,7 +292,7 @@
         "name": "Volibear Furious",
         "type": "Unit",
         "cost": "10",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-041/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -311,7 +311,7 @@
         "name": "Calm Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-042/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -330,7 +330,7 @@
         "name": "Clockwork Keeper",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-044/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-044/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -349,7 +349,7 @@
         "name": "Defy",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-045/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-045/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -368,7 +368,7 @@
         "name": "En Garde",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-046/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-046/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -387,7 +387,7 @@
         "name": "Meditation",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-048/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-048/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -406,7 +406,7 @@
         "name": "Wielder of Water",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-055/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-055/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -425,7 +425,7 @@
         "name": "Discipline",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-058/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-058/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -444,7 +444,7 @@
         "name": "Wind Wall",
         "type": "Spell",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-064/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-064/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -463,7 +463,7 @@
         "name": "Seal of Focus",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-081/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-081/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -482,7 +482,7 @@
         "name": "Yasuo Remorseful",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-076/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-076/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -501,7 +501,7 @@
         "name": "Mind Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-089/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-089/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -520,7 +520,7 @@
         "name": "Stupefy",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-095/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-095/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -539,7 +539,7 @@
         "name": "Watchful Sentry",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-096/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-096/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -558,7 +558,7 @@
         "name": "Wraith of Echoes",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-118/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-118/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -577,7 +577,7 @@
         "name": "Unchecked Power",
         "type": "Spell",
         "cost": "7",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-123/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-123/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -596,7 +596,7 @@
         "name": "Challenge",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-128/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-128/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -615,7 +615,7 @@
         "name": "Mobilize",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-134/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-134/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -634,7 +634,7 @@
         "name": "Body Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-126/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -653,7 +653,7 @@
         "name": "Stormclaw Ursine",
         "type": "Unit",
         "cost": "7",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-137/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-137/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -672,7 +672,7 @@
         "name": "Catalyst of Aeons",
         "type": "Spell",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-138/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-138/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -691,7 +691,7 @@
         "name": "Carnivorous Snapvine",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-149/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-149/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -710,7 +710,7 @@
         "name": "Volibear Imposing",
         "type": "Unit",
         "cost": "12",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-158/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-158/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -729,7 +729,7 @@
         "name": "Deadbloom Predator",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-161/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-161/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -748,7 +748,7 @@
         "name": "Miss Fortune Captain",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-162/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-162/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -767,7 +767,7 @@
         "name": "Cemetery Attendant",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-165/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-165/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -786,7 +786,7 @@
         "name": "Chaos Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-166/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -805,7 +805,7 @@
         "name": "Gust",
         "type": "Spell",
         "cost": "1",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-169/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-169/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -824,7 +824,7 @@
         "name": "Rebuke",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-172/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-172/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -843,7 +843,7 @@
         "name": "Stealthy Pursuer",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-177/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-177/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -862,7 +862,7 @@
         "name": "Undercover Agent",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-178/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-178/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -881,7 +881,7 @@
         "name": "Traveling Merchant",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-185/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-185/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -900,7 +900,7 @@
         "name": "Kayn Unleashed",
         "type": "Unit",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-189/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-189/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -919,7 +919,7 @@
         "name": "Maddened Marauder",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-191/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-191/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -938,7 +938,7 @@
         "name": "Jinx Rebel",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-202/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -957,7 +957,7 @@
         "name": "Miss Fortune Buccaneer",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-193/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-193/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -976,7 +976,7 @@
         "name": "Possesion",
         "type": "Spell",
         "cost": "8",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-203/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-203/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -995,7 +995,7 @@
         "name": "Seal of Discord",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-204/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-204/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1014,7 +1014,7 @@
         "name": "Cruel Patron",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-208/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-208/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1033,7 +1033,7 @@
         "name": "Cull the Weak",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-209/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-209/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1052,7 +1052,7 @@
         "name": "Faithful Manufactor",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-211/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-211/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1071,7 +1071,7 @@
         "name": "Hidden Blade",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-213/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-213/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1090,7 +1090,7 @@
         "name": "Order Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-214/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1109,7 +1109,7 @@
         "name": "Soaring Scout",
         "type": "Unit",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-216/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-216/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1128,7 +1128,7 @@
         "name": "Vanguard Captain",
         "type": "Unit",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-218/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-218/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1147,7 +1147,7 @@
         "name": "Machine Evangel",
         "type": "Unit",
         "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-239/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-239/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1166,7 +1166,7 @@
         "name": "Grand Strategem",
         "type": "Spell",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-233/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-233/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1185,7 +1185,7 @@
         "name": "Harnessed Dragon",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-234/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-234/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1204,7 +1204,7 @@
         "name": "Seal of Unity",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-245/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-245/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1223,7 +1223,7 @@
         "name": "Viktor Leader",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-246/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1242,7 +1242,7 @@
         "name": "Relentless Storm Volibear",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-249/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-249/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1262,7 +1262,7 @@
         "name": "Stormbringer",
         "type": "Spell",
         "cost": "6",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-250/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-250/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1282,7 +1282,7 @@
         "name": "Loose Cannon Jinx",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-251/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-251/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1302,7 +1302,7 @@
         "name": "Super Mega Death Rocket!",
         "type": "Spell",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-252/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-252/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1322,7 +1322,7 @@
         "name": "Unforgiven Yasuo",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-259/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-259/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1342,7 +1342,7 @@
         "name": "Last Breath",
         "type": "Spell",
         "cost": "3",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-260/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-260/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1362,7 +1362,7 @@
         "name": "Herald of the Arcane Viktor",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-265/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-265/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1382,7 +1382,7 @@
         "name": "Siphon Power",
         "type": "Spell",
         "cost": "2",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-266/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-266/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1402,7 +1402,7 @@
         "name": "Recruit",
         "type": "Unit",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-273/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-273/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1421,7 +1421,7 @@
         "name": "Altar to Unity",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-275/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-275/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1440,7 +1440,7 @@
         "name": "Obelisk of Power",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-284/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/OGN/cards/OGN-284/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1459,7 +1459,7 @@
         "name": "Reaver's Row",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-285/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/OGN/cards/OGN-285/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1516,7 +1516,7 @@
         "name": "The Grand Plaza",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-293/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/OGN/cards/OGN-293/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1535,7 +1535,7 @@
         "name": "Trifrian War Camp",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-294/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/OGN/cards/OGN-294/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1573,7 +1573,7 @@
         "name": "Windswept Hillock",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-297/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-297/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1592,7 +1592,7 @@
         "name": "Zaun Warrens",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-298/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/OGN/cards/OGN-298/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -1611,7 +1611,7 @@
         "name": "Seal of Insight",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-120/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-120/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1630,7 +1630,7 @@
         "name": "Seal of Strenght",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/cards/OGN-163/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-163/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
