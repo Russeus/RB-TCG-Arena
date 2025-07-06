@@ -1,8 +1,11 @@
 {
   "name": "Riftbound",
-  "menuBackgroundImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization_live/6cf5ae382207a6569b542e215d49d0e4266fc617-1200x630.png",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Banner.png",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_Ahri-Coven.jpeg",
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_MF-Battle-Queen.jpeg"
+    ],
     "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
   },
   "customHelp": "",
