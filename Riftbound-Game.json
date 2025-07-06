@@ -44,7 +44,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
