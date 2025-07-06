@@ -26,8 +26,8 @@
     ],
     "formats": [
       {
-        "title": "1v1 Bo1",
-        "gameplay": "Bo1",
+        "title": "Classic",
+        "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
         ]
@@ -35,7 +35,7 @@
     ]
   },
   "gameplay": {
-    "Bo1": {
+    "Classic": {
       "mulligan": {
         "info": "Mulligan up to 2 cards. Put them at the bottom, then draw up to 4 cards in hand.",
         "startingHandSize": "4",
