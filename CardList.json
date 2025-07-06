@@ -2811,6 +2811,101 @@
       "Chaos"
     ]
   },
+  "OGN-194": {
+    "id": "OGN-194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nocturne, Horrifying",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-194/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nocturne, Horrifying",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-197": {
+    "id": "OGN-197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Scout",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Scout",
+    "type": "Unit",
+    "cost": "2",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-197a": {
+    "id": "OGN-197a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Scout",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Scout",
+    "type": "Unit",
+    "cost": "2",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-200": {
+    "id": "OGN-200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Twisted Fate, Gambler",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-200/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twisted Fate, Gambler",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-201": {
+    "id": "OGN-201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Invert Timelines",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-201/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invert Timelines",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Chaos"
+    ]
+  },
   "OGN-202": {
     "id": "OGN-202",
     "isToken": false,
@@ -2820,6 +2915,25 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx, Rebel",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-202a": {
+    "id": "OGN-202a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx, Rebel",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -2868,6 +2982,82 @@
       "Chaos"
     ]
   },
+  "OGN-205": {
+    "id": "OGN-205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Windrider",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Windrider",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-205a": {
+    "id": "OGN-205a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Windrider",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Windrider",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Chaos"
+    ]
+  },
+  "OGN-206": {
+    "id": "OGN-206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back to Back",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-206/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back to Back",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-207": {
+    "id": "OGN-207",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Call to Glory",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-207/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Call to Glory",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-208": {
     "id": "OGN-208",
     "isToken": false,
@@ -2906,6 +3096,25 @@
       "Order"
     ]
   },
+  "OGN-210": {
+    "id": "OGN-210",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daring Poro",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-210/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daring Poro",
+    "type": "Unit",
+    "cost": "2",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-211": {
     "id": "OGN-211",
     "isToken": false,
@@ -2921,6 +3130,25 @@
     "name": "Faithful Manufactor",
     "type": "Unit",
     "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-212": {
+    "id": "OGN-212",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forge of the Future",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-212/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forge of the Future",
+    "type": "Gear",
+    "cost": "2",
     "Domain": [
       "Order"
     ]
@@ -2963,6 +3191,44 @@
       "Order"
     ]
   },
+  "OGN-214a": {
+    "id": "OGN-214a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-215": {
+    "id": "OGN-215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petty Officer",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-215/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Petty Officer",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-216": {
     "id": "OGN-216",
     "isToken": false,
@@ -2976,6 +3242,25 @@
       }
     },
     "name": "Soaring Scout",
+    "type": "Unit",
+    "cost": "2",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-217": {
+    "id": "OGN-217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trifarian Gloryseeker",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-217/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trifarian Gloryseeker",
     "type": "Unit",
     "cost": "2",
     "Domain": [
@@ -3001,26 +3286,83 @@
       "Order"
     ]
   },
-  "OGN-239": {
-    "id": "OGN-239",
+  "OGN-219": {
+    "id": "OGN-219",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Machine Evangel",
+        "name": "Vanguard Sergeant",
         "type": "Unit",
-        "cost": "5",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-239/full-desktop-2x.avif",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-219/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Machine Evangel",
+    "name": "Vanguard Sergeant",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-222": {
+    "id": "OGN-222",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxian Drummer",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-222/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxian Drummer",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-225": {
+    "id": "OGN-225",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Solari Chief",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-225/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solari Chief",
     "type": "Unit",
     "cost": "5",
     "Domain": [
       "Order"
     ]
   },
-  "OGN-233": {
+  "OGN-232": {
+    "id": "OGN-232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Victorious",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-232/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Victorious",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+    "OGN-233": {
     "id": "OGN-233",
     "isToken": false,
     "face": {
@@ -3054,6 +3396,25 @@
     "name": "Harnessed Dragon",
     "type": "Unit",
     "cost": "8",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-239": {
+    "id": "OGN-239",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Machine Evangel",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-239/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Machine Evangel",
+    "type": "Unit",
+    "cost": "5",
     "Domain": [
       "Order"
     ]
