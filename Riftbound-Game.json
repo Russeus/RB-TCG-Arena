@@ -3,10 +3,11 @@
   "menuBackgroundImage": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_Ahri-Coven.jpeg",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_MF-Battle-Queen.jpeg",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_Ahri-Coven_4-1.png",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Playmat_MF-Battle-Queen_4-1.png"
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Ahri-1.png",
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_MF-1.png",
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Sett-1.png",
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Volibear-1.png",
+      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Yasuo-1.png"
     ],
     "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
   },
