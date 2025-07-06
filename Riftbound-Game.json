@@ -12,7 +12,7 @@
     "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
   },
   "customHelp": "",
-  "cardRotation": "90",
+  "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-CardList.json",
     "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
@@ -44,7 +44,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
