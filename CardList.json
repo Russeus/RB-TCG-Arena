@@ -3400,6 +3400,63 @@
       "Order"
     ]
   },
+  "OGN-235": {
+    "id": "OGN-235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karma, Channeler",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-235/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karma, Channeler",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-238": {
+    "id": "OGN-238",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Determined",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Determined",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-238a": {
+    "id": "OGN-238a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Determined",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Determined",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-239": {
     "id": "OGN-239",
     "isToken": false,
@@ -3415,6 +3472,101 @@
     "name": "Machine Evangel",
     "type": "Unit",
     "cost": "5",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-240": {
+    "id": "OGN-240",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Kingpin",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Kingpin",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-240a": {
+    "id": "OGN-240a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Kingpin",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Kingpin",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-241": {
+    "id": "OGN-241",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shen, Kinkou",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-241/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shen, Kinkou",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-243": {
+    "id": "OGN-243",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-243a": {
+    "id": "OGN-243a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": "6",
     "Domain": [
       "Order"
     ]
@@ -3443,18 +3595,77 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Viktor Leader",
+        "name": "Viktor, Leader",
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Viktor Leader",
+    "name": "Viktor, Leader",
     "type": "Unit",
     "cost": "4",
     "Domain": [
       "Order"
+    ]
+  },
+  "OGN-246a": {
+    "id": "OGN-246a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor, Leader",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor, Leader",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-247": {
+    "id": "OGN-247",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kai'Sa, Daughter of the Void",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-247/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kai'Sa, Daughter of the Void",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Fury",
+      "Mind"
+    ]
+  },
+  "OGN-248": {
+    "id": "OGN-248",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Icathian Rain",
+        "type": "Spell",
+        "cost": "7",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-248/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Icathian Rain",
+        "type": "Spell",
+        "cost": "7",
+    "Domain": [
+      "Fury",
+      "Mind"
     ]
   },
   "OGN-249": {
@@ -3462,14 +3673,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Relentless Storm Volibear",
+        "name": "Volibear, Relentless Storm",
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-249/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Relentless Storm Volibear",
+    "name": "Volibear, Relentless Storm",
     "type": "Legend",
     "cost": 0,
     "Domain": [
@@ -3502,14 +3713,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Loose Cannon Jinx",
+        "name": "Jinx, Loose Cannon",
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-251/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Loose Cannon Jinx",
+    "name": "Jinx, Loose Cannon",
     "type": "Legend",
     "cost": 0,
     "Domain": [
@@ -3537,19 +3748,139 @@
       "Chaos"
     ]
   },
+  "OGN-253": {
+    "id": "OGN-253",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Hand of Noxus",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-253/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Hand of Noxus",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Fury",
+      "Order"
+    ]
+  },
+  "OGN-254": {
+    "id": "OGN-254",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxian Guillotine",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-254/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxian Guillotine",
+    "type": "Spell",
+    "cost": "4",
+    "Domain": [
+      "Fury",
+      "Order"
+    ]
+  },
+  "OGN-255": {
+    "id": "OGN-255",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Nine-Tailed Fox",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-255/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Nine-Tailed Fox",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Mind"
+    ]
+  },
+  "OGN-256": {
+    "id": "OGN-256",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fox-Fire",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-256/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fox-Fire",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Calm",
+      "Mind"
+    ]
+  },
+  "OGN-257": {
+    "id": "OGN-257",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lee Sin, Blind Monk",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-257/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lee Sin, Blind Monk",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
+  },
+  "OGN-258": {
+    "id": "OGN-258",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon's Rage",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-258/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon's Rage",
+    "type": "Spell",
+    "cost": "4",
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
+  },
   "OGN-259": {
     "id": "OGN-259",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Unforgiven Yasuo",
+        "name": "Yasuo, Unforgiven",
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-259/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Unforgiven Yasuo",
+    "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
     "Domain": [
@@ -3577,19 +3908,99 @@
       "Chaos"
     ]
   },
+  "OGN-261": {
+    "id": "OGN-261",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Radiant Dawn",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-261/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Radiant Dawn",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Order"
+    ]
+  },
+  "OGN-262": {
+    "id": "OGN-262",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zenith Blade",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-262/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zenith Blade",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Calm",
+      "Order"
+    ]
+  },
+  "OGN-263": {
+    "id": "OGN-263",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Swift Scout",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-263/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Swift Scout",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Mind",
+      "Chaos"
+    ]
+  },
+  "OGN-264": {
+    "id": "OGN-264",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerilla, Warfare",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-264/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerilla, Warfare",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": [
+      "Mind",
+      "Chaos"
+    ]
+  },
   "OGN-265": {
     "id": "OGN-265",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Herald of the Arcane Viktor",
+        "name": "Viktor, Herald of the Arcane",
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-265/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Herald of the Arcane Viktor",
+    "name": "Viktor, Herald of the Arcane",
     "type": "Legend",
     "cost": 0,
     "Domain": [
