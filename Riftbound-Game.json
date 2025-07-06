@@ -11,7 +11,7 @@
   "customHelp": "",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-CardList.json",
     "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
   },
   "deckBuilding": {
