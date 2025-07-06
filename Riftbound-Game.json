@@ -12,7 +12,7 @@
     "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
   },
   "customHelp": "",
-  "cardRotation": "45",
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-CardList.json",
     "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
@@ -58,7 +58,7 @@
       "sections": {
         "customSections": [
           "Runes",
-          "Played_Runes",
+          "Mana",
           "Base",
           "B1",
           "B2",
@@ -122,7 +122,7 @@
                   }
                 },
                 {
-                  "section": "Played_Runes",
+                  "section": "Mana",
                   "style": {
                     "width": "35%"
                   }
@@ -151,7 +151,7 @@
           "Chosen_Champion"
         ],
         "autoPlayFromHand": {
-          "Runes": "Played_Runes",
+          "Runes": "Mana",
           "Gear": "Base",
           "Spell": "Stack"
         },
@@ -279,15 +279,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Played_Runes": {
-            "title": "Played_Runes",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Played Runes",
+            "displayedTitle": "Runes",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,

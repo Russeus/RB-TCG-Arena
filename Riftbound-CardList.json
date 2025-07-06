@@ -4468,5 +4468,423 @@
     "Domain": [
       "Domainless"
     ]
+  },
+    "OGS-001": {
+    "id": "OGS-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Annie, Fiery",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-001/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annie, Fiery",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGS-002": {
+    "id": "OGS-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firestorm",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-002/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firestorm",
+    "type": "Spell",
+    "cost": "6",
+    "Domain": ["Fury"]
+  },
+  "OGS-003": {
+    "id": "OGS-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incinerate",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-003/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incinerate",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": ["Fury"]
+  },
+  "OGS-004": {
+    "id": "OGS-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Meditative",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-004/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Meditative",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": ["Calm"]
+  },
+  "OGS-005": {
+    "id": "OGS-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zephyr Sage",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-005/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zephyr Sage",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": ["Calm"]
+  },
+  "OGS-006": {
+    "id": "OGS-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lux, Illuminated",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-006/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lux, Illuminated",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": ["Mind"]
+  },
+  "OGS-007": {
+    "id": "OGS-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garen, Rugged",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-007/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garen, Rugged",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": ["Body"]
+  },
+  "OGS-008": {
+    "id": "OGS-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gentlemen's Duel",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-008/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gentlemen's Duel",
+    "type": "Spell",
+    "cost": "6",
+    "Domain": ["Body"]
+  },
+  "OGS-009": {
+    "id": "OGS-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Honed",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-009/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Honed",
+    "type": "Unit",
+    "cost": "7",
+    "Domain": ["Body"]
+  },
+  "OGS-010": {
+    "id": "OGS-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Annie, Stubborn",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-010/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annie, Stubborn",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": ["Chaos"]
+  },
+  "OGS-011": {
+    "id": "OGS-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flash",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-011/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flash",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": ["Chaos"]
+  },
+  "OGS-012": {
+    "id": "OGS-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blast of Power",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-012/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blast of Power",
+    "type": "Spell",
+    "cost": "6",
+    "Domain": ["Order"]
+  },
+  "OGS-013": {
+    "id": "OGS-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garen, Commander",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-013/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garen, Commander",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": ["Order"]
+  },
+  "OGS-014": {
+    "id": "OGS-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lux, Crownguard",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-014/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lux, Crownguard",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": ["Order"]
+  },
+  "OGS-015": {
+    "id": "OGS-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recruit the Vanguard",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-015/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recruit the Vanguard",
+    "type": "Spell",
+     "cost": "6",
+    "Domain": ["Order"]
+  },
+  "OGS-016": {
+    "id": "OGS-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Attendant",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-016/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Attendant",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": ["Order"]
+  },
+  "OGS-017": {
+    "id": "OGS-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Annie, Dark Child",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-017/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annie, Dark Child",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Fury",
+  "Chaos"]
+  },
+  "OGS-018": {
+    "id": "OGS-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tibbers",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-018/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tibbers",
+    "type": "Unit",
+    "cost": "8",
+    "Domain": ["Fury",
+  "Chaos"]
+  },
+  "OGS-019": {
+    "id": "OGS-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Wuju Bladesman",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-019/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Wuju Bladesman",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Calm",
+  "Body"]
+  },
+  "OGS-020": {
+    "id": "OGS-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Highlander",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-020/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Highlander",
+    "type": "Spell",
+    "cost": "4",
+    "Domain": ["Calm",
+  "Body"]
+  },
+  "OGS-021": {
+    "id": "OGS-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lux, Lady of Luminosity",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-021/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lux, Lady of Luminosity",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Mind",
+  "Order"]
+  },
+  "OGS-022": {
+    "id": "OGS-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Final Spark",
+        "type": "Spell",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-022/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Final Spark",
+    "type": "Spell",
+    "cost": "8",
+    "Domain": ["Mind",
+  "Order"]
+  },
+  "OGS-023": {
+    "id": "OGS-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garen, Might of Demacia",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-023/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garen, Might of Demacia",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Body",
+  "Order"]
+  },
+  "OGS-024": {
+    "id": "OGS-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Decisive Strike",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-024/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Decisive Strike",
+    "type": "Spell",
+    "cost": "5",
+    "Domain": ["Body",
+  "Order"]
   }
 }
