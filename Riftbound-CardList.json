@@ -4469,7 +4469,87 @@
       "Domainless"
     ]
   },
-    "OGS-001": {
+  "OGN-300": {
+    "id": "OGN-300",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volibear, Relentless Storm",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-300/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volibear, Relentless Storm",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Fury",
+      "Body"
+    ]
+  },
+  "OGN-300s": {
+    "id": "OGN-300s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Volibear, Relentless Storm",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-300s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Volibear, Relentless Storm",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Fury",
+      "Body"
+    ]
+  },
+  "OGN-305": {
+    "id": "OGN-305",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Unforgiven",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-305/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Unforgiven",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Chaos"
+    ]
+  },
+  "OGN-305s": {
+    "id": "OGN-305s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Unforgiven",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-305s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Unforgiven",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Chaos"
+    ]
+  },
+  "OGS-001": {
     "id": "OGS-001",
     "isToken": false,
     "face": {
