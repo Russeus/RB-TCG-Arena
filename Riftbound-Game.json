@@ -11,7 +11,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
   },
-  "customHelp": "",
+  "customHelp": "You can create Tokens with right click on the origin card.",
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-CardList.json",

@@ -4011,10 +4011,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Mind",
-      "Order"
-    ]
+    "Domain": ["Mind","Order"]
   },
   "OGN-266": {
     "id": "OGN-266",
