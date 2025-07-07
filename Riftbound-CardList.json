@@ -1527,7 +1527,7 @@
         "name": "Dr Mundo",
         "type": "Unit",
         "cost": "8",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-109/full-desktop-2x.avif",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Proxy_Cards/CN/OGN-109.png",
         "isHorizontal": false
       }
     },
@@ -3375,7 +3375,7 @@
         "name": "Albus Ferros",
         "type": "Unit",
         "cost": "4",
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-230/full-desktop-2x.avif",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Proxy_Cards/CN/OGN-230.png",
         "isHorizontal": false
       }
     },
@@ -4331,7 +4331,7 @@
         "name": "Sigil of the Storm",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/287p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Proxy_Cards/287p.png",
         "isHorizontal": true
       }
     },
@@ -4369,7 +4369,7 @@
         "name": "Targon's Peak",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/289p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Proxy_Cards/289p.png",
         "isHorizontal": true
       }
     },
@@ -4464,7 +4464,7 @@
         "name": "Void Gate",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/f64ebcfc8c79c6d5830a466489b1d79864521eae/Proxy_Cards/296p.png",
+        "image": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Proxy_Cards/296p.png",
         "isHorizontal": true
       }
     },
