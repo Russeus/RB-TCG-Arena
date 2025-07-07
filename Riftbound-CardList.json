@@ -1519,6 +1519,25 @@
       "Mind"
     ]
   },
+  "OGN-109": {
+    "id": "OGN-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr Mundo",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-109/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr Mundo",
+    "type": "Unit",
+    "cost": "8",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-110": {
     "id": "OGN-110",
     "isToken": false,
@@ -3344,6 +3363,25 @@
     "name": "Solari Chief",
     "type": "Unit",
     "cost": "5",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-230": {
+    "id": "OGN-230",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Albus Ferros",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-230/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Albus Ferros",
+    "type": "Unit",
+    "cost": "4",
     "Domain": [
       "Order"
     ]
