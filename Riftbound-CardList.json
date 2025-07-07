@@ -4404,14 +4404,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Trifrian War Camp",
+        "name": "Trifarian War Camp",
         "type": "Battlefields",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-294/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "Trifrian War Camp",
+    "name": "Trifarian War Camp",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
