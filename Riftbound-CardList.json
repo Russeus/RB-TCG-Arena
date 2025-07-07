@@ -2418,14 +2418,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Seal of Strenght",
+        "name": "Seal of Strength",
         "type": "Gear",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-163/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Seal of Strenght",
+    "name": "Seal of Strength",
     "type": "Gear",
     "cost": 0,
     "Domain": [
