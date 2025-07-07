@@ -2114,14 +2114,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Herald of Scales",
+        "name": "Mountain Drake",
         "type": "Unit",
         "cost": "9",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-142/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Herald of Scales",
+    "name": "Mountain Drake",
     "type": "Unit",
     "cost": "9",
     "Domain": [
