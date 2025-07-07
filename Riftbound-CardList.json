@@ -3980,14 +3980,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Guerilla, Warfare",
+        "name": "Guerilla Warfare",
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-264/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Guerilla, Warfare",
+    "name": "Guerilla Warfare",
     "type": "Spell",
     "cost": "2",
     "Domain": [
