@@ -2950,14 +2950,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Possesion",
+        "name": "Possession",
         "type": "Spell",
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-203/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Possesion",
+    "name": "Possession",
     "type": "Spell",
     "cost": "8",
     "Domain": [
