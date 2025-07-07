@@ -1,21 +1,21 @@
 {
   "name": "Riftbound",
-  "menuBackgroundImage": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/Banner.png",
+  "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Ahri-1.png",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_MF-1.png",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Sett-1.png",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Volibear-1.png",
-      "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Images/PM_Yasuo-1.png"
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
     ],
-    "decksUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-TrialDecks.json"
+    "decksUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-TrialDecks.json"
   },
   "customHelp": "(1) This app will tap runes without looking at colors when playing a card. You can deactivate this on Preferences. (2) You can create Tokens with right click on the source card. (3) You can mark buffed units with C + click. (4) To play a Hidden card, use Z + click on a card on your hand and then move it to the Battlefield. Then do the same to reveal it. (5) You can mark your points at the bottom left.",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Russeus/RB-TCG-Arena/refs/heads/main/Riftbound-CardList.json",
-    "cardBack": "https://i.postimg.cc/zvQWchtn/back-deck.png"
+    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
+    "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png"
   },
   "deckBuilding": {
     "mainFilters": [
