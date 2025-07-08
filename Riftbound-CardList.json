@@ -398,6 +398,25 @@
       "Fury"
     ]
   },
+  "OGN-029": {
+    "id": "OGN-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Falling Star",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-029/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Falling Star",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": [
+      "Fury"
+    ]
+  },
   "OGN-030": {
     "id": "OGN-030",
     "isToken": false,
@@ -1524,14 +1543,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dr Mundo",
+        "name": "Dr. Mundo, Expert",
         "type": "Unit",
         "cost": "8",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/109.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-109/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Dr Mundo",
+    "name": "Dr. Mundo, Expert",
     "type": "Unit",
     "cost": "8",
     "Domain": [
@@ -1629,6 +1648,25 @@
     "name": "Malzahar, Fanatic",
     "type": "Unit",
     "cost": "4",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-114": {
+    "id": "OGN-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Progress Day",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-114/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Progress Day",
+    "type": "Spell",
+    "cost": "6",
     "Domain": [
       "Mind"
     ]
@@ -2508,6 +2546,25 @@
       "Chaos"
     ]
   },
+  "OGN-168": {
+    "id": "OGN-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fight or Flight",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-168/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fight or Flight",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": [
+      "Chaos"
+    ]
+  },
   "OGN-169": {
     "id": "OGN-169",
     "isToken": false,
@@ -3375,7 +3432,7 @@
         "name": "Albus Ferros",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/230.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-230/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
