@@ -1538,6 +1538,25 @@
       "Mind"
     ]
   },
+  "OGN-107": {
+    "id": "OGN-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ava Achiever",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ava Achiever",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-109": {
     "id": "OGN-109",
     "isToken": false,
@@ -2238,6 +2257,25 @@
     "name": "Carnivorous Snapvine",
     "type": "Unit",
     "cost": "5",
+    "Domain": [
+      "Body"
+    ]
+  },
+  "OGN-150": {
+    "id": "OGN-150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jagged Taskmaster",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/150.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jagged Taskmaster",
+    "type": "Unit",
+    "cost": "3",
     "Domain": [
       "Body"
     ]
