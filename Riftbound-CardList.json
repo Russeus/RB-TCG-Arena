@@ -3710,6 +3710,25 @@
       "Order"
     ]
   },
+  "OGN-244": {
+    "id": "OGN-244",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Divine Judgment",
+        "type": "Spell",
+        "cost": "7",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/244.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Divine Judgment",
+    "type": "Spell",
+    "cost": "7",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-245": {
     "id": "OGN-245",
     "isToken": false,
@@ -4507,6 +4526,25 @@
       }
     },
     "name": "The Candlelit Sanctum",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "Domainless"
+    ]
+  },
+  "OGN-292": {
+    "id": "OGN-292",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Dreaming Tree",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/292.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Dreaming Tree",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
