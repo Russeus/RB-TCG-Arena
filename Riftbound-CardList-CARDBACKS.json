@@ -123,6 +123,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Fury Rune",
@@ -141,6 +148,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -617,6 +631,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Calm Rune",
@@ -635,6 +656,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -1320,6 +1348,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-089/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Mind Rune",
@@ -1338,6 +1373,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-089a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -1724,7 +1766,9 @@
     "name": "Viktor, Innovator",
     "type": "Unit",
     "cost": "4",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Mind"
     ]
@@ -1910,6 +1954,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Body Rune",
@@ -1928,6 +1979,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -2556,6 +2614,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Chaos Rune",
@@ -2574,6 +2639,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -3245,7 +3317,9 @@
     "name": "Faithful Manufactor",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3265,7 +3339,9 @@
     "name": "Forge of the Future",
     "type": "Gear",
     "cost": "2",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3299,6 +3375,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Order Rune",
@@ -3317,6 +3400,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -3399,7 +3489,9 @@
     "name": "Vanguard Captain",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3438,7 +3530,9 @@
     "name": "Noxian Drummer",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3500,7 +3594,7 @@
       "Order"
     ]
   },
-    "OGN-233": {
+  "OGN-233": {
     "id": "OGN-233",
     "isToken": false,
     "face": {
@@ -3610,7 +3704,9 @@
     "name": "Machine Evangel",
     "type": "Unit",
     "cost": "5",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3763,7 +3859,9 @@
     "name": "Viktor, Leader",
     "type": "Unit",
     "cost": "4",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3820,8 +3918,8 @@
       }
     },
     "name": "Icathian Rain",
-        "type": "Spell",
-        "cost": "7",
+    "type": "Spell",
+    "cost": "7",
     "Domain": [
       "Fury",
       "Mind"
@@ -4162,8 +4260,13 @@
     "name": "Viktor, Herald of the Arcane",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-273"],
-    "Domain": ["Mind","Order"]
+    "tokens": [
+      "OGN-273"
+    ],
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGN-266": {
     "id": "OGN-266",
@@ -4299,7 +4402,9 @@
     "name": "Altar to Unity",
     "type": "Battlefields",
     "cost": 0,
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Domainless"
     ]
@@ -4760,7 +4865,9 @@
     "name": "Firestorm",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Fury"]
+    "Domain": [
+      "Fury"
+    ]
   },
   "OGS-003": {
     "id": "OGS-003",
@@ -4777,7 +4884,9 @@
     "name": "Incinerate",
     "type": "Spell",
     "cost": "2",
-    "Domain": ["Fury"]
+    "Domain": [
+      "Fury"
+    ]
   },
   "OGS-004": {
     "id": "OGS-004",
@@ -4794,7 +4903,9 @@
     "name": "Master Yi, Meditative",
     "type": "Unit",
     "cost": "5",
-    "Domain": ["Calm"]
+    "Domain": [
+      "Calm"
+    ]
   },
   "OGS-005": {
     "id": "OGS-005",
@@ -4811,7 +4922,9 @@
     "name": "Zephyr Sage",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Calm"]
+    "Domain": [
+      "Calm"
+    ]
   },
   "OGS-006": {
     "id": "OGS-006",
@@ -4828,7 +4941,9 @@
     "name": "Lux, Illuminated",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Mind"]
+    "Domain": [
+      "Mind"
+    ]
   },
   "OGS-007": {
     "id": "OGS-007",
@@ -4845,7 +4960,9 @@
     "name": "Garen, Rugged",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-008": {
     "id": "OGS-008",
@@ -4862,7 +4979,9 @@
     "name": "Gentlemen's Duel",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-009": {
     "id": "OGS-009",
@@ -4879,7 +4998,9 @@
     "name": "Master Yi, Honed",
     "type": "Unit",
     "cost": "7",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-010": {
     "id": "OGS-010",
@@ -4896,7 +5017,9 @@
     "name": "Annie, Stubborn",
     "type": "Unit",
     "cost": "4",
-    "Domain": ["Chaos"]
+    "Domain": [
+      "Chaos"
+    ]
   },
   "OGS-011": {
     "id": "OGS-011",
@@ -4913,7 +5036,9 @@
     "name": "Flash",
     "type": "Spell",
     "cost": "2",
-    "Domain": ["Chaos"]
+    "Domain": [
+      "Chaos"
+    ]
   },
   "OGS-012": {
     "id": "OGS-012",
@@ -4930,7 +5055,9 @@
     "name": "Blast of Power",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-013": {
     "id": "OGS-013",
@@ -4947,7 +5074,9 @@
     "name": "Garen, Commander",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-014": {
     "id": "OGS-014",
@@ -4964,7 +5093,9 @@
     "name": "Lux, Crownguard",
     "type": "Unit",
     "cost": "4",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-015": {
     "id": "OGS-015",
@@ -4980,9 +5111,13 @@
     },
     "name": "Recruit the Vanguard",
     "type": "Spell",
-     "cost": "6",
-     "tokens": ["OGN-273"],
-    "Domain": ["Order"]
+    "cost": "6",
+    "tokens": [
+      "OGN-273"
+    ],
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-016": {
     "id": "OGS-016",
@@ -4999,7 +5134,9 @@
     "name": "Vanguard Attendant",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-017": {
     "id": "OGS-017",
@@ -5016,8 +5153,10 @@
     "name": "Annie, Dark Child",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Fury",
-  "Chaos"]
+    "Domain": [
+      "Fury",
+      "Chaos"
+    ]
   },
   "OGS-018": {
     "id": "OGS-018",
@@ -5034,8 +5173,10 @@
     "name": "Tibbers",
     "type": "Unit",
     "cost": "8",
-    "Domain": ["Fury",
-  "Chaos"]
+    "Domain": [
+      "Fury",
+      "Chaos"
+    ]
   },
   "OGS-019": {
     "id": "OGS-019",
@@ -5052,8 +5193,10 @@
     "name": "Master Yi, Wuju Bladesman",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Calm",
-  "Body"]
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
   },
   "OGS-020": {
     "id": "OGS-020",
@@ -5070,8 +5213,10 @@
     "name": "Highlander",
     "type": "Spell",
     "cost": "4",
-    "Domain": ["Calm",
-  "Body"]
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
   },
   "OGS-021": {
     "id": "OGS-021",
@@ -5088,8 +5233,10 @@
     "name": "Lux, Lady of Luminosity",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Mind",
-  "Order"]
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGS-022": {
     "id": "OGS-022",
@@ -5106,8 +5253,10 @@
     "name": "Final Spark",
     "type": "Spell",
     "cost": "8",
-    "Domain": ["Mind",
-  "Order"]
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGS-023": {
     "id": "OGS-023",
@@ -5124,8 +5273,10 @@
     "name": "Garen, Might of Demacia",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Body",
-  "Order"]
+    "Domain": [
+      "Body",
+      "Order"
+    ]
   },
   "OGS-024": {
     "id": "OGS-024",
@@ -5142,7 +5293,9 @@
     "name": "Decisive Strike",
     "type": "Spell",
     "cost": "5",
-    "Domain": ["Body",
-  "Order"]
+    "Domain": [
+      "Body",
+      "Order"
+    ]
   }
 }
