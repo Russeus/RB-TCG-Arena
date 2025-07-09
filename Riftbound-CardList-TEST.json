@@ -35,6 +35,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-002/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Brazen Buccaneer",
@@ -53,6 +60,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-003/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -73,6 +87,13 @@
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-004/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Cleave",
@@ -91,6 +112,13 @@
         "type": "Spell",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-005/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -111,6 +139,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-006/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Flame Chompers",
@@ -129,6 +164,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -149,6 +191,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Fury Rune",
@@ -167,6 +216,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-008/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -187,6 +243,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-010/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Legion Rearguard",
@@ -205,6 +268,13 @@
         "type": "Unit",
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-011/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -225,6 +295,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-012/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Noxus Hopeful",
@@ -243,6 +320,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-013/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -263,6 +347,13 @@
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-014/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Sky Splitter",
@@ -281,6 +372,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-015/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -301,6 +399,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-016/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Dangerous Duo",
@@ -319,6 +424,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-020/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -339,6 +451,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-024/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Void Seeker",
@@ -357,6 +476,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -377,6 +503,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Darius, Trifarian",
@@ -395,6 +528,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-028/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -415,6 +555,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-029/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Falling Star",
@@ -433,6 +580,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -453,6 +607,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Jinx, Demolitionist",
@@ -471,6 +632,13 @@
         "type": "Unit",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-034/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -491,6 +659,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-035/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Vayne, Hunter",
@@ -509,6 +684,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-036/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -529,6 +711,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-037/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Immortal Phoenix",
@@ -547,6 +736,13 @@
         "type": "Unit",
         "cost": "9",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-038/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -567,6 +763,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-040/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Seal of Rage",
@@ -585,6 +788,13 @@
         "type": "Unit",
         "cost": "10",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -605,6 +815,13 @@
         "cost": "10",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Volibear, Furious",
@@ -623,6 +840,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -643,6 +867,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Calm Rune",
@@ -661,6 +892,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-043/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -681,6 +919,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-044/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Clockwork Keeper",
@@ -699,6 +944,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-045/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -719,6 +971,13 @@
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-046/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "En Garde",
@@ -737,6 +996,13 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-047/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -757,6 +1023,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-048/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Meditation",
@@ -775,6 +1048,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-049/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -795,6 +1075,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-050/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Rune Prison",
@@ -813,6 +1100,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-052/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -833,6 +1127,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-053/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Stand United",
@@ -851,6 +1152,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-055/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -871,6 +1179,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-056/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Adaptatron",
@@ -889,6 +1204,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-057/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -909,6 +1231,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-058/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Discipline",
@@ -927,6 +1256,13 @@
         "type": "Unit",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-059/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -947,6 +1283,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-063/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Spirit's Refuge",
@@ -965,6 +1308,13 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-064/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -985,6 +1335,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-066/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Ahri, Alluring",
@@ -1003,6 +1360,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-066a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1023,6 +1387,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-068/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Caitlyn, Patrolling",
@@ -1041,6 +1412,13 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-069/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1061,6 +1439,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-073/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Sona, Harmonious",
@@ -1079,6 +1464,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-074/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1099,6 +1491,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-076/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Yasuo, Remorseful",
@@ -1117,6 +1516,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-076a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1137,6 +1543,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-077/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Zhonya's Hourglass",
@@ -1155,6 +1568,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-078/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1175,6 +1595,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-078a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Lee Sin, Ascetic",
@@ -1193,6 +1620,13 @@
         "type": "Gear",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-081/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1213,6 +1647,13 @@
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-082/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Whiteflame Protector",
@@ -1231,6 +1672,13 @@
         "type": "Spell",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-083/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1251,6 +1699,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-084/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Eager Apprentice",
@@ -1269,6 +1724,13 @@
         "type": "Spell",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-085/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1289,6 +1751,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-087/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Lecturing Yordle",
@@ -1307,6 +1776,13 @@
         "type": "Unit",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-088/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1327,6 +1803,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-089/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Mind Rune",
@@ -1345,6 +1828,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-089a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -1365,6 +1855,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-094/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Sprite Call",
@@ -1383,6 +1880,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-095/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1403,6 +1907,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-096/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Watchful Sentry",
@@ -1421,6 +1932,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-097/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1441,6 +1959,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-099/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Garbage Grabber",
@@ -1459,6 +1984,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-100/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1479,6 +2011,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-101/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Mushroom Pouch",
@@ -1497,6 +2036,13 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-102/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1517,6 +2063,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-103/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Ravenbloom Student",
@@ -1535,6 +2088,13 @@
         "type": "Spell",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-105/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1555,6 +2115,13 @@
         "cost": "5",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/107.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Ava Achiever",
@@ -1573,6 +2140,13 @@
         "type": "Unit",
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-109/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1593,6 +2167,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-110/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Ekko, Recurrent",
@@ -1611,6 +2192,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-111/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1631,6 +2219,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-112/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Kai'Sa, Evolutionary",
@@ -1649,6 +2244,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-112a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1669,6 +2271,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-113/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Malzahar, Fanatic",
@@ -1687,6 +2296,13 @@
         "type": "Spell",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-114/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1707,6 +2323,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-115/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Promising Future",
@@ -1726,12 +2349,21 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-117/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Viktor, Innovator",
     "type": "Unit",
     "cost": "4",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Mind"
     ]
@@ -1745,6 +2377,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-117a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1765,6 +2404,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-118/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Wraith of Echoes",
@@ -1783,6 +2429,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-119/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1803,6 +2456,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-119a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Ahri, Inquisitive",
@@ -1821,6 +2481,13 @@
         "type": "Gear",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-120/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1841,6 +2508,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-121/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Teemo, Strategist",
@@ -1859,6 +2533,13 @@
         "type": "Spell",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-123/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1879,6 +2560,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-124/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Arena Bar",
@@ -1897,6 +2585,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-125/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1917,6 +2612,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Body Rune",
@@ -1935,6 +2637,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -1955,6 +2664,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-127/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Cannon Barrage",
@@ -1973,6 +2689,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-128/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -1993,6 +2716,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-129/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Confront",
@@ -2011,6 +2741,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-130/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2031,6 +2768,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-131/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Dune Drake",
@@ -2049,6 +2793,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-132/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2069,6 +2820,13 @@
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-133/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Flurry of Blades",
@@ -2087,6 +2845,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-134/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2107,6 +2872,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-136/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Pit Rookie",
@@ -2125,6 +2897,13 @@
         "type": "Unit",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-137/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2145,6 +2924,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-138/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Catalyst of Aeons",
@@ -2163,6 +2949,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-139/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2183,6 +2976,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-140/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Herald of Scales",
@@ -2201,6 +3001,13 @@
         "type": "Unit",
         "cost": "9",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-142/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2221,6 +3028,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-147/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Wildclaw Shaman",
@@ -2239,6 +3053,13 @@
         "type": "Unit",
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-148/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2259,6 +3080,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-149/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Carnivorous Snapvine",
@@ -2277,6 +3105,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/150.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2297,6 +3132,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-152/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Mistfall",
@@ -2315,6 +3157,13 @@
         "type": "Spell",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-153/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2335,6 +3184,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-154/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Primal Strength",
@@ -2353,6 +3209,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-155/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2373,6 +3236,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-157/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Udyr, Wildman",
@@ -2391,6 +3261,13 @@
         "type": "Unit",
         "cost": "12",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-158/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2411,6 +3288,13 @@
         "cost": "12",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-158a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Volibear, Imposing",
@@ -2429,6 +3313,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-159/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2449,6 +3340,13 @@
         "cost": "9",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-160/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Dazzling Aurora",
@@ -2467,6 +3365,13 @@
         "type": "Unit",
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-161/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2487,6 +3392,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-162/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Captain",
@@ -2505,6 +3417,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-162a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2525,6 +3444,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-163/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Seal of Strength",
@@ -2543,6 +3469,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-165/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2563,6 +3496,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Chaos Rune",
@@ -2581,6 +3521,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -2601,6 +3548,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-168/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Fight or Flight",
@@ -2619,6 +3573,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-169/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2639,6 +3600,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-170/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Morbid Return",
@@ -2657,6 +3625,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-171/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2677,6 +3652,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-172/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Rebuke",
@@ -2695,6 +3677,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-174/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2715,6 +3704,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-176/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Sneaky Deckhand",
@@ -2733,6 +3729,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-177/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2753,6 +3756,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-178/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Undercover Agent",
@@ -2771,6 +3781,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-179/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2791,6 +3808,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-181/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Pack of Wonders",
@@ -2809,6 +3833,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-185/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2829,6 +3860,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-187/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Whirlwind",
@@ -2847,6 +3885,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-189/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2867,6 +3912,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-190/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Kog'Maw, Caustic",
@@ -2885,6 +3937,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-191/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2905,6 +3964,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-193/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Buccaneer",
@@ -2923,6 +3989,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-193a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2943,6 +4016,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-194/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Nocturne, Horrifying",
@@ -2961,6 +4041,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -2981,6 +4068,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Teemo, Scout",
@@ -2999,6 +4093,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-200/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3019,6 +4120,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-201/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Invert Timelines",
@@ -3037,6 +4145,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3057,6 +4172,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Jinx, Rebel",
@@ -3075,6 +4197,13 @@
         "type": "Spell",
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-203/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3095,6 +4224,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-204/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Seal of Discord",
@@ -3113,6 +4249,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3133,6 +4276,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Yasuo, Windrider",
@@ -3151,6 +4301,13 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-206/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3171,6 +4328,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-207/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Call to Glory",
@@ -3189,6 +4353,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-208/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3209,6 +4380,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-209/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Cull the Weak",
@@ -3227,6 +4405,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-210/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3247,12 +4432,21 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-211/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Faithful Manufactor",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3267,12 +4461,21 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-212/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Forge of the Future",
     "type": "Gear",
     "cost": "2",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3286,6 +4489,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-213/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3306,6 +4516,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "isHorizontal": false
       }
     },
     "name": "Order Rune",
@@ -3324,6 +4541,13 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "isHorizontal": false
       }
     },
@@ -3344,6 +4568,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-215/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Petty Officer",
@@ -3362,6 +4593,13 @@
         "type": "Unit",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-216/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3382,6 +4620,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-217/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Trifarian Gloryseeker",
@@ -3401,12 +4646,21 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-218/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Vanguard Captain",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3420,6 +4674,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-219/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3440,12 +4701,21 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-222/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Noxian Drummer",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3459,6 +4729,13 @@
         "type": "Unit",
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-225/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3479,6 +4756,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-230/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Albus Ferros",
@@ -3498,6 +4782,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-232/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Fiora, Victorious",
@@ -3507,7 +4798,7 @@
       "Order"
     ]
   },
-    "OGN-233": {
+  "OGN-233": {
     "id": "OGN-233",
     "isToken": false,
     "face": {
@@ -3516,6 +4807,13 @@
         "type": "Spell",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-233/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3536,6 +4834,13 @@
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-234/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Harnessed Dragon",
@@ -3554,6 +4859,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-235/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3574,6 +4886,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Leona, Determined",
@@ -3592,6 +4911,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3612,12 +4938,21 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-239/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Machine Evangel",
     "type": "Unit",
     "cost": "5",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3631,6 +4966,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3651,6 +4993,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240a/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Sett, Kingpin",
@@ -3669,6 +5018,13 @@
         "type": "Unit",
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-241/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3689,6 +5045,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Darius, Executioner",
@@ -3707,6 +5070,13 @@
         "type": "Unit",
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3727,6 +5097,13 @@
         "cost": "7",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/244.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Divine Judgment",
@@ -3745,6 +5122,13 @@
         "type": "Gear",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-245/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3765,12 +5149,21 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Viktor, Leader",
     "type": "Unit",
     "cost": "4",
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Order"
     ]
@@ -3784,6 +5177,13 @@
         "type": "Unit",
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246a/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -3803,6 +5203,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-247/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -3824,11 +5231,18 @@
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-248/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Icathian Rain",
-        "type": "Spell",
-        "cost": "7",
+    "type": "Spell",
+    "cost": "7",
     "Domain": [
       "Fury",
       "Mind"
@@ -3843,6 +5257,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-249/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -3864,6 +5285,13 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-250/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Stormbringer",
@@ -3883,6 +5311,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-251/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -3904,6 +5339,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-252/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Super Mega Death Rocket!",
@@ -3923,6 +5365,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-253/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -3944,6 +5393,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-254/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Noxian Guillotine",
@@ -3963,6 +5419,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-255/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -3984,6 +5447,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-256/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Fox-Fire",
@@ -4003,6 +5473,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-257/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4024,6 +5501,13 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-258/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Dragon's Rage",
@@ -4043,6 +5527,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-259/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4064,6 +5555,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-260/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Last Breath",
@@ -4083,6 +5581,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-261/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4104,6 +5609,13 @@
         "cost": "3",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-262/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Zenith Blade",
@@ -4123,6 +5635,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-263/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4144,6 +5663,13 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-264/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Guerilla Warfare",
@@ -4164,13 +5690,25 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-265/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Viktor, Herald of the Arcane",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-273"],
-    "Domain": ["Mind","Order"]
+    "tokens": [
+      "OGN-273"
+    ],
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGN-266": {
     "id": "OGN-266",
@@ -4181,6 +5719,13 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-266/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -4202,6 +5747,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-267/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Bounty hunter",
@@ -4221,6 +5773,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-268/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -4242,6 +5801,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-269/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Sett, The Boss",
@@ -4261,6 +5827,13 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-270/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
         "isHorizontal": false
       }
     },
@@ -4282,6 +5855,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-273/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Recruit",
@@ -4301,12 +5881,21 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-275/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Altar to Unity",
     "type": "Battlefields",
     "cost": 0,
-    "tokens": ["OGN-273"],
+    "tokens": [
+      "OGN-273"
+    ],
     "Domain": [
       "Domainless"
     ]
@@ -4321,6 +5910,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-276/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Aspirant's Climb",
@@ -4340,6 +5936,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-277/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Back-Alley Bar",
@@ -4359,6 +5962,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-278/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Bandle Tree",
@@ -4378,6 +5988,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-279/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Fortified Position",
@@ -4397,6 +6014,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-284/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Obelisk of Power",
@@ -4416,6 +6040,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-285/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Reaver's Row",
@@ -4435,6 +6066,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-286/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Reckoner's Arena",
@@ -4454,6 +6092,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/287p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Sigil of the Storm",
@@ -4473,6 +6118,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-288/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Startipped Peak",
@@ -4492,6 +6144,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/289p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Targon's Peak",
@@ -4511,6 +6170,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-290/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "The Arena's Greatest",
@@ -4530,6 +6196,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-291/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "The Candlelit Sanctum",
@@ -4549,6 +6222,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/292.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "The Dreaming Tree",
@@ -4568,6 +6248,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-293/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "The Grand Plaza",
@@ -4587,6 +6274,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-294/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Trifarian War Camp",
@@ -4606,6 +6300,13 @@
         "cost": 0,
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/296p.png",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Void Gate",
@@ -4625,6 +6326,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-297/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Windswept Hillock",
@@ -4644,6 +6352,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-298/full-desktop-2x.avif",
         "isHorizontal": true
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Zaun Warrens",
@@ -4662,6 +6377,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-300/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4683,6 +6405,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-300s/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Volibear, Relentless Storm",
@@ -4702,6 +6431,13 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-305/full-desktop-2x.avif",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
         "isHorizontal": false
       }
     },
@@ -4723,6 +6459,13 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-305s/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Yasuo, Unforgiven",
@@ -4743,6 +6486,13 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-001/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Annie, Fiery",
@@ -4762,12 +6512,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-002/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Firestorm",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Fury"]
+    "Domain": [
+      "Fury"
+    ]
   },
   "OGS-003": {
     "id": "OGS-003",
@@ -4779,12 +6538,21 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-003/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Incinerate",
     "type": "Spell",
     "cost": "2",
-    "Domain": ["Fury"]
+    "Domain": [
+      "Fury"
+    ]
   },
   "OGS-004": {
     "id": "OGS-004",
@@ -4796,12 +6564,21 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-004/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Master Yi, Meditative",
     "type": "Unit",
     "cost": "5",
-    "Domain": ["Calm"]
+    "Domain": [
+      "Calm"
+    ]
   },
   "OGS-005": {
     "id": "OGS-005",
@@ -4813,12 +6590,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-005/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Zephyr Sage",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Calm"]
+    "Domain": [
+      "Calm"
+    ]
   },
   "OGS-006": {
     "id": "OGS-006",
@@ -4830,12 +6616,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-006/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Lux, Illuminated",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Mind"]
+    "Domain": [
+      "Mind"
+    ]
   },
   "OGS-007": {
     "id": "OGS-007",
@@ -4847,12 +6642,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-007/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Garen, Rugged",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-008": {
     "id": "OGS-008",
@@ -4864,12 +6668,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-008/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Gentlemen's Duel",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-009": {
     "id": "OGS-009",
@@ -4881,12 +6694,21 @@
         "cost": "7",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-009/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Master Yi, Honed",
     "type": "Unit",
     "cost": "7",
-    "Domain": ["Body"]
+    "Domain": [
+      "Body"
+    ]
   },
   "OGS-010": {
     "id": "OGS-010",
@@ -4898,12 +6720,21 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-010/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Annie, Stubborn",
     "type": "Unit",
     "cost": "4",
-    "Domain": ["Chaos"]
+    "Domain": [
+      "Chaos"
+    ]
   },
   "OGS-011": {
     "id": "OGS-011",
@@ -4915,12 +6746,21 @@
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-011/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Flash",
     "type": "Spell",
     "cost": "2",
-    "Domain": ["Chaos"]
+    "Domain": [
+      "Chaos"
+    ]
   },
   "OGS-012": {
     "id": "OGS-012",
@@ -4932,12 +6772,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-012/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Blast of Power",
     "type": "Spell",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-013": {
     "id": "OGS-013",
@@ -4949,12 +6798,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-013/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Garen, Commander",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-014": {
     "id": "OGS-014",
@@ -4966,12 +6824,21 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-014/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Lux, Crownguard",
     "type": "Unit",
     "cost": "4",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-015": {
     "id": "OGS-015",
@@ -4983,13 +6850,24 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-015/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Recruit the Vanguard",
     "type": "Spell",
-     "cost": "6",
-     "tokens": ["OGN-273"],
-    "Domain": ["Order"]
+    "cost": "6",
+    "tokens": [
+      "OGN-273"
+    ],
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-016": {
     "id": "OGS-016",
@@ -5001,12 +6879,21 @@
         "cost": "6",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-016/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Vanguard Attendant",
     "type": "Unit",
     "cost": "6",
-    "Domain": ["Order"]
+    "Domain": [
+      "Order"
+    ]
   },
   "OGS-017": {
     "id": "OGS-017",
@@ -5018,13 +6905,22 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-017/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Annie, Dark Child",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Fury",
-  "Chaos"]
+    "Domain": [
+      "Fury",
+      "Chaos"
+    ]
   },
   "OGS-018": {
     "id": "OGS-018",
@@ -5036,13 +6932,22 @@
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-018/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Tibbers",
     "type": "Unit",
     "cost": "8",
-    "Domain": ["Fury",
-  "Chaos"]
+    "Domain": [
+      "Fury",
+      "Chaos"
+    ]
   },
   "OGS-019": {
     "id": "OGS-019",
@@ -5054,13 +6959,22 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-019/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Master Yi, Wuju Bladesman",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Calm",
-  "Body"]
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
   },
   "OGS-020": {
     "id": "OGS-020",
@@ -5072,13 +6986,22 @@
         "cost": "4",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-020/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Highlander",
     "type": "Spell",
     "cost": "4",
-    "Domain": ["Calm",
-  "Body"]
+    "Domain": [
+      "Calm",
+      "Body"
+    ]
   },
   "OGS-021": {
     "id": "OGS-021",
@@ -5090,13 +7013,22 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-021/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Lux, Lady of Luminosity",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Mind",
-  "Order"]
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGS-022": {
     "id": "OGS-022",
@@ -5108,13 +7040,22 @@
         "cost": "8",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-022/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Final Spark",
     "type": "Spell",
     "cost": "8",
-    "Domain": ["Mind",
-  "Order"]
+    "Domain": [
+      "Mind",
+      "Order"
+    ]
   },
   "OGS-023": {
     "id": "OGS-023",
@@ -5126,13 +7067,22 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-023/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "isHorizontal": false
       }
     },
     "name": "Garen, Might of Demacia",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Body",
-  "Order"]
+    "Domain": [
+      "Body",
+      "Order"
+    ]
   },
   "OGS-024": {
     "id": "OGS-024",
@@ -5144,12 +7094,21 @@
         "cost": "5",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-024/full-desktop-2x.avif",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+        "isHorizontal": false
       }
     },
     "name": "Decisive Strike",
     "type": "Spell",
     "cost": "5",
-    "Domain": ["Body",
-  "Order"]
+    "Domain": [
+      "Body",
+      "Order"
+    ]
   }
 }
