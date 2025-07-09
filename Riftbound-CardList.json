@@ -1553,7 +1553,7 @@
         "name": "Ava Achiever",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/107.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/107.jpg",
         "isHorizontal": false
       }
     },
@@ -2273,14 +2273,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jagged Taskmaster",
+        "name": "Kraken Hunter",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/150.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/150.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Jagged Taskmaster",
+    "name": "Kraken Hunter",
     "type": "Unit",
     "cost": "3",
     "Domain": [
