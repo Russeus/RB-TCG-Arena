@@ -15,7 +15,7 @@
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList-TEST.json",
-    "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png"
+    "cardBack": ""
   },
   "deckBuilding": {
     "mainFilters": [
