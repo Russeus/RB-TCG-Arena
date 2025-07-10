@@ -3725,7 +3725,7 @@
         "name": "Divine Judgment",
         "type": "Spell",
         "cost": "7",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/244.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-244/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -4547,7 +4547,7 @@
         "name": "The Dreaming Tree",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/292.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-292/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
