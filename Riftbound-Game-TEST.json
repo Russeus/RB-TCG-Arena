@@ -110,7 +110,7 @@
                 {
                   "section": "Battlefields",
                   "style": {
-                    "width": "20%"
+                    "width": "15%"
                   }
                 }
               ],
@@ -362,7 +362,7 @@
           "Battlefields": {
             "title": "Battlefields",
             "isHidden": "opponent-only",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
