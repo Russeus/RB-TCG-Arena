@@ -37,7 +37,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
+        "info": "Return this card to your deck. Choose your Battlefield. Shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
         "startingHandSize": "1",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
