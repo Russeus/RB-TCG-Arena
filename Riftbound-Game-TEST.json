@@ -1,5 +1,5 @@
 {
-  "name": "Riftbound TEST",
+  "name": "Riftbound Test",
   "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
@@ -14,7 +14,7 @@
   "customHelp": "(1) This app will tap runes without looking at colors when playing a card. You can deactivate this on Preferences. (2) You can create Tokens with right click on the source card. (3) You can mark buffed units with C + click. (4) To play a Hidden card, use Z + click on a card on your hand and then move it to the Battlefield. Then do the same to reveal it. (5) You can mark your points at the bottom left.",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList-CARDBACKS.json",
+    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
     "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png"
   },
   "deckBuilding": {
@@ -37,17 +37,17 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Mulligan up to 2 cards. Put them at the bottom, then draw up to 4 cards in hand.",
-        "startingHandSize": "4",
+        "info": "Choose your Battlefield and then do a manual Mulligan.",
+        "startingHandSize": "0",
         "drawNewHand": false,
-        "putSelectionAtBottom": true,
+        "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": 1
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [],
@@ -58,14 +58,15 @@
       "sections": {
         "customSections": [
           "Runes",
-          "Mana",
+          "Played_Runes",
           "Base",
           "B1",
           "B2",
           "myBF",
           "Battlefields",
           "Chosen_Champion",
-          "Legend"
+          "Legend",
+          "CAMPOS"
         ],
         "layout": {
           "direction": "column",
@@ -106,6 +107,12 @@
                   "style": {
                     "width": "10%"
                   }
+                },
+                {
+                  "section": "CAMPOS",
+                  "style": {
+                    "width": "10%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -122,7 +129,7 @@
                   }
                 },
                 {
-                  "section": "Mana",
+                  "section": "Played_Runes",
                   "style": {
                     "width": "35%"
                   }
@@ -151,7 +158,7 @@
           "Chosen_Champion"
         ],
         "autoPlayFromHand": {
-          "Runes": "Mana",
+          "Runes": "Played_Runes",
           "Gear": "Base",
           "Spell": "Stack"
         },
@@ -279,22 +286,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Runes",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Runes": {
             "title": "Runes",
             "isHidden": "yes",
@@ -416,6 +407,38 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Legend",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Played_Runes": {
+            "title": "Played_Runes",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Runes",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "CAMPOS": {
+            "title": "CAMPOS",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Test Campos",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
