@@ -1553,7 +1553,7 @@
         "name": "Ava Achiever",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/107.jpg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-107/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -2276,7 +2276,7 @@
         "name": "Kraken Hunter",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/150.jpg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-150/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
