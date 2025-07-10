@@ -49,7 +49,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "",
+      "defaultNotes": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
       "tokens": [],
       "countersStartingValues": [
         0
@@ -65,8 +65,7 @@
           "myBF",
           "Battlefields",
           "Chosen_Champion",
-          "Legend",
-          "CAMPOS"
+          "Legend"
         ],
         "layout": {
           "direction": "column",
@@ -109,9 +108,9 @@
                   }
                 },
                 {
-                  "section": "CAMPOS",
+                  "section": "Battlefields",
                   "style": {
-                    "width": "10%"
+                    "width": "15%"
                   }
                 }
               ],
@@ -137,13 +136,7 @@
                 {
                   "section": "Base",
                   "style": {
-                    "width": "44%"
-                  }
-                },
-                {
-                  "section": "Battlefields",
-                  "style": {
-                    "width": "15%"
+                    "width": "59%"
                   }
                 }
               ],
@@ -369,7 +362,7 @@
           "Battlefields": {
             "title": "Battlefields",
             "isHidden": "opponent-only",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -424,22 +417,6 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Runes",
             "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "CAMPOS": {
-            "title": "CAMPOS",
-            "isHidden": "opponent-only",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Test Campos",
-            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
