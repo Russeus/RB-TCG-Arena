@@ -37,7 +37,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan.",
+        "info": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
         "startingHandSize": "1",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
@@ -49,7 +49,7 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
+      "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
         0
