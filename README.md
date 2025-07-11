@@ -1,3 +1,3 @@
 To add Riftbound to TCG Arena click the following link:
 
-https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZydXNzZXVzLmdpdGh1Yi5pbyUyRlJCLVRDRy1BcmVuYSUyRlJpZnRib3VuZC1HYW1lLmpzb24=
+https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGUnVzc2V1cyUyRlJCLVRDRy1BcmVuYSUyRnJlZnMlMkZoZWFkcyUyRm1haW4lMkZSaWZ0Ym91bmQtR2FtZS5qc29u
