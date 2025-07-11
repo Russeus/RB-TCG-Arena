@@ -1203,6 +1203,44 @@
       "Calm"
     ]
   },
+  "OGN-079": {
+    "id": "OGN-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Devotee",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Devotee",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-079a": {
+    "id": "OGN-079a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Devotee",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Devotee",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-081": {
     "id": "OGN-081",
     "isToken": false,
@@ -2549,6 +2587,44 @@
     "name": "Seal of Strength",
     "type": "Gear",
     "cost": 0,
+    "Domain": [
+      "Body"
+    ]
+  },
+  "OGN-164": {
+    "id": "OGN-164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Iron Fist",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Iron Fist",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Body"
+    ]
+  },
+  "OGN-164a": {
+    "id": "OGN-164a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Iron Fist",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Iron Fist",
+    "type": "Unit",
+    "cost": "5",
     "Domain": [
       "Body"
     ]
