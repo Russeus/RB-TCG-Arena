@@ -1208,14 +1208,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Leona, Devotee",
+        "name": "Leona, Zealot",
         "type": "Unit",
         "cost": "6",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079.png",
         "isHorizontal": false
       }
     },
-    "name": "Leona, Devotee",
+    "name": "Leona, Zealot",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -1227,14 +1227,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Leona, Devotee",
+        "name": "Leona, Zealot",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079a.png",
         "isHorizontal": false
       }
     },
-    "name": "Leona, Devotee",
+    "name": "Leona, Zealot",
     "type": "Unit",
     "cost": "6",
     "Domain": [
