@@ -937,6 +937,25 @@
       "Calm"
     ]
   },
+  "OGN-061": {
+    "id": "OGN-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poro Herder",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poro Herder",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-063": {
     "id": "OGN-063",
     "isToken": false,
