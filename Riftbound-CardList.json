@@ -945,7 +945,7 @@
         "name": "Poro Herder",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/061.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-061/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1211,7 +1211,7 @@
         "name": "Leona, Zealot",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-079/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -1230,7 +1230,7 @@
         "name": "Leona, Zealot",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/079a.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-079a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -2596,10 +2596,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sett, Iron Fist",
+        "name": "Sett, Brawler",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/164.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-164/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -2615,10 +2615,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sett, Iron Fist",
+        "name": "Sett, Brawler",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/164.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-164a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
