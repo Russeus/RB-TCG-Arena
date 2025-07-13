@@ -5082,8 +5082,8 @@
     },
     "name": "Recruit the Vanguard",
     "type": "Spell",
-     "cost": "6",
-     "tokens": ["OGN-273"],
+    "cost": "6",
+    "tokens": ["OGN-273"],
     "Domain": ["Order"]
   },
   "OGS-016": {
