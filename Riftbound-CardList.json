@@ -3659,6 +3659,25 @@
       "Order"
     ]
   },
+  "OGN-236": {
+    "id": "OGN-236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karthus, Eternal",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/236.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karthus, Eternal",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Order"
+    ]
+  },
   "OGN-238": {
     "id": "OGN-238",
     "isToken": false,
