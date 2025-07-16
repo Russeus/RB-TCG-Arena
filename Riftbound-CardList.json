@@ -2344,6 +2344,25 @@
       "Body"
     ]
   },
+  "OGN-151": {
+    "id": "OGN-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lee Sin",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lee Sin",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Body"
+    ]
+  },
   "OGN-152": {
     "id": "OGN-152",
     "isToken": false,
@@ -2990,6 +3009,25 @@
       "Chaos"
     ]
   },
+  "OGN-192": {
+    "id": "OGN-192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infinite Mindsplitter",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infinite Mindsplitter",
+    "type": "Unit",
+    "cost": "7",
+    "Domain": [
+      "Chaos"
+    ]
+  },
   "OGN-193": {
     "id": "OGN-193",
     "isToken": false,
@@ -3579,6 +3617,25 @@
     "name": "Albus Ferros",
     "type": "Unit",
     "cost": "4",
+    "Domain": [
+      "Order"
+    ]
+  },
+  "OGN-231": {
+    "id": "OGN-231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commander Ledros",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/231.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commander Ledros",
+    "type": "Unit",
+    "cost": "6",
     "Domain": [
       "Order"
     ]
