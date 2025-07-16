@@ -2352,7 +2352,7 @@
         "name": "Lee Sin",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.jpeg",
         "isHorizontal": false
       }
     },
@@ -2371,7 +2371,7 @@
         "name": "Lee Sin",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151a.jpeg",
         "isHorizontal": false
       }
     },
@@ -3036,7 +3036,7 @@
         "name": "Infinite Mindsplitter",
         "type": "Unit",
         "cost": "7",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/192.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/192.jpeg",
         "isHorizontal": false
       }
     },
@@ -3648,7 +3648,7 @@
         "name": "Commander Ledros",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/231.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/231.jpeg",
         "isHorizontal": false
       }
     },
