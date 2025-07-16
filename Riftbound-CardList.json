@@ -2363,6 +2363,25 @@
       "Body"
     ]
   },
+  "OGN-151a": {
+    "id": "OGN-151a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lee Sin",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lee Sin",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Body"
+    ]
+  },
   "OGN-152": {
     "id": "OGN-152",
     "isToken": false,
