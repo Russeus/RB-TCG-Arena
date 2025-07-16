@@ -2349,14 +2349,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lee Sin",
+        "name": "Lee Sin, Centered",
         "type": "Unit",
         "cost": "6",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Lee Sin",
+    "name": "Lee Sin, Centered",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -2368,14 +2368,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lee Sin",
+        "name": "Lee Sin, Centered",
         "type": "Unit",
         "cost": "6",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151a.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Lee Sin",
+    "name": "Lee Sin, Centered",
     "type": "Unit",
     "cost": "6",
     "Domain": [
