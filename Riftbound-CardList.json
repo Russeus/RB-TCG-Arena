@@ -1907,6 +1907,25 @@
       "Mind"
     ]
   },
+  "OGN-121a": {
+    "id": "OGN-121a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Strategist",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-121a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Strategist",
+    "type": "Unit",
+    "cost": "2",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-123": {
     "id": "OGN-123",
     "isToken": false,
@@ -2352,7 +2371,7 @@
         "name": "Lee Sin, Centered",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151.jpeg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-151/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -2371,7 +2390,7 @@
         "name": "Lee Sin, Centered",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/151a.jpeg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-151a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -3036,7 +3055,7 @@
         "name": "Infinite Mindsplitter",
         "type": "Unit",
         "cost": "7",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/192.jpeg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-192/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -3648,7 +3667,7 @@
         "name": "Commander Ledros",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/231.jpeg",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-231/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
