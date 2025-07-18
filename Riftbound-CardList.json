@@ -1286,14 +1286,14 @@
       "front": {
         "name": "062",
         "type": "Spell",
-        "cost": "2",
+        "cost": "5",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/062.png",
         "isHorizontal": false
       }
     },
     "name": "062",
     "type": "Spell",
-    "cost": "2",
+    "cost": "5",
     "Domain": [
       "Calm"
     ]
@@ -2605,7 +2605,7 @@
     },
     "name": "122",
     "type": "Spell",
-    "cost": "710",
+    "cost": "10",
     "Domain": [
       "Mind"
     ]
@@ -2978,14 +2978,14 @@
       "front": {
         "name": "141",
         "type": "Unit",
-        "cost": "3",
+        "cost": "4",
         "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/141.png",
         "isHorizontal": false
       }
     },
     "name": "141",
     "type": "Unit",
-    "cost": "3",
+    "cost": "4",
     "Domain": [
       "Body"
     ]
