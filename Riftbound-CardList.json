@@ -4641,7 +4641,7 @@
     "name": "Vanguard Captain",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": ["OGN-271"],
     "Domain": [
       "Order"
     ]
@@ -4718,7 +4718,7 @@
     "name": "Noxian Drummer",
     "type": "Unit",
     "cost": "3",
-    "tokens": ["OGN-273"],
+    "tokens": ["OGN-272"],
     "Domain": [
       "Order"
     ]
@@ -5826,7 +5826,7 @@
     "name": "Altar to Unity",
     "type": "Battlefields",
     "cost": 0,
-    "tokens": ["OGN-273"],
+    "tokens": ["OGN-271"],
     "Domain": [
       "Domainless"
     ]
@@ -6603,7 +6603,7 @@
     "name": "Recruit the Vanguard",
     "type": "Spell",
     "cost": "6",
-    "tokens": ["OGN-273"],
+    "tokens": ["OGN-271"],
     "Domain": ["Order"]
   },
   "OGS-016": {
