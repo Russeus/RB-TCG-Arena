@@ -177,6 +177,25 @@
       "Fury"
     ]
   },
+  "OGN-009": {
+    "id": "OGN-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "009",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "009",
+    "type": "Spell",
+    "cost": "1",
+    "Domain": [
+      "Fury"
+    ]
+  },
   "OGN-010": {
     "id": "OGN-010",
     "isToken": false,
@@ -310,6 +329,63 @@
       "Fury"
     ]
   },
+  "OGN-017": {
+    "id": "OGN-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "017",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "017",
+    "type": "Gear",
+    "cost": "3",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-018": {
+    "id": "OGN-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "018",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "018",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-019": {
+    "id": "OGN-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "019",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "019",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Fury"
+    ]
+  },
   "OGN-020": {
     "id": "OGN-020",
     "isToken": false,
@@ -329,6 +405,63 @@
       "Fury"
     ]
   },
+  "OGN-021": {
+    "id": "OGN-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "021",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "021",
+    "type": "Gear",
+    "cost": "2",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-022": {
+    "id": "OGN-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "022",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "022",
+    "type": "Spell",
+    "cost": "5",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-023": {
+    "id": "OGN-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "023",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "023",
+    "type": "Gear",
+    "cost": "2",
+    "Domain": [
+      "Fury"
+    ]
+  },
   "OGN-024": {
     "id": "OGN-024",
     "isToken": false,
@@ -344,6 +477,44 @@
     "name": "Void Seeker",
     "type": "Spell",
     "cost": "3",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-025": {
+    "id": "OGN-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "025",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "025",
+    "type": "Spell",
+    "cost": "4",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-026": {
+    "id": "OGN-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "026",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "026",
+    "type": "Unit",
+    "cost": "6",
     "Domain": [
       "Fury"
     ]
@@ -462,6 +633,63 @@
       "Fury"
     ]
   },
+  "OGN-031": {
+    "id": "OGN-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "031",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "031",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-032": {
+    "id": "OGN-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "032",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "032",
+    "type": "Gear",
+    "cost": "3",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-033": {
+    "id": "OGN-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "033",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "033",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": [
+      "Fury"
+    ]
+  },
   "OGN-034": {
     "id": "OGN-034",
     "isToken": false,
@@ -553,6 +781,44 @@
     "name": "Kadregrin the Infernal",
     "type": "Unit",
     "cost": "9",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-039": {
+    "id": "OGN-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "039",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "039",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Fury"
+    ]
+  },
+  "OGN-039a": {
+    "id": "OGN-039a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "039",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/039a.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "039",
+    "type": "Unit",
+    "cost": "4",
     "Domain": [
       "Fury"
     ]
@@ -804,6 +1070,25 @@
       "Calm"
     ]
   },
+  "OGN-051": {
+    "id": "OGN-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "051",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "051",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-052": {
     "id": "OGN-052",
     "isToken": false,
@@ -837,6 +1122,25 @@
     },
     "name": "Stand United",
     "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-054": {
+    "id": "OGN-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "054",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "054",
+    "type": "Unit",
     "cost": "3",
     "Domain": [
       "Calm"
@@ -937,6 +1241,25 @@
       "Calm"
     ]
   },
+  "OGN-060": {
+    "id": "OGN-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "060",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "060",
+    "type": "Gear",
+    "cost": "2",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-061": {
     "id": "OGN-061",
     "isToken": false,
@@ -952,6 +1275,25 @@
     "name": "Poro Herder",
     "type": "Unit",
     "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-062": {
+    "id": "OGN-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "062",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "062",
+    "type": "Spell",
+    "cost": "2",
     "Domain": [
       "Calm"
     ]
@@ -994,6 +1336,25 @@
       "Calm"
     ]
   },
+  "OGN-065": {
+    "id": "OGN-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "065",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "065",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-066": {
     "id": "OGN-066",
     "isToken": false,
@@ -1026,6 +1387,25 @@
       }
     },
     "name": "Ahri, Alluring",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-067": {
+    "id": "OGN-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "067",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "067",
     "type": "Unit",
     "cost": "5",
     "Domain": [
@@ -1070,6 +1450,63 @@
       "Calm"
     ]
   },
+  "OGN-070": {
+    "id": "OGN-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "070",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "070",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-071": {
+    "id": "OGN-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "071",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "071",
+    "type": "Spell",
+    "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-072": {
+    "id": "OGN-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "072",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "072",
+    "type": "Gear",
+    "cost": "3",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-073": {
     "id": "OGN-073",
     "isToken": false,
@@ -1104,6 +1541,25 @@
     "name": "Taric, Protector",
     "type": "Unit",
     "cost": "4",
+    "Domain": [
+      "Calm"
+    ]
+  },
+  "OGN-075": {
+    "id": "OGN-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "075",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "075",
+    "type": "Unit",
+    "cost": "7",
     "Domain": [
       "Calm"
     ]
@@ -1241,6 +1697,25 @@
       "Calm"
     ]
   },
+  "OGN-080": {
+    "id": "OGN-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "080",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "080",
+    "type": "Spell",
+    "cost": "4",
+    "Domain": [
+      "Calm"
+    ]
+  },
   "OGN-081": {
     "id": "OGN-081",
     "isToken": false,
@@ -1336,6 +1811,25 @@
       "Mind"
     ]
   },
+  "OGN-086": {
+    "id": "OGN-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "086",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "086",
+    "type": "Unit",
+    "cost": "5",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-087": {
     "id": "OGN-087",
     "isToken": false,
@@ -1412,6 +1906,82 @@
       "Mind"
     ]
   },
+  "OGN-090": {
+    "id": "OGN-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "090",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "090",
+    "type": "Gear",
+    "cost": "1",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-091": {
+    "id": "OGN-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "091",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "091",
+    "type": "Unit",
+    "cost": "3",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-092": {
+    "id": "OGN-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "092",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "092",
+    "type": "Unit",
+    "cost": "6",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-093": {
+    "id": "OGN-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "093",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "093",
+    "type": "Spell",
+    "cost": "2",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-094": {
     "id": "OGN-094",
     "isToken": false,
@@ -1484,6 +2054,25 @@
     "name": "Blastcone Fae",
     "type": "Unit",
     "cost": "2",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-098": {
+    "id": "OGN-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "098",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "098",
+    "type": "Gear",
+    "cost": "3",
     "Domain": [
       "Mind"
     ]
@@ -1583,6 +2172,25 @@
       "Mind"
     ]
   },
+  "OGN-104": {
+    "id": "OGN-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "104",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "104",
+    "type": "Spell",
+    "cost": "1",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-105": {
     "id": "OGN-105",
     "isToken": false,
@@ -1602,6 +2210,25 @@
       "Mind"
     ]
   },
+  "OGN-106": {
+    "id": "OGN-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "106",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "106",
+    "type": "Unit",
+    "cost": "4",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-107": {
     "id": "OGN-107",
     "isToken": false,
@@ -1617,6 +2244,25 @@
     "name": "Ava Achiever",
     "type": "Unit",
     "cost": "5",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-108": {
+    "id": "OGN-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "108",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "108",
+    "type": "Spell",
+    "cost": "2",
     "Domain": [
       "Mind"
     ]
@@ -1773,6 +2419,25 @@
       "Mind"
     ]
   },
+  "OGN-116": {
+    "id": "OGN-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "116",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "116",
+    "type": "Unit",
+    "cost": "7",
+    "Domain": [
+      "Mind"
+    ]
+  },
   "OGN-117": {
     "id": "OGN-117",
     "isToken": false,
@@ -1922,6 +2587,25 @@
     "name": "Teemo, Strategist",
     "type": "Unit",
     "cost": "2",
+    "Domain": [
+      "Mind"
+    ]
+  },
+  "OGN-122": {
+    "id": "OGN-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "122",
+        "type": "Spell",
+        "cost": "10",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "122",
+    "type": "Spell",
+    "cost": "710",
     "Domain": [
       "Mind"
     ]
