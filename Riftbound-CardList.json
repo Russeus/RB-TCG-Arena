@@ -182,14 +182,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "009",
+        "name": "Hextech Ray",
         "type": "Spell",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/009.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-009/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "009",
+    "name": "Hextech Ray",
     "type": "Spell",
     "cost": "1",
     "Domain": [
@@ -334,14 +334,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "017",
+        "name": "Iron Ballista",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/017.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-017/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "017",
+    "name": "Iron Ballista",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -353,14 +353,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "018",
+        "name": "Nexus Saboteur",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/018.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-018/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "018",
+    "name": "Nexus Saboteur",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -372,14 +372,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "019",
+        "name": "Raging Soul",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/019.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-019/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "019",
+    "name": "Raging Soul",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -410,14 +410,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "021",
+        "name": "Sun Disc",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/021.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-021/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "021",
+    "name": "Sun Disc",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -429,14 +429,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "022",
+        "name": "Thermo Beam",
         "type": "Spell",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/022.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-022/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "022",
+    "name": "Thermo Beam",
     "type": "Spell",
     "cost": "5",
     "Domain": [
@@ -448,14 +448,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "023",
+        "name": "Unlicensed Armory",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/023.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-023/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "023",
+    "name": "Unlicensed Armory",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -486,14 +486,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "025",
+        "name": "Blind Fury",
         "type": "Spell",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/025.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-025/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "025",
+    "name": "Blind Fury",
     "type": "Spell",
     "cost": "4",
     "Domain": [
@@ -505,14 +505,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "026",
+        "name": "Brynhir Thundersong",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/026.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-026/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "026",
+    "name": "Brynhir Thundersong",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -638,14 +638,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "031",
+        "name": "Raging Firebrand",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/031.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-031/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "031",
+    "name": "Raging Firebrand",
     "type": "Unit",
     "cost": "6",
     "Domain": [
