@@ -1816,14 +1816,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "086",
+        "name": "Jeweled Colossus",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/086.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-086/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "086",
+    "name": "Jeweled Colossus",
     "type": "Unit",
     "cost": "5",
     "Domain": [
@@ -1911,14 +1911,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "090",
+        "name": "Orb of Regret",
         "type": "Gear",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/090.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-090/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "090",
+    "name": "Orb of Regret",
     "type": "Gear",
     "cost": "1",
     "Domain": [
@@ -1930,14 +1930,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "091",
+        "name": "Pit Crew",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/091.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-091/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "091",
+    "name": "Pit Crew",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -1949,14 +1949,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "092",
+        "name": "Riptide Rex",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/092.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-092/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "092",
+    "name": "Riptide Rex",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -1968,14 +1968,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "093",
+        "name": "Smoke Screen",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/093.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-093/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "093",
+    "name": "Smoke Screen",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -2063,14 +2063,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "098",
+        "name": "Energy Conduit",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/098.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-098/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "098",
+    "name": "Energy Conduit",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -2177,14 +2177,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "104",
+        "name": "Retreat",
         "type": "Spell",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/104.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-104/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "104",
+    "name": "Retreat",
     "type": "Spell",
     "cost": "1",
     "Domain": [
@@ -2215,14 +2215,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "106",
+        "name": "Sprite Mother",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/106.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-106/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "106",
+    "name": "Sprite Mother",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -2253,14 +2253,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "108",
+        "name": "Convergent Mutation",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/108.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-108/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "108",
+    "name": "Convergent Mutation",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -2424,14 +2424,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "116",
+        "name": "Thousand-Tailed Watcher",
         "type": "Unit",
         "cost": "7",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/116.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-116/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "116",
+    "name": "Thousand-Tailed Watcher",
     "type": "Unit",
     "cost": "7",
     "Domain": [
@@ -2596,14 +2596,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "122",
+        "name": "Time Warp",
         "type": "Spell",
         "cost": "10",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/122.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-122/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "122",
+    "name": "Time Warp",
     "type": "Spell",
     "cost": "10",
     "Domain": [
