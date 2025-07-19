@@ -1,5 +1,5 @@
 {
-  "name": "Riftbound Test",
+  "name": "Riftbound",
   "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
@@ -12,7 +12,7 @@
     "decksUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-TrialDecks.json"
   },
   "customHelp": "(1) You can create Tokens with right click on the source card. (2) You can mark buffed units with 'C + click' and Damage/Might mods with 'Ctrl + C + click'. (3) To play a Hidden card, use Z + click on a card on your hand and then move it to the Battlefield. Then do the same to reveal it. (4) You can mark your points at the bottom left.",
-  "cardRotation": "45",
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
     "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png"
@@ -37,7 +37,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Close this window. Choose your Battlefield. Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
+        "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
         "startingHandSize": "1",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
@@ -47,7 +47,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "0"
+        "drawPerTurn": "1"
       },
       "defaultNotes": "",
       "tokens": [],
@@ -315,7 +315,7 @@
             "title": "B1",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -331,7 +331,7 @@
             "title": "B2",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
