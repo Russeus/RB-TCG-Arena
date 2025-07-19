@@ -657,14 +657,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "032",
+        "name": "Ravenborn Tome",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/032.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-032/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "032",
+    "name": "Ravenborn Tome",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -676,14 +676,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "033",
+        "name": "Shakedown",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/033.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-033/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "033",
+    "name": "Shakedown",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -790,14 +790,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "039",
+        "name": "Kai'Sa, Survivor",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/039.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "039",
+    "name": "Kai'Sa, Survivor",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -809,14 +809,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "039",
+        "name": "Kai'Sa, Survivor",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/039a.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "039",
+    "name": "Kai'Sa, Survivor",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -1075,14 +1075,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "051",
+        "name": "Solari Shieldbearer",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/051.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-051/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "051",
+    "name": "Solari Shieldbearer",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -1132,14 +1132,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "054",
+        "name": "Sunlit Guardian",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/054.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-054/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "054",
+    "name": "Sunlit Guardian",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -1246,14 +1246,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "060",
+        "name": "Mask of Foresight",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/060.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-060/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "060",
+    "name": "Mask of Foresight",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -1284,14 +1284,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "062",
+        "name": "Reinforce",
         "type": "Spell",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/062.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-062/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "062",
+    "name": "Reinforce",
     "type": "Spell",
     "cost": "5",
     "Domain": [
@@ -1341,14 +1341,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "065",
+        "name": "Wizened Elder",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/065.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-065/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "065",
+    "name": "Wizened Elder",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -1398,14 +1398,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "067",
+        "name": "Blitzcrank, Impassive",
         "type": "Unit",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/067.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-067/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "067",
+    "name": "Blitzcrank, Impassive",
     "type": "Unit",
     "cost": "5",
     "Domain": [
@@ -1455,14 +1455,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "070",
+        "name": "Mageseeker Warden",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/070.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-070/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "070",
+    "name": "Mageseeker Warden",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -1474,14 +1474,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "071",
+        "name": "Party Favors",
         "type": "Spell",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/071.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-071/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "071",
+    "name": "Party Favors",
     "type": "Spell",
     "cost": "3",
     "Domain": [
@@ -1493,14 +1493,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "072",
+        "name": "Solari Shrine",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/072.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-072/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "072",
+    "name": "Solari Shrine",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -1550,14 +1550,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "075",
+        "name": "Tasty Faefolk",
         "type": "Unit",
         "cost": "7",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/075.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-075/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "075",
+    "name": "Tasty Faefolk",
     "type": "Unit",
     "cost": "7",
     "Domain": [
@@ -1702,14 +1702,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "080",
+        "name": "Mystic Reversal",
         "type": "Spell",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/080.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-080/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "080",
+    "name": "Mystic Reversal",
     "type": "Spell",
     "cost": "4",
     "Domain": [
