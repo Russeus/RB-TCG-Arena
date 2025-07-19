@@ -2862,14 +2862,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "135",
+        "name": "Pakaa Cub",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/135.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-135/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "135",
+    "name": "Pakaa Cub",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -2976,14 +2976,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "141",
+        "name": "Kinkou Monk",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/141.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-141/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "141",
+    "name": "Kinkou Monk",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -3014,14 +3014,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "143",
+        "name": "Pirate's Haven",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/143.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-143/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "143",
+    "name": "Pirate's Haven",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -3033,14 +3033,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "144",
+        "name": "Spoils of War",
         "type": "Spell",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/144.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-144/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "144",
+    "name": "Spoils of War",
     "type": "Spell",
     "cost": "4",
     "Domain": [
@@ -3052,14 +3052,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "145",
+        "name": "Unyielding Spirit",
         "type": "Spell",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/145.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-145/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "145",
+    "name": "Unyielding Spirit",
     "type": "Spell",
     "cost": "1",
     "Domain": [
@@ -3071,14 +3071,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "146",
+        "name": "Wallop",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/146.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-146/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "146",
+    "name": "Wallop",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -3280,14 +3280,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "156",
+        "name": "Sabotage",
         "type": "Spell",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/156.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-156/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "156",
+    "name": "Sabotage",
     "type": "Spell",
     "cost": "1",
     "Domain": [
@@ -3565,14 +3565,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "167",
+        "name": "Ember Monk",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/167.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-167/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "167",
+    "name": "Ember Monk",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -3679,14 +3679,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "173",
+        "name": "Ride the Wind",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/173.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-173/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "173",
+    "name": "Ride the Wind",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -3717,14 +3717,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "175",
+        "name": "Shipyard Skulker",
         "type": "Unit",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/175.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-175/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "175",
+    "name": "Shipyard Skulker",
     "type": "Unit",
     "cost": "3",
     "Domain": [
@@ -3812,14 +3812,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "180",
+        "name": "Fading Memories",
         "type": "Spell",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/180.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-180/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "180",
+    "name": "Fading Memories",
     "type": "Spell",
     "cost": "4",
     "Domain": [
@@ -3850,14 +3850,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "182",
+        "name": "Scraphead",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/182.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-182/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "182",
+    "name": "Scraphead",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -3869,14 +3869,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "183",
+        "name": "Stacked Deck",
         "type": "Spell",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/183.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-183/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "183",
+    "name": "Stacked Deck",
     "type": "Spell",
     "cost": "1",
     "Domain": [
@@ -3888,14 +3888,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "184",
+        "name": "The Syren",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/184.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-184/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "184",
+    "name": "The Syren",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -3926,14 +3926,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "186",
+        "name": "Treasure Trove",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/186.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-186/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "186",
+    "name": "Treasure Trove",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -3964,14 +3964,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "188",
+        "name": "Zaunite Bouncer",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/188.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-188/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "188",
+    "name": "Zaunite Bouncer",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -4116,14 +4116,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "195",
+        "name": "Rhasa the Sunderer",
         "type": "Unit",
         "cost": "10",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/195.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-195/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "195",
+    "name": "Rhasa the Sunderer",
     "type": "Unit",
     "cost": "10",
     "Domain": [
@@ -4135,14 +4135,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "196",
+        "name": "Soulgorger",
         "type": "Unit",
         "cost": "8",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/196.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-196/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "196",
+    "name": "Soulgorger",
     "type": "Unit",
     "cost": "8",
     "Domain": [
@@ -4192,14 +4192,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "198",
+        "name": "The Harrowing",
         "type": "Spell",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/198.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-198/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "198",
+    "name": "The Harrowing",
     "type": "Spell",
     "cost": "6",
     "Domain": [
@@ -4211,14 +4211,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "199",
+        "name": "Tideturner",
         "type": "Unit",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/199.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-199/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "199",
+    "name": "Tideturner",
     "type": "Unit",
     "cost": "2",
     "Domain": [
@@ -4670,14 +4670,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "220",
+        "name": "Facebreaker",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/220.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-220/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "220",
+    "name": "Facebreaker",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -4689,14 +4689,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "221",
+        "name": "Imperial Decree",
         "type": "Spell",
         "cost": "5",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/221.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-221/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "221",
+    "name": "Imperial Decree",
     "type": "Spell",
     "cost": "5",
     "Domain": [
@@ -4728,14 +4728,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "223",
+        "name": "Peak Guardian",
         "type": "Unit",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/223.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-223/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "223",
+    "name": "Peak Guardian",
     "type": "Unit",
     "cost": "6",
     "Domain": [
@@ -4747,14 +4747,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "224",
+        "name": "Salvage",
         "type": "Spell",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/224.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-224/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "224",
+    "name": "Salvage",
     "type": "Spell",
     "cost": "2",
     "Domain": [
@@ -4785,14 +4785,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "226",
+        "name": "Spectral Matron",
         "type": "Unit",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/226.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-226/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "226",
+    "name": "Spectral Matron",
     "type": "Unit",
     "cost": "4",
     "Domain": [
@@ -4804,14 +4804,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "227",
+        "name": "Symbol of the Solari",
         "type": "Gear",
         "cost": "1",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/227.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-227/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "227",
+    "name": "Symbol of the Solari",
     "type": "Gear",
     "cost": "1",
     "Domain": [
@@ -4823,14 +4823,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "228",
+        "name": "Vanguard Helm",
         "type": "Gear",
         "cost": "2",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/228.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-228/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "228",
+    "name": "Vanguard Helm",
     "type": "Gear",
     "cost": "2",
     "Domain": [
@@ -4842,14 +4842,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "229",
+        "name": "Vengeance",
         "type": "Spell",
         "cost": "4",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/229.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-229/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "229",
+    "name": "Vengeance",
     "type": "Spell",
     "cost": "4",
     "Domain": [
@@ -4994,14 +4994,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "237",
+        "name": "King's Edict",
         "type": "Spell",
         "cost": "6",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/237.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-237/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "237",
+    "name": "King's Edict",
     "type": "Spell",
     "cost": "6",
     "Domain": [
@@ -5128,14 +5128,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "242",
+        "name": "Baited Hook",
         "type": "Gear",
         "cost": "3",
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/242.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-242/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "242",
+    "name": "Baited Hook",
     "type": "Gear",
     "cost": "3",
     "Domain": [
@@ -5743,7 +5743,7 @@
         "name": "Recruit",
         "type": "Unit",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/271.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-271/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5762,7 +5762,7 @@
         "name": "Recruit",
         "type": "Unit",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/272.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-272/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5797,14 +5797,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "274",
+        "name": "Sprite",
         "type": "Unit",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/274.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-274/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "274",
+    "name": "Sprite",
     "type": "Unit",
     "cost": 0,
     "Domain": [
@@ -5912,14 +5912,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "280",
+        "name": "Grove of the God-Willow",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/280.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-280/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "280",
+    "name": "Grove of the God-Willow",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
@@ -5931,14 +5931,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "281",
+        "name": "Hallowed Tomb",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/281.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-281/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "281",
+    "name": "Hallowed Tomb",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
@@ -5950,14 +5950,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "282",
+        "name": "Monastery of Hirana",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/282.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-282/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "282",
+    "name": "Monastery of Hirana",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
@@ -5969,14 +5969,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "283",
+        "name": "Navori Fighting Pit",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/283.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-283/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "283",
+    "name": "Navori Fighting Pit",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
@@ -6048,7 +6048,7 @@
         "name": "Sigil of the Storm",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/287p.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-287/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -6086,7 +6086,7 @@
         "name": "Targon's Peak",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/289p.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-289/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -6197,14 +6197,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "295",
+        "name": "Vilemaw's Lair",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/295.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-295/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
-    "name": "295",
+    "name": "Vilemaw's Lair",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
@@ -6219,7 +6219,7 @@
         "name": "Void Gate",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/296p.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-296/full-desktop-2x.avif",
         "isHorizontal": true
       }
     },
@@ -6337,6 +6337,26 @@
         "type": "Legend",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-305s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Unforgiven",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "Calm",
+      "Chaos"
+    ]
+  },
+  "OGN-XXX": {
+    "id": "OGN-XXX",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buff",
+        "type": "Other",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-XXX/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
