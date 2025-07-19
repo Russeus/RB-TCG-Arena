@@ -1123,6 +1123,7 @@
     "name": "Stand United",
     "type": "Spell",
     "cost": "3",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -1180,6 +1181,7 @@
     "name": "Adaptatron",
     "type": "Unit",
     "cost": "4",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -1275,6 +1277,7 @@
     "name": "Poro Herder",
     "type": "Unit",
     "cost": "3",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -1313,6 +1316,7 @@
     "name": "Spirit's Refuge",
     "type": "Gear",
     "cost": "2",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -1636,6 +1640,7 @@
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
     "cost": "5",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -1655,6 +1660,7 @@
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
     "cost": "5",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm"
     ]
@@ -2644,6 +2650,7 @@
     "name": "Arena Bar",
     "type": "Gear",
     "cost": "3",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -2891,6 +2898,7 @@
     "name": "Pit Rookie",
     "type": "Unit",
     "cost": "2",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -2948,6 +2956,7 @@
     "name": "Cithria of Cloudfield",
     "type": "Unit",
     "cost": "2",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -2986,6 +2995,7 @@
     "name": "Kinkou Monk",
     "type": "Unit",
     "cost": "4",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -3477,9 +3487,10 @@
         "isHorizontal": false
       }
     },
-    "name": "Sett, Iron Fist",
+    "name": "Sett, Brawler",
     "type": "Unit",
     "cost": "5",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -3496,9 +3507,10 @@
         "isHorizontal": false
       }
     },
-    "name": "Sett, Iron Fist",
+    "name": "Sett, Brawler",
     "type": "Unit",
     "cost": "5",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body"
     ]
@@ -4622,6 +4634,7 @@
     "name": "Trifarian Gloryseeker",
     "type": "Unit",
     "cost": "2",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Order"
     ]
@@ -4738,6 +4751,7 @@
     "name": "Peak Guardian",
     "type": "Unit",
     "cost": "6",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Order"
     ]
@@ -4833,6 +4847,7 @@
     "name": "Vanguard Helm",
     "type": "Gear",
     "cost": "2",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Order"
     ]
@@ -4966,6 +4981,7 @@
     "name": "Karma, Channeler",
     "type": "Unit",
     "cost": "6",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Order"
     ]
@@ -5472,6 +5488,7 @@
     "name": "Lee Sin, Blind Monk",
     "type": "Legend",
     "cost": 0,
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Calm",
       "Body"
@@ -5730,6 +5747,7 @@
     "name": "Showstopper",
     "type": "Spell",
     "cost": "1",
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Body",
       "Order"
@@ -5979,6 +5997,7 @@
     "name": "Navori Fighting Pit",
     "type": "Battlefields",
     "cost": 0,
+    "tokens": ["OGN-XXX"],
     "Domain": [
       "Domainless"
     ]
