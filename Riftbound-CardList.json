@@ -3862,14 +3862,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Scraphead",
+        "name": "Scrapheap",
         "type": "Gear",
         "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-182/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Scraphead",
+    "name": "Scrapheap",
     "type": "Gear",
     "cost": "2",
     "Domain": [
