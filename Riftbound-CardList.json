@@ -6369,7 +6369,7 @@
   },
   "OGN-XXX": {
     "id": "OGN-XXX",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Buff",
