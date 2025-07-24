@@ -6379,12 +6379,11 @@
         "isHorizontal": false
       }
     },
-    "name": "Yasuo, Unforgiven",
-    "type": "Legend",
+    "name": "Buff",
+    "type": "Other",
     "cost": 0,
     "Domain": [
-      "Calm",
-      "Chaos"
+      "Domainless"
     ]
   },
   "OGS-001": {
