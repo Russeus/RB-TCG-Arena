@@ -58,7 +58,7 @@
       "sections": {
         "customSections": [
           "Runes",
-          "Played_Runes",
+          "Mana",
           "Base",
           "B1",
           "B2",
@@ -128,7 +128,7 @@
                   }
                 },
                 {
-                  "section": "Played_Runes",
+                  "section": "Mana",
                   "style": {
                     "width": "35%"
                   }
@@ -151,7 +151,7 @@
           "Chosen_Champion"
         ],
         "autoPlayFromHand": {
-          "Runes": "Played_Runes",
+          "Runes": "Mana",
           "Gear": "Base",
           "Spell": "Stack"
         },
@@ -221,7 +221,7 @@
             "isGroupForbidden": true,
             "displayedTitle": "Pile",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -301,7 +301,7 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
             "noQuickActions": false,
@@ -317,7 +317,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 1",
             "noQuickActions": false,
@@ -333,7 +333,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 2",
             "noQuickActions": false,
@@ -349,11 +349,11 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Chosen Battlefield",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -365,7 +365,7 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Battlefields",
             "noQuickActions": true,
@@ -381,7 +381,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Chosen Champion",
             "noQuickActions": true,
@@ -397,7 +397,7 @@
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Legend",
             "noQuickActions": true,
@@ -407,13 +407,13 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Played_Runes": {
-            "title": "Played_Runes",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Runes",
             "noQuickActions": false,
