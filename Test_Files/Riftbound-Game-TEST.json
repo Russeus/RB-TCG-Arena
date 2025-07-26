@@ -798,7 +798,7 @@
                         "title": "Mana",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER",
+                        "alignment": "END",
                         "opponentAlignment": false,
                         "noAutoPayTo": false,
                         "isHorizontalAllowed": true,
