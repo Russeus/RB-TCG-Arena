@@ -880,7 +880,6 @@
                                         {
                                             "section": "B1",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(130, 0, 0, 0) 0%, rgba(130, 0, 0, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -906,7 +905,6 @@
                                         {
                                             "section": "B2",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(0, 130, 0, 0) 0%, rgba(0, 130, 0, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
