@@ -553,7 +553,7 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
                             ],
                             "isSymetricalForOpponents": true
                         },
@@ -571,7 +571,7 @@
                                     }
                                 },
                                 {
-                                    "section": "Base",
+                                    "section": "Base"
                                 },
                                 {
                                     "section": "Legend",
