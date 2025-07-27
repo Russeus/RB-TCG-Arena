@@ -133,7 +133,7 @@
                                     ]
                                 }
                             ],
-                            "isSymetricalForOpponents": true
+                            "isSymetricalForOpponents": false
                         },
                         {
                             "direction": "row",
@@ -145,7 +145,7 @@
                                 {
                                     "section": "Mana",
                                     "style": {
-                                        "width": "30%"
+                                        "width": "35%"
                                     }
                                 },
                                 {
