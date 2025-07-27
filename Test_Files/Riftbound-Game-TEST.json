@@ -68,10 +68,9 @@
                     "Mana",
                     "Base",
                     "B1",
-                    "myBF1",
+                    "Battlefields",
                     "myBF2",
                     "B2",
-                    "Battlefields",
                     "Chosen_Champion",
                     "Legend"
                 ],
@@ -88,9 +87,9 @@
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
                                     "content": [
                                         {
-                                            "section": "myBF1",
+                                            "section": "Battlefields",
                                             "style": {
-                                                "width": "20vh",
+                                                "width": "30vh",
                                                 "height": "12vh",
                                                 "scale": "0.68",
                                                 "position": "absolute",
@@ -115,7 +114,7 @@
                                         {
                                             "section": "myBF2",
                                             "style": {
-                                                "width": "20vh",
+                                                "width": "30vh",
                                                 "height": "12vh",
                                                 "scale": "0.68",
                                                 "position": "absolute",
@@ -163,10 +162,6 @@
                                     "style": {
                                         "width": "10.2vh"
                                     }
-                                },
-                                {
-                                    "section": "Battlefields",
-                                    "style": { "width": "11%" }
                                 }
                             ],
                             "isSymetricalForOpponents": false
@@ -220,9 +215,9 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "myBF1": {
-                        "title": "myBF1",
-                        "isHidden": "no",
+                    "Battlefields": {
+                        "title": "Battlefields",
+                        "isHidden": "opponent-only",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -247,26 +242,7 @@
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Chosen Battlefield",
-                        "noQuickActions": true,
-                        "enterTapped": false,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false,
-                        "cardStyle": {
-                            "marginTop": "-2vh"
-                        }
-                    },
-                    "myBF3": {
-                        "title": "myBF3",
-                        "isHidden": "no",
-                        "height": "12.5",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Chosen Battlefield",
+                        "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -304,38 +280,6 @@
                         "displayedTitle": "BF Units 2",
                         "noQuickActions": false,
                         "enterTapped": true,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
-                    },
-                    "B3": {
-                        "title": "B3",
-                        "isHidden": "no",
-                        "height": "16",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "BF Units 3",
-                        "noQuickActions": false,
-                        "enterTapped": true,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
-                    },
-                    "Battlefields": {
-                        "title": "Battlefields",
-                        "isHidden": "opponent-only",
-                        "height": "SMALL",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Battlefields",
-                        "noQuickActions": true,
-                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
@@ -627,7 +571,7 @@
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Chosen Battlefield",
+                        "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
@@ -646,7 +590,7 @@
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Chosen Battlefield",
+                        "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
