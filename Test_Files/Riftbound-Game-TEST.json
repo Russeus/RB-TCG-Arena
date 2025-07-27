@@ -38,409 +38,11 @@
         "customCategories": [
           "Chosen_Champion"
         ]
-      },
-      {
-        "title": "1v1",
-        "gameplay": "1v1",
-        "customCategories": [
-          "Chosen_Champion"
-        ]
       }
     ]
   },
   "gameplay": {
     "Classic": {
-      "mulligan": {
-        "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
-        "startingHandSize": "0",
-        "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
-      },
-      "newTurn": {
-        "drawOnStart": false,
-        "sharedTurn": false,
-        "firstPlayerTokenName": "",
-        "drawPerTurn": "1"
-      },
-      "defaultNotes": "",
-      "tokens": [],
-      "countersStartingValues": [
-        0
-      ],
-      "hideFacedDownCards": false,
-      "sections": {
-        "customSections": [
-          "Runes",
-          "Mana",
-          "Base",
-          "B1",
-          "B2",
-          "myBF",
-          "Battlefields",
-          "Chosen_Champion",
-          "Legend"
-        ],
-        "layout": {
-          "direction": "column",
-          "isSymetricalForOpponents": false,
-          "content": [
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "myBF",
-                  "style": {
-                    "width": "20%"
-                  }
-                },
-                {
-                  "section": "B1",
-                  "style": {
-                    "width": "29%",
-                    "marginRight": "1%"
-                  }
-                },
-                {
-                  "section": "B2",
-                  "style": {
-                    "width": "29%",
-                    "marginLeft": "1%"
-                  }
-                },
-                {
-                  "section": "Legend",
-                  "style": {
-                    "width": "10%"
-                  }
-                },
-                {
-                  "section": "Chosen_Champion",
-                  "style": {
-                    "width": "10%"
-                  }
-                },
-                {
-                  "section": "Battlefields",
-                  "style": {
-                    "width": "15%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Runes",
-                  "style": {
-                    "width": "5%",
-                    "marginRight": "1%"
-                  }
-                },
-                {
-                  "section": "Mana",
-                  "style": {
-                    "width": "35%"
-                  }
-                },
-                {
-                  "section": "Base",
-                  "style": {
-                    "width": "59%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            }
-          ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Runes",
-          "Battlefields",
-          "Legend",
-          "Chosen_Champion"
-        ],
-        "autoPlayFromHand": {
-          "Runes": "Mana",
-          "Gear": "Base",
-          "Spell": "Stack"
-        },
-        "autoPlayFromStack": {
-          "Spell": "Discard"
-        },
-        "sectionsDict": {
-          "Hand": {
-            "isDefaultSection": true,
-            "title": "Hand",
-            "isHidden": "opponent-only",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "autoPayFrom": true,
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Deck": {
-            "isDefaultSection": true,
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Runes": {
-            "title": "Runes",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Runes Deck",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Base": {
-            "title": "Base",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Base",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "B1": {
-            "title": "B1",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "BF Units 1",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "B2": {
-            "title": "B2",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "BF Units 2",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "myBF": {
-            "title": "myBF",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Chosen Battlefield",
-            "noQuickActions": true,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Battlefields": {
-            "title": "Battlefields",
-            "isHidden": "opponent-only",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Battlefields",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Chosen_Champion": {
-            "title": "Chosen_Champion",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Chosen Champion",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Legend": {
-            "title": "Legend",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Legend",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Runes",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          }
-        }
-      }
-    },
-    "Multiplayer": {
             "mulligan": {
                 "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
                 "startingHandSize": 0,
@@ -468,9 +70,7 @@
                     "B1",
                     "myBF1",
                     "myBF2",
-                    "myBF3",
                     "B2",
-                    "B3",
                     "Battlefields",
                     "Chosen_Champion",
                     "Legend"
@@ -502,7 +102,6 @@
                                         {
                                             "section": "B1",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(130, 0, 0, 0) 0%, rgba(130, 0, 0, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -528,33 +127,6 @@
                                         {
                                             "section": "B2",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(0, 130, 0, 0) 0%, rgba(0, 130, 0, 0.6) 90%)",
-                                                "borderRadius": "1vh",
-                                                "marginTop": "auto"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "direction": "column",
-                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                    "content": [
-                                        {
-                                            "section": "myBF3",
-                                            "style": {
-                                                "width": "20vh",
-                                                "height": "12vh",
-                                                "scale": "0.68",
-                                                "position": "absolute",
-                                                "top": "0",
-                                                "left": "50%",
-                                                "translate": "-50% -3.25vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "B3",
-                                            "style": {
-                                                "background": "linear-gradient(0deg, rgba(0, 0, 130, 0) 0%, rgba(0, 0, 130, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -574,7 +146,7 @@
                                 {
                                     "section": "Mana",
                                     "style": {
-                                        "width": "35%"
+                                        "width": "30%"
                                     }
                                 },
                                 {
@@ -820,7 +392,7 @@
                 }
             }
     },
-    "1v1": {
+    "Multiplayer": {
             "mulligan": {
                 "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
                 "startingHandSize": 0,
@@ -848,7 +420,9 @@
                     "B1",
                     "myBF1",
                     "myBF2",
+                    "myBF3",
                     "B2",
+                    "B3",
                     "Battlefields",
                     "Chosen_Champion",
                     "Legend"
@@ -880,6 +454,7 @@
                                         {
                                             "section": "B1",
                                             "style": {
+                                                "background": "linear-gradient(0deg, rgba(130, 0, 0, 0) 0%, rgba(130, 0, 0, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -905,6 +480,33 @@
                                         {
                                             "section": "B2",
                                             "style": {
+                                                "background": "linear-gradient(0deg, rgba(0, 130, 0, 0) 0%, rgba(0, 130, 0, 0.6) 90%)",
+                                                "borderRadius": "1vh",
+                                                "marginTop": "auto"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "direction": "column",
+                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "content": [
+                                        {
+                                            "section": "myBF3",
+                                            "style": {
+                                                "width": "20vh",
+                                                "height": "12vh",
+                                                "scale": "0.68",
+                                                "position": "absolute",
+                                                "top": "0",
+                                                "left": "50%",
+                                                "translate": "-50% -3.25vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "B3",
+                                            "style": {
+                                                "background": "linear-gradient(0deg, rgba(0, 0, 130, 0) 0%, rgba(0, 0, 130, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -924,7 +526,7 @@
                                 {
                                     "section": "Mana",
                                     "style": {
-                                        "width": "30%"
+                                        "width": "35%"
                                     }
                                 },
                                 {
