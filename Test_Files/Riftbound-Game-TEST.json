@@ -44,7 +44,7 @@
   "gameplay": {
     "Classic": {
             "mulligan": {
-                "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
+                "info": "",
                 "startingHandSize": 0,
                 "drawNewHand": false,
                 "putSelectionAtBottom": false,
@@ -338,7 +338,7 @@
     },
     "Multiplayer": {
             "mulligan": {
-                "info": "Close this window. Choose your Battlefield. (You can manage turn order on the button above New Game). Return your hand to the deck, shuffle deck and then do a manual Draw/Mulligan. Read Help Notes for more info.",
+                "info": "",
                 "startingHandSize": 0,
                 "drawNewHand": false,
                 "putSelectionAtBottom": false,
@@ -362,12 +362,11 @@
                     "Mana",
                     "Base",
                     "B1",
-                    "myBF1",
+                    "Battlefields",
                     "myBF2",
                     "myBF3",
                     "B2",
                     "B3",
-                    "Battlefields",
                     "Chosen_Champion",
                     "Legend"
                 ],
@@ -384,9 +383,9 @@
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
                                     "content": [
                                         {
-                                            "section": "myBF1",
+                                            "section": "Battlefields",
                                             "style": {
-                                                "width": "20vh",
+                                                "width": "30vh",
                                                 "height": "12vh",
                                                 "scale": "0.68",
                                                 "position": "absolute",
@@ -398,7 +397,7 @@
                                         {
                                             "section": "B1",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(130, 0, 0, 0) 0%, rgba(130, 0, 0, 0.6) 90%)",
+                                                "background": "linear-gradient(0deg, rgba(170, 85, 85, 0) 0%, rgba(170, 85, 85, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -412,7 +411,7 @@
                                         {
                                             "section": "myBF2",
                                             "style": {
-                                                "width": "20vh",
+                                                "width": "30vh",
                                                 "height": "12vh",
                                                 "scale": "0.68",
                                                 "position": "absolute",
@@ -424,7 +423,7 @@
                                         {
                                             "section": "B2",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(0, 130, 0, 0) 0%, rgba(0, 130, 0, 0.6) 90%)",
+                                                "background": "linear-gradient(0deg, rgba(85, 170, 85, 0) 0%, rgba(85, 170, 85, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -438,7 +437,7 @@
                                         {
                                             "section": "myBF3",
                                             "style": {
-                                                "width": "20vh",
+                                                "width": "30vh",
                                                 "height": "12vh",
                                                 "scale": "0.68",
                                                 "position": "absolute",
@@ -450,7 +449,7 @@
                                         {
                                             "section": "B3",
                                             "style": {
-                                                "background": "linear-gradient(0deg, rgba(0, 0, 130, 0) 0%, rgba(0, 0, 130, 0.6) 90%)",
+                                                "background": "linear-gradient(0deg, rgba(85, 85, 170, 0) 0%, rgba(85, 85, 170, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -487,10 +486,6 @@
                                     "style": {
                                         "width": "10.2vh"
                                     }
-                                },
-                                {
-                                    "section": "Battlefields",
-                                    "style": { "width": "11%" }
                                 }
                             ],
                             "isSymetricalForOpponents": false
@@ -545,8 +540,8 @@
                         "showHiddenCardInHistory": false
                     },
                     "myBF1": {
-                        "title": "myBF1",
-                        "isHidden": "no",
+                        "title": "Battlefields",
+                        "isHidden": "opponent-only",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
