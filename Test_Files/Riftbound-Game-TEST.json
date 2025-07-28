@@ -539,7 +539,7 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "myBF1": {
+                    "Battlefields": {
                         "title": "Battlefields",
                         "isHidden": "opponent-only",
                         "height": "12",
@@ -639,22 +639,6 @@
                         "displayedTitle": "BF Units 3",
                         "noQuickActions": false,
                         "enterTapped": true,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
-                    },
-                    "Battlefields": {
-                        "title": "Battlefields",
-                        "isHidden": "opponent-only",
-                        "height": "SMALL",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Battlefields",
-                        "noQuickActions": true,
-                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
