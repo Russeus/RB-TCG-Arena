@@ -511,5 +511,402 @@
       }
     ]
   }
+},
+{
+  "title": "Jinx Champion Deck (Precon)",
+  "id": "3c3c92b8-b775-4b20-bc31-af771044e775",
+  "game": "Riftbound",
+  "format": ["Classic", "Multiplayer"],
+  "cardCount": 56,
+  "createdAt": "2025-07-29T06:16:49.003Z",
+  "lastModifiedAt": "2025-07-29T06:17:06.999Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-251"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 1,
+        "id": "OGN-036"
+      },
+      {
+        "count": 3,
+        "id": "OGN-003"
+      },
+      {
+        "count": 2,
+        "id": "OGN-165"
+      },
+      {
+        "count": 3,
+        "id": "OGN-006"
+      },
+      {
+        "count": 3,
+        "id": "OGN-019"
+      },
+      {
+        "count": 2,
+        "id": "OGN-001"
+      },
+      {
+        "count": 2,
+        "id": "OGN-178"
+      },
+      {
+        "count": 3,
+        "id": "OGN-002"
+      },
+      {
+        "count": 1,
+        "id": "OGN-011"
+      },
+      {
+        "count": 1,
+        "id": "OGN-195"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-169"
+      },
+      {
+        "count": 2,
+        "id": "OGN-008"
+      },
+      {
+        "count": 3,
+        "id": "OGN-168"
+      },
+      {
+        "count": 2,
+        "id": "OGN-024"
+      },
+      {
+        "count": 2,
+        "id": "OGN-180"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "OGN-182"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-285"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-030"
+      }
+    ]
+  }
+},
+{
+  "title": "Lee Sin Champion Deck (Precon)",
+  "id": "a7fd3b02-6b4e-4564-9a22-691ef3b6ff81",
+  "game": "Riftbound",
+  "format": ["Classic", "Multiplayer"],
+  "cardCount": 56,
+  "createdAt": "2025-07-29T06:19:58.937Z",
+  "lastModifiedAt": "2025-07-29T06:20:18.441Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-257"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-136"
+      },
+      {
+        "count": 3,
+        "id": "OGN-052"
+      },
+      {
+        "count": 3,
+        "id": "OGN-055"
+      },
+      {
+        "count": 2,
+        "id": "OGN-135"
+      },
+      {
+        "count": 3,
+        "id": "OGN-132"
+      },
+      {
+        "count": 3,
+        "id": "OGN-065"
+      },
+      {
+        "count": 3,
+        "id": "OGN-147"
+      },
+      {
+        "count": 1,
+        "id": "OGN-157"
+      },
+      {
+        "count": 2,
+        "id": "OGN-125"
+      },
+      {
+        "count": 2,
+        "id": "OGN-137"
+      },
+      {
+        "count": 2,
+        "id": "OGN-142"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-043"
+      },
+      {
+        "count": 3,
+        "id": "OGN-058"
+      },
+      {
+        "count": 3,
+        "id": "OGN-128"
+      },
+      {
+        "count": 2,
+        "id": "OGN-053"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "OGN-060"
+      },
+      {
+        "count": 1,
+        "id": "OGN-152"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-280"
+      },
+      {
+        "count": 1,
+        "id": "OGN-289"
+      },
+      {
+        "count": 1,
+        "id": "OGN-282"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-126"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-151"
+      }
+    ]
+  }
+},
+{
+  "title": "Viktor Champion Deck (Precon)",
+  "id": "914a10ec-8088-4e53-ac3e-6d7705de88b1",
+  "game": "Riftbound",
+  "format": ["Classic", "Multiplayer"],
+  "cardCount": 56,
+  "createdAt": "2025-07-29T06:21:06.127Z",
+  "lastModifiedAt": "2025-07-29T06:21:21.209Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGN-265"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "OGN-103"
+      },
+      {
+        "count": 3,
+        "id": "OGN-216"
+      },
+      {
+        "count": 3,
+        "id": "OGN-222"
+      },
+      {
+        "count": 3,
+        "id": "OGN-084"
+      },
+      {
+        "count": 1,
+        "id": "OGN-111"
+      },
+      {
+        "count": 3,
+        "id": "OGN-208"
+      },
+      {
+        "count": 2,
+        "id": "OGN-086"
+      },
+      {
+        "count": 1,
+        "id": "OGN-118"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-095"
+      },
+      {
+        "count": 2,
+        "id": "OGN-213"
+      },
+      {
+        "count": 2,
+        "id": "OGN-093"
+      },
+      {
+        "count": 3,
+        "id": "OGN-209"
+      },
+      {
+        "count": 2,
+        "id": "OGN-094"
+      },
+      {
+        "count": 2,
+        "id": "OGN-206"
+      },
+      {
+        "count": 2,
+        "id": "OGN-083"
+      },
+      {
+        "count": 1,
+        "id": "OGN-233"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "OGN-090"
+      },
+      {
+        "count": 2,
+        "id": "OGN-101"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-275"
+      },
+      {
+        "count": 1,
+        "id": "OGN-293"
+      },
+      {
+        "count": 1,
+        "id": "OGN-294"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-089"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGN-117"
+      }
+    ]
+  }
 }
 ]
