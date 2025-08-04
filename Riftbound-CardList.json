@@ -6,17 +6,15 @@
       "front": {
         "name": "Blazing Scorcher",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Blazing Scorcher",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-002": {
     "id": "OGN-002",
@@ -25,17 +23,15 @@
       "front": {
         "name": "Brazen Buccaneer",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-002/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Brazen Buccaneer",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 6,
+    "Domain": ["Fury"]
   },
   "OGN-003": {
     "id": "OGN-003",
@@ -44,17 +40,15 @@
       "front": {
         "name": "Chemtech Enforcer",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-003/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Chemtech Enforcer",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-004": {
     "id": "OGN-004",
@@ -63,17 +57,15 @@
       "front": {
         "name": "Cleave",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-004/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cleave",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 1,
+    "Domain": ["Fury"]
   },
   "OGN-005": {
     "id": "OGN-005",
@@ -82,17 +74,15 @@
       "front": {
         "name": "Disintegrate",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-005/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Disintegrate",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-006": {
     "id": "OGN-006",
@@ -101,17 +91,15 @@
       "front": {
         "name": "Flame Chompers",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-006/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Flame Chompers",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-007": {
     "id": "OGN-007",
@@ -135,9 +123,7 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Fury"
-    ]
+    "Domain": ["Fury"]
   },
   "OGN-007a": {
     "id": "OGN-007a",
@@ -154,9 +140,7 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Fury"
-    ]
+    "Domain": ["Fury"]
   },
   "OGN-008": {
     "id": "OGN-008",
@@ -165,17 +149,15 @@
       "front": {
         "name": "Get Excited!",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-008/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Get Excited!",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-009": {
     "id": "OGN-009",
@@ -184,17 +166,15 @@
       "front": {
         "name": "Hextech Ray",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-009/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Hextech Ray",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 1,
+    "Domain": ["Fury"]
   },
   "OGN-010": {
     "id": "OGN-010",
@@ -203,17 +183,15 @@
       "front": {
         "name": "Legion Rearguard",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-010/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Legion Rearguard",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-011": {
     "id": "OGN-011",
@@ -222,17 +200,15 @@
       "front": {
         "name": "Magma Wurm",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-011/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Magma Wurm",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 8,
+    "Domain": ["Fury"]
   },
   "OGN-012": {
     "id": "OGN-012",
@@ -241,17 +217,15 @@
       "front": {
         "name": "Noxus Hopeful",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-012/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Noxus Hopeful",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-013": {
     "id": "OGN-013",
@@ -260,17 +234,15 @@
       "front": {
         "name": "Pouty Poro",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-013/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pouty Poro",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-014": {
     "id": "OGN-014",
@@ -279,17 +251,15 @@
       "front": {
         "name": "Sky Splitter",
         "type": "Spell",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-014/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sky Splitter",
     "type": "Spell",
-    "cost": "8",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 8,
+    "Domain": ["Fury"]
   },
   "OGN-015": {
     "id": "OGN-015",
@@ -298,17 +268,15 @@
       "front": {
         "name": "Captain Farron",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-015/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Captain Farron",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-016": {
     "id": "OGN-016",
@@ -317,17 +285,15 @@
       "front": {
         "name": "Dangerous Duo",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-016/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Dangerous Duo",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-017": {
     "id": "OGN-017",
@@ -336,17 +302,15 @@
       "front": {
         "name": "Iron Ballista",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-017/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Iron Ballista",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-018": {
     "id": "OGN-018",
@@ -355,17 +319,15 @@
       "front": {
         "name": "Nexus Saboteur",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-018/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Nexus Saboteur",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-019": {
     "id": "OGN-019",
@@ -374,17 +336,15 @@
       "front": {
         "name": "Raging Soul",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-019/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Raging Soul",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-020": {
     "id": "OGN-020",
@@ -393,17 +353,15 @@
       "front": {
         "name": "Scrapyard Champion",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-020/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Scrapyard Champion",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-021": {
     "id": "OGN-021",
@@ -412,17 +370,15 @@
       "front": {
         "name": "Sun Disc",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-021/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sun Disc",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-022": {
     "id": "OGN-022",
@@ -431,17 +387,15 @@
       "front": {
         "name": "Thermo Beam",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-022/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Thermo Beam",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-023": {
     "id": "OGN-023",
@@ -450,17 +404,15 @@
       "front": {
         "name": "Unlicensed Armory",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-023/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Unlicensed Armory",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-024": {
     "id": "OGN-024",
@@ -469,17 +421,15 @@
       "front": {
         "name": "Void Seeker",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-024/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Void Seeker",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-025": {
     "id": "OGN-025",
@@ -488,17 +438,15 @@
       "front": {
         "name": "Blind Fury",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-025/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Blind Fury",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-026": {
     "id": "OGN-026",
@@ -507,17 +455,15 @@
       "front": {
         "name": "Brynhir Thundersong",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-026/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Brynhir Thundersong",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 6,
+    "Domain": ["Fury"]
   },
   "OGN-027": {
     "id": "OGN-027",
@@ -526,17 +472,15 @@
       "front": {
         "name": "Darius, Trifarian",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Darius, Trifarian",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-027a": {
     "id": "OGN-027a",
@@ -545,17 +489,15 @@
       "front": {
         "name": "Darius, Trifarian",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Darius, Trifarian",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-028": {
     "id": "OGN-028",
@@ -564,17 +506,15 @@
       "front": {
         "name": "Draven, Showboat",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-028/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Draven, Showboat",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGN-029": {
     "id": "OGN-029",
@@ -583,17 +523,15 @@
       "front": {
         "name": "Falling Star",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-029/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Falling Star",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-030": {
     "id": "OGN-030",
@@ -602,17 +540,15 @@
       "front": {
         "name": "Jinx, Demolitionist",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Jinx, Demolitionist",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-030a": {
     "id": "OGN-030a",
@@ -621,17 +557,15 @@
       "front": {
         "name": "Jinx, Demolitionist",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Jinx, Demolitionist",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-031": {
     "id": "OGN-031",
@@ -640,17 +574,15 @@
       "front": {
         "name": "Raging Firebrand",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-031/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Raging Firebrand",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 6,
+    "Domain": ["Fury"]
   },
   "OGN-032": {
     "id": "OGN-032",
@@ -659,17 +591,15 @@
       "front": {
         "name": "Ravenborn Tome",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-032/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ravenborn Tome",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-033": {
     "id": "OGN-033",
@@ -678,17 +608,15 @@
       "front": {
         "name": "Shakedown",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-033/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Shakedown",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-034": {
     "id": "OGN-034",
@@ -697,17 +625,15 @@
       "front": {
         "name": "Tryndamere, Barbarian",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-034/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Tryndamere, Barbarian",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 7,
+    "Domain": ["Fury"]
   },
   "OGN-035": {
     "id": "OGN-035",
@@ -716,17 +642,15 @@
       "front": {
         "name": "Vayne, Hunter",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-035/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vayne, Hunter",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-036": {
     "id": "OGN-036",
@@ -735,17 +659,15 @@
       "front": {
         "name": "Vi, Destructive",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-036/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vi, Destructive",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 2,
+    "Domain": ["Fury"]
   },
   "OGN-037": {
     "id": "OGN-037",
@@ -754,17 +676,15 @@
       "front": {
         "name": "Immortal Phoenix",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-037/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Immortal Phoenix",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 3,
+    "Domain": ["Fury"]
   },
   "OGN-038": {
     "id": "OGN-038",
@@ -773,17 +693,15 @@
       "front": {
         "name": "Kadregrin the Infernal",
         "type": "Unit",
-        "cost": "9",
+        "cost": 9,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-038/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kadregrin the Infernal",
     "type": "Unit",
-    "cost": "9",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 9,
+    "Domain": ["Fury"]
   },
   "OGN-039": {
     "id": "OGN-039",
@@ -792,17 +710,15 @@
       "front": {
         "name": "Kai'Sa, Survivor",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kai'Sa, Survivor",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-039a": {
     "id": "OGN-039a",
@@ -811,17 +727,15 @@
       "front": {
         "name": "Kai'Sa, Survivor",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kai'Sa, Survivor",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 4,
+    "Domain": ["Fury"]
   },
   "OGN-040": {
     "id": "OGN-040",
@@ -838,9 +752,7 @@
     "name": "Seal of Rage",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Fury"
-    ]
+    "Domain": ["Fury"]
   },
   "OGN-041": {
     "id": "OGN-041",
@@ -849,17 +761,15 @@
       "front": {
         "name": "Volibear, Furious",
         "type": "Unit",
-        "cost": "10",
+        "cost": 10,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Volibear, Furious",
     "type": "Unit",
-    "cost": "10",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 10,
+    "Domain": ["Fury"]
   },
   "OGN-041a": {
     "id": "OGN-041a",
@@ -868,17 +778,15 @@
       "front": {
         "name": "Volibear, Furious",
         "type": "Unit",
-        "cost": "10",
+        "cost": 10,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Volibear, Furious",
     "type": "Unit",
-    "cost": "10",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 10,
+    "Domain": ["Fury"]
   },
   "OGN-042": {
     "id": "OGN-042",
@@ -895,9 +803,7 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-042a": {
     "id": "OGN-042a",
@@ -914,9 +820,7 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-043": {
     "id": "OGN-043",
@@ -925,17 +829,15 @@
       "front": {
         "name": "Charm",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-043/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Charm",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 1,
+    "Domain": ["Calm"]
   },
   "OGN-044": {
     "id": "OGN-044",
@@ -944,17 +846,15 @@
       "front": {
         "name": "Clockwork Keeper",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-044/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Clockwork Keeper",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-045": {
     "id": "OGN-045",
@@ -963,17 +863,15 @@
       "front": {
         "name": "Defy",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-045/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Defy",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 1,
+    "Domain": ["Calm"]
   },
   "OGN-046": {
     "id": "OGN-046",
@@ -982,17 +880,15 @@
       "front": {
         "name": "En Garde",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-046/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "En Garde",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 1,
+    "Domain": ["Calm"]
   },
   "OGN-047": {
     "id": "OGN-047",
@@ -1001,17 +897,15 @@
       "front": {
         "name": "Find Your Center",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-047/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Find Your Center",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-048": {
     "id": "OGN-048",
@@ -1020,17 +914,15 @@
       "front": {
         "name": "Meditation",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-048/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Meditation",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-049": {
     "id": "OGN-049",
@@ -1039,17 +931,15 @@
       "front": {
         "name": "Playful Phantom",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-049/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Playful Phantom",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 5,
+    "Domain": ["Calm"]
   },
   "OGN-050": {
     "id": "OGN-050",
@@ -1058,17 +948,15 @@
       "front": {
         "name": "Rune Prison",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-050/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Rune Prison",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-051": {
     "id": "OGN-051",
@@ -1077,17 +965,15 @@
       "front": {
         "name": "Solari Shieldbearer",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-051/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Solari Shieldbearer",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-052": {
     "id": "OGN-052",
@@ -1096,17 +982,15 @@
       "front": {
         "name": "Stalwart Poro",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-052/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stalwart Poro",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-053": {
     "id": "OGN-053",
@@ -1115,18 +999,16 @@
       "front": {
         "name": "Stand United",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-053/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stand United",
     "type": "Spell",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-054": {
     "id": "OGN-054",
@@ -1135,17 +1017,15 @@
       "front": {
         "name": "Sunlit Guardian",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-054/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sunlit Guardian",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-055": {
     "id": "OGN-055",
@@ -1154,17 +1034,15 @@
       "front": {
         "name": "Wielder of Water",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-055/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wielder of Water",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-056": {
     "id": "OGN-056",
@@ -1173,18 +1051,16 @@
       "front": {
         "name": "Adaptatron",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-056/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Adaptatron",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-057": {
     "id": "OGN-057",
@@ -1193,17 +1069,15 @@
       "front": {
         "name": "Block",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-057/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Block",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-058": {
     "id": "OGN-058",
@@ -1212,17 +1086,15 @@
       "front": {
         "name": "Discipline",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-058/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Discipline",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-059": {
     "id": "OGN-059",
@@ -1231,17 +1103,15 @@
       "front": {
         "name": "Eclipse Herald",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-059/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Eclipse Herald",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 7,
+    "Domain": ["Calm"]
   },
   "OGN-060": {
     "id": "OGN-060",
@@ -1250,17 +1120,15 @@
       "front": {
         "name": "Mask of Foresight",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-060/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mask of Foresight",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-061": {
     "id": "OGN-061",
@@ -1269,18 +1137,16 @@
       "front": {
         "name": "Poro Herder",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-061/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Poro Herder",
     "type": "Unit",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-062": {
     "id": "OGN-062",
@@ -1289,17 +1155,15 @@
       "front": {
         "name": "Reinforce",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-062/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Reinforce",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 5,
+    "Domain": ["Calm"]
   },
   "OGN-063": {
     "id": "OGN-063",
@@ -1308,18 +1172,16 @@
       "front": {
         "name": "Spirit's Refuge",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-063/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Spirit's Refuge",
     "type": "Gear",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-064": {
     "id": "OGN-064",
@@ -1328,17 +1190,15 @@
       "front": {
         "name": "Wind Wall",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-064/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wind Wall",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-065": {
     "id": "OGN-065",
@@ -1347,17 +1207,15 @@
       "front": {
         "name": "Wizened Elder",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-065/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wizened Elder",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 4,
+    "Domain": ["Calm"]
   },
   "OGN-066": {
     "id": "OGN-066",
@@ -1366,17 +1224,15 @@
       "front": {
         "name": "Ahri, Alluring",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-066/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ahri, Alluring",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 5,
+    "Domain": ["Calm"]
   },
   "OGN-066a": {
     "id": "OGN-066a",
@@ -1385,17 +1241,15 @@
       "front": {
         "name": "Ahri, Alluring",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-066a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ahri, Alluring",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 5,
+    "Domain": ["Calm"]
   },
   "OGN-067": {
     "id": "OGN-067",
@@ -1404,17 +1258,15 @@
       "front": {
         "name": "Blitzcrank, Impassive",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-067/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Blitzcrank, Impassive",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 5,
+    "Domain": ["Calm"]
   },
   "OGN-068": {
     "id": "OGN-068",
@@ -1423,17 +1275,15 @@
       "front": {
         "name": "Caitlyn, Patrolling",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-068/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Caitlyn, Patrolling",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-069": {
     "id": "OGN-069",
@@ -1442,17 +1292,15 @@
       "front": {
         "name": "Last Stand",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-069/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Last Stand",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-070": {
     "id": "OGN-070",
@@ -1461,17 +1309,15 @@
       "front": {
         "name": "Mageseeker Warden",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-070/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mageseeker Warden",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 6,
+    "Domain": ["Calm"]
   },
   "OGN-071": {
     "id": "OGN-071",
@@ -1480,17 +1326,15 @@
       "front": {
         "name": "Party Favors",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-071/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Party Favors",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-072": {
     "id": "OGN-072",
@@ -1499,17 +1343,15 @@
       "front": {
         "name": "Solari Shrine",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-072/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Solari Shrine",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 3,
+    "Domain": ["Calm"]
   },
   "OGN-073": {
     "id": "OGN-073",
@@ -1518,17 +1360,15 @@
       "front": {
         "name": "Sona, Harmonious",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-073/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sona, Harmonious",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 4,
+    "Domain": ["Calm"]
   },
   "OGN-074": {
     "id": "OGN-074",
@@ -1537,17 +1377,15 @@
       "front": {
         "name": "Taric, Protector",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-074/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Taric, Protector",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 4,
+    "Domain": ["Calm"]
   },
   "OGN-075": {
     "id": "OGN-075",
@@ -1556,17 +1394,15 @@
       "front": {
         "name": "Tasty Faefolk",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-075/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Tasty Faefolk",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 7,
+    "Domain": ["Calm"]
   },
   "OGN-076": {
     "id": "OGN-076",
@@ -1575,17 +1411,15 @@
       "front": {
         "name": "Yasuo, Remorseful",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-076/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Yasuo, Remorseful",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 6,
+    "Domain": ["Calm"]
   },
   "OGN-076a": {
     "id": "OGN-076a",
@@ -1594,17 +1428,15 @@
       "front": {
         "name": "Yasuo, Remorseful",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-076a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Yasuo, Remorseful",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 6,
+    "Domain": ["Calm"]
   },
   "OGN-077": {
     "id": "OGN-077",
@@ -1613,17 +1445,15 @@
       "front": {
         "name": "Zhonya's Hourglass",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-077/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Zhonya's Hourglass",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 2,
+    "Domain": ["Calm"]
   },
   "OGN-078": {
     "id": "OGN-078",
@@ -1632,18 +1462,16 @@
       "front": {
         "name": "Lee Sin, Ascetic",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-078/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-078a": {
     "id": "OGN-078a",
@@ -1652,18 +1480,16 @@
       "front": {
         "name": "Lee Sin, Ascetic",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-078a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-079": {
     "id": "OGN-079",
@@ -1672,17 +1498,15 @@
       "front": {
         "name": "Leona, Zealot",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-079/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Leona, Zealot",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 6,
+    "Domain": ["Calm"]
   },
   "OGN-079a": {
     "id": "OGN-079a",
@@ -1691,17 +1515,15 @@
       "front": {
         "name": "Leona, Zealot",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-079a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Leona, Zealot",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 6,
+    "Domain": ["Calm"]
   },
   "OGN-080": {
     "id": "OGN-080",
@@ -1710,17 +1532,15 @@
       "front": {
         "name": "Mystic Reversal",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-080/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mystic Reversal",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 4,
+    "Domain": ["Calm"]
   },
   "OGN-081": {
     "id": "OGN-081",
@@ -1737,9 +1557,7 @@
     "name": "Seal of Focus",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Calm"
-    ]
+    "Domain": ["Calm"]
   },
   "OGN-082": {
     "id": "OGN-082",
@@ -1748,17 +1566,15 @@
       "front": {
         "name": "Whiteflame Protector",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-082/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Whiteflame Protector",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Calm"
-    ]
+    "cost": 8,
+    "Domain": ["Calm"]
   },
   "OGN-083": {
     "id": "OGN-083",
@@ -1767,17 +1583,15 @@
       "front": {
         "name": "Consult the Past",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-083/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Consult the Past",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 4,
+    "Domain": ["Mind"]
   },
   "OGN-084": {
     "id": "OGN-084",
@@ -1786,17 +1600,15 @@
       "front": {
         "name": "Eager Apprentice",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-084/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Eager Apprentice",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-085": {
     "id": "OGN-085",
@@ -1805,17 +1617,15 @@
       "front": {
         "name": "Falling Comet",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-085/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Falling Comet",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 5,
+    "Domain": ["Mind"]
   },
   "OGN-086": {
     "id": "OGN-086",
@@ -1824,17 +1634,15 @@
       "front": {
         "name": "Jeweled Colossus",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-086/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Jeweled Colossus",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 5,
+    "Domain": ["Mind"]
   },
   "OGN-087": {
     "id": "OGN-087",
@@ -1843,17 +1651,15 @@
       "front": {
         "name": "Lecturing Yordle",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-087/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lecturing Yordle",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-088": {
     "id": "OGN-088",
@@ -1862,17 +1668,15 @@
       "front": {
         "name": "Mega-Mech",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-088/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mega-Mech",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 7,
+    "Domain": ["Mind"]
   },
   "OGN-089": {
     "id": "OGN-089",
@@ -1889,9 +1693,7 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Mind"
-    ]
+    "Domain": ["Mind"]
   },
   "OGN-089a": {
     "id": "OGN-089a",
@@ -1908,9 +1710,7 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Mind"
-    ]
+    "Domain": ["Mind"]
   },
   "OGN-090": {
     "id": "OGN-090",
@@ -1919,17 +1719,15 @@
       "front": {
         "name": "Orb of Regret",
         "type": "Gear",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-090/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Orb of Regret",
     "type": "Gear",
-    "cost": "1",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 1,
+    "Domain": ["Mind"]
   },
   "OGN-091": {
     "id": "OGN-091",
@@ -1938,17 +1736,15 @@
       "front": {
         "name": "Pit Crew",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-091/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pit Crew",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-092": {
     "id": "OGN-092",
@@ -1957,17 +1753,15 @@
       "front": {
         "name": "Riptide Rex",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-092/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Riptide Rex",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-093": {
     "id": "OGN-093",
@@ -1976,17 +1770,15 @@
       "front": {
         "name": "Smoke Screen",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-093/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Smoke Screen",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-094": {
     "id": "OGN-094",
@@ -1995,17 +1787,15 @@
       "front": {
         "name": "Sprite Call",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-094/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sprite Call",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-095": {
     "id": "OGN-095",
@@ -2014,17 +1804,15 @@
       "front": {
         "name": "Stupefy",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-095/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stupefy",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 1,
+    "Domain": ["Mind"]
   },
   "OGN-096": {
     "id": "OGN-096",
@@ -2033,17 +1821,15 @@
       "front": {
         "name": "Watchful Sentry",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-096/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Watchful Sentry",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-097": {
     "id": "OGN-097",
@@ -2052,17 +1838,15 @@
       "front": {
         "name": "Blastcone Fae",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-097/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Blastcone Fae",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-098": {
     "id": "OGN-098",
@@ -2071,17 +1855,15 @@
       "front": {
         "name": "Energy Conduit",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-098/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Energy Conduit",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-099": {
     "id": "OGN-099",
@@ -2090,17 +1872,15 @@
       "front": {
         "name": "Garbage Grabber",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-099/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Garbage Grabber",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-100": {
     "id": "OGN-100",
@@ -2109,17 +1889,15 @@
       "front": {
         "name": "Gemcraft Seer",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-100/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Gemcraft Seer",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-101": {
     "id": "OGN-101",
@@ -2128,17 +1906,15 @@
       "front": {
         "name": "Mushroom Pouch",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-101/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mushroom Pouch",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-102": {
     "id": "OGN-102",
@@ -2147,17 +1923,15 @@
       "front": {
         "name": "Portal Rescue",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-102/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Portal Rescue",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-103": {
     "id": "OGN-103",
@@ -2166,17 +1940,15 @@
       "front": {
         "name": "Ravenbloom Student",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-103/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ravenbloom Student",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-104": {
     "id": "OGN-104",
@@ -2185,17 +1957,15 @@
       "front": {
         "name": "Retreat",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-104/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Retreat",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 1,
+    "Domain": ["Mind"]
   },
   "OGN-105": {
     "id": "OGN-105",
@@ -2204,17 +1974,15 @@
       "front": {
         "name": "Singularity",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-105/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Singularity",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-106": {
     "id": "OGN-106",
@@ -2223,17 +1991,15 @@
       "front": {
         "name": "Sprite Mother",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-106/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sprite Mother",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 4,
+    "Domain": ["Mind"]
   },
   "OGN-107": {
     "id": "OGN-107",
@@ -2242,17 +2008,15 @@
       "front": {
         "name": "Ava Achiever",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-107/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ava Achiever",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 5,
+    "Domain": ["Mind"]
   },
   "OGN-108": {
     "id": "OGN-108",
@@ -2261,17 +2025,15 @@
       "front": {
         "name": "Convergent Mutation",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-108/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Convergent Mutation",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-109": {
     "id": "OGN-109",
@@ -2280,17 +2042,15 @@
       "front": {
         "name": "Dr. Mundo, Expert",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-109/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Dr. Mundo, Expert",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 8,
+    "Domain": ["Mind"]
   },
   "OGN-110": {
     "id": "OGN-110",
@@ -2299,17 +2059,15 @@
       "front": {
         "name": "Ekko, Recurrent",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-110/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ekko, Recurrent",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 5,
+    "Domain": ["Mind"]
   },
   "OGN-111": {
     "id": "OGN-111",
@@ -2318,17 +2076,15 @@
       "front": {
         "name": "Heimerdinger, Inventor",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-111/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Heimerdinger, Inventor",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-112": {
     "id": "OGN-112",
@@ -2337,17 +2093,15 @@
       "front": {
         "name": "Kai'Sa, Evolutionary",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-112/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kai'Sa, Evolutionary",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-112a": {
     "id": "OGN-112a",
@@ -2356,17 +2110,15 @@
       "front": {
         "name": "Kai'Sa, Evolutionary",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-112a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kai'Sa, Evolutionary",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-113": {
     "id": "OGN-113",
@@ -2375,17 +2127,15 @@
       "front": {
         "name": "Malzahar, Fanatic",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-113/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Malzahar, Fanatic",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 4,
+    "Domain": ["Mind"]
   },
   "OGN-114": {
     "id": "OGN-114",
@@ -2394,17 +2144,15 @@
       "front": {
         "name": "Progress Day",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-114/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Progress Day",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-115": {
     "id": "OGN-115",
@@ -2413,17 +2161,15 @@
       "front": {
         "name": "Promising Future",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-115/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Promising Future",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 5,
+    "Domain": ["Mind"]
   },
   "OGN-116": {
     "id": "OGN-116",
@@ -2432,17 +2178,15 @@
       "front": {
         "name": "Thousand-Tailed Watcher",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-116/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Thousand-Tailed Watcher",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 7,
+    "Domain": ["Mind"]
   },
   "OGN-117": {
     "id": "OGN-117",
@@ -2451,18 +2195,16 @@
       "front": {
         "name": "Viktor, Innovator",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-117/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Viktor, Innovator",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Mind"
-    ]
+    "Domain": ["Mind"]
   },
   "OGN-117a": {
     "id": "OGN-117a",
@@ -2471,17 +2213,15 @@
       "front": {
         "name": "Viktor, Innovator",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-117a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Viktor, Innovator",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 4,
+    "Domain": ["Mind"]
   },
   "OGN-118": {
     "id": "OGN-118",
@@ -2490,17 +2230,15 @@
       "front": {
         "name": "Wraith of Echoes",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-118/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wraith of Echoes",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 6,
+    "Domain": ["Mind"]
   },
   "OGN-119": {
     "id": "OGN-119",
@@ -2509,17 +2247,15 @@
       "front": {
         "name": "Ahri, Inquisitive",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-119/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ahri, Inquisitive",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-119a": {
     "id": "OGN-119a",
@@ -2528,17 +2264,15 @@
       "front": {
         "name": "Ahri, Inquisitive",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-119a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ahri, Inquisitive",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Mind"]
   },
   "OGN-120": {
     "id": "OGN-120",
@@ -2555,9 +2289,7 @@
     "name": "Seal of Insight",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Mind"
-    ]
+    "Domain": ["Mind"]
   },
   "OGN-121": {
     "id": "OGN-121",
@@ -2566,17 +2298,15 @@
       "front": {
         "name": "Teemo, Strategist",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-121/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Teemo, Strategist",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-121a": {
     "id": "OGN-121a",
@@ -2585,17 +2315,15 @@
       "front": {
         "name": "Teemo, Strategist",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-121a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Teemo, Strategist",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 2,
+    "Domain": ["Mind"]
   },
   "OGN-122": {
     "id": "OGN-122",
@@ -2604,17 +2332,15 @@
       "front": {
         "name": "Time Warp",
         "type": "Spell",
-        "cost": "10",
+        "cost": 10,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-122/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Time Warp",
     "type": "Spell",
-    "cost": "10",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 10,
+    "Domain": ["Mind"]
   },
   "OGN-123": {
     "id": "OGN-123",
@@ -2623,17 +2349,15 @@
       "front": {
         "name": "Unchecked Power",
         "type": "Spell",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-123/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Unchecked Power",
     "type": "Spell",
-    "cost": "7",
-    "Domain": [
-      "Mind"
-    ]
+    "cost": 7,
+    "Domain": ["Mind"]
   },
   "OGN-124": {
     "id": "OGN-124",
@@ -2642,18 +2366,16 @@
       "front": {
         "name": "Arena Bar",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-124/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Arena Bar",
     "type": "Gear",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-125": {
     "id": "OGN-125",
@@ -2662,17 +2384,15 @@
       "front": {
         "name": "Bilgewater Bully",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-125/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Bilgewater Bully",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Body"]
   },
   "OGN-126": {
     "id": "OGN-126",
@@ -2689,9 +2409,7 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-126a": {
     "id": "OGN-126a",
@@ -2708,9 +2426,7 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-127": {
     "id": "OGN-127",
@@ -2719,17 +2435,15 @@
       "front": {
         "name": "Cannon Barrage",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-127/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cannon Barrage",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 2,
+    "Domain": ["Body"]
   },
   "OGN-128": {
     "id": "OGN-128",
@@ -2738,17 +2452,15 @@
       "front": {
         "name": "Challenge",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-128/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Challenge",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 2,
+    "Domain": ["Body"]
   },
   "OGN-129": {
     "id": "OGN-129",
@@ -2757,17 +2469,15 @@
       "front": {
         "name": "Confront",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-129/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Confront",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 2,
+    "Domain": ["Body"]
   },
   "OGN-130": {
     "id": "OGN-130",
@@ -2776,17 +2486,15 @@
       "front": {
         "name": "Crackshot Corsair",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-130/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Crackshot Corsair",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-131": {
     "id": "OGN-131",
@@ -2795,17 +2503,15 @@
       "front": {
         "name": "Dune Drake",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-131/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Dune Drake",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 5,
+    "Domain": ["Body"]
   },
   "OGN-132": {
     "id": "OGN-132",
@@ -2814,17 +2520,15 @@
       "front": {
         "name": "First Mate",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-132/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "First Mate",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-133": {
     "id": "OGN-133",
@@ -2833,17 +2537,15 @@
       "front": {
         "name": "Flurry of Blades",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-133/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Flurry of Blades",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 1,
+    "Domain": ["Body"]
   },
   "OGN-134": {
     "id": "OGN-134",
@@ -2852,17 +2554,15 @@
       "front": {
         "name": "Mobilize",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-134/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mobilize",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 2,
+    "Domain": ["Body"]
   },
   "OGN-135": {
     "id": "OGN-135",
@@ -2871,17 +2571,15 @@
       "front": {
         "name": "Pakaa Cub",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-135/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pakaa Cub",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-136": {
     "id": "OGN-136",
@@ -2890,18 +2588,16 @@
       "front": {
         "name": "Pit Rookie",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-136/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pit Rookie",
     "type": "Unit",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-137": {
     "id": "OGN-137",
@@ -2910,17 +2606,15 @@
       "front": {
         "name": "Stormclaw Ursine",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-137/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stormclaw Ursine",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 7,
+    "Domain": ["Body"]
   },
   "OGN-138": {
     "id": "OGN-138",
@@ -2929,17 +2623,15 @@
       "front": {
         "name": "Catalyst of Aeons",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-138/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Catalyst of Aeons",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-139": {
     "id": "OGN-139",
@@ -2948,18 +2640,16 @@
       "front": {
         "name": "Cithria of Cloudfield",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-139/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cithria of Cloudfield",
     "type": "Unit",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-140": {
     "id": "OGN-140",
@@ -2968,17 +2658,15 @@
       "front": {
         "name": "Herald of Scales",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-140/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Herald of Scales",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-141": {
     "id": "OGN-141",
@@ -2987,18 +2675,16 @@
       "front": {
         "name": "Kinkou Monk",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-141/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kinkou Monk",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-142": {
     "id": "OGN-142",
@@ -3007,17 +2693,15 @@
       "front": {
         "name": "Mountain Drake",
         "type": "Unit",
-        "cost": "9",
+        "cost": 9,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-142/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mountain Drake",
     "type": "Unit",
-    "cost": "9",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 9,
+    "Domain": ["Body"]
   },
   "OGN-143": {
     "id": "OGN-143",
@@ -3026,17 +2710,15 @@
       "front": {
         "name": "Pirate's Haven",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-143/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pirate's Haven",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-144": {
     "id": "OGN-144",
@@ -3045,17 +2727,15 @@
       "front": {
         "name": "Spoils of War",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-144/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Spoils of War",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-145": {
     "id": "OGN-145",
@@ -3064,17 +2744,15 @@
       "front": {
         "name": "Unyielding Spirit",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-145/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Unyielding Spirit",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 1,
+    "Domain": ["Body"]
   },
   "OGN-146": {
     "id": "OGN-146",
@@ -3083,17 +2761,15 @@
       "front": {
         "name": "Wallop",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-146/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wallop",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 2,
+    "Domain": ["Body"]
   },
   "OGN-147": {
     "id": "OGN-147",
@@ -3102,17 +2778,15 @@
       "front": {
         "name": "Wildclaw Shaman",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-147/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Wildclaw Shaman",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-148": {
     "id": "OGN-148",
@@ -3121,17 +2795,15 @@
       "front": {
         "name": "Anivia, Primal",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-148/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Anivia, Primal",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 7,
+    "Domain": ["Body"]
   },
   "OGN-149": {
     "id": "OGN-149",
@@ -3140,17 +2812,15 @@
       "front": {
         "name": "Carnivorous Snapvine",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-149/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Carnivorous Snapvine",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 5,
+    "Domain": ["Body"]
   },
   "OGN-150": {
     "id": "OGN-150",
@@ -3159,17 +2829,15 @@
       "front": {
         "name": "Kraken Hunter",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-150/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kraken Hunter",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-151": {
     "id": "OGN-151",
@@ -3178,17 +2846,15 @@
       "front": {
         "name": "Lee Sin, Centered",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-151/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lee Sin, Centered",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Body"]
   },
   "OGN-151a": {
     "id": "OGN-151a",
@@ -3197,17 +2863,15 @@
       "front": {
         "name": "Lee Sin, Centered",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-151a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lee Sin, Centered",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Body"]
   },
   "OGN-152": {
     "id": "OGN-152",
@@ -3216,17 +2880,15 @@
       "front": {
         "name": "Mistfall",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-152/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mistfall",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 3,
+    "Domain": ["Body"]
   },
   "OGN-153": {
     "id": "OGN-153",
@@ -3235,17 +2897,15 @@
       "front": {
         "name": "Overt Operation",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-153/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Overt Operation",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 5,
+    "Domain": ["Body"]
   },
   "OGN-154": {
     "id": "OGN-154",
@@ -3254,17 +2914,15 @@
       "front": {
         "name": "Primal Strength",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-154/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Primal Strength",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-155": {
     "id": "OGN-155",
@@ -3273,17 +2931,15 @@
       "front": {
         "name": "Qiyana, Victorious",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-155/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Qiyana, Victorious",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Body"]
   },
   "OGN-156": {
     "id": "OGN-156",
@@ -3292,17 +2948,15 @@
       "front": {
         "name": "Sabotage",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-156/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sabotage",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 1,
+    "Domain": ["Body"]
   },
   "OGN-157": {
     "id": "OGN-157",
@@ -3311,17 +2965,15 @@
       "front": {
         "name": "Udyr, Wildman",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-157/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Udyr, Wildman",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Body"]
   },
   "OGN-158": {
     "id": "OGN-158",
@@ -3330,17 +2982,15 @@
       "front": {
         "name": "Volibear, Imposing",
         "type": "Unit",
-        "cost": "12",
+        "cost": 12,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-158/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Volibear, Imposing",
     "type": "Unit",
-    "cost": "12",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 12,
+    "Domain": ["Body"]
   },
   "OGN-158a": {
     "id": "OGN-158a",
@@ -3349,17 +2999,15 @@
       "front": {
         "name": "Volibear, Imposing",
         "type": "Unit",
-        "cost": "12",
+        "cost": 12,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-158a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Volibear, Imposing",
     "type": "Unit",
-    "cost": "12",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 12,
+    "Domain": ["Body"]
   },
   "OGN-159": {
     "id": "OGN-159",
@@ -3368,17 +3016,15 @@
       "front": {
         "name": "Warwick, Hunter",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-159/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Warwick, Hunter",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Body"]
   },
   "OGN-160": {
     "id": "OGN-160",
@@ -3387,17 +3033,15 @@
       "front": {
         "name": "Dazzling Aurora",
         "type": "Gear",
-        "cost": "9",
+        "cost": 9,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-160/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Dazzling Aurora",
     "type": "Gear",
-    "cost": "9",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 9,
+    "Domain": ["Body"]
   },
   "OGN-161": {
     "id": "OGN-161",
@@ -3406,17 +3050,15 @@
       "front": {
         "name": "Deadbloom Predator",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-161/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Deadbloom Predator",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 8,
+    "Domain": ["Body"]
   },
   "OGN-162": {
     "id": "OGN-162",
@@ -3425,17 +3067,15 @@
       "front": {
         "name": "Miss Fortune, Captain",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-162/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Captain",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 5,
+    "Domain": ["Body"]
   },
   "OGN-162a": {
     "id": "OGN-162a",
@@ -3444,17 +3084,15 @@
       "front": {
         "name": "Miss Fortune, Captain",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-162a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Captain",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Body"
-    ]
+    "cost": 5,
+    "Domain": ["Body"]
   },
   "OGN-163": {
     "id": "OGN-163",
@@ -3471,9 +3109,7 @@
     "name": "Seal of Strength",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-164": {
     "id": "OGN-164",
@@ -3482,18 +3118,16 @@
       "front": {
         "name": "Sett, Brawler",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-164/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sett, Brawler",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-164a": {
     "id": "OGN-164a",
@@ -3502,18 +3136,16 @@
       "front": {
         "name": "Sett, Brawler",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-164a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sett, Brawler",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body"
-    ]
+    "Domain": ["Body"]
   },
   "OGN-165": {
     "id": "OGN-165",
@@ -3522,17 +3154,15 @@
       "front": {
         "name": "Cemetery Attendant",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-165/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cemetery Attendant",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Chaos"]
   },
   "OGN-166": {
     "id": "OGN-166",
@@ -3549,9 +3179,7 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Chaos"
-    ]
+    "Domain": ["Chaos"]
   },
   "OGN-166a": {
     "id": "OGN-166a",
@@ -3568,9 +3196,7 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Chaos"
-    ]
+    "Domain": ["Chaos"]
   },
   "OGN-167": {
     "id": "OGN-167",
@@ -3579,17 +3205,15 @@
       "front": {
         "name": "Ember Monk",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-167/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ember Monk",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-168": {
     "id": "OGN-168",
@@ -3598,17 +3222,15 @@
       "front": {
         "name": "Fight or Flight",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-168/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Fight or Flight",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-169": {
     "id": "OGN-169",
@@ -3617,17 +3239,15 @@
       "front": {
         "name": "Gust",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-169/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Gust",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 1,
+    "Domain": ["Chaos"]
   },
   "OGN-170": {
     "id": "OGN-170",
@@ -3636,17 +3256,15 @@
       "front": {
         "name": "Morbid Return",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-170/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Morbid Return",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-171": {
     "id": "OGN-171",
@@ -3655,17 +3273,15 @@
       "front": {
         "name": "Mystic Poro",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-171/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Mystic Poro",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-172": {
     "id": "OGN-172",
@@ -3674,17 +3290,15 @@
       "front": {
         "name": "Rebuke",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-172/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Rebuke",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-173": {
     "id": "OGN-173",
@@ -3693,17 +3307,15 @@
       "front": {
         "name": "Ride the Wind",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-173/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Ride the Wind",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-174": {
     "id": "OGN-174",
@@ -3712,17 +3324,15 @@
       "front": {
         "name": "Sai Scout",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-174/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sai Scout",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 6,
+    "Domain": ["Chaos"]
   },
   "OGN-175": {
     "id": "OGN-175",
@@ -3731,17 +3341,15 @@
       "front": {
         "name": "Shipyard Skulker",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-175/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Shipyard Skulker",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Chaos"]
   },
   "OGN-176": {
     "id": "OGN-176",
@@ -3750,17 +3358,15 @@
       "front": {
         "name": "Sneaky Deckhand",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-176/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sneaky Deckhand",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Chaos"]
   },
   "OGN-177": {
     "id": "OGN-177",
@@ -3769,17 +3375,15 @@
       "front": {
         "name": "Stealthy Pursuer",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-177/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stealthy Pursuer",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-178": {
     "id": "OGN-178",
@@ -3788,17 +3392,15 @@
       "front": {
         "name": "Undercover Agent",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-178/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Undercover Agent",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-179": {
     "id": "OGN-179",
@@ -3807,17 +3409,15 @@
       "front": {
         "name": "Acceptable Losses",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-179/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Acceptable Losses",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 1,
+    "Domain": ["Chaos"]
   },
   "OGN-180": {
     "id": "OGN-180",
@@ -3826,17 +3426,15 @@
       "front": {
         "name": "Fading Memories",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-180/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Fading Memories",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-181": {
     "id": "OGN-181",
@@ -3845,17 +3443,15 @@
       "front": {
         "name": "Pack of Wonders",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-181/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Pack of Wonders",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-182": {
     "id": "OGN-182",
@@ -3864,17 +3460,15 @@
       "front": {
         "name": "Scrapheap",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-182/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Scrapheap",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-183": {
     "id": "OGN-183",
@@ -3883,17 +3477,15 @@
       "front": {
         "name": "Stacked Deck",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-183/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stacked Deck",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 1,
+    "Domain": ["Chaos"]
   },
   "OGN-184": {
     "id": "OGN-184",
@@ -3902,17 +3494,15 @@
       "front": {
         "name": "The Syren",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-184/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "The Syren",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-185": {
     "id": "OGN-185",
@@ -3921,17 +3511,15 @@
       "front": {
         "name": "Traveling Merchant",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-185/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Traveling Merchant",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-186": {
     "id": "OGN-186",
@@ -3940,17 +3528,15 @@
       "front": {
         "name": "Treasure Trove",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-186/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Treasure Trove",
     "type": "Gear",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-187": {
     "id": "OGN-187",
@@ -3959,17 +3545,15 @@
       "front": {
         "name": "Whirlwind",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-187/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Whirlwind",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-188": {
     "id": "OGN-188",
@@ -3978,17 +3562,15 @@
       "front": {
         "name": "Zaunite Bouncer",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-188/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Zaunite Bouncer",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-189": {
     "id": "OGN-189",
@@ -3997,17 +3579,15 @@
       "front": {
         "name": "Kayn, Unleashed",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-189/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kayn, Unleashed",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 6,
+    "Domain": ["Chaos"]
   },
   "OGN-190": {
     "id": "OGN-190",
@@ -4016,17 +3596,15 @@
       "front": {
         "name": "Kog'Maw, Caustic",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-190/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Kog'Maw, Caustic",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Chaos"]
   },
   "OGN-191": {
     "id": "OGN-191",
@@ -4035,17 +3613,15 @@
       "front": {
         "name": "Maddened Marauder",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-191/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Maddened Marauder",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-192": {
     "id": "OGN-192",
@@ -4054,17 +3630,15 @@
       "front": {
         "name": "Infinite Mindsplitter",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-192/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Infinite Mindsplitter",
     "type": "Unit",
-    "cost": "7",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 7,
+    "Domain": ["Chaos"]
   },
   "OGN-193": {
     "id": "OGN-193",
@@ -4073,17 +3647,15 @@
       "front": {
         "name": "Miss Fortune, Buccaneer",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-193/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Buccaneer",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-193a": {
     "id": "OGN-193a",
@@ -4092,17 +3664,15 @@
       "front": {
         "name": "Miss Fortune, Buccaneer",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-193a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Miss Fortune, Buccaneer",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-194": {
     "id": "OGN-194",
@@ -4111,17 +3681,15 @@
       "front": {
         "name": "Nocturne, Horrifying",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-194/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Nocturne, Horrifying",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-195": {
     "id": "OGN-195",
@@ -4130,17 +3698,15 @@
       "front": {
         "name": "Rhasa the Sunderer",
         "type": "Unit",
-        "cost": "10",
+        "cost": 10,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-195/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Rhasa the Sunderer",
     "type": "Unit",
-    "cost": "10",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 10,
+    "Domain": ["Chaos"]
   },
   "OGN-196": {
     "id": "OGN-196",
@@ -4149,17 +3715,15 @@
       "front": {
         "name": "Soulgorger",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-196/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Soulgorger",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 8,
+    "Domain": ["Chaos"]
   },
   "OGN-197": {
     "id": "OGN-197",
@@ -4168,17 +3732,15 @@
       "front": {
         "name": "Teemo, Scout",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Teemo, Scout",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-197a": {
     "id": "OGN-197a",
@@ -4187,17 +3749,15 @@
       "front": {
         "name": "Teemo, Scout",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Teemo, Scout",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-198": {
     "id": "OGN-198",
@@ -4206,17 +3766,15 @@
       "front": {
         "name": "The Harrowing",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-198/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "The Harrowing",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 6,
+    "Domain": ["Chaos"]
   },
   "OGN-199": {
     "id": "OGN-199",
@@ -4225,17 +3783,15 @@
       "front": {
         "name": "Tideturner",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-199/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Tideturner",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Chaos"]
   },
   "OGN-200": {
     "id": "OGN-200",
@@ -4244,17 +3800,15 @@
       "front": {
         "name": "Twisted Fate, Gambler",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-200/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Twisted Fate, Gambler",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Chaos"]
   },
   "OGN-201": {
     "id": "OGN-201",
@@ -4263,17 +3817,15 @@
       "front": {
         "name": "Invert Timelines",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-201/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Invert Timelines",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Chaos"]
   },
   "OGN-202": {
     "id": "OGN-202",
@@ -4282,17 +3834,15 @@
       "front": {
         "name": "Jinx, Rebel",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Jinx, Rebel",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-202a": {
     "id": "OGN-202a",
@@ -4301,17 +3851,15 @@
       "front": {
         "name": "Jinx, Rebel",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-202a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Jinx, Rebel",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-203": {
     "id": "OGN-203",
@@ -4320,17 +3868,15 @@
       "front": {
         "name": "Possession",
         "type": "Spell",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-203/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Possession",
     "type": "Spell",
-    "cost": "8",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 8,
+    "Domain": ["Chaos"]
   },
   "OGN-204": {
     "id": "OGN-204",
@@ -4347,9 +3893,7 @@
     "name": "Seal of Discord",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Chaos"
-    ]
+    "Domain": ["Chaos"]
   },
   "OGN-205": {
     "id": "OGN-205",
@@ -4358,17 +3902,15 @@
       "front": {
         "name": "Yasuo, Windrider",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Yasuo, Windrider",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-205a": {
     "id": "OGN-205a",
@@ -4377,17 +3919,15 @@
       "front": {
         "name": "Yasuo, Windrider",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-205a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Yasuo, Windrider",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Chaos"
-    ]
+    "cost": 5,
+    "Domain": ["Chaos"]
   },
   "OGN-206": {
     "id": "OGN-206",
@@ -4396,17 +3936,15 @@
       "front": {
         "name": "Back to Back",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-206/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Back to Back",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Order"]
   },
   "OGN-207": {
     "id": "OGN-207",
@@ -4415,17 +3953,15 @@
       "front": {
         "name": "Call to Glory",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-207/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Call to Glory",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Order"]
   },
   "OGN-208": {
     "id": "OGN-208",
@@ -4434,17 +3970,15 @@
       "front": {
         "name": "Cruel Patron",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-208/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cruel Patron",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-209": {
     "id": "OGN-209",
@@ -4453,17 +3987,15 @@
       "front": {
         "name": "Cull the Weak",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-209/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Cull the Weak",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-210": {
     "id": "OGN-210",
@@ -4472,17 +4004,15 @@
       "front": {
         "name": "Daring Poro",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-210/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Daring Poro",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-211": {
     "id": "OGN-211",
@@ -4491,18 +4021,16 @@
       "front": {
         "name": "Faithful Manufactor",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-211/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Faithful Manufactor",
     "type": "Unit",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-212": {
     "id": "OGN-212",
@@ -4511,18 +4039,16 @@
       "front": {
         "name": "Forge of the Future",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-212/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Forge of the Future",
     "type": "Gear",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-213": {
     "id": "OGN-213",
@@ -4531,17 +4057,15 @@
       "front": {
         "name": "Hidden Blade",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-213/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Hidden Blade",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-214": {
     "id": "OGN-214",
@@ -4558,9 +4082,7 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-214a": {
     "id": "OGN-214a",
@@ -4577,9 +4099,7 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-215": {
     "id": "OGN-215",
@@ -4588,17 +4108,15 @@
       "front": {
         "name": "Petty Officer",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-215/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Petty Officer",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 5,
+    "Domain": ["Order"]
   },
   "OGN-216": {
     "id": "OGN-216",
@@ -4607,17 +4125,15 @@
       "front": {
         "name": "Soaring Scout",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-216/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Soaring Scout",
     "type": "Unit",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-217": {
     "id": "OGN-217",
@@ -4626,18 +4142,16 @@
       "front": {
         "name": "Trifarian Gloryseeker",
         "type": "Unit",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-217/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Trifarian Gloryseeker",
     "type": "Unit",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-218": {
     "id": "OGN-218",
@@ -4646,18 +4160,16 @@
       "front": {
         "name": "Vanguard Captain",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-218/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Captain",
     "type": "Unit",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-271"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-219": {
     "id": "OGN-219",
@@ -4666,17 +4178,15 @@
       "front": {
         "name": "Vanguard Sergeant",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-219/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Sergeant",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-220": {
     "id": "OGN-220",
@@ -4685,17 +4195,15 @@
       "front": {
         "name": "Facebreaker",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-220/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Facebreaker",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-221": {
     "id": "OGN-221",
@@ -4704,17 +4212,15 @@
       "front": {
         "name": "Imperial Decree",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-221/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Imperial Decree",
     "type": "Spell",
-    "cost": "5",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 5,
+    "Domain": ["Order"]
   },
   "OGN-222": {
     "id": "OGN-222",
@@ -4723,18 +4229,16 @@
       "front": {
         "name": "Noxian Drummer",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-222/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Noxian Drummer",
     "type": "Unit",
-    "cost": "3",
+    "cost": 3,
     "tokens": ["OGN-272"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-223": {
     "id": "OGN-223",
@@ -4743,18 +4247,16 @@
       "front": {
         "name": "Peak Guardian",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-223/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Peak Guardian",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-224": {
     "id": "OGN-224",
@@ -4763,17 +4265,15 @@
       "front": {
         "name": "Salvage",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-224/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Salvage",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Order"]
   },
   "OGN-225": {
     "id": "OGN-225",
@@ -4782,17 +4282,15 @@
       "front": {
         "name": "Solari Chief",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-225/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Solari Chief",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 5,
+    "Domain": ["Order"]
   },
   "OGN-226": {
     "id": "OGN-226",
@@ -4801,17 +4299,15 @@
       "front": {
         "name": "Spectral Matron",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-226/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Spectral Matron",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-227": {
     "id": "OGN-227",
@@ -4820,17 +4316,15 @@
       "front": {
         "name": "Symbol of the Solari",
         "type": "Gear",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-227/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Symbol of the Solari",
     "type": "Gear",
-    "cost": "1",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 1,
+    "Domain": ["Order"]
   },
   "OGN-228": {
     "id": "OGN-228",
@@ -4839,18 +4333,16 @@
       "front": {
         "name": "Vanguard Helm",
         "type": "Gear",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-228/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Helm",
     "type": "Gear",
-    "cost": "2",
+    "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-229": {
     "id": "OGN-229",
@@ -4859,17 +4351,15 @@
       "front": {
         "name": "Vengeance",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-229/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vengeance",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-230": {
     "id": "OGN-230",
@@ -4878,17 +4368,15 @@
       "front": {
         "name": "Albus Ferros",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-230/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Albus Ferros",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-231": {
     "id": "OGN-231",
@@ -4897,17 +4385,15 @@
       "front": {
         "name": "Commander Ledros",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-231/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Commander Ledros",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 6,
+    "Domain": ["Order"]
   },
   "OGN-232": {
     "id": "OGN-232",
@@ -4916,17 +4402,15 @@
       "front": {
         "name": "Fiora, Victorious",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-232/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Fiora, Victorious",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
     "OGN-233": {
     "id": "OGN-233",
@@ -4935,17 +4419,15 @@
       "front": {
         "name": "Grand Strategem",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-233/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Grand Strategem",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 6,
+    "Domain": ["Order"]
   },
   "OGN-234": {
     "id": "OGN-234",
@@ -4954,17 +4436,15 @@
       "front": {
         "name": "Harnessed Dragon",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-234/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Harnessed Dragon",
     "type": "Unit",
-    "cost": "8",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 8,
+    "Domain": ["Order"]
   },
   "OGN-235": {
     "id": "OGN-235",
@@ -4973,18 +4453,16 @@
       "front": {
         "name": "Karma, Channeler",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-235/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Karma, Channeler",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-236": {
     "id": "OGN-236",
@@ -4993,17 +4471,15 @@
       "front": {
         "name": "Karthus, Eternal",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-236/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Karthus, Eternal",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Order"]
   },
   "OGN-237": {
     "id": "OGN-237",
@@ -5012,17 +4488,15 @@
       "front": {
         "name": "King's Edict",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-237/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "King's Edict",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 6,
+    "Domain": ["Order"]
   },
   "OGN-238": {
     "id": "OGN-238",
@@ -5031,17 +4505,15 @@
       "front": {
         "name": "Leona, Determined",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Leona, Determined",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-238a": {
     "id": "OGN-238a",
@@ -5050,17 +4522,15 @@
       "front": {
         "name": "Leona, Determined",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-238a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Leona, Determined",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-239": {
     "id": "OGN-239",
@@ -5069,18 +4539,16 @@
       "front": {
         "name": "Machine Evangel",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-239/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Machine Evangel",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-240": {
     "id": "OGN-240",
@@ -5089,17 +4557,15 @@
       "front": {
         "name": "Sett, Kingpin",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sett, Kingpin",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-240a": {
     "id": "OGN-240a",
@@ -5108,17 +4574,15 @@
       "front": {
         "name": "Sett, Kingpin",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-240a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Sett, Kingpin",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-241": {
     "id": "OGN-241",
@@ -5127,17 +4591,15 @@
       "front": {
         "name": "Shen, Kinkou",
         "type": "Unit",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-241/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Shen, Kinkou",
     "type": "Unit",
-    "cost": "3",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Order"]
   },
   "OGN-242": {
     "id": "OGN-242",
@@ -5146,17 +4608,15 @@
       "front": {
         "name": "Baited Hook",
         "type": "Gear",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-242/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Baited Hook",
     "type": "Gear",
-    "cost": "3",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Order"]
   },
   "OGN-243": {
     "id": "OGN-243",
@@ -5165,17 +4625,15 @@
       "front": {
         "name": "Darius, Executioner",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Darius, Executioner",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 6,
+    "Domain": ["Order"]
   },
   "OGN-243a": {
     "id": "OGN-243a",
@@ -5184,17 +4642,15 @@
       "front": {
         "name": "Darius, Executioner",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-243a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Darius, Executioner",
     "type": "Unit",
-    "cost": "6",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 6,
+    "Domain": ["Order"]
   },
   "OGN-244": {
     "id": "OGN-244",
@@ -5203,17 +4659,15 @@
       "front": {
         "name": "Divine Judgment",
         "type": "Spell",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-244/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Divine Judgment",
     "type": "Spell",
-    "cost": "7",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 7,
+    "Domain": ["Order"]
   },
   "OGN-245": {
     "id": "OGN-245",
@@ -5230,9 +4684,7 @@
     "name": "Seal of Unity",
     "type": "Gear",
     "cost": 0,
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-246": {
     "id": "OGN-246",
@@ -5241,18 +4693,16 @@
       "front": {
         "name": "Viktor, Leader",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Viktor, Leader",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "tokens": ["OGN-273"],
-    "Domain": [
-      "Order"
-    ]
+    "Domain": ["Order"]
   },
   "OGN-246a": {
     "id": "OGN-246a",
@@ -5261,17 +4711,15 @@
       "front": {
         "name": "Viktor, Leader",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-246a/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Viktor, Leader",
     "type": "Unit",
-    "cost": "4",
-    "Domain": [
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Order"]
   },
   "OGN-247": {
     "id": "OGN-247",
@@ -5288,10 +4736,7 @@
     "name": "Kai'Sa, Daughter of the Void",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Fury",
-      "Mind"
-    ]
+    "Domain": ["Fury", "Mind"]
   },
   "OGN-248": {
     "id": "OGN-248",
@@ -5300,18 +4745,15 @@
       "front": {
         "name": "Icathian Rain",
         "type": "Spell",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-248/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Icathian Rain",
         "type": "Spell",
-        "cost": "7",
-    "Domain": [
-      "Fury",
-      "Mind"
-    ]
+        "cost": 7,
+    "Domain": ["Fury", "Mind"]
   },
   "OGN-249": {
     "id": "OGN-249",
@@ -5328,10 +4770,7 @@
     "name": "Volibear, Relentless Storm",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Fury",
-      "Body"
-    ]
+    "Domain": ["Fury", "Body"]
   },
   "OGN-250": {
     "id": "OGN-250",
@@ -5340,18 +4779,15 @@
       "front": {
         "name": "Stormbringer",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-250/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Stormbringer",
     "type": "Spell",
-    "cost": "6",
-    "Domain": [
-      "Fury",
-      "Body"
-    ]
+    "cost": 6,
+    "Domain": ["Fury", "Body"]
   },
   "OGN-251": {
     "id": "OGN-251",
@@ -5368,10 +4804,7 @@
     "name": "Jinx, Loose Cannon",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Fury",
-      "Chaos"
-    ]
+    "Domain": ["Fury", "Chaos"]
   },
   "OGN-252": {
     "id": "OGN-252",
@@ -5380,18 +4813,15 @@
       "front": {
         "name": "Super Mega Death Rocket!",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-252/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Super Mega Death Rocket!",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Fury",
-      "Chaos"
-    ]
+    "cost": 4,
+    "Domain": ["Fury", "Chaos"]
   },
   "OGN-253": {
     "id": "OGN-253",
@@ -5408,10 +4838,7 @@
     "name": "Darius, Hand of Noxus",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Fury",
-      "Order"
-    ]
+    "Domain": ["Fury", "Order"]
   },
   "OGN-254": {
     "id": "OGN-254",
@@ -5420,18 +4847,15 @@
       "front": {
         "name": "Noxian Guillotine",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-254/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Noxian Guillotine",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Fury",
-      "Order"
-    ]
+    "cost": 4,
+    "Domain": ["Fury", "Order"]
   },
   "OGN-255": {
     "id": "OGN-255",
@@ -5448,10 +4872,7 @@
     "name": "Ahri, Nine-Tailed Fox",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Calm",
-      "Mind"
-    ]
+    "Domain": ["Calm", "Mind"]
   },
   "OGN-256": {
     "id": "OGN-256",
@@ -5460,18 +4881,15 @@
       "front": {
         "name": "Fox-Fire",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-256/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Fox-Fire",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm",
-      "Mind"
-    ]
+    "cost": 3,
+    "Domain": ["Calm", "Mind"]
   },
   "OGN-257": {
     "id": "OGN-257",
@@ -5489,10 +4907,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm",
-      "Body"
-    ]
+    "Domain": ["Calm", "Body"]
   },
   "OGN-258": {
     "id": "OGN-258",
@@ -5501,18 +4916,15 @@
       "front": {
         "name": "Dragon's Rage",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-258/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Dragon's Rage",
     "type": "Spell",
-    "cost": "4",
-    "Domain": [
-      "Calm",
-      "Body"
-    ]
+    "cost": 4,
+    "Domain": ["Calm", "Body"]
   },
   "OGN-259": {
     "id": "OGN-259",
@@ -5529,10 +4941,7 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Calm",
-      "Chaos"
-    ]
+    "Domain": ["Calm", "Chaos"]
   },
   "OGN-260": {
     "id": "OGN-260",
@@ -5541,18 +4950,15 @@
       "front": {
         "name": "Last Breath",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-260/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Last Breath",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm",
-      "Chaos"
-    ]
+    "cost": 3,
+    "Domain": ["Calm", "Chaos"]
   },
   "OGN-261": {
     "id": "OGN-261",
@@ -5570,10 +4976,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Calm",
-      "Order"
-    ]
+    "Domain": ["Calm", "Order"]
   },
   "OGN-262": {
     "id": "OGN-262",
@@ -5582,18 +4985,15 @@
       "front": {
         "name": "Zenith Blade",
         "type": "Spell",
-        "cost": "3",
+        "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-262/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Zenith Blade",
     "type": "Spell",
-    "cost": "3",
-    "Domain": [
-      "Calm",
-      "Order"
-    ]
+    "cost": 3,
+    "Domain": ["Calm", "Order"]
   },
   "OGN-263": {
     "id": "OGN-263",
@@ -5610,10 +5010,7 @@
     "name": "Teemo, Swift Scout",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Mind",
-      "Chaos"
-    ]
+    "Domain": ["Mind", "Chaos"]
   },
   "OGN-264": {
     "id": "OGN-264",
@@ -5622,18 +5019,15 @@
       "front": {
         "name": "Guerilla Warfare",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-264/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Guerilla Warfare",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Mind",
-      "Chaos"
-    ]
+    "cost": 2,
+    "Domain": ["Mind", "Chaos"]
   },
   "OGN-265": {
     "id": "OGN-265",
@@ -5651,7 +5045,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-273"],
-    "Domain": ["Mind","Order"]
+    "Domain": ["Mind", "Order"]
   },
   "OGN-266": {
     "id": "OGN-266",
@@ -5660,18 +5054,15 @@
       "front": {
         "name": "Siphon Power",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-266/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Siphon Power",
     "type": "Spell",
-    "cost": "2",
-    "Domain": [
-      "Mind",
-      "Order"
-    ]
+    "cost": 2,
+    "Domain": ["Mind", "Order"]
   },
   "OGN-267": {
     "id": "OGN-267",
@@ -5688,10 +5079,7 @@
     "name": "Miss Fortune, Bounty Hunter",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Body",
-      "Chaos"
-    ]
+    "Domain": ["Body", "Chaos"]
   },
   "OGN-268": {
     "id": "OGN-268",
@@ -5700,18 +5088,15 @@
       "front": {
         "name": "Bullet Time",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-268/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Bullet Time",
     "type": "Spell",
-    "cost": "1",
-    "Domain": [
-      "Body",
-      "Chaos"
-    ]
+    "cost": 1,
+    "Domain": ["Body", "Chaos"]
   },
   "OGN-269": {
     "id": "OGN-269",
@@ -5728,10 +5113,7 @@
     "name": "Sett, The Boss",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Body",
-      "Order"
-    ]
+    "Domain": ["Body", "Order"]
   },
   "OGN-270": {
     "id": "OGN-270",
@@ -5740,19 +5122,16 @@
       "front": {
         "name": "Showstopper",
         "type": "Spell",
-        "cost": "1",
+        "cost": 1,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-270/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Showstopper",
     "type": "Spell",
-    "cost": "1",
+    "cost": 1,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Body",
-      "Order"
-    ]
+    "Domain": ["Body", "Order"]
   },
   "OGN-271": {
     "id": "OGN-271",
@@ -5769,9 +5148,7 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-272": {
     "id": "OGN-272",
@@ -5788,9 +5165,7 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-273": {
     "id": "OGN-273",
@@ -5807,9 +5182,7 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-274": {
     "id": "OGN-274",
@@ -5826,9 +5199,7 @@
     "name": "Sprite",
     "type": "Unit",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-275": {
     "id": "OGN-275",
@@ -5846,9 +5217,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-271"],
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-276": {
     "id": "OGN-276",
@@ -5865,9 +5234,7 @@
     "name": "Aspirant's Climb",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-277": {
     "id": "OGN-277",
@@ -5884,9 +5251,7 @@
     "name": "Back-Alley Bar",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-278": {
     "id": "OGN-278",
@@ -5903,9 +5268,7 @@
     "name": "Bandle Tree",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-279": {
     "id": "OGN-279",
@@ -5922,9 +5285,7 @@
     "name": "Fortified Position",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-280": {
     "id": "OGN-280",
@@ -5941,9 +5302,7 @@
     "name": "Grove of the God-Willow",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-281": {
     "id": "OGN-281",
@@ -5960,9 +5319,7 @@
     "name": "Hallowed Tomb",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-282": {
     "id": "OGN-282",
@@ -5979,9 +5336,7 @@
     "name": "Monastery of Hirana",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-283": {
     "id": "OGN-283",
@@ -5999,9 +5354,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-284": {
     "id": "OGN-284",
@@ -6018,9 +5371,7 @@
     "name": "Obelisk of Power",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-285": {
     "id": "OGN-285",
@@ -6037,9 +5388,7 @@
     "name": "Reaver's Row",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-286": {
     "id": "OGN-286",
@@ -6056,9 +5405,7 @@
     "name": "Reckoner's Arena",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-287": {
     "id": "OGN-287",
@@ -6075,9 +5422,7 @@
     "name": "Sigil of the Storm",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-288": {
     "id": "OGN-288",
@@ -6094,9 +5439,7 @@
     "name": "Startipped Peak",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-289": {
     "id": "OGN-289",
@@ -6113,9 +5456,7 @@
     "name": "Targon's Peak",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-290": {
     "id": "OGN-290",
@@ -6132,9 +5473,7 @@
     "name": "The Arena's Greatest",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-291": {
     "id": "OGN-291",
@@ -6151,9 +5490,7 @@
     "name": "The Candlelit Sanctum",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-292": {
     "id": "OGN-292",
@@ -6170,9 +5507,7 @@
     "name": "The Dreaming Tree",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-293": {
     "id": "OGN-293",
@@ -6189,9 +5524,7 @@
     "name": "The Grand Plaza",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-294": {
     "id": "OGN-294",
@@ -6208,9 +5541,7 @@
     "name": "Trifarian War Camp",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-295": {
     "id": "OGN-295",
@@ -6227,9 +5558,7 @@
     "name": "Vilemaw's Lair",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-296": {
     "id": "OGN-296",
@@ -6246,9 +5575,7 @@
     "name": "Void Gate",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-297": {
     "id": "OGN-297",
@@ -6265,9 +5592,7 @@
     "name": "Windswept Hillock",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-298": {
     "id": "OGN-298",
@@ -6284,9 +5609,7 @@
     "name": "Zaun Warrens",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGN-299s": {
     "id": "OGN-299s",
@@ -6422,10 +5745,7 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Calm",
-      "Chaos"
-    ]
+    "Domain": ["Calm", "Chaos"]
   },
   "OGN-305s": {
     "id": "OGN-305s",
@@ -6442,10 +5762,7 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": [
-      "Calm",
-      "Chaos"
-    ]
+    "Domain": ["Calm", "Chaos"]
   },
   "OGN-306s": {
     "id": "OGN-306s",
@@ -6549,9 +5866,7 @@
     "name": "Buff",
     "type": "Other",
     "cost": 0,
-    "Domain": [
-      "Domainless"
-    ]
+    "Domain": ["Domainless"]
   },
   "OGS-001": {
     "id": "OGS-001",
@@ -6560,17 +5875,15 @@
       "front": {
         "name": "Annie, Fiery",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-001/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Annie, Fiery",
     "type": "Unit",
-    "cost": "5",
-    "Domain": [
-      "Fury"
-    ]
+    "cost": 5,
+    "Domain": ["Fury"]
   },
   "OGS-002": {
     "id": "OGS-002",
@@ -6579,14 +5892,14 @@
       "front": {
         "name": "Firestorm",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-002/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Firestorm",
     "type": "Spell",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Fury"]
   },
   "OGS-003": {
@@ -6596,14 +5909,14 @@
       "front": {
         "name": "Incinerate",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-003/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Incinerate",
     "type": "Spell",
-    "cost": "2",
+    "cost": 2,
     "Domain": ["Fury"]
   },
   "OGS-004": {
@@ -6613,14 +5926,14 @@
       "front": {
         "name": "Master Yi, Meditative",
         "type": "Unit",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-004/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Master Yi, Meditative",
     "type": "Unit",
-    "cost": "5",
+    "cost": 5,
     "Domain": ["Calm"]
   },
   "OGS-005": {
@@ -6630,14 +5943,14 @@
       "front": {
         "name": "Zephyr Sage",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-005/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Zephyr Sage",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Calm"]
   },
   "OGS-006": {
@@ -6647,14 +5960,14 @@
       "front": {
         "name": "Lux, Illuminated",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-006/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lux, Illuminated",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Mind"]
   },
   "OGS-007": {
@@ -6664,14 +5977,14 @@
       "front": {
         "name": "Garen, Rugged",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-007/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Garen, Rugged",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Body"]
   },
   "OGS-008": {
@@ -6681,14 +5994,14 @@
       "front": {
         "name": "Gentlemen's Duel",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-008/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Gentlemen's Duel",
     "type": "Spell",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Body"]
   },
   "OGS-009": {
@@ -6698,14 +6011,14 @@
       "front": {
         "name": "Master Yi, Honed",
         "type": "Unit",
-        "cost": "7",
+        "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-009/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Master Yi, Honed",
     "type": "Unit",
-    "cost": "7",
+    "cost": 7,
     "Domain": ["Body"]
   },
   "OGS-010": {
@@ -6715,14 +6028,14 @@
       "front": {
         "name": "Annie, Stubborn",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-010/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Annie, Stubborn",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "Domain": ["Chaos"]
   },
   "OGS-011": {
@@ -6732,14 +6045,14 @@
       "front": {
         "name": "Flash",
         "type": "Spell",
-        "cost": "2",
+        "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-011/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Flash",
     "type": "Spell",
-    "cost": "2",
+    "cost": 2,
     "Domain": ["Chaos"]
   },
   "OGS-012": {
@@ -6749,14 +6062,14 @@
       "front": {
         "name": "Blast of Power",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-012/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Blast of Power",
     "type": "Spell",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Order"]
   },
   "OGS-013": {
@@ -6766,14 +6079,14 @@
       "front": {
         "name": "Garen, Commander",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-013/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Garen, Commander",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Order"]
   },
   "OGS-014": {
@@ -6783,14 +6096,14 @@
       "front": {
         "name": "Lux, Crownguard",
         "type": "Unit",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-014/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Lux, Crownguard",
     "type": "Unit",
-    "cost": "4",
+    "cost": 4,
     "Domain": ["Order"]
   },
   "OGS-015": {
@@ -6800,14 +6113,14 @@
       "front": {
         "name": "Recruit the Vanguard",
         "type": "Spell",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-015/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Recruit the Vanguard",
     "type": "Spell",
-    "cost": "6",
+    "cost": 6,
     "tokens": ["OGN-271"],
     "Domain": ["Order"]
   },
@@ -6818,14 +6131,14 @@
       "front": {
         "name": "Vanguard Attendant",
         "type": "Unit",
-        "cost": "6",
+        "cost": 6,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-016/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Attendant",
     "type": "Unit",
-    "cost": "6",
+    "cost": 6,
     "Domain": ["Order"]
   },
   "OGS-017": {
@@ -6843,8 +6156,7 @@
     "name": "Annie, Dark Child",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Fury",
-  "Chaos"]
+    "Domain": ["Fury", "Chaos"]
   },
   "OGS-018": {
     "id": "OGS-018",
@@ -6853,16 +6165,15 @@
       "front": {
         "name": "Tibbers",
         "type": "Unit",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-018/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Tibbers",
     "type": "Unit",
-    "cost": "8",
-    "Domain": ["Fury",
-  "Chaos"]
+    "cost": 8,
+    "Domain": ["Fury", "Chaos"]
   },
   "OGS-019": {
     "id": "OGS-019",
@@ -6879,8 +6190,7 @@
     "name": "Master Yi, Wuju Bladesman",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Calm",
-  "Body"]
+    "Domain": ["Calm", "Body"]
   },
   "OGS-020": {
     "id": "OGS-020",
@@ -6889,16 +6199,15 @@
       "front": {
         "name": "Highlander",
         "type": "Spell",
-        "cost": "4",
+        "cost": 4,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-020/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Highlander",
     "type": "Spell",
-    "cost": "4",
-    "Domain": ["Calm",
-  "Body"]
+    "cost": 4,
+    "Domain": ["Calm", "Body"]
   },
   "OGS-021": {
     "id": "OGS-021",
@@ -6915,8 +6224,7 @@
     "name": "Lux, Lady of Luminosity",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Mind",
-  "Order"]
+    "Domain": ["Mind", "Order"]
   },
   "OGS-022": {
     "id": "OGS-022",
@@ -6925,16 +6233,15 @@
       "front": {
         "name": "Final Spark",
         "type": "Spell",
-        "cost": "8",
+        "cost": 8,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-022/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Final Spark",
     "type": "Spell",
-    "cost": "8",
-    "Domain": ["Mind",
-  "Order"]
+    "cost": 8,
+    "Domain": ["Mind", "Order"]
   },
   "OGS-023": {
     "id": "OGS-023",
@@ -6951,8 +6258,7 @@
     "name": "Garen, Might of Demacia",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["Body",
-  "Order"]
+    "Domain": ["Body", "Order"]
   },
   "OGS-024": {
     "id": "OGS-024",
@@ -6961,15 +6267,14 @@
       "front": {
         "name": "Decisive Strike",
         "type": "Spell",
-        "cost": "5",
+        "cost": 5,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGS/cards/OGS-024/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Decisive Strike",
     "type": "Spell",
-    "cost": "5",
-    "Domain": ["Body",
-  "Order"]
+    "cost": 5,
+    "Domain": ["Body", "Order"]
   }
 }
