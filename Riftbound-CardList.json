@@ -5611,6 +5611,23 @@
     "cost": 0,
     "Domain": ["Domainless"]
   },
+  "OGN-299": {
+    "id": "OGN-299",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kai'Sa, Daughter of the Void",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-299/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kai'Sa, Daughter of the Void",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Fury", "Mind"]
+  },
   "OGN-299s": {
     "id": "OGN-299s",
     "isToken": false,
@@ -5619,7 +5636,7 @@
         "name": "Kai'Sa, Daughter of the Void",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/299s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-299s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5662,6 +5679,23 @@
     "cost": 0,
     "Domain": ["Fury", "Body"]
   },
+  "OGN-301": {
+    "id": "OGN-301",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx, Loose Cannon",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-301/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx, Loose Cannon",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Fury", "Chaos"]
+  },
   "OGN-301s": {
     "id": "OGN-301s",
     "isToken": false,
@@ -5670,7 +5704,7 @@
         "name": "Jinx, Loose Cannon",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/301s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-301s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5678,6 +5712,23 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["Fury", "Chaos"]
+  },
+  "OGN-302": {
+    "id": "OGN-302",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Hand of Noxus",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-302/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Hand of Noxus",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Fury", "Order"]
   },
   "OGN-302s": {
     "id": "OGN-302s",
@@ -5687,7 +5738,7 @@
         "name": "Darius, Hand of Noxus",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/302s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-302s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5695,6 +5746,23 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["Fury", "Order"]
+  },
+  "OGN-303": {
+    "id": "OGN-303",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Nine-Tailed Fox",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-303/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Nine-Tailed Fox",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Calm", "Mind"]
   },
   "OGN-303s": {
     "id": "OGN-303s",
@@ -5704,7 +5772,7 @@
         "name": "Ahri, Nine-Tailed Fox",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/303s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-303s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5712,6 +5780,23 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["Calm", "Mind"]
+  },
+  "OGN-304": {
+    "id": "OGN-304",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lee Sin, Blind Monk",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-304/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lee Sin, Blind Monk",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Calm", "Body"]
   },
   "OGN-304s": {
     "id": "OGN-304s",
@@ -5721,7 +5806,7 @@
         "name": "Lee Sin, Blind Monk",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/304s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-304s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5764,15 +5849,15 @@
     "cost": 0,
     "Domain": ["Calm", "Chaos"]
   },
-  "OGN-306s": {
-    "id": "OGN-306s",
+  "OGN-306": {
+    "id": "OGN-306",
     "isToken": false,
     "face": {
       "front": {
         "name": "Leona, Radiant Dawn",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/306s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-306/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5782,15 +5867,33 @@
     "tokens": ["OGN-XXX"],
     "Domain": ["Calm", "Order"]
   },
-  "OGN-307s": {
-    "id": "OGN-307s",
+  "OGN-306s": {
+    "id": "OGN-306s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leona, Radiant Dawn",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-306s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leona, Radiant Dawn",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["OGN-XXX"],
+    "Domain": ["Calm", "Order"]
+  },
+  "OGN-307": {
+    "id": "OGN-307",
     "isToken": false,
     "face": {
       "front": {
         "name": "Teemo, Swift Scout",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/307s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-307/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5799,15 +5902,32 @@
     "cost": 0,
     "Domain": ["Mind", "Chaos"]
   },
-  "OGN-308s": {
-    "id": "OGN-308s",
+  "OGN-307s": {
+    "id": "OGN-307s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Swift Scout",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-307s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Swift Scout",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Mind", "Chaos"]
+  },
+  "OGN-308": {
+    "id": "OGN-308",
     "isToken": false,
     "face": {
       "front": {
         "name": "Viktor, Herald of the Arcane",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/308s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-308/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5817,6 +5937,41 @@
     "tokens": ["OGN-273"],
     "Domain": ["Mind", "Order"]
   },
+  "OGN-308s": {
+    "id": "OGN-308s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor, Herald of the Arcane",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-308s/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor, Herald of the Arcane",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["OGN-273"],
+    "Domain": ["Mind", "Order"]
+  },
+  "OGN-309": {
+    "id": "OGN-309",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miss Fortune, Bounty Hunter",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-309/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Fortune, Bounty Hunter",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Body", "Chaos"]
+  },
   "OGN-309s": {
     "id": "OGN-309s",
     "isToken": false,
@@ -5825,7 +5980,7 @@
         "name": "Miss Fortune, Bounty Hunter",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/309s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-309s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -5833,6 +5988,23 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["Body", "Chaos"]
+  },
+  "OGN-310": {
+    "id": "OGN-310",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, The Boss",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-310/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, The Boss",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["Body", "Order"]
   },
   "OGN-310s": {
     "id": "OGN-310s",
@@ -5842,7 +6014,7 @@
         "name": "Sett, The Boss",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Proxy_Cards/310s.png",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-310s/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
