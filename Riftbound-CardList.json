@@ -1795,6 +1795,7 @@
     "name": "Sprite Call",
     "type": "Spell",
     "cost": 3,
+    "tokens": ["OGN-274"],
     "Domain": ["Mind"]
   },
   "OGN-095": {
@@ -1999,6 +2000,7 @@
     "name": "Sprite Mother",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["OGN-274"],
     "Domain": ["Mind"]
   },
   "OGN-107": {
