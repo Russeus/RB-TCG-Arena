@@ -566,10 +566,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": false,
+                        "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
+                        "keepTappedNewTurn": true,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -585,10 +585,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": false,
+                        "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
+                        "keepTappedNewTurn": true,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
