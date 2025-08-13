@@ -188,6 +188,7 @@
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "DECK",
+                        "drawPerTurn": 2,
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
