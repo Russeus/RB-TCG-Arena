@@ -1,5 +1,5 @@
 {
-  "name": "Riftbound TEST",
+  "name": "Riftbound",
   "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
   "defaultRessources": {
     "backgrounds": [
@@ -188,6 +188,7 @@
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "DECK",
+                        "drawPerTurn": 2,
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
@@ -566,10 +567,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": false,
+                        "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
+                        "keepTappedNewTurn": true,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -585,10 +586,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": false,
+                        "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
+                        "keepTappedNewTurn": true,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
