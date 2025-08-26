@@ -332,7 +332,15 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Runes",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+                        }
                     },
                     "Stack": {
                         "isDefaultSection": true,
@@ -708,7 +716,15 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Runes",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton2.png"
+                        }
                     },
                     "Stack": {
                         "isDefaultSection": true,
