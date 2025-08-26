@@ -322,7 +322,7 @@
                         "title": "Mana",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "LEFT",
+                        "alignment": "RIGHT",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
