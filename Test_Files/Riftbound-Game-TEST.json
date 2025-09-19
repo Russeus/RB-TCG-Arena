@@ -15,7 +15,13 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
-    "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png"
+    "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+    "cardBackColor": "#ffffff",
+    "extraCardBacks": {
+        "Runes": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+        "Battlefields": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+        "Legend": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png"
+      }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -322,7 +328,7 @@
                         "title": "Mana",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "END",
+                        "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
@@ -538,6 +544,7 @@
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "DECK",
+                        "drawPerTurn": 2,
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": false,
