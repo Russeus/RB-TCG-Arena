@@ -205,7 +205,7 @@
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
-                        "cardBackColor": "#ff00ff"
+                        "cardBackColor": "#ffffff"
                     },
                     "Base": {
                         "title": "Base",
