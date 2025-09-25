@@ -16,7 +16,7 @@
   "cards": {
     "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
     "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
-    "cardBackColor": "#003c55",
+    "cardBackColor": "#03354a",
     "extraCardBacks": {
         "Runes": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
         "Battlefields": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
@@ -204,7 +204,8 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardBackColor": "#e0e0e0"
                     },
                     "Base": {
                         "title": "Base",
@@ -554,7 +555,8 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
+                        "showHiddenCardInHistory": false,
+                        "cardBackColor": "#e0e0e0"
                     },
                     "Base": {
                         "title": "Base",
