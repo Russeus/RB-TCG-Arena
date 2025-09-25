@@ -203,8 +203,7 @@
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false,
-                        "cardBackColor": "#ad1735"
+                        "showHiddenCardInHistory": false
                     },
                     "Base": {
                         "title": "Base",
