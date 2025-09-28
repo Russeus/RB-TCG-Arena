@@ -3754,6 +3754,23 @@
     "cost": 4,
     "Domain": ["Chaos"]
   },
+  "OGN-193b": {
+    "id": "OGN-193b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miss Fortune, Buccaneer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-193b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miss Fortune, Buccaneer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["Chaos"]
+  },
   "OGN-194": {
     "id": "OGN-194",
     "isToken": false,
@@ -3831,6 +3848,23 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-197a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Scout",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["Chaos"]
+  },
+  "OGN-197b": {
+    "id": "OGN-197b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Scout",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-197b.png",
         "isHorizontal": false
       }
     },
