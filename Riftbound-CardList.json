@@ -111,13 +111,6 @@
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
-        "isHorizontal": false
       }
     },
     "name": "Fury Rune",
@@ -134,6 +127,23 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fury Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Fury"]
+  },
+  "OGN-007b": {
+    "id": "OGN-007b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fury Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-007b.png",
         "isHorizontal": false
       }
     },
@@ -814,6 +824,23 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-042a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calm Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Calm"]
+  },
+  "OGN-042b": {
+    "id": "OGN-042b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calm Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-042b.png",
         "isHorizontal": false
       }
     },
@@ -1712,6 +1739,23 @@
     "cost": 0,
     "Domain": ["Mind"]
   },
+  "OGN-089b": {
+    "id": "OGN-089b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-089b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Mind"]
+  },
   "OGN-090": {
     "id": "OGN-090",
     "isToken": false,
@@ -2422,6 +2466,23 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-126a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Body"]
+  },
+  "OGN-126b": {
+    "id": "OGN-126b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Body Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-126b.png",
         "isHorizontal": false
       }
     },
@@ -3192,6 +3253,23 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-166a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Chaos"]
+  },
+  "OGN-166b": {
+    "id": "OGN-166b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-166b.png",
         "isHorizontal": false
       }
     },
@@ -4095,6 +4173,23 @@
         "type": "Runes",
         "cost": 0,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-214a/full-desktop-2x.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["Order"]
+  },
+  "OGN-214b": {
+    "id": "OGN-214b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/ogn-214b.png",
         "isHorizontal": false
       }
     },
@@ -6450,5 +6545,107 @@
     "type": "Spell",
     "cost": 5,
     "Domain": ["Body", "Order"]
+  },
+  "ARC-001": {
+    "id": "ARC-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi, Destructive",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi, Destructive",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["Fury"]
+  },
+  "ARC-002": {
+    "id": "ARC-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caitlyn, Patrolling",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caitlyn, Patrolling",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["Calm"]
+  },
+  "ARC-003": {
+    "id": "ARC-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heimerdinger, Inventor",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heimerdinger, Inventor",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["Mind"]
+  },
+  "ARC-004": {
+    "id": "ARC-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warwick, Hunter",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warwick, Hunter",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["Body"]
+  },
+  "ARC-005": {
+    "id": "ARC-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx, Rebel",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx, Rebel",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["Chaos"]
+  },
+  "ARC-006": {
+    "id": "ARC-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor, Leader",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/arc-006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor, Leader",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["Order"]
   }
 }
