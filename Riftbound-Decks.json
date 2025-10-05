@@ -908,5 +908,465 @@
       }
     ]
   }
+},
+{
+  "title": "Annie - Proving Grounds",
+  "id": "3e4b603a-84b3-4fec-8058-d1ff0f60315d",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-10-05T18:47:02.340Z",
+  "lastModifiedAt": "2025-10-05T18:54:57.404Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGS-017"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGS-010"
+      },
+      {
+        "count": 1,
+        "id": "OGS-001"
+      },
+      {
+        "count": 3,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "OGN-013"
+      },
+      {
+        "count": 3,
+        "id": "OGN-171"
+      },
+      {
+        "count": 3,
+        "id": "OGN-176"
+      },
+      {
+        "count": 3,
+        "id": "OGN-191"
+      },
+      {
+        "count": 3,
+        "id": "OGN-174"
+      },
+      {
+        "count": 2,
+        "id": "OGS-018"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-169"
+      },
+      {
+        "count": 3,
+        "id": "OGN-170"
+      },
+      {
+        "count": 3,
+        "id": "OGS-003"
+      },
+      {
+        "count": 2,
+        "id": "OGS-011"
+      },
+      {
+        "count": 3,
+        "id": "OGN-005"
+      },
+      {
+        "count": 3,
+        "id": "OGS-002"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-296"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGS-001"
+      }
+    ]
+  }
+},
+{
+  "title": "Garen - Proving Grounds",
+  "id": "47593b12-09a8-43ea-91b3-2970de003d56",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-10-05T18:48:20.527Z",
+  "lastModifiedAt": "2025-10-05T18:54:07.143Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGS-023"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "OGS-007"
+      },
+      {
+        "count": 1,
+        "id": "OGS-013"
+      },
+      {
+        "count": 3,
+        "id": "OGN-210"
+      },
+      {
+        "count": 3,
+        "id": "OGN-222"
+      },
+      {
+        "count": 3,
+        "id": "OGN-211"
+      },
+      {
+        "count": 3,
+        "id": "OGN-132"
+      },
+      {
+        "count": 3,
+        "id": "OGN-130"
+      },
+      {
+        "count": 3,
+        "id": "OGN-219"
+      },
+      {
+        "count": 2,
+        "id": "OGN-131"
+      },
+      {
+        "count": 2,
+        "id": "OGN-215"
+      },
+      {
+        "count": 3,
+        "id": "OGS-016"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-129"
+      },
+      {
+        "count": 3,
+        "id": "OGN-206"
+      },
+      {
+        "count": 2,
+        "id": "OGS-024"
+      },
+      {
+        "count": 3,
+        "id": "OGS-015"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-294"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-126"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGS-013"
+      }
+    ]
+  }
+},
+{
+  "title": "Lux - Proving Grounds",
+  "id": "bcaca961-d1bc-4ebc-b73f-20ace86ba71d",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-10-05T18:55:45.786Z",
+  "lastModifiedAt": "2025-10-05T18:56:17.963Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGS-021"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 1,
+        "id": "OGS-014"
+      },
+      {
+        "count": 2,
+        "id": "OGS-006"
+      },
+      {
+        "count": 3,
+        "id": "OGN-103"
+      },
+      {
+        "count": 3,
+        "id": "OGN-210"
+      },
+      {
+        "count": 2,
+        "id": "OGN-084"
+      },
+      {
+        "count": 3,
+        "id": "OGN-087"
+      },
+      {
+        "count": 3,
+        "id": "OGN-219"
+      },
+      {
+        "count": 3,
+        "id": "OGS-016"
+      },
+      {
+        "count": 2,
+        "id": "OGN-088"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-095"
+      },
+      {
+        "count": 3,
+        "id": "OGN-206"
+      },
+      {
+        "count": 3,
+        "id": "OGN-085"
+      },
+      {
+        "count": 3,
+        "id": "OGS-012"
+      },
+      {
+        "count": 3,
+        "id": "OGN-105"
+      },
+      {
+        "count": 2,
+        "id": "OGS-022"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-288"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-214"
+      },
+      {
+        "count": 6,
+        "id": "OGN-089"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGS-014"
+      }
+    ]
+  }
+},
+{
+  "title": "Master Yi - Proving Grounds",
+  "id": "1acdd071-449e-4a64-8340-663b2c92342e",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 54,
+  "createdAt": "2025-10-05T18:56:50.105Z",
+  "lastModifiedAt": "2025-10-05T18:57:30.502Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Battlefields",
+      "Runes"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "OGS-019"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 1,
+        "id": "OGS-004"
+      },
+      {
+        "count": 2,
+        "id": "OGS-009"
+      },
+      {
+        "count": 3,
+        "id": "OGN-052"
+      },
+      {
+        "count": 3,
+        "id": "OGN-055"
+      },
+      {
+        "count": 3,
+        "id": "OGN-049"
+      },
+      {
+        "count": 3,
+        "id": "OGS-005"
+      },
+      {
+        "count": 3,
+        "id": "OGN-137"
+      },
+      {
+        "count": 2,
+        "id": "OGN-142"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "OGN-046"
+      },
+      {
+        "count": 3,
+        "id": "OGN-127"
+      },
+      {
+        "count": 2,
+        "id": "OGN-129"
+      },
+      {
+        "count": 3,
+        "id": "OGN-134"
+      },
+      {
+        "count": 3,
+        "id": "OGN-048"
+      },
+      {
+        "count": 2,
+        "id": "OGS-020"
+      },
+      {
+        "count": 3,
+        "id": "OGS-008"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-279"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-126"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "OGS-004"
+      }
+    ]
+  }
 }
 ]
