@@ -68,6 +68,23 @@
                 0
             ],
             "hideFacedDownCards": false,
+            "draggableTokens": [
+              {
+                  "id": "stun-token",
+                  "name": "Stun",
+                  "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+              },
+              {
+                  "id": "buff-token",
+                  "name": "Buff",
+                  "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+              },
+              {
+                  "id": "temporary-token",
+                  "name": "Temporary",
+                  "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+              }
+          ],
             "sections": {
                 "customSections": [
                     "Runes",
@@ -389,6 +406,23 @@
                 0
             ],
             "hideFacedDownCards": false,
+            "draggableTokens": [
+              {
+                  "id": "stun-token",
+                  "name": "Stun",
+                  "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+              },
+              {
+                  "id": "buff-token",
+                  "name": "Buff",
+                  "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+              },
+              {
+                  "id": "temporary-token",
+                  "name": "Temporary",
+                  "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+              }
+          ],
             "sections": {
                 "customSections": [
                     "Runes",
