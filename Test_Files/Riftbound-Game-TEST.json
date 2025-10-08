@@ -68,6 +68,18 @@
                 0
             ],
             "hideFacedDownCards": false,
+            "draggableTokens": [
+              {
+                  "id": "stun-token",
+                  "name": "Stun Token",
+                  "image": "https://drive.google.com/file/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc/view?usp=sharing"
+              },
+              {
+                  "id": "buff-token",
+                  "name": "Buff Token",
+                  "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+              }
+          ],
             "sections": {
                 "customSections": [
                     "Runes",
