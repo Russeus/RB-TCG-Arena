@@ -78,6 +78,11 @@
                   "id": "buff-token",
                   "name": "Buff Token",
                   "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+              },
+              {
+                  "id": "temporary-token",
+                  "name": "Temporary Token",
+                  "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
               }
           ],
             "sections": {
