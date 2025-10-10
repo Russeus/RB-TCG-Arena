@@ -83,6 +83,11 @@
                   "id": "temporary-token",
                   "name": "Temporary",
                   "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+              },
+              {
+                  "id": "deflect-token",
+                  "name": "Deflect",
+                  "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
               }
           ],
             "sections": {
@@ -421,6 +426,11 @@
                   "id": "temporary-token",
                   "name": "Temporary",
                   "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+              },
+              {
+                  "id": "deflect-token",
+                  "name": "Deflect",
+                  "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
               }
           ],
             "sections": {
