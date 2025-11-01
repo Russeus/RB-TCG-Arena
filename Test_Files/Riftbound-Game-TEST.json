@@ -83,6 +83,11 @@
                   "id": "temporary-token",
                   "name": "Temporary",
                   "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+              },
+              {
+                  "id": "ganking-token",
+                  "name": "Ganking",
+                  "image": "https://lh3.googleusercontent.com/d/1Xm9vw5cMO6mQB-e00sHegYnFDeDp3Wud"
               }
           ],
             "sections": {
