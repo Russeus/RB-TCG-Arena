@@ -7,7 +7,7 @@
         "name": "Blazing Scorcher",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063371/001_qwwdll.avif",
         "isHorizontal": false
       }
     },
@@ -24,7 +24,7 @@
         "name": "Brazen Buccaneer",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-002/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063371/002_npaewh.avif",
         "isHorizontal": false
       }
     },
@@ -41,7 +41,7 @@
         "name": "Chemtech Enforcer",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-003/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063372/003_qi9c9x.avif",
         "isHorizontal": false
       }
     },
@@ -58,7 +58,7 @@
         "name": "Cleave",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-004/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063371/004_piebjn.avif",
         "isHorizontal": false
       }
     },
@@ -75,7 +75,7 @@
         "name": "Disintegrate",
         "type": "Spell",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-005/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063372/005_dr5fw6.avif",
         "isHorizontal": false
       }
     },
@@ -92,7 +92,7 @@
         "name": "Flame Chompers",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-006/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063372/006_abwnmi.avif",
         "isHorizontal": false
       }
     },
@@ -109,7 +109,7 @@
         "name": "Fury Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063372/007_huvoqi.avif",
         "isHorizontal": false
       }
     },
@@ -126,7 +126,7 @@
         "name": "Fury Rune",
         "type": "Runes",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007a/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063375/007a_xeb3r0.avif",
         "isHorizontal": false
       }
     },
@@ -160,7 +160,7 @@
         "name": "Get Excited!",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-008/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063376/008_ggsclx.avif",
         "isHorizontal": false
       }
     },
@@ -177,7 +177,7 @@
         "name": "Hextech Ray",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-009/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063377/009_hfrbxj.avif",
         "isHorizontal": false
       }
     },
@@ -194,7 +194,7 @@
         "name": "Legion Rearguard",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-010/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063378/010_zlehlp.avif",
         "isHorizontal": false
       }
     },
@@ -211,7 +211,7 @@
         "name": "Magma Wurm",
         "type": "Unit",
         "cost": 8,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-011/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063379/011_edsuri.avif",
         "isHorizontal": false
       }
     },
@@ -228,7 +228,7 @@
         "name": "Noxus Hopeful",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-012/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063382/012_ra3gzx.avif",
         "isHorizontal": false
       }
     },
@@ -245,7 +245,7 @@
         "name": "Pouty Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-013/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063396/013_tw8lyg.avif",
         "isHorizontal": false
       }
     },
@@ -262,7 +262,7 @@
         "name": "Sky Splitter",
         "type": "Spell",
         "cost": 8,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-014/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063396/014_zzk0na.avif",
         "isHorizontal": false
       }
     },
@@ -279,7 +279,7 @@
         "name": "Captain Farron",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-015/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063398/015_tjywi8.avif",
         "isHorizontal": false
       }
     },
@@ -296,7 +296,7 @@
         "name": "Dangerous Duo",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-016/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063403/016_giexni.avif",
         "isHorizontal": false
       }
     },
@@ -313,7 +313,7 @@
         "name": "Iron Ballista",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-017/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063403/017_rplsor.avif",
         "isHorizontal": false
       }
     },
@@ -330,7 +330,7 @@
         "name": "Nexus Saboteur",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-018/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063404/018_wfyy8f.avif",
         "isHorizontal": false
       }
     },
@@ -347,7 +347,7 @@
         "name": "Raging Soul",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-019/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063404/019_ysm3ow.avif",
         "isHorizontal": false
       }
     },
@@ -364,7 +364,7 @@
         "name": "Scrapyard Champion",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-020/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063404/020_vqwcxb.avif",
         "isHorizontal": false
       }
     },
@@ -381,7 +381,7 @@
         "name": "Sun Disc",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-021/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063419/021_n08idi.avif",
         "isHorizontal": false
       }
     },
@@ -398,7 +398,7 @@
         "name": "Thermo Beam",
         "type": "Spell",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-022/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063420/022_pzseut.avif",
         "isHorizontal": false
       }
     },
@@ -415,7 +415,7 @@
         "name": "Unlicensed Armory",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-023/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063420/023_kvl6gf.avif",
         "isHorizontal": false
       }
     },
@@ -432,7 +432,7 @@
         "name": "Void Seeker",
         "type": "Spell",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-024/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063423/024_e2x5gy.avif",
         "isHorizontal": false
       }
     },
@@ -449,7 +449,7 @@
         "name": "Blind Fury",
         "type": "Spell",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-025/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063423/025_izcjmp.avif",
         "isHorizontal": false
       }
     },
@@ -466,7 +466,7 @@
         "name": "Brynhir Thundersong",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-026/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063423/026_g1ug58.avif",
         "isHorizontal": false
       }
     },
@@ -483,7 +483,7 @@
         "name": "Darius, Trifarian",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063424/027_sncpio.avif",
         "isHorizontal": false
       }
     },
@@ -500,7 +500,7 @@
         "name": "Darius, Trifarian",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027a/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063426/027a_ykyuc8.avif",
         "isHorizontal": false
       }
     },
@@ -517,7 +517,7 @@
         "name": "Draven, Showboat",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-028/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063427/028_sav6zr.avif",
         "isHorizontal": false
       }
     },
@@ -534,7 +534,7 @@
         "name": "Falling Star",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-029/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063427/029_bxg2qx.avif",
         "isHorizontal": false
       }
     },
@@ -551,7 +551,7 @@
         "name": "Jinx, Demolitionist",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063434/030_swxz6b.avif",
         "isHorizontal": false
       }
     },
@@ -568,7 +568,7 @@
         "name": "Jinx, Demolitionist",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030a/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063435/030a_phdil6.avif",
         "isHorizontal": false
       }
     },
@@ -585,7 +585,7 @@
         "name": "Raging Firebrand",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-031/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063435/031_pt3ypb.avif",
         "isHorizontal": false
       }
     },
@@ -602,7 +602,7 @@
         "name": "Ravenborn Tome",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-032/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063436/032_k1fbdk.avif",
         "isHorizontal": false
       }
     },
@@ -619,7 +619,7 @@
         "name": "Shakedown",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-033/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063437/033_fyc9q0.avif",
         "isHorizontal": false
       }
     },
@@ -636,7 +636,7 @@
         "name": "Tryndamere, Barbarian",
         "type": "Unit",
         "cost": 7,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-034/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063439/034_iqjavi.avif",
         "isHorizontal": false
       }
     },
@@ -653,7 +653,7 @@
         "name": "Vayne, Hunter",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-035/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063440/035_sqwrns.avif",
         "isHorizontal": false
       }
     },
@@ -670,7 +670,7 @@
         "name": "Vi, Destructive",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-036/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063440/036_upbm1v.avif",
         "isHorizontal": false
       }
     },
@@ -687,7 +687,7 @@
         "name": "Immortal Phoenix",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-037/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063441/037_c9ruoz.avif",
         "isHorizontal": false
       }
     },
@@ -704,7 +704,7 @@
         "name": "Kadregrin the Infernal",
         "type": "Unit",
         "cost": 9,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-038/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063443/038_gs009x.avif",
         "isHorizontal": false
       }
     },
@@ -721,7 +721,7 @@
         "name": "Kai'Sa, Survivor",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063444/039_lzudnl.avif",
         "isHorizontal": false
       }
     },
@@ -738,7 +738,7 @@
         "name": "Kai'Sa, Survivor",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039a/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063444/039a_hzo0sa.avif",
         "isHorizontal": false
       }
     },
@@ -755,7 +755,7 @@
         "name": "Seal of Rage",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-040/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063446/040_hlkx9g.avif",
         "isHorizontal": false
       }
     },
@@ -772,7 +772,7 @@
         "name": "Volibear, Furious",
         "type": "Unit",
         "cost": 10,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063447/041_tfvabw.avif",
         "isHorizontal": false
       }
     },
@@ -789,7 +789,7 @@
         "name": "Volibear, Furious",
         "type": "Unit",
         "cost": 10,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041a/full-desktop-2x.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063447/041a_n4v6ze.avif",
         "isHorizontal": false
       }
     },
