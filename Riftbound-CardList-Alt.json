@@ -327,14 +327,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nexus Saboteur",
+        "name": "Noxus Saboteur",
         "type": "Unit",
         "cost": 3,
         "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1761063404/018_wfyy8f.avif",
         "isHorizontal": false
       }
     },
-    "name": "Nexus Saboteur",
+    "name": "Noxus Saboteur",
     "type": "Unit",
     "cost": 3,
     "Domain": ["🔴 Fury"]
