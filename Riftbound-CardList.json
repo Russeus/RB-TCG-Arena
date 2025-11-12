@@ -6690,7 +6690,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/020.avif",
         "isHorizontal": false
       }
     },
@@ -6707,7 +6707,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/020a.avif",
         "isHorizontal": false
       }
     },
@@ -6724,7 +6724,7 @@
         "name": "Long Sword",
         "type": "Gear",
         "cost": 2,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/022.avif",
         "isHorizontal": false
       }
     },
@@ -6741,7 +6741,7 @@
         "name": "Doran's Shield",
         "type": "Gear",
         "cost": 1,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/033.avif",
         "isHorizontal": false
       }
     },
@@ -6758,7 +6758,7 @@
         "name": "Guardian Angel",
         "type": "Gear",
         "cost": 2,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/051.avif",
         "isHorizontal": false
       }
     },
@@ -6775,7 +6775,7 @@
         "name": "Sterak's Gage",
         "type": "Gear",
         "cost": 3,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/056.avif",
         "isHorizontal": false
       }
     },
@@ -6792,7 +6792,7 @@
         "name": "Svellsongur",
         "type": "Gear",
         "cost": 3,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/059.avif",
         "isHorizontal": false
       }
     },
@@ -6809,7 +6809,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/113.avif",
         "isHorizontal": false
       }
     },
@@ -6826,7 +6826,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/113a.avif",
         "isHorizontal": false
       }
     },
@@ -6843,7 +6843,7 @@
         "name": "Trinity Force",
         "type": "Gear",
         "cost": 4,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/115.avif",
         "isHorizontal": false
       }
     },
@@ -6860,7 +6860,7 @@
         "name": "Overzealous Fan",
         "type": "Unit",
         "cost": 2,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/128.avif",
         "isHorizontal": false
       }
     },
@@ -6877,7 +6877,7 @@
         "name": "Blade of the Ruined King",
         "type": "Gear",
         "cost": 3,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/178.avif",
         "isHorizontal": false
       }
     },
@@ -6894,7 +6894,7 @@
         "name": "Draven, Glorious Executioner",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/185.avif",
         "isHorizontal": false
       }
     },
@@ -6911,7 +6911,7 @@
         "name": "Spinning Axe",
         "type": "Gear",
         "cost": 2,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/186.avif",
         "isHorizontal": false
       }
     },
@@ -6928,7 +6928,7 @@
         "name": "Irelia, Blade Dancer",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/195.avif",
         "isHorizontal": false
       }
     },
@@ -6945,7 +6945,7 @@
         "name": "Azir, Emperor of the Sands",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/197.avif",
         "isHorizontal": false
       }
     },
@@ -6962,7 +6962,7 @@
         "name": "Renata Glasc, Chem-Baroness",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/201.avif",
         "isHorizontal": false
       }
     },
@@ -6979,7 +6979,7 @@
         "name": "Sivir, Battle Mistress",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/203.avif",
         "isHorizontal": false
       }
     },
