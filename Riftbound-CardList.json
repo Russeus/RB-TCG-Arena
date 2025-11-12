@@ -6732,5 +6732,260 @@
     "type": "Gear",
     "cost": 2,
     "Domain": ["🔴 Fury"]
+  },
+  "SFD-033": {
+    "id": "SFD-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Shield",
+        "type": "Gear",
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Shield",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-051": {
+    "id": "SFD-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardian Angel",
+        "type": "Gear",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardian Angel",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-056": {
+    "id": "SFD-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sterak's Gage",
+        "type": "Gear",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sterak's Gage",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-059": {
+    "id": "SFD-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Svellsongur",
+        "type": "Gear",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Svellsongur",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-113": {
+    "id": "SFD-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Merciless",
+        "type": "Unit",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Merciless",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"]
+  },
+  "SFD-113a": {
+    "id": "SFD-113a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Merciless",
+        "type": "Unit",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Merciless",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"]
+  },
+  "SFD-115": {
+    "id": "SFD-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trinity Force",
+        "type": "Gear",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trinity Force",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟠 Body"]
+  },
+  "SFD-128": {
+    "id": "SFD-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overzealous Fan",
+        "type": "Unit",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overzealous Fan",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"]
+  },
+  "SFD-178": {
+    "id": "SFD-178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blade of the Ruined King",
+        "type": "Gear",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade of the Ruined King",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟡 Order"]
+  },
+  "SFD-185": {
+    "id": "SFD-185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Glorious Executioner",
+        "type": "Legend",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Glorious Executioner",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ]
+  },
+  "SFD-186": {
+    "id": "SFD-186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinning Axe",
+        "type": "Gear",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinning Axe",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ]
+  },
+  "SFD-195": {
+    "id": "SFD-195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Blade Dancer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Blade Dancer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ]
+  },
+  "SFD-197": {
+    "id": "SFD-197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Emperor of the Sands",
+        "type": "Legend",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Emperor of the Sands",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟡 Order" ]
+  },
+  "SFD-201": {
+    "id": "SFD-201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Chem-Baroness",
+        "type": "Legend",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Chem-Baroness",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟡 Order" ]
+  },
+  "SFD-203": {
+    "id": "SFD-203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Battle Mistress",
+        "type": "Legend",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Battle Mistress",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟣 Chaos" ]
   }
 }
