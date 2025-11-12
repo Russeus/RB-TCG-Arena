@@ -6697,6 +6697,7 @@
     "name": "Draven, Vanquisher",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔴 Fury"]
   },
   "SFD-020a": {
@@ -6714,6 +6715,7 @@
     "name": "Draven, Vanquisher",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔴 Fury"]
   },
   "SFD-022": {
@@ -6748,6 +6750,23 @@
     "name": "Doran's Shield",
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-034": {
+    "id": "SFD-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Feral Strength",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/034.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feral Strength",
+    "type": "Spell",
+    "cost": 2,
     "Domain": ["🟢 Calm"]
   },
   "SFD-051": {
@@ -6969,6 +6988,7 @@
     "name": "Renata Glasc, Chem-Baroness",
     "type": "Legend",
     "cost": 0,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind", "🟡 Order" ]
   },
   "SFD-203": {
@@ -6986,6 +7006,24 @@
     "name": "Sivir, Battle Mistress",
     "type": "Legend",
     "cost": 0,
+    "tokens": ["SFD-T03"],
     "Domain": ["🟠 Body", "🟣 Chaos" ]
+  },
+  "SFD-T03": {
+    "id": "SFD-T03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/T03.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"]
   }
 }
