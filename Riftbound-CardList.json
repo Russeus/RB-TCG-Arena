@@ -327,14 +327,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nexus Saboteur",
+        "name": "Noxus Saboteur",
         "type": "Unit",
         "cost": 3,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-018/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Nexus Saboteur",
+    "name": "Noxus Saboteur",
     "type": "Unit",
     "cost": 3,
     "Domain": ["🔴 Fury"]
@@ -6681,5 +6681,56 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🟡 Order"]
+  },
+  "SFD-020": {
+    "id": "SFD-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Vanquisher",
+        "type": "Unit",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Vanquisher",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"]
+  },
+  "SFD-020a": {
+    "id": "SFD-020a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Vanquisher",
+        "type": "Unit",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Vanquisher",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"]
+  },
+  "SFD-022": {
+    "id": "SFD-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Long Sword",
+        "type": "Gear",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Long Sword",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🔴 Fury"]
   }
 }
