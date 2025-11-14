@@ -6820,6 +6820,23 @@
     "cost": 3,
     "Domain": ["🟢 Calm"]
   },
+  "SFD-069": {
+    "id": "SFD-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plundering Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/069.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plundering Poro",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔵 Mind"]
+  },
   "SFD-113": {
     "id": "SFD-113",
     "isToken": false,
