@@ -6837,6 +6837,23 @@
     "cost": 2,
     "Domain": ["🔵 Mind"]
   },
+  "SFD-111": {
+    "id": "SFD-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Here to Help",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/111.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Here to Help",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟠 Body"]
+  },
   "SFD-113": {
     "id": "SFD-113",
     "isToken": false,
@@ -7025,6 +7042,108 @@
     "cost": 0,
     "tokens": ["SFD-T03"],
     "Domain": ["🟠 Body", "🟣 Chaos" ]
+  },
+  "SFD-R01b": {
+    "id": "SFD-R01b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fury Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R01b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fury Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔴 Fury"]
+  },
+  "SFD-R02b": {
+    "id": "SFD-R02b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calm Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R02b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calm Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-R03b": {
+    "id": "SFD-R03b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R03b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔵 Mind"]
+  },
+  "SFD-R04b": {
+    "id": "SFD-R04b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Body Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R04b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟠 Body"]
+  },
+  "SFD-R05b": {
+    "id": "SFD-R05b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R05b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"]
+  },
+  "SFD-R06b": {
+    "id": "SFD-R06b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R06b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟡 Order"]
   },
   "SFD-T03": {
     "id": "SFD-T03",
