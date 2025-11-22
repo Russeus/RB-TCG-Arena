@@ -7451,6 +7451,23 @@
     "cost": 3,
     "Domain": ["🔵 Mind"]
   },
+  "SFD-231": {
+    "id": "SFD-231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Strength",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/231.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Strength",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["🟠 Body"]
+  },
   "SFD-232": {
     "id": "SFD-232",
     "isToken": false,
