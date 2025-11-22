@@ -7262,6 +7262,23 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🟡 Order" ]
   },
+  "SFD-199": {
+    "id": "SFD-199",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Prodigal Explorer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Prodigal Explorer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟣 Chaos" ]
+  },
   "SFD-201": {
     "id": "SFD-201",
     "isToken": false,
@@ -7270,7 +7287,7 @@
         "name": "Renata Glasc, Chem-Baroness",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/201.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4bd289c281ad64229061ff909abf88c12a574833-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7288,7 +7305,7 @@
         "name": "Sivir, Battle Mistress",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/203.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd060882c32a8deac04aea4241c6ab7b97236a05-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7297,6 +7314,159 @@
     "cost": 0,
     "tokens": ["SFD-T03"],
     "Domain": ["🟠 Body", "🟣 Chaos" ]
+  },
+  "SFD-205": {
+    "id": "SFD-205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Grand Duelist",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37064aa79c13316b5dd28f0a2b054821a43f6650-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Grand Duelist",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟡 Order" ]
+  },
+  "SFD-225": {
+    "id": "SFD-225",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/40454a8534f7c9444bafd000ffbfc0e5bcc847f0-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-225s": {
+    "id": "SFD-225s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e064a9017b5d6bf0e18c4452acfca4ed8c279657-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-227": {
+    "id": "SFD-227",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Inquisitive",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4c332e90c97e5e70b996598cd4a0f731b77fdef-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Inquisitive",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"]
+  },
+  "SFD-227s": {
+    "id": "SFD-227s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Inquisitive",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/608f786c30a7e80db87d3c2d45bc0c26b0840c5e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Inquisitive",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"]
+  },
+  "SFD-234": {
+    "id": "SFD-234",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Discord",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9263b8f36725a4cec320c1049608824ae72f6237-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Discord",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"]
+  },
+  "SFD-240": {
+    "id": "SFD-240",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Mechanized Menace",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0234cad3663d52d3120e78f2adbe8a253102a7a3-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Mechanized Menace",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🔵 Mind" ]
+  },
+  "SFD-244": {
+    "id": "SFD-244",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Fire Below the Mountain",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/883dab66da8ed5ab39d968ed7fcaebd5ebaf3d43-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Fire Below the Mountain",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind" ]
+  },
+  "SFD-246": {
+    "id": "SFD-246",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Blade Dancer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8258072391bbb8d24e9d6e603c3ba1434979a911-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Blade Dancer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ]
   },
   "SFD-R01b": {
     "id": "SFD-R01b",
