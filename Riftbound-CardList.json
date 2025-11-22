@@ -7332,6 +7332,40 @@
     "cost": 0,
     "Domain": ["🟠 Body", "🟡 Order" ]
   },
+  "SFD-223": {
+    "id": "SFD-223",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vayne, Hunter",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/223.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vayne, Hunter",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"]
+  },
+  "SFD-223s": {
+    "id": "SFD-223s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vayne, Hunter",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/223s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vayne, Hunter",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"]
+  },
   "SFD-225": {
     "id": "SFD-225",
     "isToken": false,
@@ -7364,6 +7398,23 @@
     "name": "Irelia, Fervent",
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-226": {
+    "id": "SFD-226",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Focus",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/226.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Focus",
+    "type": "Gear",
+    "cost": 0,
     "Domain": ["🟢 Calm"]
   },
   "SFD-227": {
@@ -7399,6 +7450,42 @@
     "type": "Unit",
     "cost": 3,
     "Domain": ["🔵 Mind"]
+  },
+  "SFD-232": {
+    "id": "SFD-232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Brawler",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/232.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Brawler",
+    "type": "Unit",
+    "cost": 5,
+    "tokens": ["OGN-XXX"],
+    "Domain": ["🟠 Body"]
+  },
+  "SFD-232s": {
+    "id": "SFD-232s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Brawler",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/232s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Brawler",
+    "type": "Unit",
+    "cost": 5,
+    "tokens": ["OGN-XXX"],
+    "Domain": ["🟠 Body"]
   },
   "SFD-234": {
     "id": "SFD-234",
