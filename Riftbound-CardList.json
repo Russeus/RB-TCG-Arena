@@ -6690,7 +6690,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/020.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8fa3f1fe63392c4744152d98ff781497a4d17b74-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6708,7 +6708,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/020a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9019c449004f246de6607bf1829f4f3cabcda200-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6726,7 +6726,7 @@
         "name": "Long Sword",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/022.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6743,7 +6743,7 @@
         "name": "Doran's Shield",
         "type": "Gear",
         "cost": 1,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/033.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49a24d4c6d770ed233c4a69bf8d87385bfc997d8-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6777,7 +6777,7 @@
         "name": "Guardian Angel",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/051.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d09a797345659a1853d6d12910cf3c634990ea0c-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6794,13 +6794,47 @@
         "name": "Sterak's Gage",
         "type": "Gear",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/056.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df16e6b668fc6771ff657512deba1bf48363e23a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
     "name": "Sterak's Gage",
     "type": "Gear",
     "cost": 3,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-057": {
+    "id": "SFD-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fe05fa55781f8036f8bfc9c10bba94326a0c8cc9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"]
+  },
+  "SFD-057a": {
+    "id": "SFD-057a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cef4f73541e0623b4024b483d141d0396f1dddcb-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🟢 Calm"]
   },
   "SFD-059": {
@@ -6811,7 +6845,7 @@
         "name": "Svellsongur",
         "type": "Gear",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/059.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc254398dfb5db217327b56862011a2fd6020789-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6837,6 +6871,23 @@
     "cost": 2,
     "Domain": ["🔵 Mind"]
   },
+  "SFD-095": {
+    "id": "SFD-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Blade",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/53fc0c307c83871c9755a496764ef7d6aa11f510-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Blade",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟠 Body"]
+  },
   "SFD-111": {
     "id": "SFD-111",
     "isToken": false,
@@ -6845,7 +6896,7 @@
         "name": "Here to Help",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/111.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6daa8caf27f76f2b0bce189fb9df196129582afa-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6862,7 +6913,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/113.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc192b6e22e7a277c53f035809c59db4548a0fd5-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6879,7 +6930,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/113a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e05478b8081b3694a795ab0308b1e2c2a7748715-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6896,7 +6947,7 @@
         "name": "Trinity Force",
         "type": "Gear",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/115.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8b64985389e5792afc2a2fe0dc23ae7590d7709-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6904,6 +6955,23 @@
     "type": "Gear",
     "cost": 4,
     "Domain": ["🟠 Body"]
+  },
+  "SFD-124": {
+    "id": "SFD-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Ring",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/054df5a11967b768430a2f763e1b5d4dbbac3b50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Ring",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟣 Chaos"]
   },
   "SFD-128": {
     "id": "SFD-128",
@@ -6913,13 +6981,47 @@
         "name": "Overzealous Fan",
         "type": "Unit",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/128.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/922d7f337fbf14f0d62d43f69ca2a1e7480dd022-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
     "name": "Overzealous Fan",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟣 Chaos"]
+  },
+  "SFD-141": {
+    "id": "SFD-141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Graceful",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03b9d73a7ef02447d7f4b67381a76616249061cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Graceful",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"]
+  },
+  "SFD-141a": {
+    "id": "SFD-141a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Graceful",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08419c2b5b7aa7e5f63854e324d5dabe0b5997a2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Graceful",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟣 Chaos"]
   },
   "SFD-178": {
@@ -6930,7 +7032,7 @@
         "name": "Blade of the Ruined King",
         "type": "Gear",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/178.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/26ab126258a15afd380c313e973f7469808ce55f-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6938,6 +7040,74 @@
     "type": "Gear",
     "cost": 3,
     "Domain": ["🟡 Order"]
+  },
+  "SFD-181": {
+    "id": "SFD-181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Mechanized Menace",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f311115e4c527ce82010596ce462d4050a9201b2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Mechanized Menace",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🔵 Mind" ]
+  },
+  "SFD-182": {
+    "id": "SFD-182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Danger Zone",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4652150ba885dd346b8f3622fd0e4ada7cf767f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Danger Zone",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔴 Fury", "🔵 Mind" ]
+  },
+  "SFD-183": {
+    "id": "SFD-183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Purifier",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/450cfb71b8890904d48b37a24bbdc78f8d849614-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Purifier",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟠 Body" ]
+  },
+  "SFD-184": {
+    "id": "SFD-184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relentless Pursuit",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48754730486abefdb56221d0760b9c963aae7c09-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relentless Pursuit",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟠 Body" ]
   },
   "SFD-185": {
     "id": "SFD-185",
@@ -6947,7 +7117,7 @@
         "name": "Draven, Glorious Executioner",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/185.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b01b2d0454ceeffdc106c4c64a390b275ebf390b-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6964,7 +7134,7 @@
         "name": "Spinning Axe",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/186.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e4e0328034e605d000e23ac5e820d233f0e3b520-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -6972,6 +7142,74 @@
     "type": "Gear",
     "cost": 2,
     "Domain": ["🔴 Fury", "🟣 Chaos" ]
+  },
+  "SFD-187": {
+    "id": "SFD-187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Void Burrower",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Void Burrower",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order" ]
+  },
+  "SFD-188": {
+    "id": "SFD-188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Rush",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ce606f096ae76485cd8dd3cc337629b510f0d1e7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Rush",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟡 Order" ]
+  },
+  "SFD-189": {
+    "id": "SFD-189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Fire Below the Mountain",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed58d654034d545e54c85d836f3a6552772dd75b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Fire Below the Mountain",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind" ]
+  },
+  "SFD-193": {
+    "id": "SFD-193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Grandmaster at Arms",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6ddf49d7249bc8ac194fd9b194bfcb8857a4466-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Grandmaster at Arms",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟠 Body" ]
   },
   "SFD-195": {
     "id": "SFD-195",
@@ -6981,13 +7219,30 @@
         "name": "Irelia, Blade Dancer",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/195.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656ef2d1724b818e9e737ec5dcce923de067a316-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
     "name": "Irelia, Blade Dancer",
     "type": "Legend",
     "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ]
+  },
+  "SFD-196": {
+    "id": "SFD-196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Defiant Dance",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f5bc5c9e321830337998a2b85e4fec3cd8251c9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Defiant Dance",
+    "type": "Spell",
+    "cost": 1,
     "Domain": ["🟢 Calm", "🟣 Chaos" ]
   },
   "SFD-197": {
@@ -6998,7 +7253,7 @@
         "name": "Azir, Emperor of the Sands",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/197.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0472274c49f6540858758ebf9bd2f107a601541a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7153,7 +7408,7 @@
         "name": "Gold",
         "type": "Gear",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/T03.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e878c39b562a4e870e93b819c6d85cdf3fdc5238-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
