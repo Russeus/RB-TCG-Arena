@@ -6990,6 +6990,23 @@
     "cost": 2,
     "Domain": ["🟣 Chaos"]
   },
+  "SFD-130": {
+    "id": "SFD-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tresure Hunter",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/130.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tresure Hunter",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"]
+  },
   "SFD-141": {
     "id": "SFD-141",
     "isToken": false,
@@ -7023,6 +7040,23 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🟣 Chaos"]
+  },
+  "SFD-155": {
+    "id": "SFD-155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Honest Broker",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/155.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Honest Broker",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟡 Order"]
   },
   "SFD-178": {
     "id": "SFD-178",
