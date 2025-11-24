@@ -7122,6 +7122,42 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-023": {
+    "id": "SFD-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piercing Light",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/023.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piercing Light",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-024": {
+    "id": "SFD-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rell, Iron Will",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/024.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rell, Iron Will",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-033": {
     "id": "SFD-033",
     "isToken": false,
@@ -7266,6 +7302,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-080": {
+    "id": "SFD-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bellow Breath",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/080.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bellow Breath",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-095": {
     "id": "SFD-095",
     "isToken": false,
@@ -7281,6 +7335,24 @@
     "name": "Doran's Blade",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-107": {
+    "id": "SFD-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike Down",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/107.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike Down",
+    "type": "Spell",
+    "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7374,6 +7446,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-126": {
+    "id": "SFD-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loyal Hound",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/126.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loyal Hound",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-128": {
     "id": "SFD-128",
     "isToken": false,
@@ -7408,6 +7498,42 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-133": {
+    "id": "SFD-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boots of Swiftness",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/133.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boots of Swiftness",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-138": {
+    "id": "SFD-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whispering Wing",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/138.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whispering Wing",
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7447,6 +7573,78 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-145": {
+    "id": "SFD-145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Switcheroo",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/145.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Switcheroo",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-148": {
+    "id": "SFD-148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Skilled",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/148.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Skilled",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-148a": {
+    "id": "SFD-148a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Skilled",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/148a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Skilled",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-150": {
+    "id": "SFD-150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Rite",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/150.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Rite",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-155": {
     "id": "SFD-155",
     "isToken": false,
@@ -7466,6 +7664,42 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-170": {
+    "id": "SFD-170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Queen",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/170.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Queen",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-170a": {
+    "id": "SFD-170a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Queen",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/170a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Queen",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-178": {
     "id": "SFD-178",
     "isToken": false,
@@ -7480,6 +7714,42 @@
     },
     "name": "Blade of the Ruined King",
     "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-180": {
+    "id": "SFD-180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firoa, Commander",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/180.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firoa, Commander",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-180a": {
+    "id": "SFD-180a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firoa, Commander",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/180a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firoa, Commander",
+    "type": "Unit",
     "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
