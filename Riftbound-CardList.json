@@ -6995,16 +6995,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tresure Hunter",
+        "name": "Treasure Hunter",
         "type": "Unit",
         "cost": 2,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/130.avif",
         "isHorizontal": false
       }
     },
-    "name": "Tresure Hunter",
+    "name": "Treasure Hunter",
     "type": "Unit",
     "cost": 2,
+    "tokens": ["SFD-T03"],
     "Domain": ["🟣 Chaos"]
   },
   "SFD-141": {
@@ -7056,6 +7057,7 @@
     "name": "Honest Broker",
     "type": "Unit",
     "cost": 2,
+    "tokens": ["SFD-T03"],
     "Domain": ["🟡 Order"]
   },
   "SFD-178": {
