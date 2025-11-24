@@ -14,7 +14,8 @@
     "name": "Blazing Scorcher",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-002": {
     "id": "OGN-002",
@@ -31,7 +32,8 @@
     "name": "Brazen Buccaneer",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-003": {
     "id": "OGN-003",
@@ -48,7 +50,8 @@
     "name": "Chemtech Enforcer",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-004": {
     "id": "OGN-004",
@@ -65,7 +68,8 @@
     "name": "Cleave",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-005": {
     "id": "OGN-005",
@@ -82,7 +86,8 @@
     "name": "Disintegrate",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-006": {
     "id": "OGN-006",
@@ -99,7 +104,8 @@
     "name": "Flame Chompers",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-007": {
     "id": "OGN-007",
@@ -116,7 +122,8 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-007a": {
     "id": "OGN-007a",
@@ -133,7 +140,8 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-007b": {
     "id": "OGN-007b",
@@ -150,7 +158,8 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-008": {
     "id": "OGN-008",
@@ -167,7 +176,8 @@
     "name": "Get Excited!",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-009": {
     "id": "OGN-009",
@@ -184,7 +194,8 @@
     "name": "Hextech Ray",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-010": {
     "id": "OGN-010",
@@ -201,7 +212,8 @@
     "name": "Legion Rearguard",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-011": {
     "id": "OGN-011",
@@ -218,7 +230,8 @@
     "name": "Magma Wurm",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-012": {
     "id": "OGN-012",
@@ -235,7 +248,8 @@
     "name": "Noxus Hopeful",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-013": {
     "id": "OGN-013",
@@ -252,7 +266,8 @@
     "name": "Pouty Poro",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-014": {
     "id": "OGN-014",
@@ -269,7 +284,8 @@
     "name": "Sky Splitter",
     "type": "Spell",
     "cost": 8,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-015": {
     "id": "OGN-015",
@@ -286,7 +302,8 @@
     "name": "Captain Farron",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-016": {
     "id": "OGN-016",
@@ -303,7 +320,8 @@
     "name": "Dangerous Duo",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-017": {
     "id": "OGN-017",
@@ -320,7 +338,8 @@
     "name": "Iron Ballista",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-018": {
     "id": "OGN-018",
@@ -337,7 +356,8 @@
     "name": "Noxus Saboteur",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-019": {
     "id": "OGN-019",
@@ -354,7 +374,8 @@
     "name": "Raging Soul",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-020": {
     "id": "OGN-020",
@@ -371,7 +392,8 @@
     "name": "Scrapyard Champion",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-021": {
     "id": "OGN-021",
@@ -388,7 +410,8 @@
     "name": "Sun Disc",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-022": {
     "id": "OGN-022",
@@ -405,7 +428,8 @@
     "name": "Thermo Beam",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-023": {
     "id": "OGN-023",
@@ -422,7 +446,8 @@
     "name": "Unlicensed Armory",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-024": {
     "id": "OGN-024",
@@ -439,7 +464,8 @@
     "name": "Void Seeker",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-025": {
     "id": "OGN-025",
@@ -456,7 +482,8 @@
     "name": "Blind Fury",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-026": {
     "id": "OGN-026",
@@ -473,7 +500,8 @@
     "name": "Brynhir Thundersong",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-027": {
     "id": "OGN-027",
@@ -490,7 +518,8 @@
     "name": "Darius, Trifarian",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-027a": {
     "id": "OGN-027a",
@@ -507,7 +536,8 @@
     "name": "Darius, Trifarian",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-028": {
     "id": "OGN-028",
@@ -524,7 +554,8 @@
     "name": "Draven, Showboat",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-029": {
     "id": "OGN-029",
@@ -541,7 +572,8 @@
     "name": "Falling Star",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-030": {
     "id": "OGN-030",
@@ -558,7 +590,8 @@
     "name": "Jinx, Demolitionist",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-030a": {
     "id": "OGN-030a",
@@ -575,7 +608,8 @@
     "name": "Jinx, Demolitionist",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-031": {
     "id": "OGN-031",
@@ -592,7 +626,8 @@
     "name": "Raging Firebrand",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-032": {
     "id": "OGN-032",
@@ -609,7 +644,8 @@
     "name": "Ravenborn Tome",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-033": {
     "id": "OGN-033",
@@ -626,7 +662,8 @@
     "name": "Shakedown",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-034": {
     "id": "OGN-034",
@@ -643,7 +680,8 @@
     "name": "Tryndamere, Barbarian",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-035": {
     "id": "OGN-035",
@@ -660,7 +698,8 @@
     "name": "Vayne, Hunter",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-036": {
     "id": "OGN-036",
@@ -677,7 +716,8 @@
     "name": "Vi, Destructive",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-037": {
     "id": "OGN-037",
@@ -694,7 +734,8 @@
     "name": "Immortal Phoenix",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-038": {
     "id": "OGN-038",
@@ -711,7 +752,8 @@
     "name": "Kadregrin the Infernal",
     "type": "Unit",
     "cost": 9,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-039": {
     "id": "OGN-039",
@@ -728,7 +770,8 @@
     "name": "Kai'Sa, Survivor",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-039a": {
     "id": "OGN-039a",
@@ -745,7 +788,8 @@
     "name": "Kai'Sa, Survivor",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-040": {
     "id": "OGN-040",
@@ -762,7 +806,8 @@
     "name": "Seal of Rage",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-041": {
     "id": "OGN-041",
@@ -779,7 +824,8 @@
     "name": "Volibear, Furious",
     "type": "Unit",
     "cost": 10,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-041a": {
     "id": "OGN-041a",
@@ -796,7 +842,8 @@
     "name": "Volibear, Furious",
     "type": "Unit",
     "cost": 10,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   },
   "OGN-042": {
     "id": "OGN-042",
@@ -813,7 +860,8 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-042a": {
     "id": "OGN-042a",
@@ -830,7 +878,8 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-042b": {
     "id": "OGN-042b",
@@ -847,7 +896,8 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-043": {
     "id": "OGN-043",
@@ -864,7 +914,8 @@
     "name": "Charm",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-044": {
     "id": "OGN-044",
@@ -881,7 +932,8 @@
     "name": "Clockwork Keeper",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-045": {
     "id": "OGN-045",
@@ -898,7 +950,8 @@
     "name": "Defy",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-046": {
     "id": "OGN-046",
@@ -915,7 +968,8 @@
     "name": "En Garde",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-047": {
     "id": "OGN-047",
@@ -932,7 +986,8 @@
     "name": "Find Your Center",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-048": {
     "id": "OGN-048",
@@ -949,7 +1004,8 @@
     "name": "Meditation",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-049": {
     "id": "OGN-049",
@@ -966,7 +1022,8 @@
     "name": "Playful Phantom",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-050": {
     "id": "OGN-050",
@@ -983,7 +1040,8 @@
     "name": "Rune Prison",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-051": {
     "id": "OGN-051",
@@ -1000,7 +1058,8 @@
     "name": "Solari Shieldbearer",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-052": {
     "id": "OGN-052",
@@ -1017,7 +1076,8 @@
     "name": "Stalwart Poro",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-053": {
     "id": "OGN-053",
@@ -1035,7 +1095,8 @@
     "type": "Spell",
     "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-054": {
     "id": "OGN-054",
@@ -1052,7 +1113,8 @@
     "name": "Sunlit Guardian",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-055": {
     "id": "OGN-055",
@@ -1069,7 +1131,8 @@
     "name": "Wielder of Water",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-056": {
     "id": "OGN-056",
@@ -1087,7 +1150,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-057": {
     "id": "OGN-057",
@@ -1104,7 +1168,8 @@
     "name": "Block",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-058": {
     "id": "OGN-058",
@@ -1121,7 +1186,8 @@
     "name": "Discipline",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-059": {
     "id": "OGN-059",
@@ -1138,7 +1204,8 @@
     "name": "Eclipse Herald",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-060": {
     "id": "OGN-060",
@@ -1155,7 +1222,8 @@
     "name": "Mask of Foresight",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-061": {
     "id": "OGN-061",
@@ -1173,7 +1241,8 @@
     "type": "Unit",
     "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-062": {
     "id": "OGN-062",
@@ -1190,7 +1259,8 @@
     "name": "Reinforce",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-063": {
     "id": "OGN-063",
@@ -1208,7 +1278,8 @@
     "type": "Gear",
     "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-064": {
     "id": "OGN-064",
@@ -1225,7 +1296,8 @@
     "name": "Wind Wall",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-065": {
     "id": "OGN-065",
@@ -1242,7 +1314,8 @@
     "name": "Wizened Elder",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-066": {
     "id": "OGN-066",
@@ -1259,7 +1332,8 @@
     "name": "Ahri, Alluring",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-066a": {
     "id": "OGN-066a",
@@ -1276,7 +1350,8 @@
     "name": "Ahri, Alluring",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-067": {
     "id": "OGN-067",
@@ -1293,7 +1368,8 @@
     "name": "Blitzcrank, Impassive",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-068": {
     "id": "OGN-068",
@@ -1310,7 +1386,8 @@
     "name": "Caitlyn, Patrolling",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-069": {
     "id": "OGN-069",
@@ -1327,7 +1404,8 @@
     "name": "Last Stand",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-070": {
     "id": "OGN-070",
@@ -1344,7 +1422,8 @@
     "name": "Mageseeker Warden",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-071": {
     "id": "OGN-071",
@@ -1361,7 +1440,8 @@
     "name": "Party Favors",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-072": {
     "id": "OGN-072",
@@ -1378,7 +1458,8 @@
     "name": "Solari Shrine",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-073": {
     "id": "OGN-073",
@@ -1395,7 +1476,8 @@
     "name": "Sona, Harmonious",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-074": {
     "id": "OGN-074",
@@ -1412,7 +1494,8 @@
     "name": "Taric, Protector",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-075": {
     "id": "OGN-075",
@@ -1429,7 +1512,8 @@
     "name": "Tasty Faefolk",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-076": {
     "id": "OGN-076",
@@ -1446,7 +1530,8 @@
     "name": "Yasuo, Remorseful",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-076a": {
     "id": "OGN-076a",
@@ -1463,7 +1548,8 @@
     "name": "Yasuo, Remorseful",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-077": {
     "id": "OGN-077",
@@ -1480,7 +1566,8 @@
     "name": "Zhonya's Hourglass",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-078": {
     "id": "OGN-078",
@@ -1498,7 +1585,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-078a": {
     "id": "OGN-078a",
@@ -1516,7 +1604,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-079": {
     "id": "OGN-079",
@@ -1533,7 +1622,8 @@
     "name": "Leona, Zealot",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-079a": {
     "id": "OGN-079a",
@@ -1550,7 +1640,8 @@
     "name": "Leona, Zealot",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-080": {
     "id": "OGN-080",
@@ -1567,7 +1658,8 @@
     "name": "Mystic Reversal",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-081": {
     "id": "OGN-081",
@@ -1584,7 +1676,8 @@
     "name": "Seal of Focus",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-082": {
     "id": "OGN-082",
@@ -1601,7 +1694,8 @@
     "name": "Whiteflame Protector",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["01 - Origins"]
   },
   "OGN-083": {
     "id": "OGN-083",
@@ -1618,7 +1712,8 @@
     "name": "Consult the Past",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-084": {
     "id": "OGN-084",
@@ -1635,7 +1730,8 @@
     "name": "Eager Apprentice",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-085": {
     "id": "OGN-085",
@@ -1652,7 +1748,8 @@
     "name": "Falling Comet",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-086": {
     "id": "OGN-086",
@@ -1669,7 +1766,8 @@
     "name": "Jeweled Colossus",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-087": {
     "id": "OGN-087",
@@ -1686,7 +1784,8 @@
     "name": "Lecturing Yordle",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-088": {
     "id": "OGN-088",
@@ -1703,7 +1802,8 @@
     "name": "Mega-Mech",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-089": {
     "id": "OGN-089",
@@ -1720,7 +1820,8 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-089a": {
     "id": "OGN-089a",
@@ -1737,7 +1838,8 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-089b": {
     "id": "OGN-089b",
@@ -1754,7 +1856,8 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-090": {
     "id": "OGN-090",
@@ -1771,7 +1874,8 @@
     "name": "Orb of Regret",
     "type": "Gear",
     "cost": 1,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-091": {
     "id": "OGN-091",
@@ -1788,7 +1892,8 @@
     "name": "Pit Crew",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-092": {
     "id": "OGN-092",
@@ -1805,7 +1910,8 @@
     "name": "Riptide Rex",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-093": {
     "id": "OGN-093",
@@ -1822,7 +1928,8 @@
     "name": "Smoke Screen",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-094": {
     "id": "OGN-094",
@@ -1840,7 +1947,8 @@
     "type": "Spell",
     "cost": 3,
     "tokens": ["OGN-274"],
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-095": {
     "id": "OGN-095",
@@ -1857,7 +1965,8 @@
     "name": "Stupefy",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-096": {
     "id": "OGN-096",
@@ -1874,7 +1983,8 @@
     "name": "Watchful Sentry",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-097": {
     "id": "OGN-097",
@@ -1891,7 +2001,8 @@
     "name": "Blastcone Fae",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-098": {
     "id": "OGN-098",
@@ -1908,7 +2019,8 @@
     "name": "Energy Conduit",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-099": {
     "id": "OGN-099",
@@ -1925,7 +2037,8 @@
     "name": "Garbage Grabber",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-100": {
     "id": "OGN-100",
@@ -1942,7 +2055,8 @@
     "name": "Gemcraft Seer",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-101": {
     "id": "OGN-101",
@@ -1959,7 +2073,8 @@
     "name": "Mushroom Pouch",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-102": {
     "id": "OGN-102",
@@ -1976,7 +2091,8 @@
     "name": "Portal Rescue",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-103": {
     "id": "OGN-103",
@@ -2010,7 +2126,8 @@
     "name": "Retreat",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-105": {
     "id": "OGN-105",
@@ -2027,7 +2144,8 @@
     "name": "Singularity",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-106": {
     "id": "OGN-106",
@@ -2045,7 +2163,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["OGN-274"],
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-107": {
     "id": "OGN-107",
@@ -2062,7 +2181,8 @@
     "name": "Ava Achiever",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-108": {
     "id": "OGN-108",
@@ -2079,7 +2199,8 @@
     "name": "Convergent Mutation",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-109": {
     "id": "OGN-109",
@@ -2096,7 +2217,8 @@
     "name": "Dr. Mundo, Expert",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-110": {
     "id": "OGN-110",
@@ -2113,7 +2235,8 @@
     "name": "Ekko, Recurrent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-111": {
     "id": "OGN-111",
@@ -2130,7 +2253,8 @@
     "name": "Heimerdinger, Inventor",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-112": {
     "id": "OGN-112",
@@ -2147,7 +2271,8 @@
     "name": "Kai'Sa, Evolutionary",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-112a": {
     "id": "OGN-112a",
@@ -2164,7 +2289,8 @@
     "name": "Kai'Sa, Evolutionary",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-113": {
     "id": "OGN-113",
@@ -2181,7 +2307,8 @@
     "name": "Malzahar, Fanatic",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-114": {
     "id": "OGN-114",
@@ -2198,7 +2325,8 @@
     "name": "Progress Day",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-115": {
     "id": "OGN-115",
@@ -2215,7 +2343,8 @@
     "name": "Promising Future",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-116": {
     "id": "OGN-116",
@@ -2232,7 +2361,8 @@
     "name": "Thousand-Tailed Watcher",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-117": {
     "id": "OGN-117",
@@ -2250,7 +2380,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["OGN-273"],
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-117a": {
     "id": "OGN-117a",
@@ -2267,7 +2398,8 @@
     "name": "Viktor, Innovator",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-118": {
     "id": "OGN-118",
@@ -2284,7 +2416,8 @@
     "name": "Wraith of Echoes",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-119": {
     "id": "OGN-119",
@@ -2301,7 +2434,8 @@
     "name": "Ahri, Inquisitive",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-119a": {
     "id": "OGN-119a",
@@ -2318,7 +2452,8 @@
     "name": "Ahri, Inquisitive",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-120": {
     "id": "OGN-120",
@@ -2335,7 +2470,8 @@
     "name": "Seal of Insight",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-121": {
     "id": "OGN-121",
@@ -2352,7 +2488,8 @@
     "name": "Teemo, Strategist",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-121a": {
     "id": "OGN-121a",
@@ -2369,7 +2506,8 @@
     "name": "Teemo, Strategist",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-122": {
     "id": "OGN-122",
@@ -2386,7 +2524,8 @@
     "name": "Time Warp",
     "type": "Spell",
     "cost": 10,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-123": {
     "id": "OGN-123",
@@ -2403,7 +2542,8 @@
     "name": "Unchecked Power",
     "type": "Spell",
     "cost": 7,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-124": {
     "id": "OGN-124",
@@ -2421,7 +2561,8 @@
     "type": "Gear",
     "cost": 3,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-125": {
     "id": "OGN-125",
@@ -2438,7 +2579,8 @@
     "name": "Bilgewater Bully",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-126": {
     "id": "OGN-126",
@@ -2455,7 +2597,8 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-126a": {
     "id": "OGN-126a",
@@ -2472,7 +2615,8 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-126b": {
     "id": "OGN-126b",
@@ -2489,7 +2633,8 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-127": {
     "id": "OGN-127",
@@ -2506,7 +2651,8 @@
     "name": "Cannon Barrage",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-128": {
     "id": "OGN-128",
@@ -2523,7 +2669,8 @@
     "name": "Challenge",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-129": {
     "id": "OGN-129",
@@ -2540,7 +2687,8 @@
     "name": "Confront",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-130": {
     "id": "OGN-130",
@@ -2557,7 +2705,8 @@
     "name": "Crackshot Corsair",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-131": {
     "id": "OGN-131",
@@ -2574,7 +2723,8 @@
     "name": "Dune Drake",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-132": {
     "id": "OGN-132",
@@ -2591,7 +2741,8 @@
     "name": "First Mate",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-133": {
     "id": "OGN-133",
@@ -2608,7 +2759,8 @@
     "name": "Flurry of Blades",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-134": {
     "id": "OGN-134",
@@ -2625,7 +2777,8 @@
     "name": "Mobilize",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-135": {
     "id": "OGN-135",
@@ -2642,7 +2795,8 @@
     "name": "Pakaa Cub",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-136": {
     "id": "OGN-136",
@@ -2660,7 +2814,8 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-137": {
     "id": "OGN-137",
@@ -2677,7 +2832,8 @@
     "name": "Stormclaw Ursine",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-138": {
     "id": "OGN-138",
@@ -2694,7 +2850,8 @@
     "name": "Catalyst of Aeons",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-139": {
     "id": "OGN-139",
@@ -2712,7 +2869,8 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-140": {
     "id": "OGN-140",
@@ -2729,7 +2887,8 @@
     "name": "Herald of Scales",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-141": {
     "id": "OGN-141",
@@ -2747,7 +2906,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-142": {
     "id": "OGN-142",
@@ -2764,7 +2924,8 @@
     "name": "Mountain Drake",
     "type": "Unit",
     "cost": 9,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-143": {
     "id": "OGN-143",
@@ -2781,7 +2942,8 @@
     "name": "Pirate's Haven",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-144": {
     "id": "OGN-144",
@@ -2798,7 +2960,8 @@
     "name": "Spoils of War",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-145": {
     "id": "OGN-145",
@@ -2815,7 +2978,8 @@
     "name": "Unyielding Spirit",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-146": {
     "id": "OGN-146",
@@ -2832,7 +2996,8 @@
     "name": "Wallop",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-147": {
     "id": "OGN-147",
@@ -2849,7 +3014,8 @@
     "name": "Wildclaw Shaman",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-148": {
     "id": "OGN-148",
@@ -2866,7 +3032,8 @@
     "name": "Anivia, Primal",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-149": {
     "id": "OGN-149",
@@ -2883,7 +3050,8 @@
     "name": "Carnivorous Snapvine",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-150": {
     "id": "OGN-150",
@@ -2900,7 +3068,8 @@
     "name": "Kraken Hunter",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-151": {
     "id": "OGN-151",
@@ -2917,7 +3086,8 @@
     "name": "Lee Sin, Centered",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-151a": {
     "id": "OGN-151a",
@@ -2934,7 +3104,8 @@
     "name": "Lee Sin, Centered",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-152": {
     "id": "OGN-152",
@@ -2951,7 +3122,8 @@
     "name": "Mistfall",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-153": {
     "id": "OGN-153",
@@ -2968,7 +3140,8 @@
     "name": "Overt Operation",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-154": {
     "id": "OGN-154",
@@ -2985,7 +3158,8 @@
     "name": "Primal Strength",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-155": {
     "id": "OGN-155",
@@ -3002,7 +3176,8 @@
     "name": "Qiyana, Victorious",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-156": {
     "id": "OGN-156",
@@ -3019,7 +3194,8 @@
     "name": "Sabotage",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-157": {
     "id": "OGN-157",
@@ -3036,7 +3212,8 @@
     "name": "Udyr, Wildman",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-158": {
     "id": "OGN-158",
@@ -3053,7 +3230,8 @@
     "name": "Volibear, Imposing",
     "type": "Unit",
     "cost": 12,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-158a": {
     "id": "OGN-158a",
@@ -3070,7 +3248,8 @@
     "name": "Volibear, Imposing",
     "type": "Unit",
     "cost": 12,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-159": {
     "id": "OGN-159",
@@ -3087,7 +3266,8 @@
     "name": "Warwick, Hunter",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-160": {
     "id": "OGN-160",
@@ -3104,7 +3284,8 @@
     "name": "Dazzling Aurora",
     "type": "Gear",
     "cost": 9,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-161": {
     "id": "OGN-161",
@@ -3121,7 +3302,8 @@
     "name": "Deadbloom Predator",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-162": {
     "id": "OGN-162",
@@ -3138,7 +3320,8 @@
     "name": "Miss Fortune, Captain",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-162a": {
     "id": "OGN-162a",
@@ -3155,7 +3338,8 @@
     "name": "Miss Fortune, Captain",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-163": {
     "id": "OGN-163",
@@ -3172,7 +3356,8 @@
     "name": "Seal of Strength",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-164": {
     "id": "OGN-164",
@@ -3190,7 +3375,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-164a": {
     "id": "OGN-164a",
@@ -3208,7 +3394,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-165": {
     "id": "OGN-165",
@@ -3225,7 +3412,8 @@
     "name": "Cemetery Attendant",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-166": {
     "id": "OGN-166",
@@ -3242,7 +3430,8 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-166a": {
     "id": "OGN-166a",
@@ -3259,7 +3448,8 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-166b": {
     "id": "OGN-166b",
@@ -3276,7 +3466,8 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-167": {
     "id": "OGN-167",
@@ -3293,7 +3484,8 @@
     "name": "Ember Monk",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-168": {
     "id": "OGN-168",
@@ -3310,7 +3502,8 @@
     "name": "Fight or Flight",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-169": {
     "id": "OGN-169",
@@ -3327,7 +3520,8 @@
     "name": "Gust",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-170": {
     "id": "OGN-170",
@@ -3344,7 +3538,8 @@
     "name": "Morbid Return",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-171": {
     "id": "OGN-171",
@@ -3361,7 +3556,8 @@
     "name": "Mystic Poro",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-172": {
     "id": "OGN-172",
@@ -3378,7 +3574,8 @@
     "name": "Rebuke",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-173": {
     "id": "OGN-173",
@@ -3395,7 +3592,8 @@
     "name": "Ride the Wind",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-174": {
     "id": "OGN-174",
@@ -3412,7 +3610,8 @@
     "name": "Sai Scout",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-175": {
     "id": "OGN-175",
@@ -3429,7 +3628,8 @@
     "name": "Shipyard Skulker",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-176": {
     "id": "OGN-176",
@@ -3446,7 +3646,8 @@
     "name": "Sneaky Deckhand",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-177": {
     "id": "OGN-177",
@@ -3463,7 +3664,8 @@
     "name": "Stealthy Pursuer",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-178": {
     "id": "OGN-178",
@@ -3480,7 +3682,8 @@
     "name": "Undercover Agent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-179": {
     "id": "OGN-179",
@@ -3497,7 +3700,8 @@
     "name": "Acceptable Losses",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-180": {
     "id": "OGN-180",
@@ -3514,7 +3718,8 @@
     "name": "Fading Memories",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-181": {
     "id": "OGN-181",
@@ -3531,7 +3736,8 @@
     "name": "Pack of Wonders",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-182": {
     "id": "OGN-182",
@@ -3548,7 +3754,8 @@
     "name": "Scrapheap",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-183": {
     "id": "OGN-183",
@@ -3565,7 +3772,8 @@
     "name": "Stacked Deck",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-184": {
     "id": "OGN-184",
@@ -3582,7 +3790,8 @@
     "name": "The Syren",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-185": {
     "id": "OGN-185",
@@ -3599,7 +3808,8 @@
     "name": "Traveling Merchant",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-186": {
     "id": "OGN-186",
@@ -3616,7 +3826,8 @@
     "name": "Treasure Trove",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-187": {
     "id": "OGN-187",
@@ -3633,7 +3844,8 @@
     "name": "Whirlwind",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-188": {
     "id": "OGN-188",
@@ -3650,7 +3862,8 @@
     "name": "Zaunite Bouncer",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-189": {
     "id": "OGN-189",
@@ -3667,7 +3880,8 @@
     "name": "Kayn, Unleashed",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-190": {
     "id": "OGN-190",
@@ -3684,7 +3898,8 @@
     "name": "Kog'Maw, Caustic",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-191": {
     "id": "OGN-191",
@@ -3701,7 +3916,8 @@
     "name": "Maddened Marauder",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-192": {
     "id": "OGN-192",
@@ -3718,7 +3934,8 @@
     "name": "Infinite Mindsplitter",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-193": {
     "id": "OGN-193",
@@ -3735,7 +3952,8 @@
     "name": "Miss Fortune, Buccaneer",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-193a": {
     "id": "OGN-193a",
@@ -3752,7 +3970,8 @@
     "name": "Miss Fortune, Buccaneer",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-193b": {
     "id": "OGN-193b",
@@ -3769,7 +3988,8 @@
     "name": "Miss Fortune, Buccaneer",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-194": {
     "id": "OGN-194",
@@ -3786,7 +4006,8 @@
     "name": "Nocturne, Horrifying",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-195": {
     "id": "OGN-195",
@@ -3803,7 +4024,8 @@
     "name": "Rhasa the Sunderer",
     "type": "Unit",
     "cost": 10,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-196": {
     "id": "OGN-196",
@@ -3820,7 +4042,8 @@
     "name": "Soulgorger",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-197": {
     "id": "OGN-197",
@@ -3837,7 +4060,8 @@
     "name": "Teemo, Scout",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-197a": {
     "id": "OGN-197a",
@@ -3854,7 +4078,8 @@
     "name": "Teemo, Scout",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-197b": {
     "id": "OGN-197b",
@@ -3871,7 +4096,8 @@
     "name": "Teemo, Scout",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-198": {
     "id": "OGN-198",
@@ -3888,7 +4114,8 @@
     "name": "The Harrowing",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-199": {
     "id": "OGN-199",
@@ -3905,7 +4132,8 @@
     "name": "Tideturner",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-200": {
     "id": "OGN-200",
@@ -3922,7 +4150,8 @@
     "name": "Twisted Fate, Gambler",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-201": {
     "id": "OGN-201",
@@ -3939,7 +4168,8 @@
     "name": "Invert Timelines",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-202": {
     "id": "OGN-202",
@@ -3956,7 +4186,8 @@
     "name": "Jinx, Rebel",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-202a": {
     "id": "OGN-202a",
@@ -3973,7 +4204,8 @@
     "name": "Jinx, Rebel",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-203": {
     "id": "OGN-203",
@@ -3990,7 +4222,8 @@
     "name": "Possession",
     "type": "Spell",
     "cost": 8,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-204": {
     "id": "OGN-204",
@@ -4007,7 +4240,8 @@
     "name": "Seal of Discord",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-205": {
     "id": "OGN-205",
@@ -4024,7 +4258,8 @@
     "name": "Yasuo, Windrider",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-205a": {
     "id": "OGN-205a",
@@ -4041,7 +4276,8 @@
     "name": "Yasuo, Windrider",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-206": {
     "id": "OGN-206",
@@ -4058,7 +4294,8 @@
     "name": "Back to Back",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-207": {
     "id": "OGN-207",
@@ -4075,7 +4312,8 @@
     "name": "Call to Glory",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-208": {
     "id": "OGN-208",
@@ -4092,7 +4330,8 @@
     "name": "Cruel Patron",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-209": {
     "id": "OGN-209",
@@ -4109,7 +4348,8 @@
     "name": "Cull the Weak",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-210": {
     "id": "OGN-210",
@@ -4126,7 +4366,8 @@
     "name": "Daring Poro",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-211": {
     "id": "OGN-211",
@@ -4144,7 +4385,8 @@
     "type": "Unit",
     "cost": 3,
     "tokens": ["OGN-273"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-212": {
     "id": "OGN-212",
@@ -4162,7 +4404,8 @@
     "type": "Gear",
     "cost": 2,
     "tokens": ["OGN-273"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-213": {
     "id": "OGN-213",
@@ -4179,7 +4422,8 @@
     "name": "Hidden Blade",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-214": {
     "id": "OGN-214",
@@ -4196,7 +4440,8 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-214a": {
     "id": "OGN-214a",
@@ -4213,7 +4458,8 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-214b": {
     "id": "OGN-214b",
@@ -4230,7 +4476,8 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-215": {
     "id": "OGN-215",
@@ -4247,7 +4494,8 @@
     "name": "Petty Officer",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-216": {
     "id": "OGN-216",
@@ -4264,7 +4512,8 @@
     "name": "Soaring Scout",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-217": {
     "id": "OGN-217",
@@ -4282,7 +4531,8 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-218": {
     "id": "OGN-218",
@@ -4300,7 +4550,8 @@
     "type": "Unit",
     "cost": 3,
     "tokens": ["OGN-271"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-219": {
     "id": "OGN-219",
@@ -4317,7 +4568,8 @@
     "name": "Vanguard Sergeant",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-220": {
     "id": "OGN-220",
@@ -4334,7 +4586,8 @@
     "name": "Facebreaker",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-221": {
     "id": "OGN-221",
@@ -4351,7 +4604,8 @@
     "name": "Imperial Decree",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-222": {
     "id": "OGN-222",
@@ -4369,7 +4623,8 @@
     "type": "Unit",
     "cost": 3,
     "tokens": ["OGN-272"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-223": {
     "id": "OGN-223",
@@ -4387,7 +4642,8 @@
     "type": "Unit",
     "cost": 6,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-224": {
     "id": "OGN-224",
@@ -4404,7 +4660,8 @@
     "name": "Salvage",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-225": {
     "id": "OGN-225",
@@ -4421,7 +4678,8 @@
     "name": "Solari Chief",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-226": {
     "id": "OGN-226",
@@ -4438,7 +4696,8 @@
     "name": "Spectral Matron",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-227": {
     "id": "OGN-227",
@@ -4455,7 +4714,8 @@
     "name": "Symbol of the Solari",
     "type": "Gear",
     "cost": 1,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-228": {
     "id": "OGN-228",
@@ -4473,7 +4733,8 @@
     "type": "Gear",
     "cost": 2,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-229": {
     "id": "OGN-229",
@@ -4490,7 +4751,8 @@
     "name": "Vengeance",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-230": {
     "id": "OGN-230",
@@ -4507,7 +4769,8 @@
     "name": "Albus Ferros",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-231": {
     "id": "OGN-231",
@@ -4524,7 +4787,8 @@
     "name": "Commander Ledros",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-232": {
     "id": "OGN-232",
@@ -4541,7 +4805,8 @@
     "name": "Fiora, Victorious",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
     "OGN-233": {
     "id": "OGN-233",
@@ -4558,7 +4823,8 @@
     "name": "Grand Strategem",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-234": {
     "id": "OGN-234",
@@ -4575,7 +4841,8 @@
     "name": "Harnessed Dragon",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-235": {
     "id": "OGN-235",
@@ -4593,7 +4860,8 @@
     "type": "Unit",
     "cost": 6,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-236": {
     "id": "OGN-236",
@@ -4610,7 +4878,8 @@
     "name": "Karthus, Eternal",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-237": {
     "id": "OGN-237",
@@ -4627,7 +4896,8 @@
     "name": "King's Edict",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-238": {
     "id": "OGN-238",
@@ -4644,7 +4914,8 @@
     "name": "Leona, Determined",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-238a": {
     "id": "OGN-238a",
@@ -4661,7 +4932,8 @@
     "name": "Leona, Determined",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-239": {
     "id": "OGN-239",
@@ -4679,7 +4951,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-273"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-240": {
     "id": "OGN-240",
@@ -4696,7 +4969,8 @@
     "name": "Sett, Kingpin",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-240a": {
     "id": "OGN-240a",
@@ -4713,7 +4987,8 @@
     "name": "Sett, Kingpin",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-241": {
     "id": "OGN-241",
@@ -4730,7 +5005,8 @@
     "name": "Shen, Kinkou",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-242": {
     "id": "OGN-242",
@@ -4747,7 +5023,8 @@
     "name": "Baited Hook",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-243": {
     "id": "OGN-243",
@@ -4764,7 +5041,8 @@
     "name": "Darius, Executioner",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-243a": {
     "id": "OGN-243a",
@@ -4781,7 +5059,8 @@
     "name": "Darius, Executioner",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-244": {
     "id": "OGN-244",
@@ -4798,7 +5077,8 @@
     "name": "Divine Judgment",
     "type": "Spell",
     "cost": 7,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-245": {
     "id": "OGN-245",
@@ -4815,7 +5095,8 @@
     "name": "Seal of Unity",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-246": {
     "id": "OGN-246",
@@ -4833,7 +5114,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["OGN-273"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-246a": {
     "id": "OGN-246a",
@@ -4850,7 +5132,8 @@
     "name": "Viktor, Leader",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-247": {
     "id": "OGN-247",
@@ -4867,7 +5150,8 @@
     "name": "Kai'Sa, Daughter of the Void",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🔵 Mind"]
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-248": {
     "id": "OGN-248",
@@ -4884,7 +5168,8 @@
     "name": "Icathian Rain",
         "type": "Spell",
         "cost": 7,
-    "Domain": ["🔴 Fury", "🔵 Mind"]
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-249": {
     "id": "OGN-249",
@@ -4901,7 +5186,8 @@
     "name": "Volibear, Relentless Storm",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟠 Body"]
+    "Domain": ["🔴 Fury", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-250": {
     "id": "OGN-250",
@@ -4918,7 +5204,8 @@
     "name": "Stormbringer",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🔴 Fury", "🟠 Body"]
+    "Domain": ["🔴 Fury", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-251": {
     "id": "OGN-251",
@@ -4935,7 +5222,8 @@
     "name": "Jinx, Loose Cannon",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-252": {
     "id": "OGN-252",
@@ -4952,7 +5240,8 @@
     "name": "Super Mega Death Rocket!",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-253": {
     "id": "OGN-253",
@@ -4969,7 +5258,8 @@
     "name": "Darius, Hand of Noxus",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟡 Order"]
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-254": {
     "id": "OGN-254",
@@ -4986,7 +5276,8 @@
     "name": "Noxian Guillotine",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🔴 Fury", "🟡 Order"]
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-255": {
     "id": "OGN-255",
@@ -5003,7 +5294,8 @@
     "name": "Ahri, Nine-Tailed Fox",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🔵 Mind"]
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-256": {
     "id": "OGN-256",
@@ -5020,7 +5312,8 @@
     "name": "Fox-Fire",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm", "🔵 Mind"]
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-257": {
     "id": "OGN-257",
@@ -5038,7 +5331,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-258": {
     "id": "OGN-258",
@@ -5055,7 +5349,8 @@
     "name": "Dragon's Rage",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-259": {
     "id": "OGN-259",
@@ -5072,7 +5367,8 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟣 Chaos"]
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-260": {
     "id": "OGN-260",
@@ -5089,7 +5385,8 @@
     "name": "Last Breath",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm", "🟣 Chaos"]
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-261": {
     "id": "OGN-261",
@@ -5107,7 +5404,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm", "🟡 Order"]
+    "Domain": ["🟢 Calm", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-262": {
     "id": "OGN-262",
@@ -5124,7 +5422,8 @@
     "name": "Zenith Blade",
     "type": "Spell",
     "cost": 3,
-    "Domain": ["🟢 Calm", "🟡 Order"]
+    "Domain": ["🟢 Calm", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-263": {
     "id": "OGN-263",
@@ -5141,7 +5440,8 @@
     "name": "Teemo, Swift Scout",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔵 Mind", "🟣 Chaos"]
+    "Domain": ["🔵 Mind", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-264": {
     "id": "OGN-264",
@@ -5158,7 +5458,8 @@
     "name": "Guerilla Warfare",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔵 Mind", "🟣 Chaos"]
+    "Domain": ["🔵 Mind", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-265": {
     "id": "OGN-265",
@@ -5176,7 +5477,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-273"],
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-266": {
     "id": "OGN-266",
@@ -5193,7 +5495,8 @@
     "name": "Siphon Power",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-267": {
     "id": "OGN-267",
@@ -5210,7 +5513,8 @@
     "name": "Miss Fortune, Bounty Hunter",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟣 Chaos"]
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-268": {
     "id": "OGN-268",
@@ -5227,7 +5531,8 @@
     "name": "Bullet Time",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟠 Body", "🟣 Chaos"]
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-269": {
     "id": "OGN-269",
@@ -5244,7 +5549,8 @@
     "name": "Sett, The Boss",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-270": {
     "id": "OGN-270",
@@ -5262,7 +5568,8 @@
     "type": "Spell",
     "cost": 1,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-271": {
     "id": "OGN-271",
@@ -5279,7 +5586,8 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-272": {
     "id": "OGN-272",
@@ -5296,7 +5604,8 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-273": {
     "id": "OGN-273",
@@ -5313,7 +5622,8 @@
     "name": "Recruit",
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-274": {
     "id": "OGN-274",
@@ -5330,7 +5640,8 @@
     "name": "Sprite",
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-275": {
     "id": "OGN-275",
@@ -5348,7 +5659,8 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-271"],
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-276": {
     "id": "OGN-276",
@@ -5365,7 +5677,8 @@
     "name": "Aspirant's Climb",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-277": {
     "id": "OGN-277",
@@ -5382,7 +5695,8 @@
     "name": "Back-Alley Bar",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-278": {
     "id": "OGN-278",
@@ -5399,7 +5713,8 @@
     "name": "Bandle Tree",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-279": {
     "id": "OGN-279",
@@ -5416,7 +5731,8 @@
     "name": "Fortified Position",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-280": {
     "id": "OGN-280",
@@ -5433,7 +5749,8 @@
     "name": "Grove of the God-Willow",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-281": {
     "id": "OGN-281",
@@ -5450,7 +5767,8 @@
     "name": "Hallowed Tomb",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-282": {
     "id": "OGN-282",
@@ -5467,7 +5785,8 @@
     "name": "Monastery of Hirana",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-283": {
     "id": "OGN-283",
@@ -5485,7 +5804,8 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-284": {
     "id": "OGN-284",
@@ -5502,7 +5822,8 @@
     "name": "Obelisk of Power",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-285": {
     "id": "OGN-285",
@@ -5519,7 +5840,8 @@
     "name": "Reaver's Row",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-286": {
     "id": "OGN-286",
@@ -5536,7 +5858,8 @@
     "name": "Reckoner's Arena",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-287": {
     "id": "OGN-287",
@@ -5553,7 +5876,8 @@
     "name": "Sigil of the Storm",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-288": {
     "id": "OGN-288",
@@ -5570,7 +5894,8 @@
     "name": "Startipped Peak",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-289": {
     "id": "OGN-289",
@@ -5587,7 +5912,8 @@
     "name": "Targon's Peak",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-290": {
     "id": "OGN-290",
@@ -5604,7 +5930,8 @@
     "name": "The Arena's Greatest",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-291": {
     "id": "OGN-291",
@@ -5621,7 +5948,8 @@
     "name": "The Candlelit Sanctum",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-292": {
     "id": "OGN-292",
@@ -5638,7 +5966,8 @@
     "name": "The Dreaming Tree",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-293": {
     "id": "OGN-293",
@@ -5655,7 +5984,8 @@
     "name": "The Grand Plaza",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-294": {
     "id": "OGN-294",
@@ -5672,7 +6002,8 @@
     "name": "Trifarian War Camp",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-295": {
     "id": "OGN-295",
@@ -5689,7 +6020,8 @@
     "name": "Vilemaw's Lair",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-296": {
     "id": "OGN-296",
@@ -5706,7 +6038,8 @@
     "name": "Void Gate",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-297": {
     "id": "OGN-297",
@@ -5723,7 +6056,8 @@
     "name": "Windswept Hillock",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-298": {
     "id": "OGN-298",
@@ -5740,7 +6074,8 @@
     "name": "Zaun Warrens",
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGN-299": {
     "id": "OGN-299",
@@ -5757,7 +6092,8 @@
     "name": "Kai'Sa, Daughter of the Void",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🔵 Mind"]
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-299s": {
     "id": "OGN-299s",
@@ -5774,7 +6110,8 @@
     "name": "Kai'Sa, Daughter of the Void",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🔵 Mind"]
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-300": {
     "id": "OGN-300",
@@ -5791,7 +6128,8 @@
     "name": "Volibear, Relentless Storm",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟠 Body"]
+    "Domain": ["🔴 Fury", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-300s": {
     "id": "OGN-300s",
@@ -5808,7 +6146,8 @@
     "name": "Volibear, Relentless Storm",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟠 Body"]
+    "Domain": ["🔴 Fury", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-301": {
     "id": "OGN-301",
@@ -5825,7 +6164,8 @@
     "name": "Jinx, Loose Cannon",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-301s": {
     "id": "OGN-301s",
@@ -5842,7 +6182,8 @@
     "name": "Jinx, Loose Cannon",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-302": {
     "id": "OGN-302",
@@ -5859,7 +6200,8 @@
     "name": "Darius, Hand of Noxus",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟡 Order"]
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-302s": {
     "id": "OGN-302s",
@@ -5876,7 +6218,8 @@
     "name": "Darius, Hand of Noxus",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟡 Order"]
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-303": {
     "id": "OGN-303",
@@ -5893,7 +6236,8 @@
     "name": "Ahri, Nine-Tailed Fox",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🔵 Mind"]
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-303s": {
     "id": "OGN-303s",
@@ -5910,7 +6254,8 @@
     "name": "Ahri, Nine-Tailed Fox",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🔵 Mind"]
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-304": {
     "id": "OGN-304",
@@ -5927,7 +6272,8 @@
     "name": "Lee Sin, Blind Monk",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-304s": {
     "id": "OGN-304s",
@@ -5944,7 +6290,8 @@
     "name": "Lee Sin, Blind Monk",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["01 - Origins"]
   },
   "OGN-305": {
     "id": "OGN-305",
@@ -5961,7 +6308,8 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟣 Chaos"]
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-305s": {
     "id": "OGN-305s",
@@ -5978,7 +6326,8 @@
     "name": "Yasuo, Unforgiven",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟣 Chaos"]
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-306": {
     "id": "OGN-306",
@@ -5996,7 +6345,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm", "🟡 Order"]
+    "Domain": ["🟢 Calm", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-306s": {
     "id": "OGN-306s",
@@ -6014,7 +6364,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟢 Calm", "🟡 Order"]
+    "Domain": ["🟢 Calm", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-307": {
     "id": "OGN-307",
@@ -6031,7 +6382,8 @@
     "name": "Teemo, Swift Scout",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔵 Mind", "🟣 Chaos"]
+    "Domain": ["🔵 Mind", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-307s": {
     "id": "OGN-307s",
@@ -6048,7 +6400,8 @@
     "name": "Teemo, Swift Scout",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔵 Mind", "🟣 Chaos"]
+    "Domain": ["🔵 Mind", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-308": {
     "id": "OGN-308",
@@ -6066,7 +6419,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-273"],
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-308s": {
     "id": "OGN-308s",
@@ -6084,7 +6438,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["OGN-273"],
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-309": {
     "id": "OGN-309",
@@ -6101,7 +6456,8 @@
     "name": "Miss Fortune, Bounty Hunter",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟣 Chaos"]
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-309s": {
     "id": "OGN-309s",
@@ -6118,7 +6474,8 @@
     "name": "Miss Fortune, Bounty Hunter",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟣 Chaos"]
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["01 - Origins"]
   },
   "OGN-310": {
     "id": "OGN-310",
@@ -6135,7 +6492,8 @@
     "name": "Sett, The Boss",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-310s": {
     "id": "OGN-310s",
@@ -6152,7 +6510,8 @@
     "name": "Sett, The Boss",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["01 - Origins"]
   },
   "OGN-XXX": {
     "id": "OGN-XXX",
@@ -6169,7 +6528,8 @@
     "name": "Buff",
     "type": "Other",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["01 - Origins"]
   },
   "OGS-001": {
     "id": "OGS-001",
@@ -6186,7 +6546,8 @@
     "name": "Annie, Fiery",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-002": {
     "id": "OGS-002",
@@ -6203,7 +6564,8 @@
     "name": "Firestorm",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-003": {
     "id": "OGS-003",
@@ -6220,7 +6582,8 @@
     "name": "Incinerate",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-004": {
     "id": "OGS-004",
@@ -6237,7 +6600,8 @@
     "name": "Master Yi, Meditative",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-005": {
     "id": "OGS-005",
@@ -6254,7 +6618,8 @@
     "name": "Zephyr Sage",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-006": {
     "id": "OGS-006",
@@ -6271,7 +6636,8 @@
     "name": "Lux, Illuminated",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-007": {
     "id": "OGS-007",
@@ -6288,7 +6654,8 @@
     "name": "Garen, Rugged",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-008": {
     "id": "OGS-008",
@@ -6305,7 +6672,8 @@
     "name": "Gentlemen's Duel",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-009": {
     "id": "OGS-009",
@@ -6322,7 +6690,8 @@
     "name": "Master Yi, Honed",
     "type": "Unit",
     "cost": 7,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-010": {
     "id": "OGS-010",
@@ -6339,7 +6708,8 @@
     "name": "Annie, Stubborn",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-011": {
     "id": "OGS-011",
@@ -6356,7 +6726,8 @@
     "name": "Flash",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-012": {
     "id": "OGS-012",
@@ -6373,7 +6744,8 @@
     "name": "Blast of Power",
     "type": "Spell",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-013": {
     "id": "OGS-013",
@@ -6390,7 +6762,8 @@
     "name": "Garen, Commander",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-014": {
     "id": "OGS-014",
@@ -6407,7 +6780,8 @@
     "name": "Lux, Crownguard",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-015": {
     "id": "OGS-015",
@@ -6425,7 +6799,8 @@
     "type": "Spell",
     "cost": 6,
     "tokens": ["OGN-271"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-016": {
     "id": "OGS-016",
@@ -6442,7 +6817,8 @@
     "name": "Vanguard Attendant",
     "type": "Unit",
     "cost": 6,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-017": {
     "id": "OGS-017",
@@ -6459,7 +6835,8 @@
     "name": "Annie, Dark Child",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-018": {
     "id": "OGS-018",
@@ -6476,7 +6853,8 @@
     "name": "Tibbers",
     "type": "Unit",
     "cost": 8,
-    "Domain": ["🔴 Fury", "🟣 Chaos"]
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-019": {
     "id": "OGS-019",
@@ -6493,7 +6871,8 @@
     "name": "Master Yi, Wuju Bladesman",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-020": {
     "id": "OGS-020",
@@ -6510,7 +6889,8 @@
     "name": "Highlander",
     "type": "Spell",
     "cost": 4,
-    "Domain": ["🟢 Calm", "🟠 Body"]
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-021": {
     "id": "OGS-021",
@@ -6527,7 +6907,8 @@
     "name": "Lux, Lady of Luminosity",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-022": {
     "id": "OGS-022",
@@ -6544,7 +6925,8 @@
     "name": "Final Spark",
     "type": "Spell",
     "cost": 8,
-    "Domain": ["🔵 Mind", "🟡 Order"]
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-023": {
     "id": "OGS-023",
@@ -6561,7 +6943,8 @@
     "name": "Garen, Might of Demacia",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "OGS-024": {
     "id": "OGS-024",
@@ -6578,7 +6961,8 @@
     "name": "Decisive Strike",
     "type": "Spell",
     "cost": 5,
-    "Domain": ["🟠 Body", "🟡 Order"]
+    "Domain": ["🟠 Body", "🟡 Order"],
+    "Set": ["00 - Proving Grounds"]
   },
   "ARC-001": {
     "id": "ARC-001",
@@ -6698,7 +7082,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["SFD-T03"],
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-020a": {
     "id": "SFD-020a",
@@ -6716,7 +7101,8 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["SFD-T03"],
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-022": {
     "id": "SFD-022",
@@ -6733,7 +7119,8 @@
     "name": "Long Sword",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-033": {
     "id": "SFD-033",
@@ -6750,7 +7137,8 @@
     "name": "Doran's Shield",
     "type": "Gear",
     "cost": 1,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-034": {
     "id": "SFD-034",
@@ -6767,7 +7155,8 @@
     "name": "Feral Strength",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-051": {
     "id": "SFD-051",
@@ -6784,7 +7173,8 @@
     "name": "Guardian Angel",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-056": {
     "id": "SFD-056",
@@ -6801,7 +7191,8 @@
     "name": "Sterak's Gage",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-057": {
     "id": "SFD-057",
@@ -6818,7 +7209,8 @@
     "name": "Irelia, Fervent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-057a": {
     "id": "SFD-057a",
@@ -6835,7 +7227,8 @@
     "name": "Irelia, Fervent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-059": {
     "id": "SFD-059",
@@ -6852,7 +7245,8 @@
     "name": "Svellsongur",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-069": {
     "id": "SFD-069",
@@ -6869,7 +7263,8 @@
     "name": "Plundering Poro",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-095": {
     "id": "SFD-095",
@@ -6886,7 +7281,8 @@
     "name": "Doran's Blade",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-111": {
     "id": "SFD-111",
@@ -6903,7 +7299,8 @@
     "name": "Here to Help",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-113": {
     "id": "SFD-113",
@@ -6920,7 +7317,8 @@
     "name": "Lucian, Merciless",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-113a": {
     "id": "SFD-113a",
@@ -6937,7 +7335,8 @@
     "name": "Lucian, Merciless",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-115": {
     "id": "SFD-115",
@@ -6954,7 +7353,8 @@
     "name": "Trinity Force",
     "type": "Gear",
     "cost": 4,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-124": {
     "id": "SFD-124",
@@ -6971,7 +7371,8 @@
     "name": "Doran's Ring",
     "type": "Gear",
     "cost": 1,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-128": {
     "id": "SFD-128",
@@ -6988,7 +7389,8 @@
     "name": "Overzealous Fan",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-130": {
     "id": "SFD-130",
@@ -7024,7 +7426,8 @@
     "name": "Irelia, Graceful",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-141a": {
     "id": "SFD-141a",
@@ -7041,7 +7444,8 @@
     "name": "Irelia, Graceful",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-155": {
     "id": "SFD-155",
@@ -7059,7 +7463,8 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-178": {
     "id": "SFD-178",
@@ -7076,7 +7481,8 @@
     "name": "Blade of the Ruined King",
     "type": "Gear",
     "cost": 3,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-181": {
     "id": "SFD-181",
@@ -7093,7 +7499,8 @@
     "name": "Rumble, Mechanized Menace",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🔵 Mind" ]
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-182": {
     "id": "SFD-182",
@@ -7110,7 +7517,8 @@
     "name": "Danger Zone",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🔴 Fury", "🔵 Mind" ]
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-183": {
     "id": "SFD-183",
@@ -7127,7 +7535,8 @@
     "name": "Lucian, Purifier",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟠 Body" ]
+    "Domain": ["🔴 Fury", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-184": {
     "id": "SFD-184",
@@ -7144,7 +7553,8 @@
     "name": "Relentless Pursuit",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury", "🟠 Body" ]
+    "Domain": ["🔴 Fury", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-185": {
     "id": "SFD-185",
@@ -7161,7 +7571,8 @@
     "name": "Draven, Glorious Executioner",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟣 Chaos" ]
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-186": {
     "id": "SFD-186",
@@ -7178,7 +7589,8 @@
     "name": "Spinning Axe",
     "type": "Gear",
     "cost": 2,
-    "Domain": ["🔴 Fury", "🟣 Chaos" ]
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-187": {
     "id": "SFD-187",
@@ -7195,7 +7607,8 @@
     "name": "Rek'Sai, Void Burrower",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🟡 Order" ]
+    "Domain": ["🔴 Fury", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-188": {
     "id": "SFD-188",
@@ -7212,7 +7625,8 @@
     "name": "Void Rush",
     "type": "Spell",
     "cost": 2,
-    "Domain": ["🔴 Fury", "🟡 Order" ]
+    "Domain": ["🔴 Fury", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-189": {
     "id": "SFD-189",
@@ -7229,7 +7643,8 @@
     "name": "Ornn, Fire Below the Mountain",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🔵 Mind" ]
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-193": {
     "id": "SFD-193",
@@ -7246,7 +7661,8 @@
     "name": "Jax, Grandmaster at Arms",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟠 Body" ]
+    "Domain": ["🟢 Calm", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-195": {
     "id": "SFD-195",
@@ -7263,7 +7679,8 @@
     "name": "Irelia, Blade Dancer",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟣 Chaos" ]
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-196": {
     "id": "SFD-196",
@@ -7280,7 +7697,8 @@
     "name": "Defiant Dance",
     "type": "Spell",
     "cost": 1,
-    "Domain": ["🟢 Calm", "🟣 Chaos" ]
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-197": {
     "id": "SFD-197",
@@ -7297,7 +7715,8 @@
     "name": "Azir, Emperor of the Sands",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟡 Order" ]
+    "Domain": ["🟢 Calm", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-199": {
     "id": "SFD-199",
@@ -7314,7 +7733,8 @@
     "name": "Ezreal, Prodigal Explorer",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔵 Mind", "🟣 Chaos" ]
+    "Domain": ["🔵 Mind", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-201": {
     "id": "SFD-201",
@@ -7332,7 +7752,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["SFD-T03"],
-    "Domain": ["🔵 Mind", "🟡 Order" ]
+    "Domain": ["🔵 Mind", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-203": {
     "id": "SFD-203",
@@ -7350,7 +7771,8 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["SFD-T03"],
-    "Domain": ["🟠 Body", "🟣 Chaos" ]
+    "Domain": ["🟠 Body", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-205": {
     "id": "SFD-205",
@@ -7367,7 +7789,8 @@
     "name": "Fiora, Grand Duelist",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟠 Body", "🟡 Order" ]
+    "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-223": {
     "id": "SFD-223",
@@ -7384,7 +7807,8 @@
     "name": "Vayne, Hunter",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-223s": {
     "id": "SFD-223s",
@@ -7401,7 +7825,8 @@
     "name": "Vayne, Hunter",
     "type": "Unit",
     "cost": 4,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-225": {
     "id": "SFD-225",
@@ -7418,7 +7843,8 @@
     "name": "Irelia, Fervent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-225s": {
     "id": "SFD-225s",
@@ -7435,7 +7861,8 @@
     "name": "Irelia, Fervent",
     "type": "Unit",
     "cost": 5,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-226": {
     "id": "SFD-226",
@@ -7452,7 +7879,8 @@
     "name": "Seal of Focus",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-227": {
     "id": "SFD-227",
@@ -7469,7 +7897,8 @@
     "name": "Ahri, Inquisitive",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-227s": {
     "id": "SFD-227s",
@@ -7486,7 +7915,8 @@
     "name": "Ahri, Inquisitive",
     "type": "Unit",
     "cost": 3,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-231": {
     "id": "SFD-231",
@@ -7503,7 +7933,8 @@
     "name": "Seal of Strength",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-232": {
     "id": "SFD-232",
@@ -7521,7 +7952,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-232s": {
     "id": "SFD-232s",
@@ -7539,7 +7971,8 @@
     "type": "Unit",
     "cost": 5,
     "tokens": ["OGN-XXX"],
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-234": {
     "id": "SFD-234",
@@ -7556,7 +7989,8 @@
     "name": "Seal of Discord",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-240": {
     "id": "SFD-240",
@@ -7573,7 +8007,8 @@
     "name": "Rumble, Mechanized Menace",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🔴 Fury", "🔵 Mind" ]
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-244": {
     "id": "SFD-244",
@@ -7590,7 +8025,8 @@
     "name": "Ornn, Fire Below the Mountain",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🔵 Mind" ]
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-246": {
     "id": "SFD-246",
@@ -7607,7 +8043,8 @@
     "name": "Irelia, Blade Dancer",
     "type": "Legend",
     "cost": 0,
-    "Domain": ["🟢 Calm", "🟣 Chaos" ]
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R01b": {
     "id": "SFD-R01b",
@@ -7624,7 +8061,8 @@
     "name": "Fury Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔴 Fury"]
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R02b": {
     "id": "SFD-R02b",
@@ -7641,7 +8079,8 @@
     "name": "Calm Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟢 Calm"]
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R03b": {
     "id": "SFD-R03b",
@@ -7658,7 +8097,8 @@
     "name": "Mind Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R04b": {
     "id": "SFD-R04b",
@@ -7675,7 +8115,8 @@
     "name": "Body Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟠 Body"]
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R05b": {
     "id": "SFD-R05b",
@@ -7692,7 +8133,8 @@
     "name": "Chaos Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-R06b": {
     "id": "SFD-R06b",
@@ -7709,7 +8151,8 @@
     "name": "Order Rune",
     "type": "Runes",
     "cost": 0,
-    "Domain": ["🟡 Order"]
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-T03": {
     "id": "SFD-T03",
@@ -7726,6 +8169,7 @@
     "name": "Gold",
     "type": "Gear",
     "cost": 0,
-    "Domain": ["⚪ Domainless"]
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
   }
 }
