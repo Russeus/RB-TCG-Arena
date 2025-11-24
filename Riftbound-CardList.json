@@ -7006,7 +7006,8 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
-    "Domain": ["🟣 Chaos"]
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
   },
   "SFD-141": {
     "id": "SFD-141",

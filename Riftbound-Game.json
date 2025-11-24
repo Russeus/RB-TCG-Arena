@@ -28,7 +28,8 @@
       "type",
       "cost",
       "name",
-      "Domain"
+      "Domain",
+      "Set"
     ],
     "formats": [
       {
