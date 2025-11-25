@@ -7626,6 +7626,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-122": {
+    "id": "SFD-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Called Shot",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/122.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Called Shot",
+    "type": "Spell",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-124": {
     "id": "SFD-124",
     "isToken": false,
