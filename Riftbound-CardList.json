@@ -7320,6 +7320,78 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-086": {
+    "id": "SFD-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "World Atlas",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/086.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "World Atlas",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-087": {
+    "id": "SFD-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Premonition",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/087.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premonition",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-091": {
+    "id": "SFD-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buhru Captain",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/091.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buhru Captain",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-093": {
+    "id": "SFD-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dauntless Vanguard",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/093.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dauntless Vanguard",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-095": {
     "id": "SFD-095",
     "isToken": false,
@@ -7335,6 +7407,42 @@
     "name": "Doran's Blade",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-099": {
+    "id": "SFD-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veteran Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/099.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veteran Poro",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-103": {
+    "id": "SFD-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jaull-Fish",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/103.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jaull-Fish",
+    "type": "Unit",
+    "cost": 7,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7356,6 +7464,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-108": {
+    "id": "SFD-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warmog's Armor",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/108.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warmog's Armor",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-111": {
     "id": "SFD-111",
     "isToken": false,
@@ -7371,6 +7497,24 @@
     "name": "Here to Help",
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-112": {
+    "id": "SFD-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kato the Arm",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/112.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kato the Arm",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
