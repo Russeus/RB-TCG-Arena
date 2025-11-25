@@ -8258,6 +8258,24 @@
     "Domain": ["🟢 Calm", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-198": {
+    "id": "SFD-198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sand Soldiers Arise",
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/198.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Soldiers Arise",
+    "type": "Spell",
+    "cost": 6,
+    "Domain": ["🟢 Calm", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-199": {
     "id": "SFD-199",
     "isToken": false,
