@@ -7572,6 +7572,60 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-116": {
+    "id": "SFD-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/116.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-119": {
+    "id": "SFD-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unrelenting",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/119.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unrelenting",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-119a": {
+    "id": "SFD-119a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unrelenting",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/119a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unrelenting",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-124": {
     "id": "SFD-124",
     "isToken": false,
@@ -7805,6 +7859,60 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-161": {
+    "id": "SFD-161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B.F. Sword",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/161.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "B.F. Sword",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-167": {
+    "id": "SFD-167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unsung Hero",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/167.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unsung Hero",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-169": {
+    "id": "SFD-169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar of Memories",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/169.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altar of Memories",
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8204,6 +8312,24 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-220": {
+    "id": "SFD-220",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treasure Hoard",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/220.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Treasure Hoard",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-223": {
