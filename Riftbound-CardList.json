@@ -8346,7 +8346,7 @@
     "name": "Vanguard Arms",
     "type": "Gear",
     "cost": 7,
-    "tokens": ["OGN-273"],
+    "tokens": ["OGN-271"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
