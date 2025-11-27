@@ -8291,6 +8291,7 @@
     "name": "Royal Guard",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["SFD-T99"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8345,6 +8346,7 @@
     "name": "Vanguard Arms",
     "type": "Gear",
     "cost": 7,
+    "tokens": ["OGN-XXX"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8507,6 +8509,7 @@
     "name": "Corina Veraza",
     "type": "Unit",
     "cost": 7,
+    "tokens": ["OGN-XXX"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8726,6 +8729,24 @@
     "Domain": ["🟢 Calm", "🟠 Body" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-194": {
+    "id": "SFD-194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Signature Spell",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/194.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Signature Spell",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-195": {
     "id": "SFD-195",
     "isToken": false,
@@ -8816,6 +8837,24 @@
     "Domain": ["🔵 Mind", "🟣 Chaos" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-200": {
+    "id": "SFD-200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Signature Spell",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/200.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Signature Spell",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔵 Mind", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-201": {
     "id": "SFD-201",
     "isToken": false,
@@ -8832,6 +8871,24 @@
     "type": "Legend",
     "cost": 0,
     "tokens": ["SFD-T03"],
+    "Domain": ["🔵 Mind", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-202": {
+    "id": "SFD-202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Signature Spell",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/202.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Signature Spell",
+    "type": "Spell",
+    "cost": 5,
     "Domain": ["🔵 Mind", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -8854,6 +8911,25 @@
     "Domain": ["🟠 Body", "🟣 Chaos" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-204": {
+    "id": "SFD-204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Signature Spell",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/204.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Signature Spell",
+    "type": "Spell",
+    "cost": 1,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🟠 Body", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-205": {
     "id": "SFD-205",
     "isToken": false,
@@ -8869,6 +8945,24 @@
     "name": "Fiora, Grand Duelist",
     "type": "Legend",
     "cost": 0,
+    "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-206": {
+    "id": "SFD-206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Signature Spell",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/206.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Signature Spell",
+    "type": "Spell",
+    "cost": 2,
     "Domain": ["🟠 Body", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
