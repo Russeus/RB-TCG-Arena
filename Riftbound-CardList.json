@@ -7066,6 +7066,78 @@
     "cost": 4,
     "Domain": ["🟡 Order"]
   },
+  "SFD-001": {
+    "id": "SFD-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Against the Odds",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/001.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Against the Odds",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-007": {
+    "id": "SFD-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gem Jammer",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/007.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gem Jammer",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-010": {
+    "id": "SFD-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Drone",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/010.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Drone",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-018": {
+    "id": "SFD-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Hatchling",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/018.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Hatchling",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-020": {
     "id": "SFD-020",
     "isToken": false,
@@ -7158,6 +7230,42 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-029": {
+    "id": "SFD-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Breacher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/029.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Breacher",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-029a": {
+    "id": "SFD-029a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Breacher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/029a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Breacher",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-033": {
     "id": "SFD-033",
     "isToken": false,
@@ -7191,6 +7299,78 @@
     "name": "Feral Strength",
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-039": {
+    "id": "SFD-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Royal Entourage",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/039.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Entourage",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-045": {
+    "id": "SFD-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Not So Fast",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/045.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Not So Fast",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-048": {
+    "id": "SFD-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stellacorn Herder",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/048.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stellacorn Herder",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-049": {
+    "id": "SFD-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aphelios, Exalted",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/049.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aphelios, Exalted",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7317,6 +7497,42 @@
     "name": "Bellows Breath",
     "type": "Spell",
     "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-082": {
+    "id": "SFD-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Dashing",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/082.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Dashing",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-082a": {
+    "id": "SFD-082a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Dashing",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/082a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Dashing",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7590,6 +7806,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-118": {
+    "id": "SFD-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boneshiver",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/118.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boneshiver",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-119": {
     "id": "SFD-119",
     "isToken": false,
@@ -7753,6 +7987,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-140": {
+    "id": "SFD-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fizz, Trickster",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/140.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fizz, Trickster",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-141": {
     "id": "SFD-141",
     "isToken": false,
@@ -7804,6 +8056,24 @@
     "name": "Switcheroo",
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-146": {
+    "id": "SFD-146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fizz, Trickster",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/146.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fizz, Trickster",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7967,6 +8237,42 @@
     "name": "Rek'Sai, Swarm Queen",
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-171": {
+    "id": "SFD-171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Industrialist",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/171.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Industrialist",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-171a": {
+    "id": "SFD-171a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Industrialist",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/171a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Industrialist",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8350,6 +8656,42 @@
     "Domain": ["🟠 Body", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-214": {
+    "id": "SFD-214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Nexus",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/214.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Power Nexus",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-215": {
+    "id": "SFD-215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ravenbloom Conservatory",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/215.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Ravenbloom Conservatory",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-220": {
     "id": "SFD-220",
     "isToken": false,
@@ -8568,6 +8910,42 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-236": {
+    "id": "SFD-236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/236.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-236s": {
+    "id": "SFD-236s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/236s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-240": {
     "id": "SFD-240",
     "isToken": false,
@@ -8584,6 +8962,24 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-241": {
+    "id": "SFD-241",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Purifier",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/241.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Purifier",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟠 Body" ],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-244": {
@@ -8744,6 +9140,24 @@
     },
     "name": "Gold",
     "type": "Gear",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-T99": {
+    "id": "SFD-T99",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sand Soldier",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/T99.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Soldier",
+    "type": "Unit",
     "cost": 0,
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
