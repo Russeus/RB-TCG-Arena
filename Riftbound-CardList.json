@@ -9046,7 +9046,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/653db9a5f2aead0191c8d61da3d1876fb894b545-1039x744.png?auto=format&fit=fill&q=80&w=444",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Power Nexus",
@@ -9064,7 +9064,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4ded211cb972b7f64bad2b99ee53abe8d13e4e2-1039x744.png?auto=format&fit=fill&q=80&w=444",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Ravenbloom Conservatory",
