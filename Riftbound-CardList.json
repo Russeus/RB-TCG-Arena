@@ -9045,8 +9045,8 @@
         "name": "Power Nexus",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/653db9a5f2aead0191c8d61da3d1876fb894b545-1039x744.png?auto=format&fit=fill&q=80&w=444",
-        "isHorizontal": false
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/214.avif",
+        "isHorizontal": true
       }
     },
     "name": "Power Nexus",
@@ -9063,8 +9063,8 @@
         "name": "Ravenbloom Conservatory",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4ded211cb972b7f64bad2b99ee53abe8d13e4e2-1039x744.png?auto=format&fit=fill&q=80&w=444",
-        "isHorizontal": false
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/215.avif",
+        "isHorizontal": true
       }
     },
     "name": "Ravenbloom Conservatory",
@@ -9081,7 +9081,7 @@
         "name": "Treasure Hoard",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/895b55ea23b6aecb4496c6fc6768699322abfda7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/220.avif",
         "isHorizontal": true
       }
     },
