@@ -7074,7 +7074,7 @@
         "name": "Against the Odds",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/001.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7092,7 +7092,7 @@
         "name": "Gem Jammer",
         "type": "Unit",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/007.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f487e8a76e6e6b9f2e32de0c9c147be42f49e59-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7110,7 +7110,7 @@
         "name": "Void Drone",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/010.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/589dde45bc610eb83bc808803e4becf8a6d2da84-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7128,7 +7128,7 @@
         "name": "Void Hatchling",
         "type": "Unit",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/018.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a909782d0a30f31f9414c99ba143fa570a3cb456-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7238,7 +7238,7 @@
         "name": "Rengar, Pouncing",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/025.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7253,14 +7253,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sandhorn",
+        "name": "Dunebreaker",
         "type": "Unit",
         "cost": 7,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/027.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa17369233dfc68e011d16b7b98971a6f8743c3e-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Sandhorn",
+    "name": "Dunebreaker",
     "type": "Unit",
     "cost": 7,
     "Domain": ["🔴 Fury"],
@@ -7346,7 +7346,7 @@
         "name": "Royal Entourage",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/039.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a6f3ce580860fe80fdf1b41533ba89b5060e946a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7364,7 +7364,7 @@
         "name": "Not So Fast",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/045.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e576fefdce72ad862a7e374bf8c0fd509f359da9-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7382,7 +7382,7 @@
         "name": "Stellacorn Herder",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/048.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7960a35d45dd55e934260ea23307853aa5afd4-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7400,7 +7400,7 @@
         "name": "Aphelios, Exalted",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/049.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df9ccbba2501059e5781a44434745a1f0e33ecae-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7415,14 +7415,32 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Azir, Green",
+        "name": "Azir, Ascendant",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/050.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c42c02f6ebd2e4d4a640c2c6ac081231439888e-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Azir, Green",
+    "name": "Azir, Ascendant",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-050a": {
+    "id": "SFD-050a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Ascendant",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0859ca50e71c69b22e4dab93e840b6d30e3d50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Ascendant",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🟢 Calm"],
@@ -7454,7 +7472,7 @@
         "name": "Needlessly Large Yordle",
         "type": "Unit",
         "cost": 10,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/055.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/952dcaf9fd4b5f3e8592d140c11d792175597da1-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7559,14 +7577,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dunehopper Mech",
+        "name": "Breakneck Mech",
         "type": "Unit",
         "cost": 8,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/071.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8564fc233cfcb4fc774ac4bc4ee72085d7586163-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Dunehopper Mech",
+    "name": "Breakneck Mech",
     "type": "Unit",
     "cost": 8,
     "Domain": ["🔵 Mind"],
@@ -7577,14 +7595,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Progress Glory",
+        "name": "Prize of Progress",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/075.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c08f0b6ed24415e6a440a17931c7e2a2db3ab2cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Progress Glory",
+    "name": "Prize of Progress",
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
@@ -7616,7 +7634,7 @@
         "name": "Ezreal, Dashing",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/082.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e040f7b7ca16009a2558674a911b8cc93122ba3-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7634,7 +7652,7 @@
         "name": "Ezreal, Dashing",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/082a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83da64e39d838d2fee68c319c03fbff0d4c7035f-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7886,7 +7904,7 @@
         "name": "Marching Orders",
         "type": "Spell",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/114.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b553f8e16e0ff1aaa57f74121e68954fbe45a07b-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7940,7 +7958,7 @@
         "name": "Boneshiver",
         "type": "Gear",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/118.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3e4d8c3f3975a7429428ac90e5ebcffa1f8e5a9-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7991,14 +8009,32 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sivir, Body",
+        "name": "Sivir, Ambitious",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/120.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bd3f242c9ca59cfc2d7dc5b146877c66bb310bb7-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Sivir, Body",
+    "name": "Sivir, Ambitious",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-120a": {
+    "id": "SFD-120a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Ambitious",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/484adbe28bafadf0ac37d7787c916013bd106793-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Ambitious",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🟠 Body"],
@@ -8139,7 +8175,7 @@
         "name": "Fizz, Trickster",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/140.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6d1c6615fb6ef5fb520a35b2ce76f8feee9167dc-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8211,7 +8247,7 @@
         "name": "Vex, Cheerless",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/146.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e9025578c7b5845a1a9c9a83e045bcbe71a76e71-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8280,14 +8316,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Strength Bind",
+        "name": "Bonds of Strength",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/151.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/344034c00d9fad558e98a64efab0310ad4bac37c-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Strength Bind",
+    "name": "Bonds of Strength",
     "type": "Spell",
     "cost": 2,
     "Domain": ["🟡 Order"],
@@ -8320,7 +8356,7 @@
         "name": "Royal Guard",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/157.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/919d79a3f5a38c78476e6414a898a0dc7b385629-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8372,14 +8408,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vanguard Arms",
+        "name": "Vanguard Armory",
         "type": "Gear",
         "cost": 7,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/168.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f4d735ff77ea599307e142196338d438fcedc05-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Vanguard Arms",
+    "name": "Vanguard Armory",
     "type": "Gear",
     "cost": 7,
     "tokens": ["OGN-271"],
@@ -8448,7 +8484,7 @@
         "name": "Renata Glasc, Industrialist",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/171.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edacb8a82d840f2fe46233de9157319a1dc6361a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8466,7 +8502,7 @@
         "name": "Renata Glasc, Industrialist",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/171a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/358df43d50a3fc018a6e092acd5fbb3031e0033d-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8481,14 +8517,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sacred Scissors",
+        "name": "Sacred Shears",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/172.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af1069aef68d413127dfa84e4e96b8d66a8720ca-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Sacred Scissors",
+    "name": "Sacred Shears",
     "type": "Gear",
     "cost": 2,
     "Domain": ["🟡 Order"],
@@ -8499,14 +8535,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Soraka",
+        "name": "Soraka, Wanderer",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/173.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91fd5050b8caded842ce22c1e473f237cd991efd-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Soraka",
+    "name": "Soraka, Wanderer",
     "type": "Unit",
     "cost": 4,
     "Domain": ["🟡 Order"],
@@ -8538,7 +8574,7 @@
         "name": "Corina Veraza",
         "type": "Unit",
         "cost": 7,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/179.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6b0f55aee4b4f9d0074c808e0fff00dcb7e35377-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9009,7 +9045,7 @@
         "name": "Power Nexus",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/214.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/653db9a5f2aead0191c8d61da3d1876fb894b545-1039x744.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": true
       }
     },
@@ -9027,7 +9063,7 @@
         "name": "Ravenbloom Conservatory",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/215.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4ded211cb972b7f64bad2b99ee53abe8d13e4e2-1039x744.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": true
       }
     },
