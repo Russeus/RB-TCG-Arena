@@ -8346,7 +8346,7 @@
     "name": "Vanguard Arms",
     "type": "Gear",
     "cost": 7,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-273"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8509,7 +8509,7 @@
     "name": "Corina Veraza",
     "type": "Unit",
     "cost": 7,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-273"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8926,7 +8926,6 @@
     "name": "Sivir, Signature Spell",
     "type": "Spell",
     "cost": 1,
-    "tokens": ["SFD-T03"],
     "Domain": ["🟠 Body", "🟣 Chaos" ],
     "Set": ["02 - Spiritforged"]
   },
