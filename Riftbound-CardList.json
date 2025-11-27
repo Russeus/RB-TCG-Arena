@@ -8208,16 +8208,16 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fizz, Trickster",
+        "name": "Vex, Cheerless",
         "type": "Unit",
-        "cost": 3,
+        "cost": 5,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/146.avif",
         "isHorizontal": false
       }
     },
-    "name": "Fizz, Trickster",
+    "name": "Vex, Cheerless",
     "type": "Unit",
-    "cost": 3,
+    "cost": 5,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
