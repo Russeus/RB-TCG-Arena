@@ -7230,6 +7230,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-025": {
+    "id": "SFD-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rengar, Pouncing",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/025.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rengar, Pouncing",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-027": {
     "id": "SFD-027",
     "isToken": false,
@@ -7425,6 +7443,24 @@
     "name": "Guardian Angel",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-055": {
+    "id": "SFD-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Needlessly Large Yordle",
+        "type": "Unit",
+        "cost": 10,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/055.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Needlessly Large Yordle",
+    "type": "Unit",
+    "cost": 10,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
