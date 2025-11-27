@@ -7230,6 +7230,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-027": {
+    "id": "SFD-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandhorn",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/027.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandhorn",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-029": {
     "id": "SFD-029",
     "isToken": false,
@@ -7374,6 +7392,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-050": {
+    "id": "SFD-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Green",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/050.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Green",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-051": {
     "id": "SFD-051",
     "isToken": false,
@@ -7479,6 +7515,42 @@
     "name": "Plundering Poro",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-071": {
+    "id": "SFD-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dunehopper Mech",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/071.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dunehopper Mech",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-075": {
+    "id": "SFD-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Progress Glory",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/075.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Progress Glory",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7770,6 +7842,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-114": {
+    "id": "SFD-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marching Orders",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/114.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marching Orders",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-115": {
     "id": "SFD-115",
     "isToken": false,
@@ -7857,6 +7947,24 @@
     "name": "Jax, Unrelenting",
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-120": {
+    "id": "SFD-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Body",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/120.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Body",
+    "type": "Unit",
+    "cost": 6,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8131,6 +8239,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-151": {
+    "id": "SFD-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strength Bind",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/151.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strength Bind",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-155": {
     "id": "SFD-155",
     "isToken": false,
@@ -8147,6 +8273,24 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-157": {
+    "id": "SFD-157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Royal Guard",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/157.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Guard",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8183,6 +8327,24 @@
     "name": "Unsung Hero",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-168": {
+    "id": "SFD-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Arms",
+        "type": "Gear",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/168.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Arms",
+    "type": "Gear",
+    "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8276,6 +8438,42 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-172": {
+    "id": "SFD-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacred Scissors",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/172.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacred Scissors",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-173": {
+    "id": "SFD-173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soraka",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/173.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soraka",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-178": {
     "id": "SFD-178",
     "isToken": false,
@@ -8294,19 +8492,37 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-179": {
+    "id": "SFD-179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corina Veraza",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/179.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corina Veraza",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-180": {
     "id": "SFD-180",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Firoa, Worthy",
+        "name": "Fiora, Worthy",
         "type": "Unit",
         "cost": 3,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7339e76b7796242a15e97cfddbe04c32d5a05063-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Firoa, Worthy",
+    "name": "Fiora, Worthy",
     "type": "Unit",
     "cost": 3,
     "Domain": ["🟡 Order"],
@@ -8317,14 +8533,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Firoa, Worthy",
+        "name": "Fiora, Worthy",
         "type": "Unit",
         "cost": 3,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e38428b921717edf676bd7f9628fc61b1355814c-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Firoa, Worthy",
+    "name": "Fiora, Worthy",
     "type": "Unit",
     "cost": 3,
     "Domain": ["🟡 Order"],
@@ -8982,6 +9198,24 @@
     "Domain": ["🔴 Fury", "🟠 Body" ],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-242": {
+    "id": "SFD-242",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Glorious Executioner",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/242.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Glorious Executioner",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-244": {
     "id": "SFD-244",
     "isToken": false,
@@ -9016,6 +9250,24 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-251": {
+    "id": "SFD-251",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Grand Duelist",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/251.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Grand Duelist",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-R01b": {
