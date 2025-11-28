@@ -7176,6 +7176,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-021": {
+    "id": "SFD-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ferrous Forerunner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/021.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ferrous Forerunner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-022": {
     "id": "SFD-022",
     "isToken": false,
@@ -7660,6 +7678,24 @@
     "type": "Unit",
     "cost": 7,
     "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-063": {
+    "id": "SFD-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chemtech Cask",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/063.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chemtech Cask",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-069": {
