@@ -7374,6 +7374,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-040": {
+    "id": "SFD-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thwonk!",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/040.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thwonk!",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-042": {
     "id": "SFD-042",
     "isToken": false,
@@ -9883,6 +9901,24 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-243": {
+    "id": "SFD-243",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Void Burrower",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/243.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Void Burrower",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-244": {
