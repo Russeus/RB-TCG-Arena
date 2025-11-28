@@ -9741,6 +9741,42 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-233": {
+    "id": "SFD-233",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/233.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-233s": {
+    "id": "SFD-233s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/233s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-234": {
     "id": "SFD-234",
     "isToken": false,
