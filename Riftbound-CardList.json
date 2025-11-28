@@ -7860,6 +7860,42 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-085": {
+    "id": "SFD-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blue",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/085.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blue",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-085a": {
+    "id": "SFD-085a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blue",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/085a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blue",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-086": {
     "id": "SFD-086",
     "isToken": false,
