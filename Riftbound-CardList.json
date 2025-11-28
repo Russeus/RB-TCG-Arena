@@ -7464,6 +7464,42 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-054": {
+    "id": "SFD-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Green",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/054.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Green",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-054a": {
+    "id": "SFD-054a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Green",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/054a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Green",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-055": {
     "id": "SFD-055",
     "isToken": false,
@@ -7770,6 +7806,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-100": {
+    "id": "SFD-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yordle Explorer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/100.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yordle Explorer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-103": {
     "id": "SFD-103",
     "isToken": false,
@@ -7947,6 +8001,24 @@
     "name": "Yone, Blademaster",
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-117": {
+    "id": "SFD-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyrding Stone",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/117.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyrding Stone",
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8221,6 +8293,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-142": {
+    "id": "SFD-142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jae Medarda",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/142.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jae Medarda",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-145": {
     "id": "SFD-145",
     "isToken": false,
@@ -8254,6 +8344,24 @@
     "name": "Vex, Cheerless",
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-147": {
+    "id": "SFD-147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sunk Cost",
+        "type": "Spell",
+        "cost": 8,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/147.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sunk Cost",
+    "type": "Spell",
+    "cost": 8,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8382,6 +8490,42 @@
     "name": "B.F. Sword",
     "type": "Gear",
     "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-164": {
+    "id": "SFD-164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quicksand Pit",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/164.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quicksand Pit",
+    "type": "Spell",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-165": {
+    "id": "SFD-165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back Alley Barkeeper",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/165.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back Alley Barkeeper",
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8545,6 +8689,60 @@
     "name": "Soraka, Wanderer",
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-174": {
+    "id": "SFD-174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treasure Golem",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/174.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treasure Golem",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-175": {
+    "id": "SFD-175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crater Beast",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/175.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crater Beast",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-176": {
+    "id": "SFD-176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xin Zhao, Yellow",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/176.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xin Zhao, Yellow",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
