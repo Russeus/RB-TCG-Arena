@@ -7698,6 +7698,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-073": {
+    "id": "SFD-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Experimental Hexplate",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/073.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experimental Hexplate",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-075": {
     "id": "SFD-075",
     "isToken": false,
@@ -7783,6 +7801,24 @@
       }
     },
     "name": "Ezreal, Dashing",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-084": {
+    "id": "SFD-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jayce, Man of Progress",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/084.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jayce, Man of Progress",
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
