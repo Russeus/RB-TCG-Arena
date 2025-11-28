@@ -7356,6 +7356,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-042": {
+    "id": "SFD-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutalizer",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/042.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutalizer",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-045": {
     "id": "SFD-045",
     "isToken": false,
@@ -7572,6 +7590,42 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-058": {
+    "id": "SFD-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blacksmith",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/058.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blacksmith",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-058a": {
+    "id": "SFD-058a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blacksmith",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/058a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blacksmith",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-059": {
     "id": "SFD-059",
     "isToken": false,
@@ -7587,6 +7641,24 @@
     "name": "Svellsongur",
     "type": "Gear",
     "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-060": {
+    "id": "SFD-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tianna Crownguard",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/060.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tianna Crownguard",
+    "type": "Unit",
+    "cost": 7,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7639,6 +7711,24 @@
       }
     },
     "name": "Prize of Progress",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-079": {
+    "id": "SFD-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bard, Mercurial",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/079.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bard, Mercurial",
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
@@ -8221,6 +8311,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-136": {
+    "id": "SFD-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hard Bargain",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/136.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hard Bargain",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-138": {
     "id": "SFD-138",
     "isToken": false,
@@ -8746,6 +8854,42 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-177": {
+    "id": "SFD-177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Sovereign",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/177.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Sovereign",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-177a": {
+    "id": "SFD-177a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Sovereign",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/177a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Sovereign",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-178": {
     "id": "SFD-178",
     "isToken": false,
@@ -9233,6 +9377,24 @@
     "type": "Spell",
     "cost": 2,
     "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-213": {
+    "id": "SFD-213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn's Forge",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/213.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Ornn's Forge",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-214": {
