@@ -7184,7 +7184,7 @@
         "name": "Ferrous Forerunner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/021.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7382,7 +7382,7 @@
         "name": "Thwonk!",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/040.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c414fdba5e47db294b8364a07f1258bc3e204c51-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7400,7 +7400,7 @@
         "name": "Brutalizer",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/042.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0de7eec3de501f79f33c09b43c7fe42721d10d-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7523,14 +7523,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jax, Green",
+        "name": "Jax, Unmatched",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/054.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d425589c74dbff818fa09db134fdd8bb7136420-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Jax, Green",
+    "name": "Jax, Unmatched",
     "type": "Unit",
     "cost": 5,
     "Domain": ["🟢 Calm"],
@@ -7541,14 +7541,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Jax, Green",
+        "name": "Jax, Unmatched",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/054a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1d2eae793e415c5f53d7b11c335b5f0ed08c2086-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Jax, Green",
+    "name": "Jax, Unmatched",
     "type": "Unit",
     "cost": 5,
     "Domain": ["🟢 Calm"],
@@ -7634,7 +7634,7 @@
         "name": "Ornn, Blacksmith",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/058.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/77b48a28f48f26714f4bcf860379945a2d7186aa-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7652,7 +7652,7 @@
         "name": "Ornn, Blacksmith",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/058a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e0621bba6475425d93191677b2b120c07a8efe20-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7688,7 +7688,7 @@
         "name": "Tianna Crownguard",
         "type": "Unit",
         "cost": 7,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/060.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a1876aeedae7310409d0eaaf453507188b0c82b-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7696,6 +7696,42 @@
     "type": "Unit",
     "cost": 7,
     "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-061": {
+    "id": "SFD-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aspiring Engineer",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d61995ae384bcee56838beb0eb6d83bf5faefad-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aspiring Engineer",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-062": {
+    "id": "SFD-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubble Bot",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c0fe9df24ae4b8a5b4fb8276b1bd6c5a5f5f7b2b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubble Bot",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-063": {
@@ -7706,13 +7742,31 @@
         "name": "Chemtech Cask",
         "type": "Gear",
         "cost": 1,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/063.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39071feea6d3739a834a83b1841f496bdfc3a59a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
     "name": "Chemtech Cask",
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-067": {
+    "id": "SFD-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frostcoat Cub",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0b5f1f6ed65e070d2878b8aa21fd95e43688fc1d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frostcoat Cub",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7760,7 +7814,7 @@
         "name": "Experimental Hexplate",
         "type": "Gear",
         "cost": 1,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/073.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/940a5e9796d4ac10a238d9b2612545c04bd9a570-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7796,7 +7850,7 @@
         "name": "Bard, Mercurial",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/079.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edfefb81b8821f548a234d8e6d54fd072d7dc22c-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7868,7 +7922,7 @@
         "name": "Jayce, Man of Progress",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/084.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b508fa4e52ebbd5f66e1fc7df28cfb70acdfe1f5-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -7883,14 +7937,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ornn, Blue",
+        "name": "Ornn, Forge God",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/085.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f33c4ea9010ea5f440d4470554845c0ecae2c893-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Ornn, Blue",
+    "name": "Ornn, Forge God",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🔵 Mind"],
@@ -7901,14 +7955,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ornn, Blue",
+        "name": "Ornn, Forge God",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/085a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/22af72b06cb92d4a0078dddfb87cc9c21c92231d-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Ornn, Blue",
+    "name": "Ornn, Forge God",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🔵 Mind"],
@@ -8030,7 +8084,7 @@
         "name": "Yordle Explorer",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/100.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/556b20c8c605545f13a8990dca36586a287ebb29-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8225,14 +8279,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Wyrding Stone",
+        "name": "Ancient Henge",
         "type": "Gear",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/117.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c7c260b77b4174a61aed6243ed90f76594102193-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Wyrding Stone",
+    "name": "Ancient Henge",
     "type": "Gear",
     "cost": 2,
     "Domain": ["🟠 Body"],
@@ -8445,7 +8499,7 @@
         "name": "Hard Bargain",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/136.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8535,7 +8589,7 @@
         "name": "Jae Medarda",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/142.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/92eac6bb020a068d9c1668b59ecaaeab05112b3f-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -8586,14 +8640,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sunk Cost",
+        "name": "Downwell",
         "type": "Spell",
         "cost": 8,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/147.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/950eff0d07ef1e25be46fdb340fe8510c551c159-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Sunk Cost",
+    "name": "Downwell",
     "type": "Spell",
     "cost": 8,
     "Domain": ["🟣 Chaos"],
@@ -8732,14 +8786,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Quicksand Pit",
+        "name": "Drag Under",
         "type": "Spell",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/164.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2400881960412ada4c1d1066105f206b02f8998a-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Quicksand Pit",
+    "name": "Drag Under",
     "type": "Spell",
     "cost": 5,
     "Domain": ["🟡 Order"],
@@ -8750,14 +8804,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Back Alley Barkeeper",
+        "name": "Glasc Mixologist",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/165.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7422fee71796aa61f8d9691d07654b901fc20f2-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Back Alley Barkeeper",
+    "name": "Glasc Mixologist",
     "type": "Unit",
     "cost": 5,
     "Domain": ["🟡 Order"],
@@ -8931,14 +8985,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Treasure Golem",
+        "name": "Trove Golem",
         "type": "Unit",
         "cost": 8,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/174.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e5b0966cc00203db1036b6fa95360541f72ae131-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Treasure Golem",
+    "name": "Trove Golem",
     "type": "Unit",
     "cost": 8,
     "Domain": ["🟡 Order"],
@@ -8949,14 +9003,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Crater Beast",
+        "name": "Undertitan",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/175.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa3bd795a1fa015b42bf64a2d588f527342c2a15-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Crater Beast",
+    "name": "Undertitan",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🟡 Order"],
@@ -8967,14 +9021,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Xin Zhao, Yellow",
+        "name": "Xin Zhao, Vigilant",
         "type": "Unit",
         "cost": 3,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/176.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ec694ac53a49fd4419434cb144daaaf0f38da574-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
-    "name": "Xin Zhao, Yellow",
+    "name": "Xin Zhao, Vigilant",
     "type": "Unit",
     "cost": 3,
     "Domain": ["🟡 Order"],
@@ -8988,7 +9042,7 @@
         "name": "Azir, Sovereign",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/177.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/088970936fc800bd2c4b36636734e16c83e1c8f9-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9006,7 +9060,7 @@
         "name": "Azir, Sovereign",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/177a.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62c75543213df186d3f05236fda6abe8992c948e-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9585,7 +9639,7 @@
         "name": "Vayne, Hunter",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/223.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f8caecc98cb5dae1b818677ef5baaaa4a5f7cb2-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9603,7 +9657,7 @@
         "name": "Vayne, Hunter",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/223s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75f9eac062e43105ee602b6050fe230fb8d2dce5-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9657,7 +9711,7 @@
         "name": "Seal of Focus",
         "type": "Gear",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/226.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b6bb0da7d3b37dad51148b7914e7d2b840b6482-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9711,7 +9765,7 @@
         "name": "Seal of Strength",
         "type": "Gear",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/231.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dd5c24995d5c6d327b5101da3d6426f1a75a49ef-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9729,7 +9783,7 @@
         "name": "Sett, Brawler",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/232.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a13d5473e205cb9dd8123895c58ed6ac8f19e814-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9748,7 +9802,7 @@
         "name": "Sett, Brawler",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/232s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ea35315d12a86cff8e37fa716c92dc76d9edceb8-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9767,7 +9821,7 @@
         "name": "Yone, Blademaster",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/233.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bb6fd6e7d1e6fefeeccc82059bdae2eaa000730-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9785,7 +9839,7 @@
         "name": "Yone, Blademaster",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/233s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b190a0e419af24797408f0df4c17b48e8d86e5f-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9821,7 +9875,7 @@
         "name": "Darius, Executioner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/236.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f550f321dce06bb09bb47682d5bf2981280ea16-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9839,7 +9893,7 @@
         "name": "Darius, Executioner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/236s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/46fc840c17925406d22703b82ad02f5eb2ab62cf-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9875,7 +9929,7 @@
         "name": "Lucian, Purifier",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/241.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eb2a5262da6044c041ba87becae1dc71d58b2bf7-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9893,7 +9947,7 @@
         "name": "Draven, Glorious Executioner",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/242.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5a06fcd2cadbdb574d34d210ca97441ec33c9277-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9911,7 +9965,7 @@
         "name": "Rek'Sai, Void Burrower",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/243.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/968eb5c484a25bbebd162f31736024b4ff3b0d07-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
@@ -9965,7 +10019,7 @@
         "name": "Fiora, Grand Duelist",
         "type": "Legend",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/251.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/720df5a56619a6b53aa1217cb84446f2469b40e5-744x1039.png?auto=format&fit=fill&q=80&w=444",
         "isHorizontal": false
       }
     },
