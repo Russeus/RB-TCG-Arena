@@ -248,7 +248,7 @@
                     },
                     "Battlefields": {
                         "title": "Battlefields",
-                        "isHidden": "opponent-only",
+                        "isHidden": "yes",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -318,7 +318,7 @@
                     },
                     "Chosen_Champion": {
                         "title": "Chosen_Champion",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -334,7 +334,7 @@
                     },
                     "Legend": {
                         "title": "Legend",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -621,7 +621,7 @@
                     },
                     "Battlefields": {
                         "title": "Battlefields",
-                        "isHidden": "opponent-only",
+                        "isHidden": "yes",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -726,7 +726,7 @@
                     },
                     "Chosen_Champion": {
                         "title": "Chosen_Champion",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -742,7 +742,7 @@
                     },
                     "Legend": {
                         "title": "Legend",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
