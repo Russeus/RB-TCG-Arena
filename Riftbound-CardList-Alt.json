@@ -6690,7 +6690,7 @@
         "name": "Against the Odds",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439569/001_qvdwe3.avif",
         "isHorizontal": false
       }
     },
@@ -6708,7 +6708,7 @@
         "name": "Gem Jammer",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f487e8a76e6e6b9f2e32de0c9c147be42f49e59-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439569/007_d2swiq.avif",
         "isHorizontal": false
       }
     },
@@ -6726,7 +6726,7 @@
         "name": "Void Drone",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/589dde45bc610eb83bc808803e4becf8a6d2da84-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439570/010_dwagis.avif",
         "isHorizontal": false
       }
     },
@@ -6744,7 +6744,7 @@
         "name": "Void Hatchling",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a909782d0a30f31f9414c99ba143fa570a3cb456-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439570/018_mswlom.avif",
         "isHorizontal": false
       }
     },
@@ -6762,7 +6762,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8fa3f1fe63392c4744152d98ff781497a4d17b74-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439571/020_a494qo.avif",
         "isHorizontal": false
       }
     },
@@ -6781,7 +6781,7 @@
         "name": "Draven, Vanquisher",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9019c449004f246de6607bf1829f4f3cabcda200-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439572/020a_ddyfdc.avif",
         "isHorizontal": false
       }
     },
@@ -6800,7 +6800,7 @@
         "name": "Ferrous Forerunner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439573/021_cdhfxj.avif",
         "isHorizontal": false
       }
     },
@@ -6818,7 +6818,7 @@
         "name": "Long Sword",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439574/022_gd8zhe.avif",
         "isHorizontal": false
       }
     },
@@ -6836,7 +6836,7 @@
         "name": "Piercing Light",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7fb3283b11fb8e5b5b08f9ead9b98c695b75bff0-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439575/023_wxrajj.avif",
         "isHorizontal": false
       }
     },
@@ -6854,7 +6854,7 @@
         "name": "Rell, Magnetic",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8aa1a9cf0a91a9ab601d5e5d42a438d4217eddd7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439576/024_brgnaz.avif",
         "isHorizontal": false
       }
     },
@@ -6872,7 +6872,7 @@
         "name": "Rengar, Pouncing",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439587/025_c24mb0.avif",
         "isHorizontal": false
       }
     },
@@ -6890,7 +6890,7 @@
         "name": "Dunebreaker",
         "type": "Unit",
         "cost": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa17369233dfc68e011d16b7b98971a6f8743c3e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439588/027_wduy06.avif",
         "isHorizontal": false
       }
     },
@@ -6944,7 +6944,7 @@
         "name": "Doran's Shield",
         "type": "Gear",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49a24d4c6d770ed233c4a69bf8d87385bfc997d8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439589/033_wuqgx9.avif",
         "isHorizontal": false
       }
     },
@@ -6962,7 +6962,7 @@
         "name": "Feral Strength",
         "type": "Spell",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/034.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439591/034_mu7zmg.avif",
         "isHorizontal": false
       }
     },
@@ -6980,7 +6980,7 @@
         "name": "Royal Entourage",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a6f3ce580860fe80fdf1b41533ba89b5060e946a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439592/039_l7hxnd.avif",
         "isHorizontal": false
       }
     },
@@ -6998,7 +6998,7 @@
         "name": "Thwonk!",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c414fdba5e47db294b8364a07f1258bc3e204c51-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439593/040_ame27i.avif",
         "isHorizontal": false
       }
     },
@@ -7016,7 +7016,7 @@
         "name": "Brutalizer",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0de7eec3de501f79f33c09b43c7fe42721d10d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439594/042_rgoxrs.avif",
         "isHorizontal": false
       }
     },
@@ -7034,7 +7034,7 @@
         "name": "Not So Fast",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e576fefdce72ad862a7e374bf8c0fd509f359da9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439596/045_o8uyul.avif",
         "isHorizontal": false
       }
     },
@@ -7052,7 +7052,7 @@
         "name": "Stellacorn Herder",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7960a35d45dd55e934260ea23307853aa5afd4-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439598/048_mquymn.avif",
         "isHorizontal": false
       }
     },
@@ -7070,7 +7070,7 @@
         "name": "Aphelios, Exalted",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df9ccbba2501059e5781a44434745a1f0e33ecae-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439599/049_eqmtxt.avif",
         "isHorizontal": false
       }
     },
@@ -7088,7 +7088,7 @@
         "name": "Azir, Ascendant",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c42c02f6ebd2e4d4a640c2c6ac081231439888e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439611/050_c0sqaf.avif",
         "isHorizontal": false
       }
     },
@@ -7106,7 +7106,7 @@
         "name": "Azir, Ascendant",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0859ca50e71c69b22e4dab93e840b6d30e3d50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439612/050a_ybn3to.avif",
         "isHorizontal": false
       }
     },
@@ -7124,7 +7124,7 @@
         "name": "Guardian Angel",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d09a797345659a1853d6d12910cf3c634990ea0c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439614/051_g0hzp2.avif",
         "isHorizontal": false
       }
     },
@@ -7142,7 +7142,7 @@
         "name": "Jax, Unmatched",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d425589c74dbff818fa09db134fdd8bb7136420-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439616/054_t4omx7.avif",
         "isHorizontal": false
       }
     },
@@ -7160,7 +7160,7 @@
         "name": "Jax, Unmatched",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1d2eae793e415c5f53d7b11c335b5f0ed08c2086-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439618/054a_dye99k.avif",
         "isHorizontal": false
       }
     },
@@ -7178,7 +7178,7 @@
         "name": "Needlessly Large Yordle",
         "type": "Unit",
         "cost": 10,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/952dcaf9fd4b5f3e8592d140c11d792175597da1-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439620/055_vtyrcq.avif",
         "isHorizontal": false
       }
     },
@@ -7196,7 +7196,7 @@
         "name": "Sterak's Gage",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df16e6b668fc6771ff657512deba1bf48363e23a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439621/056_awhojt.avif",
         "isHorizontal": false
       }
     },
@@ -7214,7 +7214,7 @@
         "name": "Irelia, Fervent",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fe05fa55781f8036f8bfc9c10bba94326a0c8cc9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439624/057_x2ins3.avif",
         "isHorizontal": false
       }
     },
@@ -7232,7 +7232,7 @@
         "name": "Irelia, Fervent",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cef4f73541e0623b4024b483d141d0396f1dddcb-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439625/057a_ovve4j.avif",
         "isHorizontal": false
       }
     },
@@ -7250,7 +7250,7 @@
         "name": "Ornn, Blacksmith",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/77b48a28f48f26714f4bcf860379945a2d7186aa-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439628/058_cptngu.avif",
         "isHorizontal": false
       }
     },
@@ -7268,7 +7268,7 @@
         "name": "Ornn, Blacksmith",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e0621bba6475425d93191677b2b120c07a8efe20-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439635/058a_tsdjg9.avif",
         "isHorizontal": false
       }
     },
@@ -7286,7 +7286,7 @@
         "name": "Svellsongur",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc254398dfb5db217327b56862011a2fd6020789-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439637/059_chtdiu.avif",
         "isHorizontal": false
       }
     },
@@ -7304,7 +7304,7 @@
         "name": "Tianna Crownguard",
         "type": "Unit",
         "cost": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a1876aeedae7310409d0eaaf453507188b0c82b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439639/060_efih7p.avif",
         "isHorizontal": false
       }
     },
@@ -7322,7 +7322,7 @@
         "name": "Aspiring Engineer",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d61995ae384bcee56838beb0eb6d83bf5faefad-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439642/061_haevjy.avif",
         "isHorizontal": false
       }
     },
@@ -7340,7 +7340,7 @@
         "name": "Bubble Bot",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c0fe9df24ae4b8a5b4fb8276b1bd6c5a5f5f7b2b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439643/062_utesem.avif",
         "isHorizontal": false
       }
     },
@@ -7358,7 +7358,7 @@
         "name": "Chemtech Cask",
         "type": "Gear",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39071feea6d3739a834a83b1841f496bdfc3a59a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439647/063_dhgepj.avif",
         "isHorizontal": false
       }
     },
@@ -7376,7 +7376,7 @@
         "name": "Frostcoat Cub",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0b5f1f6ed65e070d2878b8aa21fd95e43688fc1d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439649/067_fcdq7n.avif",
         "isHorizontal": false
       }
     },
@@ -7412,7 +7412,7 @@
         "name": "Breakneck Mech",
         "type": "Unit",
         "cost": 8,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8564fc233cfcb4fc774ac4bc4ee72085d7586163-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439652/071_yhnrae.avif",
         "isHorizontal": false
       }
     },
@@ -7430,7 +7430,7 @@
         "name": "Experimental Hexplate",
         "type": "Gear",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/940a5e9796d4ac10a238d9b2612545c04bd9a570-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439654/073_xs6nm1.avif",
         "isHorizontal": false
       }
     },
@@ -7448,7 +7448,7 @@
         "name": "Prize of Progress",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c08f0b6ed24415e6a440a17931c7e2a2db3ab2cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439655/075_ir5umv.avif",
         "isHorizontal": false
       }
     },
@@ -7466,7 +7466,7 @@
         "name": "Bard, Mercurial",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edfefb81b8821f548a234d8e6d54fd072d7dc22c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439737/079_ohmswp.avif",
         "isHorizontal": false
       }
     },
@@ -7484,7 +7484,7 @@
         "name": "Bellows Breath",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0ae1c4bb788f6fadc251c9d9b36f3f92eef4c56-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439740/080_d289bc.avif",
         "isHorizontal": false
       }
     },
@@ -7502,7 +7502,7 @@
         "name": "Ezreal, Dashing",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e040f7b7ca16009a2558674a911b8cc93122ba3-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439742/082_iqpz5z.avif",
         "isHorizontal": false
       }
     },
@@ -7520,7 +7520,7 @@
         "name": "Ezreal, Dashing",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83da64e39d838d2fee68c319c03fbff0d4c7035f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439746/082a_qx9ps1.avif",
         "isHorizontal": false
       }
     },
@@ -7538,7 +7538,7 @@
         "name": "Jayce, Man of Progress",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b508fa4e52ebbd5f66e1fc7df28cfb70acdfe1f5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439748/084_phrrju.avif",
         "isHorizontal": false
       }
     },
@@ -7556,7 +7556,7 @@
         "name": "Ornn, Forge God",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f33c4ea9010ea5f440d4470554845c0ecae2c893-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439750/085_hpnrwl.avif",
         "isHorizontal": false
       }
     },
@@ -7574,7 +7574,7 @@
         "name": "Ornn, Forge God",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/22af72b06cb92d4a0078dddfb87cc9c21c92231d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439753/085a_p3wuy8.avif",
         "isHorizontal": false
       }
     },
@@ -7592,7 +7592,7 @@
         "name": "World Atlas",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b8d96e128c19c5ff368119a60759cffa644e942-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439756/086_z5o8wn.avif",
         "isHorizontal": false
       }
     },
@@ -7610,7 +7610,7 @@
         "name": "Premonition",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/20ad2f42bcf9a0402e2a0d5a21d55eacee9ecf35-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439759/087_wvpszq.avif",
         "isHorizontal": false
       }
     },
@@ -7628,7 +7628,7 @@
         "name": "Buhru Captain",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f5186bd42c23f75ea84186aa2cb945cc02a222e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439761/091_hgvffb.avif",
         "isHorizontal": false
       }
     },
@@ -7646,7 +7646,7 @@
         "name": "Dauntless Vanguard",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cb19a57b58370952cb37fff27375826d5c274129-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439763/093_g2emn8.avif",
         "isHorizontal": false
       }
     },
@@ -7664,7 +7664,7 @@
         "name": "Doran's Blade",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/53fc0c307c83871c9755a496764ef7d6aa11f510-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439766/095_zyelmp.avif",
         "isHorizontal": false
       }
     },
@@ -7682,7 +7682,7 @@
         "name": "Veteran Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54b8aa5aa80e74e0c545d4c484353c5b9e78bdfc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439769/099_pus2fm.avif",
         "isHorizontal": false
       }
     },
@@ -7700,7 +7700,7 @@
         "name": "Yordle Explorer",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/556b20c8c605545f13a8990dca36586a287ebb29-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439770/100_giqo1v.avif",
         "isHorizontal": false
       }
     },
@@ -7718,7 +7718,7 @@
         "name": "Jaull-Fish",
         "type": "Unit",
         "cost": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/56a31630910179a1fb2f2ddf3e6e5c9627bddf5e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439774/103_xnu0sm.avif",
         "isHorizontal": false
       }
     },
@@ -7736,7 +7736,7 @@
         "name": "Strike Down",
         "type": "Spell",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3570810e867d132fd5a60cc3462f53f42b245ad9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439776/107_zgfutz.avif",
         "isHorizontal": false
       }
     },
@@ -7754,7 +7754,7 @@
         "name": "Warmog's Armor",
         "type": "Gear",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0d680867670dd75a66a632cd6f044a7f7e39b42b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439779/108_taffu5.avif",
         "isHorizontal": false
       }
     },
@@ -7772,7 +7772,7 @@
         "name": "Here to Help",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6daa8caf27f76f2b0bce189fb9df196129582afa-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439781/111_y4fcfq.avif",
         "isHorizontal": false
       }
     },
@@ -7790,7 +7790,7 @@
         "name": "Kato the Arm",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f4ea4f2f5169a3813d9eb7f0d3d2f41bdddebfc7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439783/112_cq1tjw.avif",
         "isHorizontal": false
       }
     },
@@ -7808,7 +7808,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc192b6e22e7a277c53f035809c59db4548a0fd5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439786/113_xydofc.avif",
         "isHorizontal": false
       }
     },
@@ -7826,7 +7826,7 @@
         "name": "Lucian, Merciless",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e05478b8081b3694a795ab0308b1e2c2a7748715-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439787/113a_ltn8ox.avif",
         "isHorizontal": false
       }
     },
@@ -7844,7 +7844,7 @@
         "name": "Marching Orders",
         "type": "Spell",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b553f8e16e0ff1aaa57f74121e68954fbe45a07b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439792/114_hkjeoy.avif",
         "isHorizontal": false
       }
     },
@@ -7862,7 +7862,7 @@
         "name": "Trinity Force",
         "type": "Gear",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8b64985389e5792afc2a2fe0dc23ae7590d7709-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439794/115_arwpof.avif",
         "isHorizontal": false
       }
     },
@@ -7880,7 +7880,7 @@
         "name": "Yone, Blademaster",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e8efd9af74b65170e04eed45844e6d7e2c4d70b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439797/116_oahjip.avif",
         "isHorizontal": false
       }
     },
@@ -7898,7 +7898,7 @@
         "name": "Ancient Henge",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c7c260b77b4174a61aed6243ed90f76594102193-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439799/117_fnrlro.avif",
         "isHorizontal": false
       }
     },
@@ -7916,7 +7916,7 @@
         "name": "Boneshiver",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3e4d8c3f3975a7429428ac90e5ebcffa1f8e5a9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439801/118_dvclk3.avif",
         "isHorizontal": false
       }
     },
@@ -7934,7 +7934,7 @@
         "name": "Jax, Unrelenting",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e63ab3370a6e4ce4baddfba12ab92468f6cc9541-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439805/119_nhecjz.avif",
         "isHorizontal": false
       }
     },
@@ -7952,7 +7952,7 @@
         "name": "Jax, Unrelenting",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a5796125bdb0af8ceb60cd0c5c273c6417e0f7da-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439807/119a_ts88hi.avif",
         "isHorizontal": false
       }
     },
@@ -7970,7 +7970,7 @@
         "name": "Sivir, Ambitious",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bd3f242c9ca59cfc2d7dc5b146877c66bb310bb7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439810/120_ocpuql.avif",
         "isHorizontal": false
       }
     },
@@ -7988,7 +7988,7 @@
         "name": "Sivir, Ambitious",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/484adbe28bafadf0ac37d7787c916013bd106793-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439812/120a_g1ke8o.avif",
         "isHorizontal": false
       }
     },
@@ -8006,7 +8006,7 @@
         "name": "Called Shot",
         "type": "Spell",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08b859c0e21eba5a033f480702bcdd1045f6294b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439815/122_umepre.avif",
         "isHorizontal": false
       }
     },
@@ -8024,7 +8024,7 @@
         "name": "Doran's Ring",
         "type": "Gear",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/054df5a11967b768430a2f763e1b5d4dbbac3b50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439818/124_bm9yab.avif",
         "isHorizontal": false
       }
     },
@@ -8042,7 +8042,7 @@
         "name": "Loyal Pup",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2f15c4508900636e1560fa0e8832aff6b3160d0f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439821/126_vktlkp.avif",
         "isHorizontal": false
       }
     },
@@ -8060,7 +8060,7 @@
         "name": "Overzealous Fan",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/922d7f337fbf14f0d62d43f69ca2a1e7480dd022-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439823/128_iloinp.avif",
         "isHorizontal": false
       }
     },
@@ -8078,7 +8078,7 @@
         "name": "Treasure Hunter",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4e1bf257379b4612a1c58f0480480d9b698196c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439826/130_djxad7.avif",
         "isHorizontal": false
       }
     },
@@ -8097,7 +8097,7 @@
         "name": "Boots of Swiftness",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a8a8e977f7427227adac69b5d2db07f643d0df09-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439829/133_bynt3q.avif",
         "isHorizontal": false
       }
     },
@@ -8115,7 +8115,7 @@
         "name": "Hard Bargain",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439832/136_frhlae.avif",
         "isHorizontal": false
       }
     },
@@ -8133,7 +8133,7 @@
         "name": "Windsinger",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e47c9a3956f8fbb77daa5fdb2ee433dd1772f247-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439835/138_irqcli.avif",
         "isHorizontal": false
       }
     },
@@ -8151,7 +8151,7 @@
         "name": "Fizz, Trickster",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6d1c6615fb6ef5fb520a35b2ce76f8feee9167dc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439838/140_hzeli1.avif",
         "isHorizontal": false
       }
     },
@@ -8169,7 +8169,7 @@
         "name": "Irelia, Graceful",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03b9d73a7ef02447d7f4b67381a76616249061cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439840/141_rxjh8f.avif",
         "isHorizontal": false
       }
     },
@@ -8187,7 +8187,7 @@
         "name": "Irelia, Graceful",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08419c2b5b7aa7e5f63854e324d5dabe0b5997a2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439843/141a_bmiky9.avif",
         "isHorizontal": false
       }
     },
@@ -8205,7 +8205,7 @@
         "name": "Jae Medarda",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/92eac6bb020a068d9c1668b59ecaaeab05112b3f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439846/142_klmxsl.avif",
         "isHorizontal": false
       }
     },
@@ -8223,7 +8223,7 @@
         "name": "Switcheroo",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a4338f495feff5eee46d5349b5fded5e35e76176-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439849/145_n9my5z.avif",
         "isHorizontal": false
       }
     },
@@ -8241,7 +8241,7 @@
         "name": "Vex, Cheerless",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e9025578c7b5845a1a9c9a83e045bcbe71a76e71-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439852/146_n0xbdk.avif",
         "isHorizontal": false
       }
     },
@@ -8259,7 +8259,7 @@
         "name": "Downwell",
         "type": "Spell",
         "cost": 8,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/950eff0d07ef1e25be46fdb340fe8510c551c159-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439855/147_ofecy5.avif",
         "isHorizontal": false
       }
     },
@@ -8277,7 +8277,7 @@
         "name": "Draven, Audacious",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8247622cbe90eadada8d0660ea31d146b1207a87-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439858/148_ranbjf.avif",
         "isHorizontal": false
       }
     },
@@ -8295,7 +8295,7 @@
         "name": "Draven, Audacious",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b2c2a20cd22c8799b211dd4d7f95c95a8be33ea-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439860/148a_mlkdyw.avif",
         "isHorizontal": false
       }
     },
@@ -8313,7 +8313,7 @@
         "name": "Last Rites",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6cfab85030bff454262794e4fa12f11b5dc45a74-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439863/150_u1eluw.avif",
         "isHorizontal": false
       }
     },
@@ -8331,7 +8331,7 @@
         "name": "Bonds of Strength",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/344034c00d9fad558e98a64efab0310ad4bac37c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439866/151_crrj6d.avif",
         "isHorizontal": false
       }
     },
@@ -8349,7 +8349,7 @@
         "name": "Honest Broker",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b3cc9bb93888f6f276f674baa16a0e53c724ae99-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439869/155_veynnl.avif",
         "isHorizontal": false
       }
     },
@@ -8368,7 +8368,7 @@
         "name": "Royal Guard",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/919d79a3f5a38c78476e6414a898a0dc7b385629-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439872/157_ogzkcf.avif",
         "isHorizontal": false
       }
     },
@@ -8387,7 +8387,7 @@
         "name": "B.F. Sword",
         "type": "Gear",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/97cd20e414c7282abb18cf7691eb1a5a2435af90-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439875/161_tmlwck.avif",
         "isHorizontal": false
       }
     },
@@ -8405,7 +8405,7 @@
         "name": "Drag Under",
         "type": "Spell",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2400881960412ada4c1d1066105f206b02f8998a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439878/164_cghslw.avif",
         "isHorizontal": false
       }
     },
@@ -8423,7 +8423,7 @@
         "name": "Glasc Mixologist",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7422fee71796aa61f8d9691d07654b901fc20f2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439881/165_rerenr.avif",
         "isHorizontal": false
       }
     },
@@ -8441,7 +8441,7 @@
         "name": "Unsung Hero",
         "type": "Unit",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a227ef7494af6409000c13c4f3d1094cec3a3a8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439882/167_ofrt4x.avif",
         "isHorizontal": false
       }
     },
@@ -8459,7 +8459,7 @@
         "name": "Vanguard Armory",
         "type": "Gear",
         "cost": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f4d735ff77ea599307e142196338d438fcedc05-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439887/168_jznfg5.avif",
         "isHorizontal": false
       }
     },
@@ -8478,7 +8478,7 @@
         "name": "Altar of Memories",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3ddc94a035d793d48987c6fe5d65fa11ea25c808-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439890/169_uqouwn.avif444",
         "isHorizontal": false
       }
     },
@@ -8496,7 +8496,7 @@
         "name": "Rek'Sai, Swarm Queen",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5470aaad3bdb7ff5d2e605b07d93cedb7254c54d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764439922/170_cl1iok.avif",
         "isHorizontal": false
       }
     },
@@ -8514,7 +8514,7 @@
         "name": "Rek'Sai, Swarm Queen",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a268cef6d06080055575bed86aca6db9d75359ac-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440014/170a_prctyx.avif",
         "isHorizontal": false
       }
     },
@@ -8532,7 +8532,7 @@
         "name": "Renata Glasc, Industrialist",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edacb8a82d840f2fe46233de9157319a1dc6361a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440017/171_t5c73r.avif",
         "isHorizontal": false
       }
     },
@@ -8550,7 +8550,7 @@
         "name": "Renata Glasc, Industrialist",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/358df43d50a3fc018a6e092acd5fbb3031e0033d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440081/171a_gacc2c.avif",
         "isHorizontal": false
       }
     },
@@ -8568,7 +8568,7 @@
         "name": "Sacred Shears",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af1069aef68d413127dfa84e4e96b8d66a8720ca-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440085/172_enkl9y.avif",
         "isHorizontal": false
       }
     },
@@ -8586,7 +8586,7 @@
         "name": "Soraka, Wanderer",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91fd5050b8caded842ce22c1e473f237cd991efd-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440088/173_cgpnbi.avif",
         "isHorizontal": false
       }
     },
@@ -8604,7 +8604,7 @@
         "name": "Trove Golem",
         "type": "Unit",
         "cost": 8,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e5b0966cc00203db1036b6fa95360541f72ae131-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440090/174_u9isk8.avif",
         "isHorizontal": false
       }
     },
@@ -8622,7 +8622,7 @@
         "name": "Undertitan",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa3bd795a1fa015b42bf64a2d588f527342c2a15-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440093/175_nkajoq.avif",
         "isHorizontal": false
       }
     },
@@ -8640,7 +8640,7 @@
         "name": "Xin Zhao, Vigilant",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ec694ac53a49fd4419434cb144daaaf0f38da574-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440098/176_e8rsga.avif",
         "isHorizontal": false
       }
     },
@@ -8658,7 +8658,7 @@
         "name": "Azir, Sovereign",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/088970936fc800bd2c4b36636734e16c83e1c8f9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440104/177_ygpyyg.avif",
         "isHorizontal": false
       }
     },
@@ -8676,7 +8676,7 @@
         "name": "Azir, Sovereign",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62c75543213df186d3f05236fda6abe8992c948e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440106/177a_vzfsdy.avif",
         "isHorizontal": false
       }
     },
@@ -8694,7 +8694,7 @@
         "name": "Blade of the Ruined King",
         "type": "Gear",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/26ab126258a15afd380c313e973f7469808ce55f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440108/178_l6fdcg.avif",
         "isHorizontal": false
       }
     },
@@ -8712,7 +8712,7 @@
         "name": "Corina Veraza",
         "type": "Unit",
         "cost": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6b0f55aee4b4f9d0074c808e0fff00dcb7e35377-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440110/179_fvknhj.avif",
         "isHorizontal": false
       }
     },
@@ -8731,7 +8731,7 @@
         "name": "Fiora, Worthy",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7339e76b7796242a15e97cfddbe04c32d5a05063-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440111/180_suriar.avif",
         "isHorizontal": false
       }
     },
@@ -8749,7 +8749,7 @@
         "name": "Fiora, Worthy",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e38428b921717edf676bd7f9628fc61b1355814c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440114/180a_ers8if.avif",
         "isHorizontal": false
       }
     },
@@ -8767,7 +8767,7 @@
         "name": "Rumble, Mechanized Menace",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f311115e4c527ce82010596ce462d4050a9201b2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440116/181_vxycri.avif",
         "isHorizontal": false
       }
     },
@@ -8785,7 +8785,7 @@
         "name": "Danger Zone",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4652150ba885dd346b8f3622fd0e4ada7cf767f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440118/182_ub9qfn.avif",
         "isHorizontal": false
       }
     },
@@ -8803,7 +8803,7 @@
         "name": "Lucian, Purifier",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/450cfb71b8890904d48b37a24bbdc78f8d849614-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440121/183_wm79sa.avif",
         "isHorizontal": false
       }
     },
@@ -8821,7 +8821,7 @@
         "name": "Relentless Pursuit",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48754730486abefdb56221d0760b9c963aae7c09-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440123/184_ivihiz.avif",
         "isHorizontal": false
       }
     },
@@ -8839,7 +8839,7 @@
         "name": "Draven, Glorious Executioner",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b01b2d0454ceeffdc106c4c64a390b275ebf390b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440125/185_urwqbk.avif",
         "isHorizontal": false
       }
     },
@@ -8857,7 +8857,7 @@
         "name": "Spinning Axe",
         "type": "Gear",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e4e0328034e605d000e23ac5e820d233f0e3b520-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440127/186_mvn7j3.avif",
         "isHorizontal": false
       }
     },
@@ -8875,7 +8875,7 @@
         "name": "Rek'Sai, Void Burrower",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440128/187_sgfjkj.avif",
         "isHorizontal": false
       }
     },
@@ -8893,7 +8893,7 @@
         "name": "Void Rush",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ce606f096ae76485cd8dd3cc337629b510f0d1e7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440157/188_omjwkt.avif",
         "isHorizontal": false
       }
     },
@@ -8911,7 +8911,7 @@
         "name": "Ornn, Fire Below the Mountain",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed58d654034d545e54c85d836f3a6552772dd75b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440159/189_pqrnvr.avif",
         "isHorizontal": false
       }
     },
@@ -8929,7 +8929,7 @@
         "name": "Jax, Grandmaster at Arms",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6ddf49d7249bc8ac194fd9b194bfcb8857a4466-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440161/193_eopxav.avif",
         "isHorizontal": false
       }
     },
@@ -8965,7 +8965,7 @@
         "name": "Irelia, Blade Dancer",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656ef2d1724b818e9e737ec5dcce923de067a316-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440164/195_dpblcq.avif",
         "isHorizontal": false
       }
     },
@@ -8983,7 +8983,7 @@
         "name": "Defiant Dance",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f5bc5c9e321830337998a2b85e4fec3cd8251c9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440166/196_ft0srv.avif",
         "isHorizontal": false
       }
     },
@@ -9001,7 +9001,7 @@
         "name": "Azir, Emperor of the Sands",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0472274c49f6540858758ebf9bd2f107a601541a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440168/197_xndpxk.avif",
         "isHorizontal": false
       }
     },
@@ -9037,7 +9037,7 @@
         "name": "Ezreal, Prodigal Explorer",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440169/199_k3d8p9.avif",
         "isHorizontal": false
       }
     },
@@ -9073,7 +9073,7 @@
         "name": "Renata Glasc, Chem-Baroness",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4bd289c281ad64229061ff909abf88c12a574833-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440171/201_sllczt.avif",
         "isHorizontal": false
       }
     },
@@ -9110,7 +9110,7 @@
         "name": "Sivir, Battle Mistress",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd060882c32a8deac04aea4241c6ab7b97236a05-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440174/203_qufh4g.avif",
         "isHorizontal": false
       }
     },
@@ -9147,7 +9147,7 @@
         "name": "Fiora, Grand Duelist",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37064aa79c13316b5dd28f0a2b054821a43f6650-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440176/205_yvbomr.avif",
         "isHorizontal": false
       }
     },
@@ -9183,7 +9183,7 @@
         "name": "Ornn's Forge",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/213.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764441324/213_dsetis.avif",
         "isHorizontal": true
       }
     },
@@ -9201,7 +9201,7 @@
         "name": "Power Nexus",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/214.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440177/214_jmvigo.avif",
         "isHorizontal": true
       }
     },
@@ -9219,7 +9219,7 @@
         "name": "Ravenbloom Conservatory",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/215.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440180/215_c8qt6y.avif",
         "isHorizontal": true
       }
     },
@@ -9237,13 +9237,14 @@
         "name": "Treasure Hoard",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/220.avif",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440183/220_zwerxd.avif",
         "isHorizontal": true
       }
     },
     "name": "Treasure Hoard",
     "type": "Battlefields",
     "cost": 0,
+    "tokens": ["SFD-T03"],
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9255,7 +9256,7 @@
         "name": "Vayne, Hunter",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f8caecc98cb5dae1b818677ef5baaaa4a5f7cb2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440184/223_wm1l0s.avif",
         "isHorizontal": false
       }
     },
@@ -9273,7 +9274,7 @@
         "name": "Vayne, Hunter",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75f9eac062e43105ee602b6050fe230fb8d2dce5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440197/223s_iuit7x.avif",
         "isHorizontal": false
       }
     },
@@ -9291,7 +9292,7 @@
         "name": "Irelia, Fervent",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/40454a8534f7c9444bafd000ffbfc0e5bcc847f0-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440201/225_bhnfh2.avif",
         "isHorizontal": false
       }
     },
@@ -9309,7 +9310,7 @@
         "name": "Irelia, Fervent",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e064a9017b5d6bf0e18c4452acfca4ed8c279657-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440203/225s_agbiac.avif",
         "isHorizontal": false
       }
     },
@@ -9327,7 +9328,7 @@
         "name": "Seal of Focus",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b6bb0da7d3b37dad51148b7914e7d2b840b6482-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440205/226_v1aemi.avif",
         "isHorizontal": false
       }
     },
@@ -9345,7 +9346,7 @@
         "name": "Ahri, Inquisitive",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4c332e90c97e5e70b996598cd4a0f731b77fdef-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440207/227_gu5sj5.avif",
         "isHorizontal": false
       }
     },
@@ -9363,7 +9364,7 @@
         "name": "Ahri, Inquisitive",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/608f786c30a7e80db87d3c2d45bc0c26b0840c5e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440209/227s_t1en36.avif",
         "isHorizontal": false
       }
     },
@@ -9381,7 +9382,7 @@
         "name": "Seal of Strength",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dd5c24995d5c6d327b5101da3d6426f1a75a49ef-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440212/231_zjfqam.avif",
         "isHorizontal": false
       }
     },
@@ -9399,7 +9400,7 @@
         "name": "Sett, Brawler",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a13d5473e205cb9dd8123895c58ed6ac8f19e814-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440214/232_zzp3wt.avif",
         "isHorizontal": false
       }
     },
@@ -9418,7 +9419,7 @@
         "name": "Sett, Brawler",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ea35315d12a86cff8e37fa716c92dc76d9edceb8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440215/232s_cyfszb.avif",
         "isHorizontal": false
       }
     },
@@ -9437,7 +9438,7 @@
         "name": "Yone, Blademaster",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bb6fd6e7d1e6fefeeccc82059bdae2eaa000730-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440217/233_lpxdwg.avif",
         "isHorizontal": false
       }
     },
@@ -9455,7 +9456,7 @@
         "name": "Yone, Blademaster",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b190a0e419af24797408f0df4c17b48e8d86e5f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440218/233s_yrkyw3.avif",
         "isHorizontal": false
       }
     },
@@ -9473,7 +9474,7 @@
         "name": "Seal of Discord",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9263b8f36725a4cec320c1049608824ae72f6237-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440221/234_hajqp4.avif",
         "isHorizontal": false
       }
     },
@@ -9491,7 +9492,7 @@
         "name": "Darius, Executioner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f550f321dce06bb09bb47682d5bf2981280ea16-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440222/236_gxuz1h.avif",
         "isHorizontal": false
       }
     },
@@ -9509,7 +9510,7 @@
         "name": "Darius, Executioner",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/46fc840c17925406d22703b82ad02f5eb2ab62cf-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440223/236s_yjixtn.avif",
         "isHorizontal": false
       }
     },
@@ -9527,7 +9528,7 @@
         "name": "Rumble, Mechanized Menace",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0234cad3663d52d3120e78f2adbe8a253102a7a3-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440225/240_hxjtpo.avif",
         "isHorizontal": false
       }
     },
@@ -9545,7 +9546,7 @@
         "name": "Lucian, Purifier",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eb2a5262da6044c041ba87becae1dc71d58b2bf7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440226/241_as3pq3.avif",
         "isHorizontal": false
       }
     },
@@ -9563,7 +9564,7 @@
         "name": "Draven, Glorious Executioner",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5a06fcd2cadbdb574d34d210ca97441ec33c9277-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440229/242_umk6zf.avif",
         "isHorizontal": false
       }
     },
@@ -9581,7 +9582,7 @@
         "name": "Rek'Sai, Void Burrower",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/968eb5c484a25bbebd162f31736024b4ff3b0d07-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440232/243_m5mpwt.avif",
         "isHorizontal": false
       }
     },
@@ -9599,7 +9600,7 @@
         "name": "Ornn, Fire Below the Mountain",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/883dab66da8ed5ab39d968ed7fcaebd5ebaf3d43-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440234/244_drf6vb.avif",
         "isHorizontal": false
       }
     },
@@ -9617,7 +9618,7 @@
         "name": "Irelia, Blade Dancer",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8258072391bbb8d24e9d6e603c3ba1434979a911-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440237/246_ttcmvx.avif",
         "isHorizontal": false
       }
     },
@@ -9635,7 +9636,7 @@
         "name": "Fiora, Grand Duelist",
         "type": "Legend",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/720df5a56619a6b53aa1217cb84446f2469b40e5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440239/251_ws2c9f.avif",
         "isHorizontal": false
       }
     },
@@ -9761,7 +9762,7 @@
         "name": "Gold",
         "type": "Gear",
         "cost": 0,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e878c39b562a4e870e93b819c6d85cdf3fdc5238-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "image": "https://res.cloudinary.com/duarwhpvs/image/upload/v1764440242/T03_ugr43h.avif",
         "isHorizontal": false
       }
     },
