@@ -6681,5 +6681,3112 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🟡 Order"]
+  },
+  "SFD-001": {
+    "id": "SFD-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Against the Odds",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Against the Odds",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-007": {
+    "id": "SFD-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gem Jammer",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f487e8a76e6e6b9f2e32de0c9c147be42f49e59-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gem Jammer",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-010": {
+    "id": "SFD-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Drone",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/589dde45bc610eb83bc808803e4becf8a6d2da84-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Drone",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-018": {
+    "id": "SFD-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Hatchling",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a909782d0a30f31f9414c99ba143fa570a3cb456-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Hatchling",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-020": {
+    "id": "SFD-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Vanquisher",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8fa3f1fe63392c4744152d98ff781497a4d17b74-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Vanquisher",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-020a": {
+    "id": "SFD-020a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Vanquisher",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9019c449004f246de6607bf1829f4f3cabcda200-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Vanquisher",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-021": {
+    "id": "SFD-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ferrous Forerunner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ferrous Forerunner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-022": {
+    "id": "SFD-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Long Sword",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Long Sword",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-023": {
+    "id": "SFD-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piercing Light",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7fb3283b11fb8e5b5b08f9ead9b98c695b75bff0-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piercing Light",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-024": {
+    "id": "SFD-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rell, Magnetic",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8aa1a9cf0a91a9ab601d5e5d42a438d4217eddd7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rell, Magnetic",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-025": {
+    "id": "SFD-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rengar, Pouncing",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e24eb3fb835c4762479da5608b018785ef22e02c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rengar, Pouncing",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-027": {
+    "id": "SFD-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dunebreaker",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa17369233dfc68e011d16b7b98971a6f8743c3e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dunebreaker",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-029": {
+    "id": "SFD-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Breacher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/029.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Breacher",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-029a": {
+    "id": "SFD-029a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Breacher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/029a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Breacher",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-033": {
+    "id": "SFD-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Shield",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49a24d4c6d770ed233c4a69bf8d87385bfc997d8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Shield",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-034": {
+    "id": "SFD-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Feral Strength",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/034.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feral Strength",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-039": {
+    "id": "SFD-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Royal Entourage",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a6f3ce580860fe80fdf1b41533ba89b5060e946a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Entourage",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-040": {
+    "id": "SFD-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thwonk!",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c414fdba5e47db294b8364a07f1258bc3e204c51-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thwonk!",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-042": {
+    "id": "SFD-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutalizer",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0de7eec3de501f79f33c09b43c7fe42721d10d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutalizer",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-045": {
+    "id": "SFD-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Not So Fast",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e576fefdce72ad862a7e374bf8c0fd509f359da9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Not So Fast",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-048": {
+    "id": "SFD-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stellacorn Herder",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7960a35d45dd55e934260ea23307853aa5afd4-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stellacorn Herder",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-049": {
+    "id": "SFD-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aphelios, Exalted",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df9ccbba2501059e5781a44434745a1f0e33ecae-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aphelios, Exalted",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-050": {
+    "id": "SFD-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Ascendant",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c42c02f6ebd2e4d4a640c2c6ac081231439888e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Ascendant",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-050a": {
+    "id": "SFD-050a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Ascendant",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a0859ca50e71c69b22e4dab93e840b6d30e3d50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Ascendant",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-051": {
+    "id": "SFD-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardian Angel",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d09a797345659a1853d6d12910cf3c634990ea0c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardian Angel",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-054": {
+    "id": "SFD-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unmatched",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d425589c74dbff818fa09db134fdd8bb7136420-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unmatched",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-054a": {
+    "id": "SFD-054a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unmatched",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1d2eae793e415c5f53d7b11c335b5f0ed08c2086-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unmatched",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-055": {
+    "id": "SFD-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Needlessly Large Yordle",
+        "type": "Unit",
+        "cost": 10,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/952dcaf9fd4b5f3e8592d140c11d792175597da1-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Needlessly Large Yordle",
+    "type": "Unit",
+    "cost": 10,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-056": {
+    "id": "SFD-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sterak's Gage",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df16e6b668fc6771ff657512deba1bf48363e23a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sterak's Gage",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-057": {
+    "id": "SFD-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fe05fa55781f8036f8bfc9c10bba94326a0c8cc9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-057a": {
+    "id": "SFD-057a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cef4f73541e0623b4024b483d141d0396f1dddcb-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-058": {
+    "id": "SFD-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blacksmith",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/77b48a28f48f26714f4bcf860379945a2d7186aa-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blacksmith",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-058a": {
+    "id": "SFD-058a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Blacksmith",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e0621bba6475425d93191677b2b120c07a8efe20-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Blacksmith",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-059": {
+    "id": "SFD-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Svellsongur",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc254398dfb5db217327b56862011a2fd6020789-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Svellsongur",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-060": {
+    "id": "SFD-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tianna Crownguard",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a1876aeedae7310409d0eaaf453507188b0c82b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tianna Crownguard",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-061": {
+    "id": "SFD-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aspiring Engineer",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d61995ae384bcee56838beb0eb6d83bf5faefad-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aspiring Engineer",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-062": {
+    "id": "SFD-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubble Bot",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c0fe9df24ae4b8a5b4fb8276b1bd6c5a5f5f7b2b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubble Bot",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-063": {
+    "id": "SFD-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chemtech Cask",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39071feea6d3739a834a83b1841f496bdfc3a59a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chemtech Cask",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-067": {
+    "id": "SFD-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frostcoat Cub",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0b5f1f6ed65e070d2878b8aa21fd95e43688fc1d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frostcoat Cub",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-069": {
+    "id": "SFD-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plundering Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/069.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plundering Poro",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-071": {
+    "id": "SFD-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breakneck Mech",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8564fc233cfcb4fc774ac4bc4ee72085d7586163-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Breakneck Mech",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-073": {
+    "id": "SFD-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Experimental Hexplate",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/940a5e9796d4ac10a238d9b2612545c04bd9a570-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experimental Hexplate",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-075": {
+    "id": "SFD-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prize of Progress",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c08f0b6ed24415e6a440a17931c7e2a2db3ab2cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prize of Progress",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-079": {
+    "id": "SFD-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bard, Mercurial",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edfefb81b8821f548a234d8e6d54fd072d7dc22c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bard, Mercurial",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-080": {
+    "id": "SFD-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bellows Breath",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0ae1c4bb788f6fadc251c9d9b36f3f92eef4c56-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bellows Breath",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-082": {
+    "id": "SFD-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Dashing",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e040f7b7ca16009a2558674a911b8cc93122ba3-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Dashing",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-082a": {
+    "id": "SFD-082a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Dashing",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83da64e39d838d2fee68c319c03fbff0d4c7035f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Dashing",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-084": {
+    "id": "SFD-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jayce, Man of Progress",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b508fa4e52ebbd5f66e1fc7df28cfb70acdfe1f5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jayce, Man of Progress",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-085": {
+    "id": "SFD-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Forge God",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f33c4ea9010ea5f440d4470554845c0ecae2c893-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Forge God",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-085a": {
+    "id": "SFD-085a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Forge God",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/22af72b06cb92d4a0078dddfb87cc9c21c92231d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Forge God",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-086": {
+    "id": "SFD-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "World Atlas",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b8d96e128c19c5ff368119a60759cffa644e942-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "World Atlas",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-087": {
+    "id": "SFD-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Premonition",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/20ad2f42bcf9a0402e2a0d5a21d55eacee9ecf35-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premonition",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-091": {
+    "id": "SFD-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buhru Captain",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f5186bd42c23f75ea84186aa2cb945cc02a222e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buhru Captain",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-093": {
+    "id": "SFD-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dauntless Vanguard",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cb19a57b58370952cb37fff27375826d5c274129-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dauntless Vanguard",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-095": {
+    "id": "SFD-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Blade",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/53fc0c307c83871c9755a496764ef7d6aa11f510-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Blade",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-099": {
+    "id": "SFD-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veteran Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54b8aa5aa80e74e0c545d4c484353c5b9e78bdfc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veteran Poro",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-100": {
+    "id": "SFD-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yordle Explorer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/556b20c8c605545f13a8990dca36586a287ebb29-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yordle Explorer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-103": {
+    "id": "SFD-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jaull-Fish",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/56a31630910179a1fb2f2ddf3e6e5c9627bddf5e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jaull-Fish",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-107": {
+    "id": "SFD-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike Down",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3570810e867d132fd5a60cc3462f53f42b245ad9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike Down",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-108": {
+    "id": "SFD-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warmog's Armor",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0d680867670dd75a66a632cd6f044a7f7e39b42b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warmog's Armor",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-111": {
+    "id": "SFD-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Here to Help",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6daa8caf27f76f2b0bce189fb9df196129582afa-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Here to Help",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-112": {
+    "id": "SFD-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kato the Arm",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f4ea4f2f5169a3813d9eb7f0d3d2f41bdddebfc7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kato the Arm",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-113": {
+    "id": "SFD-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Merciless",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc192b6e22e7a277c53f035809c59db4548a0fd5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Merciless",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-113a": {
+    "id": "SFD-113a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Merciless",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e05478b8081b3694a795ab0308b1e2c2a7748715-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Merciless",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-114": {
+    "id": "SFD-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marching Orders",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b553f8e16e0ff1aaa57f74121e68954fbe45a07b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marching Orders",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-115": {
+    "id": "SFD-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trinity Force",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8b64985389e5792afc2a2fe0dc23ae7590d7709-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trinity Force",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-116": {
+    "id": "SFD-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e8efd9af74b65170e04eed45844e6d7e2c4d70b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-117": {
+    "id": "SFD-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ancient Henge",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c7c260b77b4174a61aed6243ed90f76594102193-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ancient Henge",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-118": {
+    "id": "SFD-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boneshiver",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3e4d8c3f3975a7429428ac90e5ebcffa1f8e5a9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boneshiver",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-119": {
+    "id": "SFD-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unrelenting",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e63ab3370a6e4ce4baddfba12ab92468f6cc9541-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unrelenting",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-119a": {
+    "id": "SFD-119a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Unrelenting",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a5796125bdb0af8ceb60cd0c5c273c6417e0f7da-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Unrelenting",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-120": {
+    "id": "SFD-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Ambitious",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bd3f242c9ca59cfc2d7dc5b146877c66bb310bb7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Ambitious",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-120a": {
+    "id": "SFD-120a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Ambitious",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/484adbe28bafadf0ac37d7787c916013bd106793-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Ambitious",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-122": {
+    "id": "SFD-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Called Shot",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08b859c0e21eba5a033f480702bcdd1045f6294b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Called Shot",
+    "type": "Spell",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-124": {
+    "id": "SFD-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doran's Ring",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/054df5a11967b768430a2f763e1b5d4dbbac3b50-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doran's Ring",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-126": {
+    "id": "SFD-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loyal Pup",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2f15c4508900636e1560fa0e8832aff6b3160d0f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loyal Pup",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-128": {
+    "id": "SFD-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overzealous Fan",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/922d7f337fbf14f0d62d43f69ca2a1e7480dd022-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overzealous Fan",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-130": {
+    "id": "SFD-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treasure Hunter",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4e1bf257379b4612a1c58f0480480d9b698196c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treasure Hunter",
+    "type": "Unit",
+    "cost": 2,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-133": {
+    "id": "SFD-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boots of Swiftness",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a8a8e977f7427227adac69b5d2db07f643d0df09-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boots of Swiftness",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-136": {
+    "id": "SFD-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hard Bargain",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hard Bargain",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-138": {
+    "id": "SFD-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windsinger",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e47c9a3956f8fbb77daa5fdb2ee433dd1772f247-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windsinger",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-140": {
+    "id": "SFD-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fizz, Trickster",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6d1c6615fb6ef5fb520a35b2ce76f8feee9167dc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fizz, Trickster",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-141": {
+    "id": "SFD-141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Graceful",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03b9d73a7ef02447d7f4b67381a76616249061cc-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Graceful",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-141a": {
+    "id": "SFD-141a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Graceful",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08419c2b5b7aa7e5f63854e324d5dabe0b5997a2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Graceful",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-142": {
+    "id": "SFD-142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jae Medarda",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/92eac6bb020a068d9c1668b59ecaaeab05112b3f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jae Medarda",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-145": {
+    "id": "SFD-145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Switcheroo",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a4338f495feff5eee46d5349b5fded5e35e76176-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Switcheroo",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-146": {
+    "id": "SFD-146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vex, Cheerless",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e9025578c7b5845a1a9c9a83e045bcbe71a76e71-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vex, Cheerless",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-147": {
+    "id": "SFD-147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Downwell",
+        "type": "Spell",
+        "cost": 8,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/950eff0d07ef1e25be46fdb340fe8510c551c159-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Downwell",
+    "type": "Spell",
+    "cost": 8,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-148": {
+    "id": "SFD-148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Audacious",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8247622cbe90eadada8d0660ea31d146b1207a87-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Audacious",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-148a": {
+    "id": "SFD-148a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Audacious",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b2c2a20cd22c8799b211dd4d7f95c95a8be33ea-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Audacious",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-150": {
+    "id": "SFD-150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Rites",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6cfab85030bff454262794e4fa12f11b5dc45a74-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Rites",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-151": {
+    "id": "SFD-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bonds of Strength",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/344034c00d9fad558e98a64efab0310ad4bac37c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bonds of Strength",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-155": {
+    "id": "SFD-155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Honest Broker",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b3cc9bb93888f6f276f674baa16a0e53c724ae99-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Honest Broker",
+    "type": "Unit",
+    "cost": 2,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-157": {
+    "id": "SFD-157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Royal Guard",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/919d79a3f5a38c78476e6414a898a0dc7b385629-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Royal Guard",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["SFD-T99"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-161": {
+    "id": "SFD-161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B.F. Sword",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/97cd20e414c7282abb18cf7691eb1a5a2435af90-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "B.F. Sword",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-164": {
+    "id": "SFD-164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drag Under",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2400881960412ada4c1d1066105f206b02f8998a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drag Under",
+    "type": "Spell",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-165": {
+    "id": "SFD-165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glasc Mixologist",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7422fee71796aa61f8d9691d07654b901fc20f2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glasc Mixologist",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-167": {
+    "id": "SFD-167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unsung Hero",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a227ef7494af6409000c13c4f3d1094cec3a3a8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unsung Hero",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-168": {
+    "id": "SFD-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Armory",
+        "type": "Gear",
+        "cost": 7,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f4d735ff77ea599307e142196338d438fcedc05-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Armory",
+    "type": "Gear",
+    "cost": 7,
+    "tokens": ["OGN-271"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-169": {
+    "id": "SFD-169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar of Memories",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3ddc94a035d793d48987c6fe5d65fa11ea25c808-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altar of Memories",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-170": {
+    "id": "SFD-170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Swarm Queen",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5470aaad3bdb7ff5d2e605b07d93cedb7254c54d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Swarm Queen",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-170a": {
+    "id": "SFD-170a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Swarm Queen",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a268cef6d06080055575bed86aca6db9d75359ac-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Swarm Queen",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-171": {
+    "id": "SFD-171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Industrialist",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edacb8a82d840f2fe46233de9157319a1dc6361a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Industrialist",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-171a": {
+    "id": "SFD-171a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Industrialist",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/358df43d50a3fc018a6e092acd5fbb3031e0033d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Industrialist",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-172": {
+    "id": "SFD-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacred Shears",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af1069aef68d413127dfa84e4e96b8d66a8720ca-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacred Shears",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-173": {
+    "id": "SFD-173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soraka, Wanderer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91fd5050b8caded842ce22c1e473f237cd991efd-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soraka, Wanderer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-174": {
+    "id": "SFD-174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trove Golem",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e5b0966cc00203db1036b6fa95360541f72ae131-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trove Golem",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-175": {
+    "id": "SFD-175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Undertitan",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa3bd795a1fa015b42bf64a2d588f527342c2a15-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Undertitan",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-176": {
+    "id": "SFD-176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xin Zhao, Vigilant",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ec694ac53a49fd4419434cb144daaaf0f38da574-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xin Zhao, Vigilant",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-177": {
+    "id": "SFD-177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Sovereign",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/088970936fc800bd2c4b36636734e16c83e1c8f9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Sovereign",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-177a": {
+    "id": "SFD-177a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Sovereign",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62c75543213df186d3f05236fda6abe8992c948e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Sovereign",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-178": {
+    "id": "SFD-178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blade of the Ruined King",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/26ab126258a15afd380c313e973f7469808ce55f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade of the Ruined King",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-179": {
+    "id": "SFD-179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corina Veraza",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6b0f55aee4b4f9d0074c808e0fff00dcb7e35377-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corina Veraza",
+    "type": "Unit",
+    "cost": 7,
+    "tokens": ["OGN-273"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-180": {
+    "id": "SFD-180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Worthy",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7339e76b7796242a15e97cfddbe04c32d5a05063-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Worthy",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-180a": {
+    "id": "SFD-180a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Worthy",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e38428b921717edf676bd7f9628fc61b1355814c-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Worthy",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-181": {
+    "id": "SFD-181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Mechanized Menace",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f311115e4c527ce82010596ce462d4050a9201b2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Mechanized Menace",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-182": {
+    "id": "SFD-182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Danger Zone",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4652150ba885dd346b8f3622fd0e4ada7cf767f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Danger Zone",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-183": {
+    "id": "SFD-183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Purifier",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/450cfb71b8890904d48b37a24bbdc78f8d849614-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Purifier",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-184": {
+    "id": "SFD-184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relentless Pursuit",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48754730486abefdb56221d0760b9c963aae7c09-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relentless Pursuit",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-185": {
+    "id": "SFD-185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Glorious Executioner",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b01b2d0454ceeffdc106c4c64a390b275ebf390b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Glorious Executioner",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-186": {
+    "id": "SFD-186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinning Axe",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e4e0328034e605d000e23ac5e820d233f0e3b520-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinning Axe",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-187": {
+    "id": "SFD-187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Void Burrower",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Void Burrower",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-188": {
+    "id": "SFD-188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void Rush",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ce606f096ae76485cd8dd3cc337629b510f0d1e7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Void Rush",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-189": {
+    "id": "SFD-189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Fire Below the Mountain",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed58d654034d545e54c85d836f3a6552772dd75b-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Fire Below the Mountain",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-193": {
+    "id": "SFD-193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Grandmaster at Arms",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6ddf49d7249bc8ac194fd9b194bfcb8857a4466-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Grandmaster at Arms",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-194": {
+    "id": "SFD-194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Signature Spell",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/194.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Signature Spell",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-195": {
+    "id": "SFD-195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Blade Dancer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656ef2d1724b818e9e737ec5dcce923de067a316-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Blade Dancer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-196": {
+    "id": "SFD-196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Defiant Dance",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f5bc5c9e321830337998a2b85e4fec3cd8251c9-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Defiant Dance",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-197": {
+    "id": "SFD-197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azir, Emperor of the Sands",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0472274c49f6540858758ebf9bd2f107a601541a-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Azir, Emperor of the Sands",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-198": {
+    "id": "SFD-198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sand Soldiers Arise",
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/198.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Soldiers Arise",
+    "type": "Spell",
+    "cost": 6,
+    "Domain": ["🟢 Calm", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-199": {
+    "id": "SFD-199",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Prodigal Explorer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Prodigal Explorer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-200": {
+    "id": "SFD-200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Signature Spell",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/200.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Signature Spell",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔵 Mind", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-201": {
+    "id": "SFD-201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Chem-Baroness",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4bd289c281ad64229061ff909abf88c12a574833-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Chem-Baroness",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🔵 Mind", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-202": {
+    "id": "SFD-202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata Glasc, Signature Spell",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/202.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata Glasc, Signature Spell",
+    "type": "Spell",
+    "cost": 5,
+    "Domain": ["🔵 Mind", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-203": {
+    "id": "SFD-203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Battle Mistress",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd060882c32a8deac04aea4241c6ab7b97236a05-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Battle Mistress",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["SFD-T03"],
+    "Domain": ["🟠 Body", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-204": {
+    "id": "SFD-204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sivir, Signature Spell",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/204.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sivir, Signature Spell",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🟠 Body", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-205": {
+    "id": "SFD-205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Grand Duelist",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37064aa79c13316b5dd28f0a2b054821a43f6650-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Grand Duelist",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-206": {
+    "id": "SFD-206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Signature Spell",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/206.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Signature Spell",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-213": {
+    "id": "SFD-213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn's Forge",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/213.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Ornn's Forge",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-214": {
+    "id": "SFD-214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Nexus",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/214.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Power Nexus",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-215": {
+    "id": "SFD-215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ravenbloom Conservatory",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/215.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Ravenbloom Conservatory",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-220": {
+    "id": "SFD-220",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treasure Hoard",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/220.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Treasure Hoard",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-223": {
+    "id": "SFD-223",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vayne, Hunter",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f8caecc98cb5dae1b818677ef5baaaa4a5f7cb2-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vayne, Hunter",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-223s": {
+    "id": "SFD-223s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vayne, Hunter",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75f9eac062e43105ee602b6050fe230fb8d2dce5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vayne, Hunter",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-225": {
+    "id": "SFD-225",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/40454a8534f7c9444bafd000ffbfc0e5bcc847f0-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-225s": {
+    "id": "SFD-225s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Fervent",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e064a9017b5d6bf0e18c4452acfca4ed8c279657-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Fervent",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-226": {
+    "id": "SFD-226",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Focus",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b6bb0da7d3b37dad51148b7914e7d2b840b6482-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Focus",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-227": {
+    "id": "SFD-227",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Inquisitive",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4c332e90c97e5e70b996598cd4a0f731b77fdef-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Inquisitive",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-227s": {
+    "id": "SFD-227s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ahri, Inquisitive",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/608f786c30a7e80db87d3c2d45bc0c26b0840c5e-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahri, Inquisitive",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-231": {
+    "id": "SFD-231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Strength",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dd5c24995d5c6d327b5101da3d6426f1a75a49ef-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Strength",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-232": {
+    "id": "SFD-232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Brawler",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a13d5473e205cb9dd8123895c58ed6ac8f19e814-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Brawler",
+    "type": "Unit",
+    "cost": 5,
+    "tokens": ["OGN-XXX"],
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-232s": {
+    "id": "SFD-232s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sett, Brawler",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ea35315d12a86cff8e37fa716c92dc76d9edceb8-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sett, Brawler",
+    "type": "Unit",
+    "cost": 5,
+    "tokens": ["OGN-XXX"],
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-233": {
+    "id": "SFD-233",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bb6fd6e7d1e6fefeeccc82059bdae2eaa000730-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-233s": {
+    "id": "SFD-233s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yone, Blademaster",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b190a0e419af24797408f0df4c17b48e8d86e5f-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yone, Blademaster",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-234": {
+    "id": "SFD-234",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal of Discord",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9263b8f36725a4cec320c1049608824ae72f6237-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal of Discord",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-236": {
+    "id": "SFD-236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f550f321dce06bb09bb47682d5bf2981280ea16-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-236s": {
+    "id": "SFD-236s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darius, Executioner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/46fc840c17925406d22703b82ad02f5eb2ab62cf-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-240": {
+    "id": "SFD-240",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Mechanized Menace",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0234cad3663d52d3120e78f2adbe8a253102a7a3-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Mechanized Menace",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-241": {
+    "id": "SFD-241",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Purifier",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eb2a5262da6044c041ba87becae1dc71d58b2bf7-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Purifier",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟠 Body" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-242": {
+    "id": "SFD-242",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draven, Glorious Executioner",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5a06fcd2cadbdb574d34d210ca97441ec33c9277-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draven, Glorious Executioner",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-243": {
+    "id": "SFD-243",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rek'Sai, Void Burrower",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/968eb5c484a25bbebd162f31736024b4ff3b0d07-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rek'Sai, Void Burrower",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-244": {
+    "id": "SFD-244",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ornn, Fire Below the Mountain",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/883dab66da8ed5ab39d968ed7fcaebd5ebaf3d43-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ornn, Fire Below the Mountain",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-246": {
+    "id": "SFD-246",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Blade Dancer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8258072391bbb8d24e9d6e603c3ba1434979a911-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Blade Dancer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-251": {
+    "id": "SFD-251",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Grand Duelist",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/720df5a56619a6b53aa1217cb84446f2469b40e5-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Grand Duelist",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R01b": {
+    "id": "SFD-R01b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fury Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R01b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fury Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R02b": {
+    "id": "SFD-R02b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calm Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R02b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calm Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R03b": {
+    "id": "SFD-R03b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mind Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R03b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mind Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R04b": {
+    "id": "SFD-R04b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Body Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R04b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R05b": {
+    "id": "SFD-R05b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R05b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaos Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-R06b": {
+    "id": "SFD-R06b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/R06b.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Order Rune",
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-T03": {
+    "id": "SFD-T03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold",
+        "type": "Gear",
+        "cost": 0,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e878c39b562a4e870e93b819c6d85cdf3fdc5238-744x1039.png?auto=format&fit=fill&q=80&w=444",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold",
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-T99": {
+    "id": "SFD-T99",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sand Soldier",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/T99.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Soldier",
+    "type": "Unit",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
   }
 }
