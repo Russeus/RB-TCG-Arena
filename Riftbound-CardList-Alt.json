@@ -7785,6 +7785,7 @@
     "name": "Plundering Poro",
     "type": "Unit",
     "cost": 2,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
