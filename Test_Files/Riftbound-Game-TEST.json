@@ -248,7 +248,7 @@
                     },
                     "Battlefields": {
                         "title": "Battlefields",
-                        "isHidden": "yes",
+                        "isHidden": "opponent-only",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -256,10 +256,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": true,
+                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": true,
+                        "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -275,10 +275,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": true,
+                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": true,
+                        "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -318,7 +318,7 @@
                     },
                     "Chosen_Champion": {
                         "title": "Chosen_Champion",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -334,7 +334,7 @@
                     },
                     "Legend": {
                         "title": "Legend",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -629,10 +629,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": true,
+                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": true,
+                        "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -648,10 +648,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": true,
+                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": true,
+                        "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
@@ -667,10 +667,10 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Opponent Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": true,
+                        "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
-                        "keepTappedNewTurn": true,
+                        "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
