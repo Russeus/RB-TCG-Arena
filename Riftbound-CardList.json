@@ -7284,6 +7284,42 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-028": {
+    "id": "SFD-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Fury",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/028.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Fury",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-028a": {
+    "id": "SFD-028a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucian, Fury",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/028a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucian, Fury",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-029": {
     "id": "SFD-029",
     "isToken": false,
