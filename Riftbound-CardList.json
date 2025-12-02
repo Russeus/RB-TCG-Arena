@@ -10535,7 +10535,7 @@
   },
   "SFD-T03": {
     "id": "SFD-T03",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Gold",
@@ -10551,9 +10551,27 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-T-Mech": {
+    "id": "SFD-T-Mech",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mech",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/T-Mech.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mech",
+    "type": "Unit",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-T99": {
     "id": "SFD-T99",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Sand Soldier",
