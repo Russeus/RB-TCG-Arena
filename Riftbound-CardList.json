@@ -7320,6 +7320,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-032": {
+    "id": "SFD-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sword Destroyer",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/032.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sword Destroyer",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-033": {
     "id": "SFD-033",
     "isToken": false,
@@ -7352,6 +7370,42 @@
     },
     "name": "Feral Strength",
     "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-035": {
+    "id": "SFD-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Path Guard",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/035.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Path Guard",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-036": {
+    "id": "SFD-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lonely Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/036.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lonely Poro",
+    "type": "Unit",
     "cost": 2,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
@@ -7392,6 +7446,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-041": {
+    "id": "SFD-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Weaponsmith's Apprentice",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/041.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weaponsmith's Apprentice",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-042": {
     "id": "SFD-042",
     "isToken": false,
@@ -7407,6 +7479,24 @@
     "name": "Brutalizer",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-044": {
+    "id": "SFD-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legion Quartermaster",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/044.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Legion Quartermaster",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7515,6 +7605,24 @@
     "name": "Guardian Angel",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-053": {
+    "id": "SFD-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Janna",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/053.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Janna",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7842,6 +7950,42 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-076": {
+    "id": "SFD-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Production Surge",
+        "type": "Spell",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/076.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Production Surge",
+    "type": "Spell",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-077": {
+    "id": "SFD-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rocket Barrage",
+        "type": "Spell",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/077.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rocket Barrage",
+    "type": "Spell",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-079": {
     "id": "SFD-079",
     "isToken": false,
@@ -7878,6 +8022,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-081": {
+    "id": "SFD-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Honest Croupier",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/081.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Honest Croupier",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-082": {
     "id": "SFD-082",
     "isToken": false,
@@ -7911,6 +8073,24 @@
     "name": "Ezreal, Dashing",
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-083": {
+    "id": "SFD-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hex Anomaly",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/083.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hex Anomaly",
+    "type": "Gear",
+    "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8004,6 +8184,60 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-089": {
+    "id": "SFD-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Blue",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/089.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Blue",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-089a": {
+    "id": "SFD-089a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Blue",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/089a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Blue",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-090": {
+    "id": "SFD-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Z-Drive",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/090.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z-Drive",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-091": {
     "id": "SFD-091",
     "isToken": false,
@@ -8055,6 +8289,24 @@
     "name": "Doran's Blade",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-097": {
+    "id": "SFD-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Punch First",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/097.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Punch First",
+    "type": "Spell",
+    "cost": 1,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8112,6 +8364,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-105": {
+    "id": "SFD-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruin Runner",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/105.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruin Runner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-107": {
     "id": "SFD-107",
     "isToken": false,
@@ -8145,6 +8415,42 @@
     "name": "Warmog's Armor",
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-110": {
+    "id": "SFD-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Body",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/110.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Body",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-110a": {
+    "id": "SFD-110a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiora, Body",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/110a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiora, Body",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8524,6 +8830,24 @@
     "name": "Windsinger",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-139": {
+    "id": "SFD-139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edge of Night",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/139.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edge of Night",
+    "type": "Gear",
+    "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
