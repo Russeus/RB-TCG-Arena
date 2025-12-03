@@ -7191,6 +7191,7 @@
     "name": "Ferrous Forerunner",
     "type": "Unit",
     "cost": 6,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7893,6 +7894,7 @@
     "name": "Chemtech Cask",
     "type": "Gear",
     "cost": 1,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7929,6 +7931,7 @@
     "name": "Plundering Poro",
     "type": "Unit",
     "cost": 2,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8001,6 +8004,7 @@
     "name": "Production Surge",
     "type": "Spell",
     "cost": 4,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8073,6 +8077,7 @@
     "name": "Card Sharp",
     "type": "Unit",
     "cost": 3,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8199,6 +8204,7 @@
     "name": "World Atlas",
     "type": "Gear",
     "cost": 3,
+    "tokens": ["SFD-T03"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8235,6 +8241,7 @@
     "name": "Rumble, Scrapper",
     "type": "Unit",
     "cost": 5,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8253,6 +8260,7 @@
     "name": "Rumble, Scrapper",
     "type": "Unit",
     "cost": 5,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8289,6 +8297,7 @@
     "name": "Buhru Captain",
     "type": "Unit",
     "cost": 3,
+    "tokens": ["OGN-XXX"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8451,6 +8460,7 @@
     "name": "Warmog's Armor",
     "type": "Gear",
     "cost": 1,
+    "tokens": ["OGN-XXX"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9391,6 +9401,7 @@
     "name": "Trove Golem",
     "type": "Unit",
     "cost": 8,
+    "tokens": ["SFD-T03"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
