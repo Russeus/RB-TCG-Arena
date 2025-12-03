@@ -318,7 +318,7 @@
                     },
                     "Chosen_Champion": {
                         "title": "Chosen_Champion",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -334,7 +334,7 @@
                     },
                     "Legend": {
                         "title": "Legend",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -726,7 +726,7 @@
                     },
                     "Chosen_Champion": {
                         "title": "Chosen_Champion",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
@@ -742,7 +742,7 @@
                     },
                     "Legend": {
                         "title": "Legend",
-                        "isHidden": "yes",
+                        "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
