@@ -7084,6 +7084,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-004": {
+    "id": "SFD-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jungle Ambush",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/004.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jungle Ambush",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-007": {
     "id": "SFD-007",
     "isToken": false,
@@ -7116,6 +7134,42 @@
     },
     "name": "Void Drone",
     "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-012": {
+    "id": "SFD-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battering Ram",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/012.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battering Ram",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-017": {
+    "id": "SFD-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning Strike",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/017.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning Strike",
+    "type": "Spell",
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
@@ -7444,6 +7498,24 @@
     "name": "Lonely Poro",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-037": {
+    "id": "SFD-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Navori Scout",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/037.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Navori Scout",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7898,6 +7970,42 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-064": {
+    "id": "SFD-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cloth Armor",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/064.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cloth Armor",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-066": {
+    "id": "SFD-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freeze",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/066.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freeze",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-067": {
     "id": "SFD-067",
     "isToken": false,
@@ -8023,6 +8131,24 @@
     "name": "Rocket Barrage",
     "type": "Spell",
     "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-078": {
+    "id": "SFD-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Premoniton Gate",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/078.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premoniton Gate",
+    "type": "Gear",
+    "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8497,6 +8623,24 @@
     "type": "Gear",
     "cost": 1,
     "tokens": ["OGN-XXX"],
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-109": {
+    "id": "SFD-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akshan",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/109.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akshan",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9038,6 +9182,24 @@
     "name": "Sivir, Mercenary",
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-144": {
+    "id": "SFD-144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spirit Wheel",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/144.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spirit Wheel",
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
