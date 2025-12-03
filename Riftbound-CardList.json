@@ -8226,6 +8226,42 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-088": {
+    "id": "SFD-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata, Blue",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/088.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata, Blue",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-088a": {
+    "id": "SFD-088a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renata, Blue",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/088a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renata, Blue",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-089": {
     "id": "SFD-089",
     "isToken": false,
