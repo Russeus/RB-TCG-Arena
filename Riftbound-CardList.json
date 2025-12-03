@@ -7084,6 +7084,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-003": {
+    "id": "SFD-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bloodrush",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/003.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bloodrush",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-004": {
     "id": "SFD-004",
     "isToken": false,
@@ -9290,6 +9308,42 @@
     "name": "Draven, Audacious",
     "type": "Unit",
     "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-149": {
+    "id": "SFD-149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Morado",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/149.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Morado",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-149a": {
+    "id": "SFD-149a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ezreal, Morado",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/149a.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezreal, Morado",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
