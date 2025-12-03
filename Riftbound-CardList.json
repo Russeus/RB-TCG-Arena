@@ -7228,6 +7228,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-013": {
+    "id": "SFD-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Academy Prodigy (PH)",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/013.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Academy Prodigy (PH)",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-015": {
     "id": "SFD-015",
     "isToken": false,
@@ -8204,6 +8222,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-065": {
+    "id": "SFD-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seer Mecha (PH)",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/065.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seer Mecha (PH)",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-066": {
     "id": "SFD-066",
     "isToken": false,
@@ -8949,6 +8985,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-106": {
+    "id": "SFD-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strength Comes First (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/106.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strength Comes First (PH)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-107": {
     "id": "SFD-107",
     "isToken": false,
@@ -9274,6 +9328,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-121": {
+    "id": "SFD-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Market Broker (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/121.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Market Broker (PH)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-122": {
     "id": "SFD-122",
     "isToken": false,
@@ -9289,6 +9361,24 @@
     "name": "Called Shot",
     "type": "Spell",
     "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-123": {
+    "id": "SFD-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corrupted Enforcer (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/123.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corrupted Enforcer (PH)",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9310,6 +9400,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-125": {
+    "id": "SFD-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Powerful Fae (PH)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/125.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Powerful Fae (PH)",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-126": {
     "id": "SFD-126",
     "isToken": false,
@@ -9328,6 +9436,24 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-127": {
+    "id": "SFD-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master (PH)",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/127.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master (PH)",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-128": {
     "id": "SFD-128",
     "isToken": false,
@@ -9342,6 +9468,24 @@
     },
     "name": "Overzealous Fan",
     "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-129": {
+    "id": "SFD-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bait (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/129.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bait (PH)",
+    "type": "Spell",
     "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
@@ -9365,6 +9509,42 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-131": {
+    "id": "SFD-131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ancient War (PH)",
+        "type": "Spell",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/131.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ancient War (PH)",
+    "type": "Spell",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-132": {
+    "id": "SFD-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abyssal Beast (PH)",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/132.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abyssal Beast (PH)",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-133": {
     "id": "SFD-133",
     "isToken": false,
@@ -9383,6 +9563,42 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-134": {
+    "id": "SFD-134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cull (PH)",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/134.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cull (PH)",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-135": {
+    "id": "SFD-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emergency Recall (PH)",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/135.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emergency Recall (PH)",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-136": {
     "id": "SFD-136",
     "isToken": false,
@@ -9398,6 +9614,24 @@
     "name": "Hard Bargain",
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-137": {
+    "id": "SFD-137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sea Hunting Team (PH)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/137.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sea Hunting Team (PH)",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
