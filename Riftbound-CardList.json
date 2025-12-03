@@ -7120,6 +7120,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-005": {
+    "id": "SFD-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seal Explosion (placeholder)",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/005.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seal Explosion (placeholder)",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-007": {
     "id": "SFD-007",
     "isToken": false,
@@ -7135,6 +7153,42 @@
     "name": "Gem Jammer",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-008": {
+    "id": "SFD-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Good Sentinel (placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/008.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Good Sentinel (placeholder)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-009": {
+    "id": "SFD-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serrated Dirk (placeholder)",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/009.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serrated Dirk (placeholder)",
+    "type": "Gear",
+    "cost": 1,
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7174,6 +7228,42 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-015": {
+    "id": "SFD-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Inhabiting Dragon (placeholder)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/015.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inhabiting Dragon (placeholder)",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-016": {
+    "id": "SFD-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recurve Bow (placeholder)",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/016.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recurve Bow (placeholder)",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-017": {
     "id": "SFD-017",
     "isToken": false,
@@ -7207,6 +7297,24 @@
     "name": "Void Hatchling",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-019": {
+    "id": "SFD-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Assembly Rack (placeholder)",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/019.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Assembly Rack (placeholder)",
+    "type": "Gear",
+    "cost": 4,
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7429,6 +7537,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-030": {
+    "id": "SFD-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Fall of Arion (placeholder)",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/030.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Fall of Arion (placeholder)",
+    "type": "Gear",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-032": {
     "id": "SFD-032",
     "isToken": false,
@@ -7537,6 +7663,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-038": {
+    "id": "SFD-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Silk Dancer (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/038.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silk Dancer (PH)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-039": {
     "id": "SFD-039",
     "isToken": false,
@@ -7609,6 +7753,24 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-043": {
+    "id": "SFD-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Custodes Wall (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/043.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Custodes Wall (PH)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-044": {
     "id": "SFD-044",
     "isToken": false,
@@ -7642,6 +7804,24 @@
     "name": "Not So Fast",
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-046": {
+    "id": "SFD-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pro Snax (PH)",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/046.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pro Snax (PH)",
+    "type": "Gear",
+    "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7732,6 +7912,24 @@
     "name": "Guardian Angel",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-052": {
+    "id": "SFD-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heart of Ice (PH)",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/052.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heart of Ice (PH)",
+    "type": "Gear",
+    "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8042,6 +8240,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-068": {
+    "id": "SFD-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mechanical Fan (PH)",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/068.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechanical Fan (PH)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-069": {
     "id": "SFD-069",
     "isToken": false,
@@ -8079,6 +8295,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-072": {
+    "id": "SFD-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skateboard Master (PH)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/072.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skateboard Master (PH)",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-073": {
     "id": "SFD-073",
     "isToken": false,
@@ -8094,6 +8328,24 @@
     "name": "Experimental Hexplate",
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-074": {
+    "id": "SFD-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Alley Thief (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/074.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Alley Thief (PH)",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8481,6 +8733,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-092": {
+    "id": "SFD-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cooking Fighting God (PH)",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/092.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cooking Fighting God (PH)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-093": {
     "id": "SFD-093",
     "isToken": false,
@@ -8499,6 +8769,24 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-094": {
+    "id": "SFD-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vicious Wings (PH)",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/094.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vicious Wings (PH)",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-095": {
     "id": "SFD-095",
     "isToken": false,
@@ -8514,6 +8802,24 @@
     "name": "Doran's Blade",
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-096": {
+    "id": "SFD-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laurent Bladekeeper (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/096.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laurent Bladekeeper (PH)",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8568,6 +8874,42 @@
     "name": "Yordle Explorer",
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-101": {
+    "id": "SFD-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fairy Dragon (PH)",
+        "type": "Unit",
+        "cost": 7,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/101.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fairy Dragon (PH)",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-102": {
+    "id": "SFD-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hexdrinker (PH)",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/102.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hexdrinker (PH)",
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
