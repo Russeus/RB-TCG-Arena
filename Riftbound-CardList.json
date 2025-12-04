@@ -7830,16 +7830,34 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pro Snax (PH)",
+        "name": "Poro Snax (PH)",
         "type": "Gear",
         "cost": 1,
         "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/046.avif",
         "isHorizontal": false
       }
     },
-    "name": "Pro Snax (PH)",
+    "name": "Poro Snax (PH)",
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-047": {
+    "id": "SFD-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mountain Ape Ancestor (PH)",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/047.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mountain Ape Ancestor (PH)",
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8964,6 +8982,24 @@
     "name": "Jaull-Fish",
     "type": "Unit",
     "cost": 7,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-104": {
+    "id": "SFD-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petricite Monument (PH)",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/104.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Petricite Monument (PH)",
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10105,6 +10141,24 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-160": {
+    "id": "SFD-160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chempunk Shredder (PH)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/160.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chempunk Shredder (PH)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-161": {
     "id": "SFD-161",
     "isToken": false,
@@ -10954,6 +11008,42 @@
     "type": "Spell",
     "cost": 2,
     "Domain": ["🟠 Body", "🟡 Order" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-207": {
+    "id": "SFD-207",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emperor's Altar (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/207.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Emperor's Altar (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-208": {
+    "id": "SFD-208",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poro Forge (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/208.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Poro Forge (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-213": {
