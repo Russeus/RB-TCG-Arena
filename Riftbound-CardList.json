@@ -11046,6 +11046,78 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-209": {
+    "id": "SFD-209",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forgotten Monument (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/209.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Forgotten Monument (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-210": {
+    "id": "SFD-210",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legendary Hall (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/210.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Legendary Hall (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-211": {
+    "id": "SFD-211",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marais Spire (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/211.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Marais Spire (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-212": {
+    "id": "SFD-212",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minefield (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/212.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Minefield (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-213": {
     "id": "SFD-213",
     "isToken": false,
@@ -11095,6 +11167,78 @@
       }
     },
     "name": "Ravenbloom Conservatory",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-216": {
+    "id": "SFD-216",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mountain Pass (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/216.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Mountain Pass (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-217": {
+    "id": "SFD-217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Throne of Power (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/217.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Throne of Power (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-218": {
+    "id": "SFD-218",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Submerged Temple (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/218.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Submerged Temple (PH)",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Domainless"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-219": {
+    "id": "SFD-219",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paper Tree (PH)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/219.avif",
+        "isHorizontal": true
+      }
+    },
+    "name": "Paper Tree (PH)",
     "type": "Battlefields",
     "cost": 0,
     "Domain": ["⚪ Domainless"],
@@ -11152,6 +11296,42 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-224": {
+    "id": "SFD-224",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aphelios, Exalted",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/224.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aphelios, Exalted",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-224s": {
+    "id": "SFD-224s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aphelios, Exalted",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/224s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aphelios, Exalted",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-225": {
@@ -11241,6 +11421,42 @@
     "name": "Ahri, Inquisitive",
     "type": "Unit",
     "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-230": {
+    "id": "SFD-230",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Strategist",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/230.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Strategist",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-230s": {
+    "id": "SFD-230s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Strategist",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/230s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Strategist",
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11354,6 +11570,42 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-235": {
+    "id": "SFD-235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Windrider",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/235.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Windrider",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-235s": {
+    "id": "SFD-235s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yasuo, Windrider",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/235s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yasuo, Windrider",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-236": {
     "id": "SFD-236",
     "isToken": false,
@@ -11387,6 +11639,42 @@
     "name": "Darius, Executioner",
     "type": "Unit",
     "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-239": {
+    "id": "SFD-239",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soraka, Wanderer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/239.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soraka, Wanderer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-239s": {
+    "id": "SFD-239s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soraka, Wanderer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/239s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soraka, Wanderer",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11478,6 +11766,24 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-245": {
+    "id": "SFD-245",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jax, Grandmaster at Arms",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/245.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jax, Grandmaster at Arms",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟠 Body" ],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-246": {
