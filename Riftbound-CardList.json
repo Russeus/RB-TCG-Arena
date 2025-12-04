@@ -7084,6 +7084,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-002": {
+    "id": "SFD-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armed Assailant",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/002.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armed Assailant",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-003": {
     "id": "SFD-003",
     "isToken": false,
@@ -7135,6 +7153,24 @@
     "name": "Seal Explosion (placeholder)",
     "type": "Spell",
     "cost": 1,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-006": {
+    "id": "SFD-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eager Drakehound",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/006.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eager Drakehound",
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7210,6 +7246,24 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-011": {
+    "id": "SFD-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angle Shot",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/011.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angle Shot",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-012": {
     "id": "SFD-012",
     "isToken": false,
@@ -7243,6 +7297,24 @@
     "name": "Academy Prodigy (PH)",
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-014": {
+    "id": "SFD-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minotaur Reckoner",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/014.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minotaur Reckoner",
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7465,6 +7537,42 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-026": {
+    "id": "SFD-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Hotheaded",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/026.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Hotheaded",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-026s": {
+    "id": "SFD-026s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumble, Hotheaded",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/026s.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumble, Hotheaded",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-027": {
     "id": "SFD-027",
     "isToken": false,
@@ -7571,6 +7679,24 @@
     "type": "Gear",
     "cost": 3,
     "Domain": ["🔴 Fury"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-031": {
+    "id": "SFD-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desert's Call",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/031.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desert's Call",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
   "SFD-032": {
@@ -8331,6 +8457,24 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-070": {
+    "id": "SFD-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wages of Pain (PH)",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/070.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wages of Pain (PH)",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-071": {
     "id": "SFD-071",
     "isToken": false,
@@ -8892,6 +9036,24 @@
     "name": "Punch First",
     "type": "Spell",
     "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-098": {
+    "id": "SFD-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sea Monkey",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/098.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sea Monkey",
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10753,6 +10915,60 @@
     "name": "Ornn, Fire Below the Mountain",
     "type": "Legend",
     "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-190": {
+    "id": "SFD-190",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sunfire Aegis",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/190.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sunfire Aegis",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-191": {
+    "id": "SFD-191",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabadon's Deathcap",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/191.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rabadon's Deathcap",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟢 Calm", "🔵 Mind" ],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-192": {
+    "id": "SFD-192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shurelya's Battlesong",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/192.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shurelya's Battlesong",
+    "type": "Gear",
+    "cost": 4,
     "Domain": ["🟢 Calm", "🔵 Mind" ],
     "Set": ["02 - Spiritforged"]
   },
