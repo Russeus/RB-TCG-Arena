@@ -1094,7 +1094,7 @@
     "name": "Stand United",
     "type": "Spell",
     "cost": 3,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -1149,7 +1149,7 @@
     "name": "Adaptatron",
     "type": "Unit",
     "cost": 4,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -1240,7 +1240,7 @@
     "name": "Poro Herder",
     "type": "Unit",
     "cost": 3,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -1277,7 +1277,7 @@
     "name": "Spirit's Refuge",
     "type": "Gear",
     "cost": 2,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -1584,7 +1584,7 @@
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -1603,7 +1603,7 @@
     "name": "Lee Sin, Ascetic",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"]
   },
@@ -2560,7 +2560,7 @@
     "name": "Arena Bar",
     "type": "Gear",
     "cost": 3,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -2813,7 +2813,7 @@
     "name": "Pit Rookie",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -2868,7 +2868,7 @@
     "name": "Cithria of Cloudfield",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -2905,7 +2905,7 @@
     "name": "Kinkou Monk",
     "type": "Unit",
     "cost": 4,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -3374,7 +3374,7 @@
     "name": "Sett, Brawler",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -3393,7 +3393,7 @@
     "name": "Sett, Brawler",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -4530,7 +4530,7 @@
     "name": "Trifarian Gloryseeker",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -4641,7 +4641,7 @@
     "name": "Peak Guardian",
     "type": "Unit",
     "cost": 6,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -4732,7 +4732,7 @@
     "name": "Vanguard Helm",
     "type": "Gear",
     "cost": 2,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -4859,7 +4859,7 @@
     "name": "Karma, Channeler",
     "type": "Unit",
     "cost": 6,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -5330,7 +5330,7 @@
     "name": "Lee Sin, Blind Monk",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["01 - Origins"]
   },
@@ -5403,7 +5403,7 @@
     "name": "Leona, Radiant Dawn",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -5567,7 +5567,7 @@
     "name": "Showstopper",
     "type": "Spell",
     "cost": 1,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -5803,7 +5803,7 @@
     "name": "Navori Fighting Pit",
     "type": "Battlefields",
     "cost": 0,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"]
   },
@@ -6344,7 +6344,7 @@
     "name": "Leona, Radiant Dawn",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -6363,7 +6363,7 @@
     "name": "Leona, Radiant Dawn",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"]
   },
@@ -6513,15 +6513,15 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"]
   },
-  "OGN-XXX": {
-    "id": "OGN-XXX",
+  "OGN-T-Buff": {
+    "id": "OGN-T-Buff",
     "isToken": true,
     "face": {
       "front": {
         "name": "Buff",
         "type": "Other",
         "cost": 0,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-XXX/full-desktop-2x.avif",
+        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-T-Buff/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
@@ -7135,6 +7135,7 @@
     "name": "Bushwhack",
     "type": "Spell",
     "cost": 2,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7405,6 +7406,7 @@
     "name": "Assembly Rig",
     "type": "Gear",
     "cost": 4,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7423,7 +7425,7 @@
     "name": "Draven, Vanquisher",
     "type": "Unit",
     "cost": 4,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7442,7 +7444,7 @@
     "name": "Draven, Vanquisher",
     "type": "Unit",
     "cost": 4,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"]
   },
@@ -7696,6 +7698,7 @@
     "name": "Desert's Call",
     "type": "Spell",
     "cost": 2,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8020,6 +8023,7 @@
     "name": "Aphelios, Exalted",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8344,7 +8348,7 @@
     "name": "Chemtech Cask",
     "type": "Gear",
     "cost": 1,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8453,7 +8457,7 @@
     "name": "Plundering Poro",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8472,6 +8476,7 @@
     "name": "Wages of Pain",
     "type": "Spell",
     "cost": 3,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8544,6 +8549,7 @@
     "name": "Pickpocket",
     "type": "Unit",
     "cost": 3,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8671,7 +8677,7 @@
     "name": "Card Sharp",
     "type": "Unit",
     "cost": 3,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8798,7 +8804,7 @@
     "name": "World Atlas",
     "type": "Gear",
     "cost": 3,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
@@ -8927,7 +8933,7 @@
     "name": "Buhru Captain",
     "type": "Unit",
     "cost": 3,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9054,6 +9060,7 @@
     "name": "Sea Monkey",
     "type": "Unit",
     "cost": 2,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9108,6 +9115,7 @@
     "name": "Fae Dragon",
     "type": "Unit",
     "cost": 7,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9234,7 +9242,7 @@
     "name": "Warmog's Armor",
     "type": "Gear",
     "cost": 1,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9541,6 +9549,7 @@
     "name": "Black Market Broker",
     "type": "Unit",
     "cost": 3,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9703,7 +9712,7 @@
     "name": "Treasure Hunter",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9776,6 +9785,7 @@
     "name": "Cull",
     "type": "Gear",
     "cost": 1,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10172,6 +10182,7 @@
     "name": "Eminent Benefactor",
     "type": "Unit",
     "cost": 6,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10190,6 +10201,7 @@
     "name": "Eye of the Herald",
     "type": "Gear",
     "cost": 1,
+    "tokens": ["OGN-273"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10208,6 +10220,7 @@
     "name": "Guards!",
     "type": "Spell",
     "cost": 3,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10226,7 +10239,7 @@
     "name": "Honest Broker",
     "type": "Unit",
     "cost": 2,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10263,7 +10276,7 @@
     "name": "Royal Guard",
     "type": "Unit",
     "cost": 4,
-    "tokens": ["SFD-T99"],
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10354,6 +10367,7 @@
     "name": "Blood Money",
     "type": "Spell",
     "cost": 2,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10426,6 +10440,7 @@
     "name": "Rally the Troops",
     "type": "Spell",
     "cost": 2,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10607,7 +10622,7 @@
     "name": "Trove Golem",
     "type": "Unit",
     "cost": 8,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11059,6 +11074,7 @@
     "name": "Azir, Emperor of the Sands",
     "type": "Legend",
     "cost": 0,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟢 Calm", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -11077,6 +11093,7 @@
     "name": "Arise!",
     "type": "Spell",
     "cost": 6,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟢 Calm", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -11131,7 +11148,7 @@
     "name": "Renata Glasc, Chem-Baroness",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -11168,7 +11185,7 @@
     "name": "Sivir, Battle Mistress",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟠 Body", "🟣 Chaos" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -11241,6 +11258,7 @@
     "name": "Emperor's Dais",
     "type": "Battlefields",
     "cost": 0,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11475,6 +11493,7 @@
     "name": "Treasure Hoard",
     "type": "Battlefields",
     "cost": 0,
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11565,6 +11584,7 @@
     "name": "Aphelios, Exalted",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11583,6 +11603,7 @@
     "name": "Aphelios, Exalted",
     "type": "Unit",
     "cost": 4,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11763,7 +11784,7 @@
     "name": "Sett, Brawler",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -11782,7 +11803,7 @@
     "name": "Sett, Brawler",
     "type": "Unit",
     "cost": 5,
-    "tokens": ["OGN-XXX"],
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"]
   },
@@ -12107,6 +12128,7 @@
     "name": "Azir, Emperor of the Sands",
     "type": "Legend",
     "cost": 0,
+    "tokens": ["SFD-T-SandSoldier"],
     "Domain": ["🟢 Calm", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -12143,7 +12165,7 @@
     "name": "Renata Glasc, Chem-Baroness",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind", "🟡 Order" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -12162,7 +12184,7 @@
     "name": "Sivir, Battle Mistress",
     "type": "Legend",
     "cost": 0,
-    "tokens": ["SFD-T03"],
+    "tokens": ["SFD-T-Gold"],
     "Domain": ["🟠 Body", "🟣 Chaos" ],
     "Set": ["02 - Spiritforged"]
   },
@@ -12292,8 +12314,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
-  "SFD-T03": {
-    "id": "SFD-T03",
+  "SFD-T-Gold": {
+    "id": "SFD-T-Gold",
     "isToken": true,
     "face": {
       "front": {
@@ -12328,8 +12350,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"]
   },
-  "SFD-T99": {
-    "id": "SFD-T99",
+  "SFD-T-SandSoldier": {
+    "id": "SFD-T-SandSoldier",
     "isToken": true,
     "face": {
       "front": {
