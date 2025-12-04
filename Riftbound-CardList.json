@@ -9959,6 +9959,60 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-152": {
+    "id": "SFD-152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Financial Owner (PH)",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/152.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Financial Owner (PH)",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-153": {
+    "id": "SFD-153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pioner Eye (PH)",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/153.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pioner Eye (PH)",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-154": {
+    "id": "SFD-154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escort (PH)",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/154.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escort (PH)",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-155": {
     "id": "SFD-155",
     "isToken": false,
@@ -9975,6 +10029,24 @@
     "type": "Unit",
     "cost": 2,
     "tokens": ["SFD-T03"],
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-156": {
+    "id": "SFD-156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laurent Swordsman (PH)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/156.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laurent Swordsman (PH)",
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -9997,6 +10069,42 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-158": {
+    "id": "SFD-158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quicksand Warlock (PH)",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/158.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quicksand Warlock (PH)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-159": {
+    "id": "SFD-159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siege Dog (PH)",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/159.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siege Dog (PH)",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-161": {
     "id": "SFD-161",
     "isToken": false,
@@ -10012,6 +10120,42 @@
     "name": "B.F. Sword",
     "type": "Gear",
     "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-162": {
+    "id": "SFD-162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Money (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/162.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blood Money (PH)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-163": {
+    "id": "SFD-163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Break the Soul (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/163.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Break the Soul (PH)",
+    "type": "Spell",
+    "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
@@ -10048,6 +10192,24 @@
     "name": "Glasc Mixologist",
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-166": {
+    "id": "SFD-166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rally Troops (PH)",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/166.avif",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rally Troops (PH)",
+    "type": "Spell",
+    "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"]
   },
