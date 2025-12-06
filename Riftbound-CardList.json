@@ -11596,7 +11596,7 @@
         "name": "Aphelios, Exalted",
         "type": "Unit",
         "cost": 4,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/224s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/58bb3f7a73a8aa38159cc63439e0483ca2574157-744x1039.png?auto=format&fit=fill&q=80&w=744",
         "isHorizontal": false
       }
     },
@@ -11697,6 +11697,42 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"]
   },
+  "SFD-228": {
+    "id": "SFD-228",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bard, Mercurial",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9c33fbc2dc78bb6af3d31fab0c0ca58e1141141d-744x1039.png?auto=format&fit=fill&q=80&w=744",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bard, Mercurial",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-228s": {
+    "id": "SFD-228s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bard, Mercurial",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1b7d48edee47c3eec4e5b554e47359a395777c70-744x1039.png?auto=format&fit=fill&q=80&w=744",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bard, Mercurial",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["02 - Spiritforged"]
+  },
   "SFD-229": {
     "id": "SFD-229",
     "isToken": false,
@@ -11723,7 +11759,7 @@
         "name": "Teemo, Strategist",
         "type": "Unit",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/230.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f0962b840d228ad551fb9334fe9bdf76d209e7d-744x1039.png?auto=format&fit=fill&q=80&w=744",
         "isHorizontal": false
       }
     },
@@ -11741,7 +11777,7 @@
         "name": "Teemo, Strategist",
         "type": "Unit",
         "cost": 2,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/230s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5e31f0ea037604aa531d84c1d56d26f255210b7c-744x1039.png?auto=format&fit=fill&q=80&w=744",
         "isHorizontal": false
       }
     },
@@ -11869,7 +11905,7 @@
         "name": "Yasuo, Windrider",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/235.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/74021c17acc45cf743609a825490a0e6dd7466b5-744x1039.png?auto=format&fit=fill&q=80&w=744",
         "isHorizontal": false
       }
     },
@@ -11887,7 +11923,7 @@
         "name": "Yasuo, Windrider",
         "type": "Unit",
         "cost": 5,
-        "image": "https://russeus.github.io/RB-TCG-Arena/Images/SFD-avif/235s.avif",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/40575a59f02c431223ef484edabdf7bd8cb28381-744x1039.png?auto=format&fit=fill&q=80&w=744",
         "isHorizontal": false
       }
     },
@@ -11928,6 +11964,42 @@
       }
     },
     "name": "Darius, Executioner",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-237": {
+    "id": "SFD-237",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karma, Channeler",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ba0113d449813c94534ae0e74f3ef38f9b8010c2-744x1039.png?auto=format&fit=fill&q=80&w=744",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karma, Channeler",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["02 - Spiritforged"]
+  },
+  "SFD-237s": {
+    "id": "SFD-237s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karma, Channeler",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2e2c1cb4016543e3288da2dac3ecc3faf8a98927-744x1039.png?auto=format&fit=fill&q=80&w=744",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karma, Channeler",
     "type": "Unit",
     "cost": 6,
     "Domain": ["🟡 Order"],
