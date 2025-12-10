@@ -51,11 +51,11 @@
   "gameplay": {
     "Classic": {
             "mulligan": {
-                "info": "testeando nuevo mulligan",
+                "info": "Choose up to 2 cards to Recycle, then manually draw that many.",
                 "startingHandSize": 4,
                 "drawNewHand": false,
                 "putSelectionAtBottom": true,
-                "drawNewSelectedCards": true,
+                "drawNewSelectedCards": false,
                 "triggeredByButton": true
             },
             "newTurn": {
@@ -395,11 +395,12 @@
     },
     "Multiplayer": {
             "mulligan": {
-                "info": "",
-                "startingHandSize": 0,
+                "info": "Choose up to 2 cards to Recycle, then manually draw that many.",
+                "startingHandSize": 4,
                 "drawNewHand": false,
-                "putSelectionAtBottom": false,
-                "drawNewSelectedCards": false
+                "putSelectionAtBottom": true,
+                "drawNewSelectedCards": false,
+                "triggeredByButton": true
             },
             "newTurn": {
                 "drawOnStart": false,
