@@ -51,11 +51,12 @@
   "gameplay": {
     "Classic": {
             "mulligan": {
-                "info": "",
-                "startingHandSize": 0,
+                "info": "testeando nuevo mulligan",
+                "startingHandSize": 4,
                 "drawNewHand": false,
-                "putSelectionAtBottom": false,
-                "drawNewSelectedCards": false
+                "putSelectionAtBottom": true,
+                "drawNewSelectedCards": true,
+                "triggeredByButton": true
             },
             "newTurn": {
                 "drawOnStart": false,
