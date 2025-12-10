@@ -1368,5 +1368,285 @@
       }
     ]
   }
+},
+{
+  "title": "Fiora Champion Deck (Precon)",
+  "id": "09b00538-66b9-45a7-976d-6b4e963b4d8c",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 56,
+  "createdAt": "2025-12-10T15:22:00.287Z",
+  "lastModifiedAt": "2025-12-10T15:26:38.648Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Runes",
+      "Battlefields"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "SFD-205"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "SFD-180"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "SFD-110"
+      },
+      {
+        "count": 2,
+        "id": "SFD-113"
+      },
+      {
+        "count": 1,
+        "id": "SFD-116"
+      },
+      {
+        "count": 2,
+        "id": "SFD-156"
+      },
+      {
+        "count": 2,
+        "id": "SFD-167"
+      },
+      {
+        "count": 2,
+        "id": "SFD-157"
+      },
+      {
+        "count": 2,
+        "id": "SFD-099"
+      },
+      {
+        "count": 2,
+        "id": "SFD-093"
+      },
+      {
+        "count": 2,
+        "id": "OGN-136"
+      },
+      {
+        "count": 2,
+        "id": "SFD-103"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "SFD-172"
+      },
+      {
+        "count": 3,
+        "id": "SFD-161"
+      },
+      {
+        "count": 3,
+        "id": "SFD-095"
+      },
+      {
+        "count": 3,
+        "id": "SFD-108"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-229"
+      },
+      {
+        "count": 2,
+        "id": "SFD-097"
+      },
+      {
+        "count": 3,
+        "id": "SFD-107"
+      },
+      {
+        "count": 2,
+        "id": "SFD-106"
+      },
+      {
+        "count": 1,
+        "id": "SFD-206"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-126"
+      },
+      {
+        "count": 6,
+        "id": "OGN-214"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "SFD-213"
+      },
+      {
+        "count": 1,
+        "id": "SFD-218"
+      },
+      {
+        "count": 1,
+        "id": "SFD-221"
+      }
+    ]
+  }
+},
+{
+  "title": "Rumble Champion Deck (Precon)",
+  "id": "5fb5a155-b194-4b18-8778-b710eba2fac2",
+  "game": "Riftbound",
+  "format": [
+    "Classic",
+    "Multiplayer"
+  ],
+  "cardCount": 56,
+  "createdAt": "2025-12-10T15:27:16.551Z",
+  "lastModifiedAt": "2025-12-10T15:31:13.379Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Chosen_Champion",
+      "Legend",
+      "Spell",
+      "Unit",
+      "Gear",
+      "Runes",
+      "Battlefields"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "SFD-181"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "SFD-089"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 1,
+        "id": "SFD-182"
+      },
+      {
+        "count": 3,
+        "id": "OGN-024"
+      },
+      {
+        "count": 2,
+        "id": "OGN-083"
+      },
+      {
+        "count": 1,
+        "id": "OGN-105"
+      },
+      {
+        "count": 2,
+        "id": "SFD-070"
+      },
+      {
+        "count": 2,
+        "id": "SFD-066"
+      },
+      {
+        "count": 3,
+        "id": "SFD-076"
+      },
+      {
+        "count": 2,
+        "id": "OGN-095"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "SFD-026"
+      },
+      {
+        "count": 2,
+        "id": "SFD-021"
+      },
+      {
+        "count": 3,
+        "id": "SFD-007"
+      },
+      {
+        "count": 3,
+        "id": "OGN-016"
+      },
+      {
+        "count": 3,
+        "id": "SFD-069"
+      },
+      {
+        "count": 2,
+        "id": "SFD-071"
+      },
+      {
+        "count": 3,
+        "id": "SFD-065"
+      },
+      {
+        "count": 3,
+        "id": "SFD-062"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "SFD-019"
+      },
+      {
+        "count": 1,
+        "id": "SFD-022"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-089"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "SFD-212"
+      },
+      {
+        "count": 1,
+        "id": "SFD-215"
+      },
+      {
+        "count": 1,
+        "id": "SFD-220"
+      }
+    ]
+  }
 }
 ]
