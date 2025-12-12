@@ -400,7 +400,8 @@
                 "drawNewHand": false,
                 "putSelectionAtBottom": true,
                 "drawNewSelectedCards": false,
-                "triggeredByButton": true
+                "triggeredByButton": true,
+                "_NO_SHUFFLE": true
             },
             "newTurn": {
                 "drawOnStart": false,
