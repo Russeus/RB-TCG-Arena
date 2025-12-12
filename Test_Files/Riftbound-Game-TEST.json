@@ -399,9 +399,9 @@
                 "startingHandSize": 4,
                 "drawNewHand": false,
                 "putSelectionAtBottom": true,
+                "_NO_SHUFFLE": true,
                 "drawNewSelectedCards": false,
-                "triggeredByButton": true,
-                "_NO_SHUFFLE": true
+                "triggeredByButton": true
             },
             "newTurn": {
                 "drawOnStart": false,
