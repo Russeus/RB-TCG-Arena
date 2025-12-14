@@ -90,6 +90,11 @@
                   "id": "deflect-token",
                   "name": "Deflect",
                   "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
+              },
+              {
+                  "id": "assault3-token",
+                  "name": "Assault 3",
+                  "image": "https://lh3.googleusercontent.com/d/1ypckqGFNbtNMCHgEqKhxqny8gd2Dc5nk"
               }
           ],
             "sections": {
