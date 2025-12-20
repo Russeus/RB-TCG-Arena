@@ -59,6 +59,17 @@
                 },
                 "categories": [
                     {
+                        "category": "Legend",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Chosen_Champion",
+                        "min": 1,
+                        "max": 1
+                    },
+                    {
                         "category": "Battlefields",
                         "min": 3,
                         "max": 3,
@@ -67,17 +78,8 @@
                     {
                         "category": "Runes",
                         "min": 12,
-                        "max": 12
-                    },
-                    {
-                        "category": "Legend",
-                        "min": 1,
-                        "max": 1
-                    },
-                    {
-                        "category": "Chosen_Champion",
-                        "min": 1,
-                        "max": 1
+                        "max": 12,
+                        "maxPerCard": 12
                     }
                 ]
             }
