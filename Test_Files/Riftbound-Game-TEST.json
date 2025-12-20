@@ -37,16 +37,51 @@
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
-        ]
+        ],
+        "deckRuleset": "Strandard"
       },
       {
         "title": "Multiplayer",
         "gameplay": "Multiplayer",
         "customCategories": [
           "Chosen_Champion"
-        ]
+        ],
+        "deckRuleset": "Strandard"
       }
-    ]
+    ],
+    "deckRulesets": {
+            "Strandard": {
+                "reversedLegality": true,
+                "general": {
+                    "min": 56,
+                    "max": 56,
+                    "maxPerCard": 3
+                },
+                "categories": [
+                    {
+                        "category": "Battlefields",
+                        "min": 3,
+                        "max": 3,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Runes",
+                        "min": 12,
+                        "max": 12
+                    },
+                    {
+                        "category": "Legend",
+                        "min": 1,
+                        "max": 1
+                    },
+                    {
+                        "category": "Chosen_Champion",
+                        "min": 1,
+                        "max": 1
+                    }
+                ]
+            }
+        }
   },
   "gameplay": {
     "Classic": {
