@@ -3924,14 +3924,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Infinite Mindsplitter",
+        "name": "Mindsplitter",
         "type": "Unit",
         "cost": 7,
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-192/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
-    "name": "Infinite Mindsplitter",
+    "name": "Mindsplitter",
     "type": "Unit",
     "cost": 7,
     "Domain": ["🟣 Chaos"],
