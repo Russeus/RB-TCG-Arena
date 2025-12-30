@@ -299,7 +299,7 @@
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
                         "noQuickActions": true,
-                        "enterTapped": false,
+                        "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
