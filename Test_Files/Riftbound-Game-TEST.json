@@ -298,7 +298,7 @@
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
-                        "noQuickActions": false,
+                        "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
@@ -310,7 +310,7 @@
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "exileHidden",
+                                "destination": "ExileHidden",
                                 "position": "BOTTOM"
                             },
                             "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
