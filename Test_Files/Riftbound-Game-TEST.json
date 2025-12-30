@@ -293,7 +293,7 @@
                         "title": "Battlefields",
                         "isHidden": "opponent-only",
                         "height": "12",
-                        "alignment": "END",
+                        "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
@@ -310,7 +310,8 @@
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "exileHidden"
+                                "destination": "exileHidden",
+                                "position": "TOP"
                             },
                             "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
                         }
