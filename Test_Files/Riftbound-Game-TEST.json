@@ -306,6 +306,14 @@
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
+                        },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "exileHidden",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
                         }
                     },
                     "myBF2": {
