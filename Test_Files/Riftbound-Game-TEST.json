@@ -293,7 +293,7 @@
                         "title": "Battlefields",
                         "isHidden": "opponent-only",
                         "height": "12",
-                        "alignment": "CENTER",
+                        "alignment": "END",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
@@ -310,10 +310,9 @@
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "exileHidden",
-                                "position": "BOTTOM"
+                                "destination": "exileHidden"
                             },
-                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
                         }
                     },
                     "myBF2": {
