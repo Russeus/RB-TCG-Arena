@@ -293,12 +293,12 @@
                         "title": "Battlefields",
                         "isHidden": "opponent-only",
                         "height": "12",
-                        "alignment": "START",
+                        "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Chosen Battlefield",
-                        "noQuickActions": true,
+                        "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
@@ -311,7 +311,7 @@
                             "action": "MOVE",
                             "actionData": {
                                 "destination": "exileHidden",
-                                "position": "TOP"
+                                "position": "BOTTOM"
                             },
                             "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
                         }
