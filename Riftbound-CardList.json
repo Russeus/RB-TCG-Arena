@@ -2109,7 +2109,8 @@
     "name": "Ravenbloom Student",
     "type": "Unit",
     "cost": 2,
-    "Domain": ["🔵 Mind"]
+    "Domain": ["🔵 Mind"],
+    "Set": ["01 - Origins"]
   },
   "OGN-104": {
     "id": "OGN-104",
