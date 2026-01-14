@@ -91,6 +91,16 @@
                   "id": "deflect-token",
                   "name": "Deflect",
                   "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
+              },
+              {
+                  "id": "gaking-token",
+                  "name": "Gaking",
+                  "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
+              },
+              {
+                  "id": "tank-token",
+                  "name": "Tank",
+                  "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
               }
           ],
             "sections": {
@@ -436,6 +446,16 @@
                   "id": "deflect-token",
                   "name": "Deflect",
                   "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
+              },
+              {
+                  "id": "gaking-token",
+                  "name": "Gaking",
+                  "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
+              },
+              {
+                  "id": "tank-token",
+                  "name": "Tank",
+                  "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
               }
           ],
             "sections": {
