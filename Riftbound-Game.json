@@ -80,6 +80,11 @@
                         "min": 12,
                         "max": 12,
                         "maxPerCard": 12
+                    },
+                    {
+                        "category": "Sideboard",
+                        "min": 0,
+                        "max": 8
                     }
                 ]
             }
