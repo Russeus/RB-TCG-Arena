@@ -37,16 +37,53 @@
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
-        ]
+        ],
+        "deckRuleset": "Strandard"
       },
       {
         "title": "Multiplayer",
         "gameplay": "Multiplayer",
         "customCategories": [
           "Chosen_Champion"
-        ]
+        ],
+        "deckRuleset": "Strandard"
       }
-    ]
+    ],
+    "deckRulesets": {
+            "Strandard": {
+                "reversedLegality": true,
+                "general": {
+                    "min": 56,
+                    "max": 56,
+                    "maxPerCard": 3
+                },
+                "categories": [
+                    {
+                        "category": "Legend",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Chosen_Champion",
+                        "min": 1,
+                        "max": 1
+                    },
+                    {
+                        "category": "Battlefields",
+                        "min": 3,
+                        "max": 3,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Runes",
+                        "min": 12,
+                        "max": 12,
+                        "maxPerCard": 12
+                    }
+                ]
+            }
+        }
   },
   "gameplay": {
     "Classic": {
@@ -93,8 +130,8 @@
                   "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
               },
               {
-                  "id": "gaking-token",
-                  "name": "Gaking",
+                  "id": "ganking-token",
+                  "name": "Ganking",
                   "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
               },
               {
@@ -275,6 +312,14 @@
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
+                        },
+                        "reverseZOrder": true,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "ExileHidden"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
                         }
                     },
                     "myBF2": {
@@ -660,6 +705,14 @@
                         "showHiddenCardInHistory": false,
                         "cardStyle": {
                             "marginTop": "-2vh"
+                        },
+                        "reverseZOrder": true,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "ExileHidden"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
                         }
                     },
                     "myBF2": {
