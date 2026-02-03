@@ -38,7 +38,7 @@
         "customCategories": [
           "Chosen_Champion"
         ],
-        "deckRuleset": "Strandard"
+        "deckRuleset": "Standard"
       },
       {
         "title": "Multiplayer",
@@ -46,11 +46,11 @@
         "customCategories": [
           "Chosen_Champion"
         ],
-        "deckRuleset": "Strandard"
+        "deckRuleset": "Standard"
       }
     ],
     "deckRulesets": {
-            "Strandard": {
+            "Standard": {
                 "reversedLegality": true,
                 "general": {
                     "min": 56,
