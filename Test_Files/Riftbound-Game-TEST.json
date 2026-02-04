@@ -41,11 +41,11 @@
         "legalityCode": "STD"
       },
       {
-        "title": "Unreleased",
+        "title": "Legacy",
         "gameplay": "Classic",
         "customCategories": ["Chosen_Champion"],
         "deckRuleset": "Standard",
-        "legalityCode": "UNR"
+        "legalityCode": "LEG"
       },
       {
         "title": "Multiplayer",

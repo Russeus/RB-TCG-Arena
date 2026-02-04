@@ -17,8 +17,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-002": {
@@ -39,8 +39,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-003": {
@@ -61,8 +61,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-004": {
@@ -83,8 +83,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-005": {
@@ -105,8 +105,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-006": {
@@ -127,8 +127,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-007": {
@@ -149,8 +149,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-007a": {
@@ -171,8 +171,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-007b": {
@@ -193,8 +193,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-008": {
@@ -215,8 +215,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-009": {
@@ -237,8 +237,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-010": {
@@ -259,8 +259,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-011": {
@@ -281,8 +281,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-012": {
@@ -303,8 +303,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-013": {
@@ -325,8 +325,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-014": {
@@ -347,8 +347,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-015": {
@@ -369,8 +369,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-016": {
@@ -391,8 +391,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-017": {
@@ -413,8 +413,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-018": {
@@ -435,8 +435,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-019": {
@@ -457,8 +457,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-020": {
@@ -479,8 +479,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-021": {
@@ -501,8 +501,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-022": {
@@ -523,8 +523,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-023": {
@@ -545,8 +545,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-024": {
@@ -567,8 +567,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-025": {
@@ -589,8 +589,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-026": {
@@ -611,8 +611,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-027": {
@@ -633,8 +633,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-027a": {
@@ -655,8 +655,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-028": {
@@ -677,8 +677,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-029": {
@@ -699,8 +699,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-030": {
@@ -721,8 +721,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-030a": {
@@ -743,8 +743,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-031": {
@@ -765,8 +765,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-032": {
@@ -787,8 +787,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-033": {
@@ -809,8 +809,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-034": {
@@ -831,8 +831,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-035": {
@@ -853,8 +853,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-036": {
@@ -875,8 +875,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-037": {
@@ -897,8 +897,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-038": {
@@ -919,8 +919,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-039": {
@@ -941,8 +941,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-039a": {
@@ -963,8 +963,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-040": {
@@ -985,8 +985,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-041": {
@@ -1007,8 +1007,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-041a": {
@@ -1029,8 +1029,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-042": {
@@ -1051,8 +1051,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-042a": {
@@ -1073,8 +1073,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-042b": {
@@ -1095,8 +1095,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-043": {
@@ -1117,8 +1117,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-044": {
@@ -1139,8 +1139,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-045": {
@@ -1161,8 +1161,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-046": {
@@ -1183,8 +1183,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-047": {
@@ -1205,8 +1205,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-048": {
@@ -1227,8 +1227,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-049": {
@@ -1249,8 +1249,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-050": {
@@ -1271,8 +1271,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-051": {
@@ -1293,8 +1293,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-052": {
@@ -1315,8 +1315,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-053": {
@@ -1340,8 +1340,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-054": {
@@ -1362,8 +1362,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-055": {
@@ -1384,8 +1384,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-056": {
@@ -1409,8 +1409,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-057": {
@@ -1431,8 +1431,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-058": {
@@ -1453,8 +1453,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-059": {
@@ -1475,8 +1475,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-060": {
@@ -1497,8 +1497,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-061": {
@@ -1522,8 +1522,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-062": {
@@ -1544,8 +1544,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-063": {
@@ -1569,8 +1569,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-064": {
@@ -1591,8 +1591,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-065": {
@@ -1613,8 +1613,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-066": {
@@ -1635,8 +1635,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-066a": {
@@ -1657,8 +1657,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-067": {
@@ -1679,8 +1679,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-068": {
@@ -1701,8 +1701,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-069": {
@@ -1723,8 +1723,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-070": {
@@ -1745,8 +1745,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-071": {
@@ -1767,8 +1767,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-072": {
@@ -1789,8 +1789,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-073": {
@@ -1811,8 +1811,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-074": {
@@ -1833,8 +1833,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-075": {
@@ -1855,8 +1855,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-076": {
@@ -1877,8 +1877,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-076a": {
@@ -1899,8 +1899,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-077": {
@@ -1921,8 +1921,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-078": {
@@ -1946,8 +1946,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-078a": {
@@ -1971,8 +1971,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-079": {
@@ -1993,8 +1993,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-079a": {
@@ -2015,8 +2015,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-080": {
@@ -2037,8 +2037,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-081": {
@@ -2059,8 +2059,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-082": {
@@ -2081,8 +2081,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-083": {
@@ -2103,8 +2103,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-084": {
@@ -2125,8 +2125,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-085": {
@@ -2147,8 +2147,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-086": {
@@ -2169,8 +2169,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-087": {
@@ -2191,8 +2191,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-088": {
@@ -2213,8 +2213,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-089": {
@@ -2235,8 +2235,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-089a": {
@@ -2257,8 +2257,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-089b": {
@@ -2279,8 +2279,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-090": {
@@ -2301,8 +2301,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-091": {
@@ -2323,8 +2323,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-092": {
@@ -2345,8 +2345,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-093": {
@@ -2367,8 +2367,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-094": {
@@ -2392,8 +2392,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-095": {
@@ -2414,8 +2414,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-096": {
@@ -2436,8 +2436,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-097": {
@@ -2458,8 +2458,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-098": {
@@ -2480,8 +2480,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-099": {
@@ -2502,8 +2502,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-100": {
@@ -2524,8 +2524,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-101": {
@@ -2546,8 +2546,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-102": {
@@ -2568,8 +2568,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-103": {
@@ -2590,8 +2590,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-104": {
@@ -2612,8 +2612,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-105": {
@@ -2634,8 +2634,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-106": {
@@ -2659,8 +2659,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-107": {
@@ -2681,8 +2681,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-108": {
@@ -2703,8 +2703,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-109": {
@@ -2725,8 +2725,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-110": {
@@ -2747,8 +2747,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-111": {
@@ -2769,8 +2769,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-112": {
@@ -2791,8 +2791,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-112a": {
@@ -2813,8 +2813,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-113": {
@@ -2835,8 +2835,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-114": {
@@ -2857,8 +2857,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-115": {
@@ -2879,8 +2879,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-116": {
@@ -2901,8 +2901,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-117": {
@@ -2926,8 +2926,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-117a": {
@@ -2948,8 +2948,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-118": {
@@ -2970,8 +2970,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-119": {
@@ -2992,8 +2992,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-119a": {
@@ -3014,8 +3014,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-120": {
@@ -3036,8 +3036,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-121": {
@@ -3058,8 +3058,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-121a": {
@@ -3080,8 +3080,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-122": {
@@ -3102,8 +3102,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-123": {
@@ -3124,8 +3124,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-124": {
@@ -3149,8 +3149,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-125": {
@@ -3171,8 +3171,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-126": {
@@ -3193,8 +3193,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-126a": {
@@ -3215,8 +3215,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-126b": {
@@ -3237,8 +3237,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-127": {
@@ -3259,8 +3259,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-128": {
@@ -3281,8 +3281,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-129": {
@@ -3303,8 +3303,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-130": {
@@ -3325,8 +3325,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-131": {
@@ -3347,8 +3347,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-132": {
@@ -3369,8 +3369,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-133": {
@@ -3391,8 +3391,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-134": {
@@ -3413,8 +3413,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-135": {
@@ -3435,8 +3435,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-136": {
@@ -3460,8 +3460,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-137": {
@@ -3482,8 +3482,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-138": {
@@ -3504,8 +3504,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-139": {
@@ -3529,8 +3529,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-140": {
@@ -3551,8 +3551,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-141": {
@@ -3576,8 +3576,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-142": {
@@ -3598,8 +3598,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-143": {
@@ -3620,8 +3620,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-144": {
@@ -3642,8 +3642,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-145": {
@@ -3664,8 +3664,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-146": {
@@ -3686,8 +3686,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-147": {
@@ -3708,8 +3708,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-148": {
@@ -3730,8 +3730,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-149": {
@@ -3752,8 +3752,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-150": {
@@ -3774,8 +3774,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-151": {
@@ -3796,8 +3796,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-151a": {
@@ -3818,8 +3818,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-152": {
@@ -3840,8 +3840,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-153": {
@@ -3862,8 +3862,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-154": {
@@ -3884,8 +3884,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-155": {
@@ -3906,8 +3906,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-156": {
@@ -3928,8 +3928,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-157": {
@@ -3950,8 +3950,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-158": {
@@ -3972,8 +3972,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-158a": {
@@ -3994,8 +3994,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-159": {
@@ -4016,8 +4016,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-160": {
@@ -4038,8 +4038,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-161": {
@@ -4060,8 +4060,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-162": {
@@ -4082,8 +4082,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-162a": {
@@ -4104,8 +4104,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-163": {
@@ -4126,8 +4126,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-164": {
@@ -4151,8 +4151,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-164a": {
@@ -4176,8 +4176,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-165": {
@@ -4198,8 +4198,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-166": {
@@ -4220,8 +4220,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-166a": {
@@ -4242,8 +4242,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-166b": {
@@ -4264,8 +4264,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-167": {
@@ -4286,8 +4286,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-168": {
@@ -4308,8 +4308,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-169": {
@@ -4330,8 +4330,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-170": {
@@ -4352,8 +4352,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-171": {
@@ -4374,8 +4374,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-172": {
@@ -4396,8 +4396,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-173": {
@@ -4418,8 +4418,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-174": {
@@ -4440,8 +4440,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-175": {
@@ -4462,8 +4462,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-176": {
@@ -4484,8 +4484,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-177": {
@@ -4506,8 +4506,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-178": {
@@ -4528,8 +4528,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-179": {
@@ -4550,8 +4550,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-180": {
@@ -4572,8 +4572,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-181": {
@@ -4594,8 +4594,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-182": {
@@ -4616,8 +4616,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-183": {
@@ -4638,8 +4638,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-184": {
@@ -4660,8 +4660,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-185": {
@@ -4682,8 +4682,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-186": {
@@ -4704,8 +4704,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-187": {
@@ -4726,8 +4726,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-188": {
@@ -4748,8 +4748,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-189": {
@@ -4770,8 +4770,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-190": {
@@ -4792,8 +4792,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-191": {
@@ -4814,8 +4814,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-192": {
@@ -4836,8 +4836,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-193": {
@@ -4858,8 +4858,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-193a": {
@@ -4880,8 +4880,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-193b": {
@@ -4902,8 +4902,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-194": {
@@ -4924,8 +4924,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-195": {
@@ -4946,8 +4946,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-196": {
@@ -4968,8 +4968,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-197": {
@@ -4990,8 +4990,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-197a": {
@@ -5012,8 +5012,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-197b": {
@@ -5034,8 +5034,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-198": {
@@ -5056,8 +5056,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-199": {
@@ -5078,8 +5078,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-200": {
@@ -5100,8 +5100,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-201": {
@@ -5122,8 +5122,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-202": {
@@ -5144,8 +5144,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-202a": {
@@ -5166,8 +5166,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-203": {
@@ -5188,8 +5188,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-204": {
@@ -5210,8 +5210,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-205": {
@@ -5232,8 +5232,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-205a": {
@@ -5254,8 +5254,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-206": {
@@ -5276,8 +5276,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-207": {
@@ -5298,8 +5298,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-208": {
@@ -5320,8 +5320,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-209": {
@@ -5342,8 +5342,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-210": {
@@ -5364,8 +5364,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-211": {
@@ -5389,8 +5389,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-212": {
@@ -5414,8 +5414,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-213": {
@@ -5436,8 +5436,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-214": {
@@ -5458,8 +5458,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-214a": {
@@ -5480,8 +5480,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-214b": {
@@ -5502,8 +5502,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-215": {
@@ -5524,8 +5524,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-216": {
@@ -5546,8 +5546,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-217": {
@@ -5571,8 +5571,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-218": {
@@ -5596,8 +5596,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-219": {
@@ -5618,8 +5618,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-220": {
@@ -5640,8 +5640,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-221": {
@@ -5662,8 +5662,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-222": {
@@ -5687,8 +5687,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-223": {
@@ -5712,8 +5712,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-224": {
@@ -5734,8 +5734,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-225": {
@@ -5756,8 +5756,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-226": {
@@ -5778,8 +5778,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-227": {
@@ -5800,8 +5800,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-228": {
@@ -5825,8 +5825,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-229": {
@@ -5847,8 +5847,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-230": {
@@ -5869,8 +5869,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-231": {
@@ -5891,8 +5891,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-232": {
@@ -5913,8 +5913,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-233": {
@@ -5935,8 +5935,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-234": {
@@ -5957,8 +5957,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-235": {
@@ -5982,8 +5982,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-236": {
@@ -6004,8 +6004,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-237": {
@@ -6026,8 +6026,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-238": {
@@ -6048,8 +6048,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-238a": {
@@ -6070,8 +6070,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-239": {
@@ -6095,8 +6095,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-240": {
@@ -6117,8 +6117,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-240a": {
@@ -6139,8 +6139,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-241": {
@@ -6161,8 +6161,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-242": {
@@ -6183,8 +6183,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-243": {
@@ -6205,8 +6205,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-243a": {
@@ -6227,8 +6227,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-244": {
@@ -6249,8 +6249,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-245": {
@@ -6271,8 +6271,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-246": {
@@ -6296,8 +6296,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-246a": {
@@ -6318,8 +6318,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-247": {
@@ -6340,8 +6340,8 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-248": {
@@ -6362,8 +6362,8 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-249": {
@@ -6384,8 +6384,8 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-250": {
@@ -6406,8 +6406,8 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-251": {
@@ -6428,8 +6428,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-252": {
@@ -6450,8 +6450,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-253": {
@@ -6472,8 +6472,8 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-254": {
@@ -6494,8 +6494,8 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-255": {
@@ -6516,8 +6516,8 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-256": {
@@ -6538,8 +6538,8 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-257": {
@@ -6563,8 +6563,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-258": {
@@ -6585,8 +6585,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-259": {
@@ -6607,8 +6607,8 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-260": {
@@ -6629,8 +6629,8 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-261": {
@@ -6654,8 +6654,8 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-262": {
@@ -6676,8 +6676,8 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-263": {
@@ -6698,8 +6698,8 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-264": {
@@ -6720,8 +6720,8 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-265": {
@@ -6745,8 +6745,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-266": {
@@ -6767,8 +6767,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-267": {
@@ -6789,8 +6789,8 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-268": {
@@ -6811,8 +6811,8 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-269": {
@@ -6833,8 +6833,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-270": {
@@ -6858,8 +6858,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-271": {
@@ -6880,8 +6880,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-272": {
@@ -6902,8 +6902,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-273": {
@@ -6924,8 +6924,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-274": {
@@ -6946,8 +6946,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-275": {
@@ -6971,8 +6971,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-276": {
@@ -6993,8 +6993,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-277": {
@@ -7015,8 +7015,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-278": {
@@ -7037,8 +7037,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-279": {
@@ -7059,8 +7059,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-280": {
@@ -7081,8 +7081,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-281": {
@@ -7103,8 +7103,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-282": {
@@ -7125,8 +7125,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-283": {
@@ -7150,8 +7150,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-284": {
@@ -7172,8 +7172,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-285": {
@@ -7194,8 +7194,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-286": {
@@ -7216,8 +7216,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-287": {
@@ -7238,8 +7238,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-288": {
@@ -7260,8 +7260,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-289": {
@@ -7282,8 +7282,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-290": {
@@ -7304,8 +7304,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-291": {
@@ -7326,8 +7326,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-292": {
@@ -7348,8 +7348,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-293": {
@@ -7370,8 +7370,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-294": {
@@ -7392,8 +7392,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-295": {
@@ -7414,8 +7414,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-296": {
@@ -7436,8 +7436,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-297": {
@@ -7458,8 +7458,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-298": {
@@ -7480,8 +7480,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-299": {
@@ -7502,8 +7502,8 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-299s": {
@@ -7524,8 +7524,8 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-300": {
@@ -7546,8 +7546,8 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-300s": {
@@ -7568,8 +7568,8 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-301": {
@@ -7590,8 +7590,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-301s": {
@@ -7612,8 +7612,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-302": {
@@ -7634,8 +7634,8 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-302s": {
@@ -7656,8 +7656,8 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-303": {
@@ -7678,8 +7678,8 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-303s": {
@@ -7700,8 +7700,8 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-304": {
@@ -7722,8 +7722,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-304s": {
@@ -7744,8 +7744,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-305": {
@@ -7766,8 +7766,8 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-305s": {
@@ -7788,8 +7788,8 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-306": {
@@ -7813,8 +7813,8 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-306s": {
@@ -7838,8 +7838,8 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-307": {
@@ -7860,8 +7860,8 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-307s": {
@@ -7882,8 +7882,8 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-308": {
@@ -7907,8 +7907,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-308s": {
@@ -7932,8 +7932,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-309": {
@@ -7954,8 +7954,8 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-309s": {
@@ -7976,8 +7976,8 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-310": {
@@ -7998,8 +7998,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-310s": {
@@ -8020,8 +8020,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGN-T-Buff": {
@@ -8042,8 +8042,8 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-001": {
@@ -8064,8 +8064,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-002": {
@@ -8086,8 +8086,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-003": {
@@ -8108,8 +8108,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-004": {
@@ -8130,8 +8130,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-005": {
@@ -8152,8 +8152,8 @@
     "Domain": ["🟢 Calm"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-006": {
@@ -8174,8 +8174,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-007": {
@@ -8196,8 +8196,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-008": {
@@ -8218,8 +8218,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-009": {
@@ -8240,8 +8240,8 @@
     "Domain": ["🟠 Body"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-010": {
@@ -8262,8 +8262,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-011": {
@@ -8284,8 +8284,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-012": {
@@ -8306,8 +8306,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-013": {
@@ -8328,8 +8328,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-014": {
@@ -8350,8 +8350,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-015": {
@@ -8375,8 +8375,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-016": {
@@ -8397,8 +8397,8 @@
     "Domain": ["🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-017": {
@@ -8419,8 +8419,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-018": {
@@ -8441,8 +8441,8 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-019": {
@@ -8463,8 +8463,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-020": {
@@ -8485,8 +8485,8 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-021": {
@@ -8507,8 +8507,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-022": {
@@ -8529,8 +8529,8 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-023": {
@@ -8551,8 +8551,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "OGS-024": {
@@ -8573,8 +8573,8 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["00 - Proving Grounds"],
     "_legal": {
-      "STD": true,
-      "UNR": true
+      "LEG": true,
+      "STD": true
     }
   },
   "ARC-001": {
@@ -8697,7 +8697,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-002": {
@@ -8718,7 +8718,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-003": {
@@ -8739,7 +8739,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-004": {
@@ -8763,7 +8763,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-005": {
@@ -8784,7 +8784,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-006": {
@@ -8805,7 +8805,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-007": {
@@ -8826,7 +8826,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-008": {
@@ -8847,7 +8847,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-009": {
@@ -8868,7 +8868,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-010": {
@@ -8889,7 +8889,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-011": {
@@ -8910,7 +8910,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-012": {
@@ -8931,7 +8931,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-013": {
@@ -8952,7 +8952,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-014": {
@@ -8973,7 +8973,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-015": {
@@ -8994,7 +8994,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-016": {
@@ -9015,7 +9015,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-017": {
@@ -9036,7 +9036,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-018": {
@@ -9057,7 +9057,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-019": {
@@ -9081,7 +9081,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-020": {
@@ -9105,7 +9105,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-020a": {
@@ -9129,7 +9129,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-021": {
@@ -9153,7 +9153,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-022": {
@@ -9174,7 +9174,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-023": {
@@ -9195,7 +9195,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-024": {
@@ -9216,7 +9216,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-025": {
@@ -9237,7 +9237,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-026": {
@@ -9258,7 +9258,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-026s": {
@@ -9279,7 +9279,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-027": {
@@ -9300,7 +9300,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-028": {
@@ -9321,7 +9321,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-028a": {
@@ -9342,7 +9342,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-029": {
@@ -9363,7 +9363,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-029a": {
@@ -9384,7 +9384,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-030": {
@@ -9405,7 +9405,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-031": {
@@ -9429,7 +9429,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-032": {
@@ -9450,7 +9450,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-033": {
@@ -9471,7 +9471,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-034": {
@@ -9492,7 +9492,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-035": {
@@ -9513,7 +9513,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-036": {
@@ -9534,7 +9534,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-037": {
@@ -9555,7 +9555,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-038": {
@@ -9576,7 +9576,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-039": {
@@ -9597,7 +9597,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-040": {
@@ -9618,7 +9618,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-041": {
@@ -9639,7 +9639,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-042": {
@@ -9660,7 +9660,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-043": {
@@ -9681,7 +9681,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-044": {
@@ -9702,7 +9702,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-045": {
@@ -9723,7 +9723,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-046": {
@@ -9744,7 +9744,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-047": {
@@ -9765,7 +9765,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-048": {
@@ -9786,7 +9786,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-049": {
@@ -9810,7 +9810,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-050": {
@@ -9831,7 +9831,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-050a": {
@@ -9852,7 +9852,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-051": {
@@ -9873,7 +9873,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-052": {
@@ -9894,7 +9894,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-053": {
@@ -9915,7 +9915,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-054": {
@@ -9936,7 +9936,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-054a": {
@@ -9957,7 +9957,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-055": {
@@ -9978,7 +9978,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-056": {
@@ -9999,7 +9999,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-057": {
@@ -10020,7 +10020,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-057a": {
@@ -10041,7 +10041,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-058": {
@@ -10062,7 +10062,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-058a": {
@@ -10083,7 +10083,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-059": {
@@ -10104,7 +10104,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-060": {
@@ -10125,7 +10125,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-061": {
@@ -10146,7 +10146,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-062": {
@@ -10167,7 +10167,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-063": {
@@ -10191,7 +10191,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-064": {
@@ -10212,7 +10212,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-065": {
@@ -10233,7 +10233,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-066": {
@@ -10254,7 +10254,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-067": {
@@ -10275,7 +10275,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-068": {
@@ -10296,7 +10296,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-069": {
@@ -10320,7 +10320,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-070": {
@@ -10344,7 +10344,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-071": {
@@ -10365,7 +10365,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-072": {
@@ -10386,7 +10386,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-073": {
@@ -10407,7 +10407,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-074": {
@@ -10431,7 +10431,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-075": {
@@ -10452,7 +10452,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-076": {
@@ -10476,7 +10476,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-077": {
@@ -10497,7 +10497,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-078": {
@@ -10518,7 +10518,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-079": {
@@ -10539,7 +10539,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-080": {
@@ -10560,7 +10560,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-081": {
@@ -10584,7 +10584,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-082": {
@@ -10605,7 +10605,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-082a": {
@@ -10626,7 +10626,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-083": {
@@ -10647,7 +10647,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-084": {
@@ -10668,7 +10668,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-085": {
@@ -10689,7 +10689,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-085a": {
@@ -10710,7 +10710,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-086": {
@@ -10734,7 +10734,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-087": {
@@ -10755,7 +10755,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-088": {
@@ -10776,7 +10776,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-088a": {
@@ -10797,7 +10797,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-089": {
@@ -10821,7 +10821,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-089a": {
@@ -10845,7 +10845,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-090": {
@@ -10866,7 +10866,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-091": {
@@ -10890,7 +10890,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-092": {
@@ -10911,7 +10911,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-093": {
@@ -10932,7 +10932,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-094": {
@@ -10953,7 +10953,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-095": {
@@ -10974,7 +10974,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-096": {
@@ -10995,7 +10995,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-097": {
@@ -11016,7 +11016,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-098": {
@@ -11040,7 +11040,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-099": {
@@ -11061,7 +11061,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-100": {
@@ -11082,7 +11082,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-101": {
@@ -11106,7 +11106,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-102": {
@@ -11127,7 +11127,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-103": {
@@ -11148,7 +11148,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-104": {
@@ -11169,7 +11169,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-105": {
@@ -11190,7 +11190,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-106": {
@@ -11211,7 +11211,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-107": {
@@ -11232,7 +11232,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-108": {
@@ -11256,7 +11256,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-109": {
@@ -11277,7 +11277,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-110": {
@@ -11298,7 +11298,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-110a": {
@@ -11319,7 +11319,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-111": {
@@ -11340,7 +11340,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-112": {
@@ -11361,7 +11361,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-113": {
@@ -11382,7 +11382,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-113a": {
@@ -11403,7 +11403,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-114": {
@@ -11424,7 +11424,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-115": {
@@ -11445,7 +11445,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-116": {
@@ -11466,7 +11466,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-117": {
@@ -11487,7 +11487,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-118": {
@@ -11508,7 +11508,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-119": {
@@ -11529,7 +11529,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-119a": {
@@ -11550,7 +11550,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-120": {
@@ -11571,7 +11571,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-120a": {
@@ -11592,7 +11592,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-121": {
@@ -11616,7 +11616,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-122": {
@@ -11637,7 +11637,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-123": {
@@ -11658,7 +11658,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-124": {
@@ -11679,7 +11679,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-125": {
@@ -11700,7 +11700,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-126": {
@@ -11721,7 +11721,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-127": {
@@ -11742,7 +11742,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-128": {
@@ -11763,7 +11763,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-129": {
@@ -11784,7 +11784,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-130": {
@@ -11808,7 +11808,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-131": {
@@ -11829,7 +11829,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-132": {
@@ -11850,7 +11850,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-133": {
@@ -11871,7 +11871,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-134": {
@@ -11895,7 +11895,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-135": {
@@ -11916,7 +11916,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-136": {
@@ -11937,7 +11937,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-137": {
@@ -11958,7 +11958,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-138": {
@@ -11979,7 +11979,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-139": {
@@ -12000,7 +12000,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-140": {
@@ -12021,7 +12021,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-141": {
@@ -12042,7 +12042,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-141a": {
@@ -12063,7 +12063,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-142": {
@@ -12084,7 +12084,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-143": {
@@ -12105,7 +12105,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-143a": {
@@ -12126,7 +12126,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-144": {
@@ -12147,7 +12147,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-145": {
@@ -12168,7 +12168,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-146": {
@@ -12189,7 +12189,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-147": {
@@ -12210,7 +12210,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-148": {
@@ -12231,7 +12231,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-148a": {
@@ -12252,7 +12252,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-149": {
@@ -12273,7 +12273,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-149a": {
@@ -12294,7 +12294,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-150": {
@@ -12315,7 +12315,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-151": {
@@ -12336,7 +12336,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-152": {
@@ -12360,7 +12360,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-153": {
@@ -12384,7 +12384,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-154": {
@@ -12408,7 +12408,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-155": {
@@ -12432,7 +12432,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-156": {
@@ -12453,7 +12453,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-157": {
@@ -12477,7 +12477,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-158": {
@@ -12498,7 +12498,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-159": {
@@ -12519,7 +12519,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-160": {
@@ -12540,7 +12540,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-161": {
@@ -12561,7 +12561,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-162": {
@@ -12585,7 +12585,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-163": {
@@ -12606,7 +12606,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-164": {
@@ -12627,7 +12627,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-165": {
@@ -12648,7 +12648,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-166": {
@@ -12672,7 +12672,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-167": {
@@ -12693,7 +12693,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-168": {
@@ -12717,7 +12717,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-169": {
@@ -12738,7 +12738,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-170": {
@@ -12759,7 +12759,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-170a": {
@@ -12780,7 +12780,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-171": {
@@ -12801,7 +12801,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-171a": {
@@ -12822,7 +12822,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-172": {
@@ -12843,7 +12843,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-173": {
@@ -12864,7 +12864,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-174": {
@@ -12888,7 +12888,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-175": {
@@ -12909,7 +12909,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-176": {
@@ -12930,7 +12930,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-177": {
@@ -12951,7 +12951,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-177a": {
@@ -12972,7 +12972,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-178": {
@@ -12993,7 +12993,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-179": {
@@ -13017,7 +13017,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-180": {
@@ -13038,7 +13038,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-180a": {
@@ -13059,7 +13059,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-181": {
@@ -13080,7 +13080,7 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-182": {
@@ -13101,7 +13101,7 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-183": {
@@ -13122,7 +13122,7 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-184": {
@@ -13143,7 +13143,7 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-185": {
@@ -13164,7 +13164,7 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-186": {
@@ -13185,7 +13185,7 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-187": {
@@ -13206,7 +13206,7 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-188": {
@@ -13227,7 +13227,7 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-189": {
@@ -13248,7 +13248,7 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-190": {
@@ -13269,7 +13269,7 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-191": {
@@ -13290,7 +13290,7 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-192": {
@@ -13311,7 +13311,7 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-193": {
@@ -13332,7 +13332,7 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-194": {
@@ -13353,7 +13353,7 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-195": {
@@ -13374,7 +13374,7 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-196": {
@@ -13395,7 +13395,7 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-197": {
@@ -13419,7 +13419,7 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-198": {
@@ -13443,7 +13443,7 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-199": {
@@ -13464,7 +13464,7 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-200": {
@@ -13485,7 +13485,7 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-201": {
@@ -13509,7 +13509,7 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-202": {
@@ -13530,7 +13530,7 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-203": {
@@ -13554,7 +13554,7 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-204": {
@@ -13575,7 +13575,7 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-205": {
@@ -13596,7 +13596,7 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-206": {
@@ -13617,7 +13617,7 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-207": {
@@ -13641,7 +13641,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-208": {
@@ -13662,7 +13662,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-209": {
@@ -13683,7 +13683,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-210": {
@@ -13704,7 +13704,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-211": {
@@ -13725,7 +13725,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-212": {
@@ -13746,7 +13746,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-213": {
@@ -13767,7 +13767,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-214": {
@@ -13788,7 +13788,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-215": {
@@ -13809,7 +13809,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-216": {
@@ -13830,7 +13830,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-217": {
@@ -13851,7 +13851,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-218": {
@@ -13872,7 +13872,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-219": {
@@ -13893,7 +13893,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-220": {
@@ -13917,7 +13917,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-221": {
@@ -13938,7 +13938,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-222": {
@@ -13959,7 +13959,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-223": {
@@ -13980,7 +13980,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-223s": {
@@ -14001,7 +14001,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-224": {
@@ -14025,7 +14025,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-224s": {
@@ -14049,7 +14049,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-225": {
@@ -14070,7 +14070,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-225s": {
@@ -14091,7 +14091,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-226": {
@@ -14112,7 +14112,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-227": {
@@ -14133,7 +14133,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-227s": {
@@ -14154,7 +14154,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-228": {
@@ -14175,7 +14175,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-228s": {
@@ -14196,7 +14196,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-229": {
@@ -14217,7 +14217,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-230": {
@@ -14238,7 +14238,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-230s": {
@@ -14259,7 +14259,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-231": {
@@ -14280,7 +14280,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-232": {
@@ -14304,7 +14304,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-232s": {
@@ -14328,7 +14328,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-233": {
@@ -14349,7 +14349,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-233s": {
@@ -14370,7 +14370,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-234": {
@@ -14391,7 +14391,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-235": {
@@ -14412,7 +14412,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-235s": {
@@ -14433,7 +14433,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-236": {
@@ -14454,7 +14454,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-236s": {
@@ -14475,7 +14475,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-237": {
@@ -14496,7 +14496,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-237s": {
@@ -14517,7 +14517,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-238": {
@@ -14538,7 +14538,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-239": {
@@ -14559,7 +14559,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-239s": {
@@ -14580,7 +14580,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-240": {
@@ -14601,7 +14601,7 @@
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-241": {
@@ -14622,7 +14622,7 @@
     "Domain": ["🔴 Fury", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-242": {
@@ -14643,7 +14643,7 @@
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-243": {
@@ -14664,7 +14664,7 @@
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-244": {
@@ -14685,7 +14685,7 @@
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-245": {
@@ -14706,7 +14706,7 @@
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-246": {
@@ -14727,7 +14727,7 @@
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-247": {
@@ -14751,7 +14751,7 @@
     "Domain": ["🟢 Calm", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-248": {
@@ -14772,7 +14772,7 @@
     "Domain": ["🔵 Mind", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-249": {
@@ -14796,7 +14796,7 @@
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-250": {
@@ -14820,7 +14820,7 @@
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-251": {
@@ -14841,7 +14841,7 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R01b": {
@@ -14862,7 +14862,7 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R02b": {
@@ -14883,7 +14883,7 @@
     "Domain": ["🟢 Calm"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R03b": {
@@ -14904,7 +14904,7 @@
     "Domain": ["🔵 Mind"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R04b": {
@@ -14925,7 +14925,7 @@
     "Domain": ["🟠 Body"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R05b": {
@@ -14946,7 +14946,7 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-R06b": {
@@ -14967,7 +14967,7 @@
     "Domain": ["🟡 Order"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-T-Gold": {
@@ -14988,7 +14988,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-T-Mech": {
@@ -15009,7 +15009,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   },
   "SFD-T-SandSoldier": {
@@ -15030,7 +15030,7 @@
     "Domain": ["⚪ Domainless"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "UNR": true
+      "STD": true
     }
   }
 }
