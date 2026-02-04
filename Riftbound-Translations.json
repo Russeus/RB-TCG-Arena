@@ -2,7 +2,8 @@
     "en": {
         "Gameplay": {
             "Unreleased": "Preview Standard (Spiritforged)",
-            "Classic": "Standard (Origins)"
+            "Classic": "Standard (Origins)",
+            "Multiplayer": "Multiplayer (Spiritforged)"
         }
     }
 }
