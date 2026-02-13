@@ -23,6 +23,7 @@
         "Legend": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png"
       }
   },
+  "translationsUrl": "https://russeus.github.io/RB-TCG-Arena/Test_Files/Riftbound-Translations-TEST.json",
   "deckBuilding": {
     "mainFilters": [
       "type",
