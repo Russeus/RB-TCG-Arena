@@ -12548,5 +12548,77 @@
     "cost": 0,
     "Domain": ["🟡 Order"],
     "Set": ["03 - Unleashed"]
+  },
+  "VEN-167": {
+    "id": "VEN-167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi, Destructive",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cdn.imgchest.com/files/4c0652790f4c.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi, Destructive",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["04 - Vendetta"]
+  },
+  "VEN-168": {
+    "id": "VEN-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jinx, Demolitionist",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/9d4091b31450.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinx, Demolitionist",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["04 - Vendetta"]
+  },
+  "VEN-175": {
+    "id": "VEN-175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jayce, Man of Progress",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/46e22ba2573d.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jayce, Man of Progress",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["04 - Vendetta"]
+  },
+  "VEN-176": {
+    "id": "VEN-176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor, Innovator",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/46e22ba2573d.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor, Innovator",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["04 - Vendetta"]
   }
 }
