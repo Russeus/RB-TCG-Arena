@@ -41,11 +41,11 @@
         "legalityCode": "S02"
       },
       {
-        "title": "Legacy",
+        "title": "Unleashed",
         "gameplay": "Classic",
         "customCategories": ["Chosen_Champion"],
         "deckRuleset": "Standard",
-        "legalityCode": "S01"
+        "legalityCode": "S03"
       },
       {
         "title": "Multiplayer",
