@@ -18345,6 +18345,58 @@
     },
     "_unreleased": true
   },
+  "UNL-147": {
+    "id": "UNL-147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baron Nashor",
+        "type": "Unit",
+        "cost": 10,
+        "image": "https://cdn.imgchest.com/files/7bf069afe7c5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baron Nashor",
+    "type": "Unit",
+    "cost": 10,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-147a": {
+    "id": "UNL-147a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baron Nashor",
+        "type": "Unit",
+        "cost": 10,
+        "image": "https://cdn.imgchest.com/files/c38bc746adce.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baron Nashor",
+    "type": "Unit",
+    "cost": 10,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "VEN-167": {
     "id": "VEN-167",
     "isToken": false,
