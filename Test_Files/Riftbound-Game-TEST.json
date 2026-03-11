@@ -38,21 +38,21 @@
         "gameplay": "Classic",
         "customCategories": ["Chosen_Champion"],
         "deckRuleset": "Standard",
-        "legalityCode": "STD"
+        "legalityCode": "S02"
       },
       {
         "title": "Legacy",
         "gameplay": "Classic",
         "customCategories": ["Chosen_Champion"],
         "deckRuleset": "Standard",
-        "legalityCode": "LEG"
+        "legalityCode": "S01"
       },
       {
         "title": "Multiplayer",
         "gameplay": "Multiplayer",
         "customCategories": ["Chosen_Champion"],
         "deckRuleset": "Standard",
-        "legalityCode": "STD"
+        "legalityCode": "S02"
       }
     ],
     "deckRulesets": {
