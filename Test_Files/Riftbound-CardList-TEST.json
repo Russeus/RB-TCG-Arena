@@ -15222,5 +15222,23 @@
     "Domain": ["🔵 Mind"],
     "Set": ["04 - Vendetta"],
     "_unreleased": true
+  },
+  "test": {
+    "id": "test",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "test",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/46e22ba2573d.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "test",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "_unreleased": true
   }
 }
