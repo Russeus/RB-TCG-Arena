@@ -12565,7 +12565,8 @@
     "type": "Unit",
     "cost": 2,
     "Domain": ["🔴 Fury"],
-    "Set": ["04 - Vendetta"]
+    "Set": ["04 - Vendetta"],
+    "_unreleased": true
   },
   "VEN-168": {
     "id": "VEN-168",
@@ -12583,7 +12584,8 @@
     "type": "Unit",
     "cost": 3,
     "Domain": ["🔴 Fury"],
-    "Set": ["04 - Vendetta"]
+    "Set": ["04 - Vendetta"],
+    "_unreleased": true
   },
   "VEN-175": {
     "id": "VEN-175",
@@ -12601,7 +12603,8 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
-    "Set": ["04 - Vendetta"]
+    "Set": ["04 - Vendetta"],
+    "_unreleased": true
   },
   "VEN-176": {
     "id": "VEN-176",
@@ -12619,6 +12622,7 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
-    "Set": ["04 - Vendetta"]
+    "Set": ["04 - Vendetta"],
+    "_unreleased": true
   }
 }
