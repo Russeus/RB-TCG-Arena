@@ -18406,6 +18406,9 @@
     "name": "Mosstomper",
     "type": "Unit",
     "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -18432,6 +18435,9 @@
     "name": "Master Yi, Unstoppable",
     "type": "Unit",
     "cost": 12,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -18536,6 +18542,9 @@
     "name": "Gemhand Hunter",
     "type": "Unit",
     "cost": 2,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟠 Body"
     ],
@@ -18562,6 +18571,9 @@
     "name": "Crowd Favorite",
     "type": "Unit",
     "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟠 Body"
     ],
@@ -18692,6 +18704,9 @@
     "name": "Baron Nashor",
     "type": "Unit",
     "cost": 10,
+    "tokens": [
+      "UNL-T01"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -18718,6 +18733,9 @@
     "name": "Baron Nashor",
     "type": "Unit",
     "cost": 10,
+    "tokens": [
+      "UNL-T01"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -18822,6 +18840,9 @@
     "name": "Lillia, Bashful Bloom",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "OGN-274"
+    ],
     "Domain": [
       "🟢 Calm",
       "🔵 Mind"
@@ -18876,6 +18897,9 @@
     "name": "Ivern, Green Father",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T03"
+    ],
     "Domain": [
       "🟢 Calm",
       "🟡 Order"
@@ -18930,6 +18954,9 @@
     "name": "Leblanc, Deceiver",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T06"
+    ],
     "Domain": [
       "🔵 Mind",
       "🟡 Order"
@@ -18957,6 +18984,9 @@
     "name": "Mirror Image",
     "type": "Spell",
     "cost": 3,
+    "tokens": [
+      "UNL-T06"
+    ],
     "Domain": [
       "🔵 Mind",
       "🟡 Order"
@@ -18984,6 +19014,10 @@
     "name": "Kha'Zix, Voidreaver",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T08",
+      "OGN-T-Buff"
+    ],
     "Domain": [
       "🟠 Body",
       "🟣 Chaos"
@@ -19011,6 +19045,10 @@
     "name": "Kha'Zix, Voidreaver",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T08",
+      "OGN-T-Buff"
+    ],
     "Domain": [
       "🟠 Body",
       "🟣 Chaos"
