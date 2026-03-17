@@ -18727,6 +18727,61 @@
     "name": "Gutter Palace",
     "type": "Gear",
     "cost": 4,
+    "tokens": [
+      "UNL-T02"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-089": {
+    "id": "UNL-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jhin, Meticulous Killer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/b64a5b7461df.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jhin, Meticulous Killer",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-089a": {
+    "id": "UNL-089a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jhin, Meticulous Killer",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/bc9e80167afd.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jhin, Meticulous Killer",
+    "type": "Unit",
+    "cost": 4,
     "Domain": [
       "🔵 Mind"
     ],
@@ -18779,6 +18834,35 @@
     "name": "Gemhand Hunter",
     "type": "Unit",
     "cost": 2,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-096": {
+    "id": "UNL-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hunter's Machete",
+        "type": "Gear",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/e5d3ebb185e7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunter's Machete",
+    "type": "Gear",
+    "cost": 3,
     "tokens": [
       "UNL-T08"
     ],
@@ -18863,6 +18947,9 @@
     "name": "Nilah, Joyful Ascetic",
     "type": "Unit",
     "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟠 Body"
     ],
@@ -19470,6 +19557,9 @@
     "name": "Pyke, Legend (Placeholder)",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T05"
+    ],
     "Domain": [
       "🔴 Fury",
       "🟣 Chaos"
@@ -19525,7 +19615,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": [
-      "OGN-274"
+      "UNL-T07"
     ],
     "Domain": [
       "🟢 Calm",
@@ -19581,6 +19671,9 @@
     "name": "Master Yi, Legend (Placeholder)",
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟢 Calm",
       "🟠 Body"
@@ -19608,6 +19701,9 @@
     "name": "Alpha Strike",
     "type": "Spell",
     "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟢 Calm",
       "🟠 Body"
@@ -19837,7 +19933,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": [
-      "OGN-274"
+      "UNL-T07"
     ],
     "Domain": [
       "🟢 Calm",
@@ -19867,7 +19963,7 @@
     "type": "Legend",
     "cost": 0,
     "tokens": [
-      "OGN-274"
+      "UNL-T07"
     ],
     "Domain": [
       "🟢 Calm",
