@@ -161,7 +161,9 @@
                     "myBF2",
                     "B2",
                     "Chosen_Champion",
-                    "Legend"
+                    "Legend",
+                    "myBF3",
+                    "B3"
                 ],
                 "layout": {
                     "direction": "column",
@@ -194,8 +196,33 @@
                                                 "marginTop": "auto"
                                             }
                                         }
-                                    ],
-                                    "optional": { "key": "Baron Pit" }
+                                    ]
+                                },
+                                {
+                                    "direction": "column",
+                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "optional": { "key": "Baron Pit" },
+                                    "content": [
+                                        {
+                                            "section": "myBF3",
+                                            "style": {
+                                                "width": "30vh",
+                                                "height": "12vh",
+                                                "scale": "0.68",
+                                                "position": "absolute",
+                                                "top": "0",
+                                                "left": "50%",
+                                                "translate": "-50% -3.25vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "B3",
+                                            "style": {
+                                                "borderRadius": "1vh",
+                                                "marginTop": "auto"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "direction": "column",
@@ -353,6 +380,25 @@
                             "marginTop": "-2vh"
                         }
                     },
+                    "myBF3": {
+                        "title": "myBF3",
+                        "isHidden": "no",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Middle Battlefield",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
+                    },
                     "B1": {
                         "title": "B1",
                         "isHidden": "no",
@@ -378,6 +424,22 @@
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
                         "displayedTitle": "BF Units 2",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "B3": {
+                        "title": "B3",
+                        "isHidden": "no",
+                        "height": "16",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Middle BF Units",
                         "noQuickActions": false,
                         "enterTapped": true,
                         "enterSpun": false,
