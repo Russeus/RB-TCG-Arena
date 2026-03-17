@@ -194,33 +194,8 @@
                                                 "marginTop": "auto"
                                             }
                                         }
-                                    ]
-                                },
-                                {
-                                    "direction": "column",
-                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                    
-                                    "content": [
-                                        {
-                                            "section": "myBF3",
-                                            "style": {
-                                                "width": "30vh",
-                                                "height": "12vh",
-                                                "scale": "0.68",
-                                                "position": "absolute",
-                                                "top": "0",
-                                                "left": "50%",
-                                                "translate": "-50% -3.25vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "B3",
-                                            "style": {
-                                                "borderRadius": "1vh",
-                                                "marginTop": "auto"
-                                            }
-                                        }
-                                    ]
+                                    ],
+                                    "optional": { "key": "Baron Pit" }
                                 },
                                 {
                                     "direction": "column",
@@ -378,25 +353,6 @@
                             "marginTop": "-2vh"
                         }
                     },
-                    "myBF3": {
-                        "title": "myBF2",
-                        "isHidden": "no",
-                        "height": "12",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "Opponent Battlefield",
-                        "noQuickActions": true,
-                        "enterTapped": false,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false,
-                        "cardStyle": {
-                            "marginTop": "-2vh"
-                        }
-                    },
                     "B1": {
                         "title": "B1",
                         "isHidden": "no",
@@ -414,22 +370,6 @@
                         "showHiddenCardInHistory": false
                     },
                     "B2": {
-                        "title": "B2",
-                        "isHidden": "no",
-                        "height": "16",
-                        "alignment": "CENTER",
-                        "opponentAlignment": false,
-                        "noAutoPayTo": true,
-                        "isHorizontalAllowed": true,
-                        "displayedTitle": "BF Units 2",
-                        "noQuickActions": false,
-                        "enterTapped": true,
-                        "enterSpun": false,
-                        "isGroupForbidden": false,
-                        "keepTappedNewTurn": false,
-                        "showHiddenCardInHistory": false
-                    },
-                    "B3": {
                         "title": "B2",
                         "isHidden": "no",
                         "height": "16",
