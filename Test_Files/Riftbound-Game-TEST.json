@@ -199,6 +199,35 @@
                                 {
                                     "direction": "column",
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    "optional":
+                                        {
+                                            "B": "Baron Pit"
+                                        },
+                                    "content": [
+                                        {
+                                            "section": "myBF3",
+                                            "style": {
+                                                "width": "30vh",
+                                                "height": "12vh",
+                                                "scale": "0.68",
+                                                "position": "absolute",
+                                                "top": "0",
+                                                "left": "50%",
+                                                "translate": "-50% -3.25vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "B3",
+                                            "style": {
+                                                "borderRadius": "1vh",
+                                                "marginTop": "auto"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "direction": "column",
+                                    "style": { "height": "24.25vh", "margin": "0.25vh" },
                                     "content": [
                                         {
                                             "section": "myBF2",
