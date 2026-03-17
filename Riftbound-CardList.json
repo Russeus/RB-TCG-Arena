@@ -18446,6 +18446,32 @@
     },
     "_unreleased": true
   },
+  "UNL-058": {
+    "id": "UNL-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lillia, Green Champion (Placeholder)",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cdn.imgchest.com/files/958b8a10464a.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lillia, Green Champion (Placeholder)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-059": {
     "id": "UNL-059",
     "isToken": false,
@@ -18597,6 +18623,32 @@
     "name": "Frigid Jewel",
     "type": "Gear",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-087": {
+    "id": "UNL-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Buff (Placeholder)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/7b9f226f630e.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Buff (Placeholder)",
+    "type": "Unit",
+    "cost": 4,
     "Domain": [
       "🔵 Mind"
     ],
@@ -18822,6 +18874,32 @@
     },
     "_unreleased": true
   },
+  "UNL-138": {
+    "id": "UNL-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bounty List (Placeholder)",
+        "type": "Gear",
+        "cost": 1,
+        "image": "https://cdn.imgchest.com/files/073e23347080.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bounty List (Placeholder)",
+    "type": "Gear",
+    "cost": 1,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-147": {
     "id": "UNL-147",
     "isToken": false,
@@ -18880,6 +18958,32 @@
     },
     "_unreleased": true
   },
+  "UNL-148": {
+    "id": "UNL-148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cursed Sarcophagus (Placeholder)",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/17c7f0723d29.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cursed Sarcophagus (Placeholder)",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-149": {
     "id": "UNL-149",
     "isToken": false,
@@ -18923,6 +19027,32 @@
     "cost": 4,
     "Domain": [
       "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-166": {
+    "id": "UNL-166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snow Wolf (Placeholder)",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/53c02d4eab8c.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snow Wolf (Placeholder)",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
     ],
     "Set": [
       "03 - Unleashed"
@@ -19054,6 +19184,33 @@
     "Domain": [
       "🔴 Fury",
       "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-185": {
+    "id": "UNL-185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Legend (Placeholder)",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.imgchest.com/files/e71e4c211105.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Legend (Placeholder)",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟣 Chaos"
     ],
     "Set": [
       "03 - Unleashed"
