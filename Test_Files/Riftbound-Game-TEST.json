@@ -199,6 +199,7 @@
                                 {
                                     "direction": "column",
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
+                                    
                                     "content": [
                                         {
                                             "section": "myBF3",
@@ -210,16 +211,14 @@
                                                 "top": "0",
                                                 "left": "50%",
                                                 "translate": "-50% -3.25vh"
-                                            },
-                                            "optional": { "key": "my BF 3" }
+                                            }
                                         },
                                         {
                                             "section": "B3",
                                             "style": {
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
-                                            },
-                                            "optional": { "key": "B 3" }
+                                            }
                                         }
                                     ]
                                 },
