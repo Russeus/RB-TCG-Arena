@@ -199,10 +199,7 @@
                                 {
                                     "direction": "column",
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                    "optional":
-                                        {
-                                            "B": "Baron Pit"
-                                        },
+                                    "optional":{ "key": "Baron Pit" },
                                     "content": [
                                         {
                                             "section": "myBF3",
