@@ -199,7 +199,7 @@
                                 {
                                     "direction": "column",
                                     "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                    "optional": { "key": "column" },
+                                    "optional": { "key": "Baron Pit" },
                                     "content": [
                                         {
                                             "section": "myBF3",
@@ -378,6 +378,25 @@
                             "marginTop": "-2vh"
                         }
                     },
+                    "myBF3": {
+                        "title": "myBF2",
+                        "isHidden": "no",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Opponent Battlefield",
+                        "noQuickActions": true,
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "cardStyle": {
+                            "marginTop": "-2vh"
+                        }
+                    },
                     "B1": {
                         "title": "B1",
                         "isHidden": "no",
@@ -395,6 +414,22 @@
                         "showHiddenCardInHistory": false
                     },
                     "B2": {
+                        "title": "B2",
+                        "isHidden": "no",
+                        "height": "16",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "BF Units 2",
+                        "noQuickActions": false,
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "B3": {
                         "title": "B2",
                         "isHidden": "no",
                         "height": "16",
