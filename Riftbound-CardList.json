@@ -19273,6 +19273,64 @@
     },
     "_unreleased": true
   },
+  "UNL-113": {
+    "id": "UNL-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Tempered",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/d9255f4756c7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Tempered",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-113a": {
+    "id": "UNL-113a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Tempered",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/7142dfb132c1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Tempered",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-114": {
     "id": "UNL-114",
     "isToken": false,
