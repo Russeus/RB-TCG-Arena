@@ -20019,6 +20019,32 @@
     },
     "_unreleased": true
   },
+  "UNL-179": {
+    "id": "UNL-179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rift Herald",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://cdn.imgchest.com/files/6326ae78f35d.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rift Herald",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-181": {
     "id": "UNL-181",
     "isToken": false,
