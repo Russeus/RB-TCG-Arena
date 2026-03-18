@@ -19412,6 +19412,58 @@
     },
     "_unreleased": true
   },
+  "UNL-118": {
+    "id": "UNL-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Dragon",
+        "type": "Unit",
+        "cost": 12,
+        "image": "https://cdn.imgchest.com/files/f034e72e1aa6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elder Dragon",
+    "type": "Unit",
+    "cost": 12,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-118a": {
+    "id": "UNL-118a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Dragon",
+        "type": "Unit",
+        "cost": 12,
+        "image": "https://cdn.imgchest.com/files/7f5c5cbe03d2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elder Dragon",
+    "type": "Unit",
+    "cost": 12,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-119": {
     "id": "UNL-119",
     "isToken": false,
