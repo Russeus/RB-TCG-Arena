@@ -18743,14 +18743,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Icevale Archer",
+        "name": "Crescent Strike",
         "type": "Spell",
         "cost": 3,
         "image": "https://cdn.imgchest.com/files/03a1f0fff0cb.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Icevale Archer",
+    "name": "Crescent Strike",
     "type": "Spell",
     "cost": 3,
     "Domain": [
