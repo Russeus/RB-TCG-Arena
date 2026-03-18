@@ -19626,6 +19626,32 @@
     },
     "_unreleased": true
   },
+  "UNL-137": {
+    "id": "UNL-137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sinister Poro",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://cdn.imgchest.com/files/d489c9e06618.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sinister Poro",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-138": {
     "id": "UNL-138",
     "isToken": false,
@@ -19892,6 +19918,32 @@
     },
     "_unreleased": true
   },
+  "UNL-156": {
+    "id": "UNL-156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loyal Poro",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/480c87d9475b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loyal Poro",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-157": {
     "id": "UNL-157",
     "isToken": false,
@@ -19909,6 +19961,35 @@
     "cost": 6,
     "tokens": [
       "UNL-T08"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-160": {
+    "id": "UNL-160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ultrasoft Poro",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cdn.imgchest.com/files/4e7f5c70c939.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ultrasoft Poro",
+    "type": "Unit",
+    "cost": 5,
+    "tokens": [
+      "UNL-T02"
     ],
     "Domain": [
       "🟡 Order"
