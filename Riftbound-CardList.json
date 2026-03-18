@@ -18287,6 +18287,32 @@
     },
     "_unreleased": true
   },
+  "UNL-011": {
+    "id": "UNL-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fresh Beans",
+        "type": "Gear",
+        "cost": 2,
+        "image": "https://cdn.imgchest.com/files/ddf3c84386ac.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fresh Beans",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-020": {
     "id": "UNL-020",
     "isToken": false,
@@ -18354,6 +18380,32 @@
     "name": "Jhin, Murderous Artist",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-027": {
+    "id": "UNL-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Inviolus Vox",
+        "type": "Unit",
+        "cost": 8,
+        "image": "https://cdn.imgchest.com/files/7a5913c09e0c.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inviolus Vox",
+    "type": "Unit",
+    "cost": 8,
     "Domain": [
       "🔴 Fury"
     ],
@@ -18513,6 +18565,84 @@
     "name": "Iascylla",
     "type": "Unit",
     "cost": 7,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-051": {
+    "id": "UNL-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ivern, Nurturer",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cdn.imgchest.com/files/d77f1445eda5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ivern, Nurturer",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-051a": {
+    "id": "UNL-051a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ivern, Nurturer",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cdn.imgchest.com/files/cffe44a600ab.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ivern, Nurturer",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-056": {
+    "id": "UNL-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yuumi, Magical Cat",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/aefcbba7d143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yuumi, Magical Cat",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🟢 Calm"
     ],
@@ -18779,6 +18909,32 @@
     "name": "Frigid Jewel",
     "type": "Gear",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-079": {
+    "id": "UNL-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diana, Lunari",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/2ffcdb627b65.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diana, Lunari",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔵 Mind"
     ],
@@ -19453,6 +19609,58 @@
     "name": "Heedless Resurrection",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-145": {
+    "id": "UNL-145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Returned",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/4a460bc741a5.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Returned",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-145a": {
+    "id": "UNL-145a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Returned",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/ddd1b80ac3d3.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Returned",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -20150,6 +20358,33 @@
     },
     "_unreleased": true
   },
+  "UNL-198": {
+    "id": "UNL-198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moonfall",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/bc26a4fb4797.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moonfall",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🔵 Mind",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-199": {
     "id": "UNL-199",
     "isToken": false,
@@ -20232,6 +20467,36 @@
     "Domain": [
       "🟠 Body",
       "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-203": {
+    "id": "UNL-203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poppy, Keeper of the Hammer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.imgchest.com/files/119fcce4f745.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poppy, Keeper of the Hammer",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
     ],
     "Set": [
       "03 - Unleashed"
@@ -20520,6 +20785,66 @@
     "Domain": [
       "🟠 Body",
       "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-237": {
+    "id": "UNL-237",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poppy, Keeper of the Hammer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.imgchest.com/files/f92adf7ee273.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poppy, Keeper of the Hammer",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-237s": {
+    "id": "UNL-237s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poppy, Keeper of the Hammer",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://cdn.imgchest.com/files/567a7c4eb3f3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poppy, Keeper of the Hammer",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
     ],
     "Set": [
       "03 - Unleashed"
