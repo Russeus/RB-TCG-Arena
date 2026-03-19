@@ -18261,6 +18261,32 @@
     },
     "_unreleased": true
   },
+  "UNL-008": {
+    "id": "UNL-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Towering Pairofant",
+        "type": "Unit",
+        "cost": 6,
+        "image": "https://cdn.imgchest.com/files/c697ebddc91e.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Towering Pairofant",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-009": {
     "id": "UNL-009",
     "isToken": false,
@@ -18510,6 +18536,58 @@
     "name": "Shadow Watcher",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-042": {
+    "id": "UNL-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back Off",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/5613650384f0.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back Off",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-046": {
+    "id": "UNL-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Friendship",
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://cdn.imgchest.com/files/3b2beebc056f.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Friendship",
+    "type": "Spell",
+    "cost": 1,
     "Domain": [
       "🟢 Calm"
     ],
@@ -18894,6 +18972,35 @@
     },
     "_unreleased": true
   },
+  "UNL-073": {
+    "id": "UNL-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deadly Flourish",
+        "type": "Spell",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/5142ba94a1a8.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deadly Flourish",
+    "type": "Spell",
+    "cost": 4,
+    "tokens": [
+      "UNL-T05"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-074": {
     "id": "UNL-074",
     "isToken": false,
@@ -18909,6 +19016,32 @@
     "name": "Frigid Jewel",
     "type": "Gear",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-077": {
+    "id": "UNL-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Shepherd",
+        "type": "Unit",
+        "cost": 5,
+        "image": "https://cdn.imgchest.com/files/c05d9b8e6332.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul Shepherd",
+    "type": "Unit",
+    "cost": 5,
     "Domain": [
       "🔵 Mind"
     ],
@@ -20080,6 +20213,32 @@
     },
     "_unreleased": true
   },
+  "UNL-163": {
+    "id": "UNL-163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mageseeker Investigator",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/105890e8fbd9.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mageseeker Investigator",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-166": {
     "id": "UNL-166",
     "isToken": false,
@@ -20095,6 +20254,32 @@
     "name": "Stalking Wolf",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-168": {
+    "id": "UNL-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Undying Loyalty",
+        "type": "Spell",
+        "cost": 2,
+        "image": "https://cdn.imgchest.com/files/0782ee8a3808.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Undying Loyalty",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟡 Order"
     ],
@@ -20791,6 +20976,35 @@
     "name": "Frozen Fortress",
     "type": "Battlefields",
     "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-213": {
+    "id": "UNL-213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gardens of Becoming",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": "https://cdn.imgchest.com/files/8a5fdadb3a47.jpeg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Gardens of Becoming",
+    "type": "Battlefields",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "⚪ Domainless"
     ],
