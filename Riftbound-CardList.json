@@ -20585,6 +20585,33 @@
     },
     "_unreleased": true
   },
+  "UNL-188": {
+    "id": "UNL-188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hextech Gauntlets",
+        "type": "Spell",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/a28ba50b0a10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hextech Gauntlets",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-189": {
     "id": "UNL-189",
     "isToken": false,
