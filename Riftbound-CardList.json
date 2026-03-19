@@ -18339,6 +18339,32 @@
     },
     "_unreleased": true
   },
+  "UNL-019": {
+    "id": "UNL-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blighted Battleaxe",
+        "type": "Gear",
+        "cost": 4,
+        "image": "https://cdn.imgchest.com/files/de9915a48fea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blighted Battleaxe",
+    "type": "Gear",
+    "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-020": {
     "id": "UNL-020",
     "isToken": false,
