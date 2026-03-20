@@ -20446,6 +20446,35 @@
     },
     "_unreleased": true
   },
+  "UNL-013": {
+    "id": "UNL-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lotus Trap (Placeholder)",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/747a8760d604.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Lotus Trap (Placeholder)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-019": {
     "id": "UNL-019",
     "isToken": false,
@@ -20765,6 +20794,38 @@
     },
     "_unreleased": true
   },
+  "UNL-034": {
+    "id": "UNL-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herald of Spring",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/c43591392b17.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Herald of Spring",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-036": {
     "id": "UNL-036",
     "isToken": false,
@@ -20812,6 +20873,35 @@
     "name": "Shadow Watcher",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-039": {
+    "id": "UNL-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Sword",
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/db3736f6e0c9.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul Sword",
+    "type": "Gear",
+    "cost": 1,
     "Domain": [
       "🟢 Calm"
     ],
@@ -21357,6 +21447,38 @@
     },
     "_unreleased": true
   },
+  "UNL-075": {
+    "id": "UNL-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gustwalker",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/03a1f0fff0cb.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Gustwalker",
+    "type": "Unit",
+    "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-077": {
     "id": "UNL-077",
     "isToken": false,
@@ -21431,6 +21553,35 @@
       }
     },
     "name": "Hwei, Brooding Painter",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-086": {
+    "id": "UNL-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zilean, Time Mage",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/1a6539e15465.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Zilean, Time Mage",
     "type": "Unit",
     "cost": 5,
     "Domain": [
@@ -21650,6 +21801,35 @@
     },
     "_unreleased": true
   },
+  "UNL-091": {
+    "id": "UNL-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Concentrate",
+        "type": "Spell",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/3b046e908d8c.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Concentrate",
+    "type": "Spell",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-092": {
     "id": "UNL-092",
     "isToken": false,
@@ -21854,6 +22034,35 @@
     "name": "Wily Newtfish",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-109": {
+    "id": "UNL-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Rose",
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/32621654fb83.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Blood Rose",
+    "type": "Gear",
+    "cost": 1,
     "Domain": [
       "🟠 Body"
     ],
@@ -22228,6 +22437,35 @@
     },
     "_unreleased": true
   },
+  "UNL-126": {
+    "id": "UNL-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megatusk",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/624b416295c4.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Megatusk",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-128": {
     "id": "UNL-128",
     "isToken": false,
@@ -22449,6 +22687,70 @@
     "name": "Heedless Resurrection",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-143": {
+    "id": "UNL-143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kha'Zix, Mutating Horror",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/53a9a4b529a3.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Kha'Zix, Mutating Horror",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-143a": {
+    "id": "UNL-143a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kha'Zix, Mutating Horror",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7bf16002cfe3.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Kha'Zix, Mutating Horror",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "UNL-T08"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -23092,6 +23394,35 @@
         "image": {
           "en": "https://cdn.imgchest.com/files/db3e871d1f6f.jpeg",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/66b9c0029e8e418a9b5f3be6de261972.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Rift Herald",
+    "type": "Unit",
+    "cost": 8,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-179a": {
+    "id": "UNL-179a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rift Herald",
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/ef3b964aac22.jpeg",
+          "zh": ""
         },
         "isHorizontal": false
       }
@@ -23960,6 +24291,35 @@
       }
     },
     "name": "The Academy",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-217": {
+    "id": "UNL-217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trapping Grounds",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/56c73430bdcb.png",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": "Trapping Grounds",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
