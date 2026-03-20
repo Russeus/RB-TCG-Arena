@@ -18235,6 +18235,32 @@
     },
     "_unreleased": true
   },
+  "UNL-006": {
+    "id": "UNL-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shark (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/be27a1dc2489.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shark (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-007": {
     "id": "UNL-007",
     "isToken": false,
@@ -18458,6 +18484,58 @@
     "name": "Inviolus Vox",
     "type": "Unit",
     "cost": 8,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-028": {
+    "id": "UNL-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Dockside Butcher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/9cb4353e8758.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Dockside Butcher",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-028a": {
+    "id": "UNL-028a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Dockside Butcher",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://cdn.imgchest.com/files/1942ad11a981.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Dockside Butcher",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔴 Fury"
     ],
