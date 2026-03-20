@@ -21746,6 +21746,35 @@
     },
     "_unreleased": true
   },
+  "UNL-100": {
+    "id": "UNL-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frog, Body (Placeholder)",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7f38db06b898.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Frog, Body (Placeholder)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-101": {
     "id": "UNL-101",
     "isToken": false,
@@ -22132,6 +22161,35 @@
     "cost": 5,
     "Domain": [
       "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-121": {
+    "id": "UNL-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crescent Guardian",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/9ea0c40d1a29.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Crescent Guardian",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
     ],
     "Set": [
       "03 - Unleashed"
@@ -22936,6 +22994,35 @@
     },
     "_unreleased": true
   },
+  "UNL-176": {
+    "id": "UNL-176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi, Yellow (Placeholder)",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/c94439b164b5.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi, Yellow (Placeholder)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-177": {
     "id": "UNL-177",
     "isToken": false,
@@ -23558,6 +23645,36 @@
     },
     "_unreleased": true
   },
+  "UNL-202": {
+    "id": "UNL-202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kha'Zix, Signature (Placeholder)",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/53fa17b226e9.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Kha'Zix, Signature (Placeholder)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟠 Body",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-203": {
     "id": "UNL-203",
     "isToken": false,
@@ -23785,6 +23902,35 @@
       }
     },
     "name": "Ripper's Bay",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-215": {
+    "id": "UNL-215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Star Spring (Placeholder)",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/8b96a8d2c2cc.png",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": "Star Spring (Placeholder)",
     "type": "Battlefields",
     "cost": 0,
     "Domain": [
