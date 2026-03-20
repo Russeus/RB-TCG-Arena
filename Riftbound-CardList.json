@@ -18240,14 +18240,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shark (Placeholder)",
+        "name": "Sharkling",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/be27a1dc2489.png",
+        "image": "https://cdn.imgchest.com/files/f038029c0975.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Shark (Placeholder)",
+    "name": "Sharkling",
     "type": "Unit",
     "cost": 3,
     "Domain": [
@@ -18295,7 +18295,7 @@
         "name": "Towering Pairofant",
         "type": "Unit",
         "cost": 6,
-        "image": "https://cdn.imgchest.com/files/c697ebddc91e.jpeg",
+        "image": "https://cdn.imgchest.com/files/b5f38ec2f402.jpeg",
         "isHorizontal": false
       }
     },
@@ -18373,7 +18373,7 @@
         "name": "Blighted Battleaxe",
         "type": "Gear",
         "cost": 4,
-        "image": "https://cdn.imgchest.com/files/de9915a48fea.png",
+        "image": "https://cdn.imgchest.com/files/a5a3769e1b3a.jpeg",
         "isHorizontal": false
       }
     },
@@ -18503,7 +18503,7 @@
         "name": "Pyke, Dockside Butcher",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/9cb4353e8758.png",
+        "image": "https://cdn.imgchest.com/files/86eb86a34411.jpeg",
         "isHorizontal": false
       }
     },
@@ -18529,7 +18529,7 @@
         "name": "Pyke, Dockside Butcher",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/1942ad11a981.png",
+        "image": "https://cdn.imgchest.com/files/527c96e80caf.jpeg",
         "isHorizontal": false
       }
     },
@@ -18604,14 +18604,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Practical Experience (Placeholder)",
+        "name": "Combat Experience",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cdn.imgchest.com/files/8add240300a8.png",
+        "image": "https://cdn.imgchest.com/files/6ae3576a4d4d.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Practical Experience (Placeholder)",
+    "name": "Combat Experience",
     "type": "Spell",
     "cost": 1,
     "Domain": [
@@ -18685,7 +18685,7 @@
         "name": "Back Off",
         "type": "Spell",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/5613650384f0.jpeg",
+        "image": "https://cdn.imgchest.com/files/8430296d2184.jpeg",
         "isHorizontal": false
       }
     },
@@ -18711,7 +18711,7 @@
         "name": "Friendship",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cdn.imgchest.com/files/3b2beebc056f.webp",
+        "image": "https://cdn.imgchest.com/files/950d37bb90c9.jpeg",
         "isHorizontal": false
       }
     },
@@ -19110,7 +19110,7 @@
         "name": "Deadly Flourish",
         "type": "Spell",
         "cost": 4,
-        "image": "https://cdn.imgchest.com/files/5142ba94a1a8.jpeg",
+        "image": "https://cdn.imgchest.com/files/faa59ac2e576.jpeg",
         "isHorizontal": false
       }
     },
@@ -19165,7 +19165,7 @@
         "name": "Soul Shepherd",
         "type": "Unit",
         "cost": 5,
-        "image": "https://cdn.imgchest.com/files/c05d9b8e6332.jpeg",
+        "image": "https://cdn.imgchest.com/files/e7c88865b69f.jpeg",
         "isHorizontal": false
       }
     },
@@ -19567,14 +19567,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Frog (Placeholder)",
+        "name": "Wily Newtfish",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.imgchest.com/files/dc6fd929c631.png",
+        "image": "https://cdn.imgchest.com/files/926af2236910.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Frog (Placeholder)",
+    "name": "Wily Newtfish",
     "type": "Unit",
     "cost": 4,
     "Domain": [
@@ -19709,7 +19709,7 @@
         "name": "Elder Dragon",
         "type": "Unit",
         "cost": 12,
-        "image": "https://cdn.imgchest.com/files/f034e72e1aa6.png",
+        "image": "https://cdn.imgchest.com/files/763ae4a57d9d.jpeg",
         "isHorizontal": false
       }
     },
@@ -19735,7 +19735,7 @@
         "name": "Elder Dragon",
         "type": "Unit",
         "cost": 12,
-        "image": "https://cdn.imgchest.com/files/7f5c5cbe03d2.png",
+        "image": "https://cdn.imgchest.com/files/ea3bd9ff7c6f.jpeg",
         "isHorizontal": false
       }
     },
@@ -19972,14 +19972,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Crisis (Placeholder)",
+        "name": "Existential Dread",
         "type": "Spell",
         "cost": 1,
-        "image": "https://cdn.imgchest.com/files/2bf4788d80e8.png",
+        "image": "https://cdn.imgchest.com/files/d50fdd6a47b0.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Crisis (Placeholder)",
+    "name": "Existential Dread",
     "type": "Spell",
     "cost": 1,
     "Domain": [
@@ -20403,7 +20403,7 @@
         "name": "Mageseeker Investigator",
         "type": "Unit",
         "cost": 4,
-        "image": "https://cdn.imgchest.com/files/105890e8fbd9.jpeg",
+        "image": "https://cdn.imgchest.com/files/0d7e099992c3.jpeg",
         "isHorizontal": false
       }
     },
@@ -20455,7 +20455,7 @@
         "name": "Undying Loyalty",
         "type": "Spell",
         "cost": 2,
-        "image": "https://cdn.imgchest.com/files/0782ee8a3808.jpeg",
+        "image": "https://cdn.imgchest.com/files/9e49ebf63a50.jpeg",
         "isHorizontal": false
       }
     },
@@ -20533,7 +20533,7 @@
         "name": "Galio, Indefatigable",
         "type": "Unit",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/9b5177a2db8d.png",
+        "image": "https://cdn.imgchest.com/files/dc6fcfbe3243.jpeg",
         "isHorizontal": false
       }
     },
@@ -20801,7 +20801,7 @@
         "name": "Hextech Gauntlets",
         "type": "Spell",
         "cost": 3,
-        "image": "https://cdn.imgchest.com/files/a28ba50b0a10.png",
+        "image": "https://cdn.imgchest.com/files/8ebb4e1b323b.jpeg",
         "isHorizontal": false
       }
     },
@@ -21204,7 +21204,7 @@
         "name": "Dusk Rose Lab",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.imgchest.com/files/d7d8e15aa5bb.jpeg",
+        "image": "https://cdn.imgchest.com/files/4de0421dc397.jpeg",
         "isHorizontal": true
       }
     },
@@ -21230,7 +21230,7 @@
         "name": "Forbidding Waste",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.imgchest.com/files/837bf08fe86d.jpeg",
+        "image": "https://cdn.imgchest.com/files/dba94a80898a.jpeg",
         "isHorizontal": true
       }
     },
@@ -21256,7 +21256,7 @@
         "name": "Forgotten Library",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.imgchest.com/files/70eb1098eed2.jpeg",
+        "image": "https://cdn.imgchest.com/files/35a1b127639a.jpeg",
         "isHorizontal": true
       }
     },
@@ -21308,7 +21308,7 @@
         "name": "Gardens of Becoming",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.imgchest.com/files/fe3e12a07f42.png",
+        "image": "https://cdn.imgchest.com/files/0ef0f9cfb41d.jpeg",
         "isHorizontal": true
       }
     },
@@ -21337,7 +21337,7 @@
         "name": "The Academy",
         "type": "Battlefields",
         "cost": 0,
-        "image": "https://cdn.imgchest.com/files/2cb86364541a.jpeg",
+        "image": "https://cdn.imgchest.com/files/3bd4a7f7bb1b.jpeg",
         "isHorizontal": true
       }
     },
