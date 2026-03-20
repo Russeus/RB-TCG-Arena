@@ -20562,6 +20562,35 @@
     },
     "_unreleased": true
   },
+  "UNL-026": {
+    "id": "UNL-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xerath, Red (Placeholder)",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/a5aa741b61cb.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Xerath, Red (Placeholder)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-027": {
     "id": "UNL-027",
     "isToken": false,
