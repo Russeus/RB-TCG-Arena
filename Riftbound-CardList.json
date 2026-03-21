@@ -22498,6 +22498,35 @@
     },
     "_unreleased": true
   },
+  "UNL-121": {
+    "id": "UNL-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charming Spirit (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/UNL-121.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Charming Spirit (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-122": {
     "id": "UNL-122",
     "isToken": false,
