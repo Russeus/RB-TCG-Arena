@@ -25852,6 +25852,72 @@
     },
     "_unreleased": true
   },
+  "UNL-235": {
+    "id": "UNL-235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LeBlanc, Deceiver",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/8d87c169458c.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "LeBlanc, Deceiver",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T06"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-235s": {
+    "id": "UNL-235s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LeBlanc, Deceiver",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/5a8bdb9fc363.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "LeBlanc, Deceiver",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T06"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-236": {
     "id": "UNL-236",
     "isToken": false,
