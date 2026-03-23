@@ -20301,6 +20301,64 @@
     },
     "_unreleased": true
   },
+  "UNL-004": {
+    "id": "UNL-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prepared Neophyte",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/de2a65d85e04.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Prepared Neophyte",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-005": {
+    "id": "UNL-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Revna the Lorekeeper",
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/32e2a4bf290d.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Revna the Lorekeeper",
+    "type": "Unit",
+    "cost": 7,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-006": {
     "id": "UNL-006",
     "isToken": false,
@@ -20464,6 +20522,35 @@
     "name": "Lotus Trap (Placeholder)",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-016": {
+    "id": "UNL-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Wolf (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/9ade995fa792.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire Wolf (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔴 Fury"
     ],
@@ -20765,6 +20852,70 @@
     },
     "_unreleased": true
   },
+  "UNL-029": {
+    "id": "UNL-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Brambleback",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/bf53070c3ef6.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Brambleback",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "OGN-T-Buff"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-029a": {
+    "id": "UNL-029a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Brambleback",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/1add83531c11.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Brambleback",
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "OGN-T-Buff"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-030": {
     "id": "UNL-030",
     "isToken": false,
@@ -21032,6 +21183,35 @@
     },
     "_unreleased": true
   },
+  "UNL-045": {
+    "id": "UNL-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forgotten Signpost",
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/b6773af5f4a0.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Forgotten Signpost",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-046": {
     "id": "UNL-046",
     "isToken": false,
@@ -21180,6 +21360,38 @@
     },
     "_unreleased": true
   },
+  "UNL-053": {
+    "id": "UNL-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scuttle Crab",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/fee6c3a716af.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Scuttle Crab",
+    "type": "Unit",
+    "cost": 2,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-056": {
     "id": "UNL-056",
     "isToken": false,
@@ -21198,6 +21410,35 @@
     "name": "Yuumi, Magical Cat",
     "type": "Unit",
     "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-057": {
+    "id": "UNL-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alpha Wildclaw (Placeholder)",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/c29f1ec779dc.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Alpha Wildclaw (Placeholder)",
+    "type": "Unit",
+    "cost": 6,
     "Domain": [
       "🟢 Calm"
     ],
@@ -21656,6 +21897,35 @@
     },
     "_unreleased": true
   },
+  "UNL-079a": {
+    "id": "UNL-079a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diana, Lunari",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/436b01733c2c.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Diana, Lunari",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-080": {
     "id": "UNL-080",
     "isToken": false,
@@ -21674,6 +21944,35 @@
     "name": "Hwei, Brooding Painter",
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-083": {
+    "id": "UNL-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phantom in the Mirror (Placeholder)",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/87ac8403a2a7.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom in the Mirror (Placeholder)",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🔵 Mind"
     ],
@@ -22045,6 +22344,35 @@
     },
     "_unreleased": true
   },
+  "UNL-098": {
+    "id": "UNL-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Targonian Visionary",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/637bd6ad06f3.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Targonian Visionary",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-100": {
     "id": "UNL-100",
     "isToken": false,
@@ -22193,6 +22521,35 @@
     },
     "_unreleased": true
   },
+  "UNL-111": {
+    "id": "UNL-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Determined Sentry",
+        "type": "Unit",
+        "cost": 1,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/c3d922d1d416.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Determined Sentry",
+    "type": "Unit",
+    "cost": 1,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-113": {
     "id": "UNL-113",
     "isToken": false,
@@ -22304,6 +22661,38 @@
     "name": "Nilah, Joyful Ascetic",
     "type": "Unit",
     "cost": 3,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-116": {
+    "id": "UNL-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poppy, Paragon",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/3f6170e165b1.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Poppy, Paragon",
+    "type": "Unit",
+    "cost": 5,
     "tokens": [
       "UNL-T08"
     ],
@@ -22556,6 +22945,35 @@
     },
     "_unreleased": true
   },
+  "UNL-124": {
+    "id": "UNL-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isolate",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/447eb1b8d40b.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Isolate",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-126": {
     "id": "UNL-126",
     "isToken": false,
@@ -22777,6 +23195,35 @@
     "name": "The List",
     "type": "Gear",
     "cost": 1,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-139": {
+    "id": "UNL-139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bone Skewer",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/174d8a017119.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Bone Skewer",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -23212,6 +23659,38 @@
     },
     "_unreleased": true
   },
+  "UNL-162": {
+    "id": "UNL-162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enthralling Protector",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/358c6918fb2a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Enthralling Protector",
+    "type": "Unit",
+    "cost": 2,
+    "tokens": [
+      "OGN-T-Buff"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-163": {
     "id": "UNL-163",
     "isToken": false,
@@ -23288,6 +23767,35 @@
     "name": "Stalking Wolf",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-167": {
+    "id": "UNL-167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Starhound",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7339d7563086.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Starhound",
+    "type": "Unit",
+    "cost": 5,
     "Domain": [
       "🟡 Order"
     ],
@@ -23800,6 +24308,36 @@
     },
     "_unreleased": true
   },
+  "UNL-186": {
+    "id": "UNL-186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Signature Spell (Placeholder)",
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/1ed280c85e92.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Signature Spell (Placeholder)",
+    "type": "Spell",
+    "cost": 4,
+    "Domain": [
+      "🔴 Fury",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-187": {
     "id": "UNL-187",
     "isToken": false,
@@ -24007,6 +24545,36 @@
     "name": "Vex, Gloomist",
     "type": "Legend",
     "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-194": {
+    "id": "UNL-194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vex, Signature Spell (Placeholder)",
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/c4b78a4ebbb2.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vex, Signature Spell (Placeholder)",
+    "type": "Spell",
+    "cost": 3,
     "Domain": [
       "🟢 Calm",
       "🟣 Chaos"
@@ -24810,6 +25378,222 @@
     },
     "_unreleased": true
   },
+  "UNL-226s": {
+    "id": "UNL-226s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jhin, Virtuoso",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/800f96fa25ae.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Jhin, Virtuoso",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-227": {
+    "id": "UNL-227",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rengar, Pridestalker",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/be18acf73b74.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Rengar, Pridestalker",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-227s": {
+    "id": "UNL-227s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rengar, Pridestalker",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/4775dc60b049.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Rengar, Pridestalker",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-228": {
+    "id": "UNL-228",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Bloodharbor Ripper",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/5e546eb6ae5e.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Bloodharbor Ripper",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T05"
+    ],
+    "Domain": [
+      "🔴 Fury",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-228s": {
+    "id": "UNL-228s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyke, Bloodharbor Ripper",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/38495b321a0c.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyke, Bloodharbor Ripper",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T05"
+    ],
+    "Domain": [
+      "🔴 Fury",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-229": {
+    "id": "UNL-229",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi, Piltover Enforcer",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/80331c76ce6e.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi, Piltover Enforcer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-229s": {
+    "id": "UNL-229s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vi, Piltover Enforcer",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/363dd8cbd5ff.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vi, Piltover Enforcer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-230": {
     "id": "UNL-230",
     "isToken": false,
@@ -24867,6 +25651,72 @@
     "Domain": [
       "🟢 Calm",
       "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-231": {
+    "id": "UNL-231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Wuju Master",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/91b559b25586.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Wuju Master",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟢 Calm",
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-231s": {
+    "id": "UNL-231s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Yi, Wuju Master",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/17a72b480614.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Yi, Wuju Master",
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟢 Calm",
+      "🟠 Body"
     ],
     "Set": [
       "03 - Unleashed"
