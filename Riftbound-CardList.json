@@ -20533,6 +20533,35 @@
     },
     "_unreleased": true
   },
+  "UNL-015": {
+    "id": "UNL-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Right of Conquest",
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/625312ad43a3.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Right of Conquest",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-016": {
     "id": "UNL-016",
     "isToken": false,
@@ -20725,6 +20754,35 @@
     "name": "Rengar, Unseen",
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-025": {
+    "id": "UNL-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Undying Legion",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/bf90e81e0ba7.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Undying Legion",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔴 Fury"
     ],
@@ -21024,6 +21082,35 @@
     "tokens": [
       "UNL-T08"
     ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-035": {
+    "id": "UNL-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monch",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/00e17e09258d.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Monch",
+    "type": "Unit",
+    "cost": 6,
     "Domain": [
       "🟢 Calm"
     ],
@@ -21381,6 +21468,35 @@
     "tokens": [
       "UNL-T08"
     ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-054": {
+    "id": "UNL-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tricksy Tentacles",
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/a6cdb48405b6.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Tricksy Tentacles",
+    "type": "Spell",
+    "cost": 4,
     "Domain": [
       "🟢 Calm"
     ],
@@ -22016,6 +22132,35 @@
     },
     "_unreleased": true
   },
+  "UNL-085": {
+    "id": "UNL-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sumpworks Map",
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7235152d7d28.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Sumpworks Map",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-086": {
     "id": "UNL-086",
     "isToken": false,
@@ -22487,6 +22632,35 @@
     "tokens": [
       "UNL-T08"
     ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-103": {
+    "id": "UNL-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disposal Order",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/e83efe2e9e70.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Disposal Order",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟠 Body"
     ],
@@ -23099,6 +23273,38 @@
     },
     "_unreleased": true
   },
+  "UNL-127": {
+    "id": "UNL-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mister Root",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/b5b3421d5087.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Mister Root",
+    "type": "Unit",
+    "cost": 2,
+    "tokens":[
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-128": {
     "id": "UNL-128",
     "isToken": false,
@@ -23175,6 +23381,35 @@
     "name": "Abandon",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-133": {
+    "id": "UNL-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blast Cone",
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7d5ef799c5f8.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Blast Cone",
+    "type": "Gear",
+    "cost": 4,
     "Domain": [
       "🟣 Chaos"
     ],
