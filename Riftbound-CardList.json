@@ -25296,7 +25296,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Keeper's Veredict",
+        "name": "Keeper's Verdict",
         "type": "Spell",
         "cost": 2,
         "image": {
@@ -25306,7 +25306,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Keeper's Veredict",
+    "name": "Keeper's Verdict",
     "type": "Spell",
     "cost": 2,
     "Domain": [
