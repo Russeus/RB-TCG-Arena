@@ -20649,6 +20649,38 @@
     },
     "_unreleased": true
   },
+  "UNL-018": {
+    "id": "UNL-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yeti Brawler",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/620fd566f0ff.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Yeti Brawler",
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "UNL-T05"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-019": {
     "id": "UNL-019",
     "isToken": false,
@@ -21450,6 +21482,35 @@
     },
     "_unreleased": true
   },
+  "UNL-049": {
+    "id": "UNL-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Honeyfruit",
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/22e2b49a693c.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Honeyfruit",
+    "type": "Gear",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-050": {
     "id": "UNL-050",
     "isToken": false,
@@ -21923,6 +21984,35 @@
     },
     "_unreleased": true
   },
+  "UNL-064": {
+    "id": "UNL-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fate Weaver",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/58bb4b9d957f.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Fate Weaver",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-065": {
     "id": "UNL-065",
     "isToken": false,
@@ -22298,6 +22388,38 @@
     "name": "Smoke and Mirrors",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-084": {
+    "id": "UNL-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sprite Queen",
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/82f5473e9310.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Sprite Queen",
+    "type": "Unit",
+    "cost": 7,
+    "tokens":[
+      "UNL-T07"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
@@ -22695,6 +22817,38 @@
     },
     "_unreleased": true
   },
+  "UNL-095": {
+    "id": "UNL-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grim Resolve",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7ab102620a69.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Grim Resolve",
+    "type": "Spell",
+    "cost": 2,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-096": {
     "id": "UNL-096",
     "isToken": false,
@@ -22867,6 +23021,35 @@
     "name": "Disposal Order",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-104": {
+    "id": "UNL-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gentle Gemdragon",
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/6ea3f966f94d.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Gentle Gemdragon",
+    "type": "Unit",
+    "cost": 8,
     "Domain": [
       "🟠 Body"
     ],
@@ -24655,6 +24838,35 @@
     "name": "Sacrifice",
     "type": "Spell",
     "cost": 1,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-175": {
+    "id": "UNL-175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tactical Retreat",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/a16e6d906bdb.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Tactical Retreat",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟡 Order"
     ],
