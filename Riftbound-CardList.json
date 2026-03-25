@@ -20475,6 +20475,35 @@
     },
     "_unreleased": true
   },
+  "UNL-010": {
+    "id": "UNL-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vault Breaker",
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/e723a464aee6.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vault Breaker",
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-011": {
     "id": "UNL-011",
     "isToken": false,
