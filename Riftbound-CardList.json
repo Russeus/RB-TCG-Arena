@@ -21090,6 +21090,38 @@
     },
     "_unreleased": true
   },
+  "UNL-033": {
+    "id": "UNL-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frisky Hunter",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6bf8978ca42fa50a60067e74364b3caf78b3e928-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Frisky Hunter",
+    "type": "Unit",
+    "cost": 4,
+    "tokens":[
+      "UNL-T02"
+    ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-034": {
     "id": "UNL-034",
     "isToken": false,
