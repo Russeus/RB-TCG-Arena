@@ -20504,6 +20504,35 @@
     },
     "_unreleased": true
   },
+  "UNL-014": {
+    "id": "UNL-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord Broadmane",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f564001228383a27372c0ddc4d8c0ed4e4843dc7-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord Broadmane",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-013": {
     "id": "UNL-013",
     "isToken": false,
@@ -20542,7 +20571,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/625312ad43a3.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2467e43f316e8700ad43b66e3b5d490f3f9d3cea-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -20567,17 +20596,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fire Wolf (Placeholder)",
+        "name": "Scorchclaw",
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/9ade995fa792.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f69940824f8ce62a479df28988dcbdf6ea6d3960-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
-    "name": "Fire Wolf (Placeholder)",
+    "name": "Scorchclaw",
     "type": "Unit",
     "cost": 3,
     "Domain": [
@@ -20774,7 +20803,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/bf90e81e0ba7.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a6955daff2982e0ba4417533052d5ea334232fb-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -21102,7 +21131,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.imgchest.com/files/00e17e09258d.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ef10724add3b6d9e69415cb194e895f6ea9969b7-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -21488,7 +21517,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.imgchest.com/files/a6cdb48405b6.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e1e77df44c076599fa780f7fd01a4550f67af45-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -21542,17 +21571,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alpha Wildclaw (Placeholder)",
+        "name": "Alpha Wildclaw",
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.imgchest.com/files/c29f1ec779dc.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39ec974dae18bf82fcc18a95044d8df04cc14d3c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
-    "name": "Alpha Wildclaw (Placeholder)",
+    "name": "Alpha Wildclaw",
     "type": "Unit",
     "cost": 6,
     "Domain": [
@@ -21775,6 +21804,64 @@
     },
     "_unreleased": true
   },
+  "UNL-062": {
+    "id": "UNL-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dramatic Visionary",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3153c05a8c3fb4d8f945a95fad54ea25e087ad47-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Dramatic Visionary",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-063": {
+    "id": "UNL-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eclipse",
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9fcef3d1d7de3c219aabcab88d0550c9d8cd4311-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Eclipse",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-065": {
     "id": "UNL-065",
     "isToken": false,
@@ -21955,6 +22042,35 @@
     },
     "_unreleased": true
   },
+  "UNL-076": {
+    "id": "UNL-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petal Pixie",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68189fb5a6b3193e8925969ac0c545bc78b210c9-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Petal Pixie",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-077": {
     "id": "UNL-077",
     "isToken": false,
@@ -22108,17 +22224,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Phantom in the Mirror (Placeholder)",
+        "name": "Smoke and Mirrors",
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/87ac8403a2a7.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/38886634ee8646707d9c26020f977f14c934a4c0-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
-    "name": "Phantom in the Mirror (Placeholder)",
+    "name": "Smoke and Mirrors",
     "type": "Spell",
     "cost": 2,
     "Domain": [
@@ -22141,7 +22257,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/7235152d7d28.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/87c3d5007aa3c3e2c4ff3d5bf78a92a2bee58db3-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -22457,6 +22573,35 @@
     },
     "_unreleased": true
   },
+  "UNL-093": {
+    "id": "UNL-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonsoul Sage",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2065a3b0fef9779fed8a3d42202606a31acf59ff-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonsoul Sage",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-094": {
     "id": "UNL-094",
     "isToken": false,
@@ -22652,7 +22797,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/e83efe2e9e70.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/de7b7c683f16a297418bc9a326178c520f17ef2b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -22661,6 +22806,38 @@
     "name": "Disposal Order",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-107": {
+    "id": "UNL-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stare Down",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/58d0353a966bb0ca292855a0a55de5769e28d155-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Stare Down",
+    "type": "Spell",
+    "cost": 2,
+    "tokens":[
+      "UNL-T08"
+    ],
     "Domain": [
       "🟠 Body"
     ],
@@ -23282,7 +23459,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/b5b3421d5087.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c9bb7a8f5a1426a4af9843f2473ee6cc37dd24bd-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -23401,7 +23578,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://cdn.imgchest.com/files/7d5ef799c5f8.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/093799f1ad34084f05011f3b326d4d32d96849e5-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -23554,6 +23731,35 @@
     },
     "name": "Bone Skewer",
     "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-141": {
+    "id": "UNL-141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evelynn, Entrancing",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1cea41a2b9c3de59a1c95ceacc59950be1d01907-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Evelynn, Entrancing",
+    "type": "Unit",
     "cost": 2,
     "Domain": [
       "🟣 Chaos"
@@ -23859,6 +24065,35 @@
     "cost": 4,
     "Domain": [
       "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-152": {
+    "id": "UNL-152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Rose Dignitary",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b63912e07914c3ef7e2bcdb95d5521fc26c880f2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Rose Dignitary",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
     ],
     "Set": [
       "03 - Unleashed"
@@ -24270,6 +24505,64 @@
       }
     },
     "name": "Galio, Indefatigable",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-172": {
+    "id": "UNL-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LeBlanc, Fragmented",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ee9f8d7a65e57c1d907edd4e5df2a3ea6966bff9-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "LeBlanc, Fragmented",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-172a": {
+    "id": "UNL-172a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LeBlanc, Fragmented",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d18932d3dddd203c6f68f30279f3886ec2e7130a-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "LeBlanc, Fragmented",
     "type": "Unit",
     "cost": 3,
     "Domain": [
@@ -24731,17 +25024,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pyke, Signature Spell (Placeholder)",
+        "name": "Death From Bellow",
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.imgchest.com/files/1ed280c85e92.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/17d93a11a252287e3b0f4bbe32722ecc9469ec66-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
-    "name": "Pyke, Signature Spell (Placeholder)",
+    "name": "Death From Bellow",
     "type": "Spell",
     "cost": 4,
     "Domain": [
@@ -24980,17 +25273,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vex, Signature Spell (Placeholder)",
+        "name": "Shadow",
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/c4b78a4ebbb2.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/690ee4937b3926810d8ed814afd14d4d9e98b13e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
-    "name": "Vex, Signature Spell (Placeholder)",
+    "name": "Shadow",
     "type": "Spell",
     "cost": 3,
     "Domain": [
@@ -25312,6 +25605,35 @@
     "Domain": [
       "🟠 Body",
       "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-205": {
+    "id": "UNL-205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abandoned Hall",
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7447b04d1e78192509e89e5ff3556368ea5c471a-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": "Abandoned Hall",
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
     ],
     "Set": [
       "03 - Unleashed"
