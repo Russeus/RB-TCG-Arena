@@ -25335,7 +25335,7 @@
     "face": {
       "front": {
         "name": "Shadow",
-        "type": "Spell",
+        "type": "Unit",
         "cost": 3,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/690ee4937b3926810d8ed814afd14d4d9e98b13e-744x1039.png?auto=format&fit=fill&q=80&w=744",
@@ -25345,7 +25345,7 @@
       }
     },
     "name": "Shadow",
-    "type": "Spell",
+    "type": "Unit",
     "cost": 3,
     "Domain": [
       "🟢 Calm",
