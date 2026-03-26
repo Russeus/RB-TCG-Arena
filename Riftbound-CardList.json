@@ -23810,6 +23810,38 @@
     },
     "_unreleased": true
   },
+  "UNL-117": {
+    "id": "UNL-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arachnoid Horror",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/ff4f942fa2a3.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Arachnoid Horror",
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-118": {
     "id": "UNL-118",
     "isToken": false,
