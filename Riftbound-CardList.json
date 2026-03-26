@@ -20855,6 +20855,35 @@
     },
     "_unreleased": true
   },
+  "UNL-023": {
+    "id": "UNL-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Apothecary (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/93dd7fe25949.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Apothecary (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-024": {
     "id": "UNL-024",
     "isToken": false,
@@ -21209,6 +21238,35 @@
     },
     "_unreleased": true
   },
+  "UNL-032": {
+    "id": "UNL-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Double Trouble (Placeholder)",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/9f85c3eb4a4b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Trouble (Placeholder)",
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-033": {
     "id": "UNL-033",
     "isToken": false,
@@ -21418,6 +21476,35 @@
     },
     "_unreleased": true
   },
+  "UNL-040": {
+    "id": "UNL-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Student of Wuju (Placeholder)",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/031c24eefd1a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Student of Wuju (Placeholder)",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-042": {
     "id": "UNL-042",
     "isToken": false,
@@ -21468,6 +21555,35 @@
     "tokens": [
       "OGN-T-Buff"
     ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-044": {
+    "id": "UNL-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Featherstorm (Placeholder)",
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/9f0f028adb5d.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Featherstorm (Placeholder)",
+    "type": "Spell",
+    "cost": 4,
     "Domain": [
       "🟢 Calm"
     ],
@@ -22161,6 +22277,35 @@
     },
     "_unreleased": true
   },
+  "UNL-066": {
+    "id": "UNL-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moonlight",
+        "type": "Spell",
+        "cost": 7,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/b6c6518f1571.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Moonlight",
+    "type": "Spell",
+    "cost": 7,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-067": {
     "id": "UNL-067",
     "isToken": false,
@@ -22190,6 +22335,38 @@
     },
     "_unreleased": true
   },
+  "UNL-069": {
+    "id": "UNL-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sprite Burst",
+        "type": "Spell",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/b4bffd46d238.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Sprite Burst",
+    "type": "Spell",
+    "cost": 5,
+    "tokens":[
+      "UNL-T07"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-070": {
     "id": "UNL-070",
     "isToken": false,
@@ -22208,6 +22385,35 @@
     "name": "Turn to Dust",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-071": {
+    "id": "UNL-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chakram Dancer (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/4bc1451a9c2f.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Chakram Dancer (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔵 Mind"
     ],
@@ -22507,6 +22713,35 @@
     "name": "Hwei, Brooding Painter",
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-081": {
+    "id": "UNL-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Keeper of Mask (Placeholder)",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/f4e0741055eb.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Keeper of Mask (Placeholder)",
+    "type": "Unit",
+    "cost": 2,
     "Domain": [
       "🔵 Mind"
     ],
@@ -23328,6 +23563,35 @@
     },
     "_unreleased": true
   },
+  "UNL-110": {
+    "id": "UNL-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle of Giants (Placeholder)",
+        "type": "Spell",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/15ac83e79b16.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle of Giants (Placeholder)",
+    "type": "Spell",
+    "cost": 6,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-111": {
     "id": "UNL-111",
     "isToken": false,
@@ -23990,6 +24254,35 @@
     },
     "_unreleased": true
   },
+  "UNL-132": {
+    "id": "UNL-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angler Beast (Placeholder)",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/4b7b5531b6cb.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Angler Beast (Placeholder)",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-133": {
     "id": "UNL-133",
     "isToken": false,
@@ -24373,6 +24666,35 @@
     },
     "_unreleased": true
   },
+  "UNL-146": {
+    "id": "UNL-146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Syndra, Champion (Placeholder)",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/7e689bfb5d65.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Syndra, Champion (Placeholder)",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-147": {
     "id": "UNL-147",
     "isToken": false,
@@ -24611,6 +24933,35 @@
     },
     "_unreleased": true
   },
+  "UNL-153": {
+    "id": "UNL-153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Robot (Placeholder)",
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/2915789db98f.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Robot (Placeholder)",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-154": {
     "id": "UNL-154",
     "isToken": false,
@@ -24719,6 +25070,35 @@
     "tokens": [
       "UNL-T08"
     ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-159": {
+    "id": "UNL-159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Hunt (Placeholder)",
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/f89eeb76fb7d.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul Hunt (Placeholder)",
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟡 Order"
     ],
