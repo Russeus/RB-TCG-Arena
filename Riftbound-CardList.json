@@ -26632,7 +26632,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Death From Bellow",
+        "name": "Death from Below",
         "type": "Spell",
         "cost": 4,
         "image": {
@@ -26642,7 +26642,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Death From Bellow",
+    "name": "Death from Below",
     "type": "Spell",
     "cost": 4,
     "Domain": [
