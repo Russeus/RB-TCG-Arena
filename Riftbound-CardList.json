@@ -20716,7 +20716,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.imgchest.com/files/52bb80ccedda.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5e14c09db2f064e5f6986f500a04335d73d459dd-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -20831,17 +20831,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dark Apothecary (Placeholder)",
+        "name": "Grim Apothecary",
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/067d2a83a6e247e0b282140b0fd58357.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af548bbfc856e306c5feefb34eb6bd9a4e442904-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/067d2a83a6e247e0b282140b0fd58357.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Dark Apothecary (Placeholder)",
+    "name": "Grim Apothecary",
     "type": "Unit",
     "cost": 3,
     "Domain": [
@@ -20922,7 +20922,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.imgchest.com/files/2b2cf4aa1d8b.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12da73cb78a9cfa052749f317ed56a27106908c6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -21301,17 +21301,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Double Trouble (Placeholder)",
+        "name": "Double Trouble",
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/e4e2d8278bd14f439c659fa531cb4413.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/64e977213f50471ad7b6e8664488fb9017693f71-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/e4e2d8278bd14f439c659fa531cb4413.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Double Trouble (Placeholder)",
+    "name": "Double Trouble",
     "type": "Spell",
     "cost": 2,
     "Domain": [
@@ -21539,19 +21539,22 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Student of Wuju (Placeholder)",
+        "name": "Wuju Apprentice",
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/c0ed0e32b98f4f7f95b5c23a10ea1e55.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/543789dd1b4b2654392a151d4bb1b0c6263c47dc-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/c0ed0e32b98f4f7f95b5c23a10ea1e55.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Student of Wuju (Placeholder)",
+    "name": "Wuju Apprentice",
     "type": "Unit",
     "cost": 2,
+    "tokens":[
+      "UNL-T08"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -21572,7 +21575,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/1e049c54925a.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf1045b559b20d3e86383a07de54cd1893e5a94b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -21658,17 +21661,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Featherstorm (Placeholder)",
+        "name": "Flurry of Feathers",
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/ea09013037784e48bf8d94aa3338ece9.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/77bd864b29f4975868e557e31a39b94d06a4ecb2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/ea09013037784e48bf8d94aa3338ece9.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Featherstorm (Placeholder)",
+    "name": "Flurry of Feathers",
     "type": "Spell",
     "cost": 4,
     "Domain": [
@@ -22002,6 +22005,64 @@
     "name": "Tricksy Tentacles",
     "type": "Spell",
     "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-055": {
+    "id": "UNL-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vex, Mocking",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed2c20de6ceb7ff23f62ccb28a49fd305c5b15b7-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vex, Mocking",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-055a": {
+    "id": "UNL-055a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vex, Mocking",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9594ce4be31689c364a43954a541c4391fe0d4f3-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Vex, Mocking",
+    "type": "Unit",
+    "cost": 5,
     "Domain": [
       "🟢 Calm"
     ],
@@ -22401,17 +22462,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Moonlight (Placeholder)",
+        "name": "Moonlight Affliction",
         "type": "Spell",
         "cost": 7,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/d94f83b5e2f74696b3619286e9fe0a5b.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8f75280599fdb4d3b6191cf8e8443aadf33ad11e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/d94f83b5e2f74696b3619286e9fe0a5b.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Moonlight (Placeholder)",
+    "name": "Moonlight Affliction",
     "type": "Spell",
     "cost": 7,
     "Domain": [
@@ -22441,6 +22502,35 @@
       }
     },
     "name": "Ruined Rex",
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-068": {
+    "id": "UNL-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spectral Centaur",
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/60fb267f2d0cd16714d35a0eefd0d5864304102b-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Spectral Centaur",
     "type": "Unit",
     "cost": 6,
     "Domain": [
@@ -22520,17 +22610,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Chakram Dancer (Placeholder)",
+        "name": "Chakram Dancer",
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/6a5180c2876d449ab29de213c6d2b22d.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/29abe06f1c16a9eed622a5060330116268b73b8c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/6a5180c2876d449ab29de213c6d2b22d.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Chakram Dancer (Placeholder)",
+    "name": "Chakram Dancer",
     "type": "Unit",
     "cost": 3,
     "Domain": [
@@ -22848,17 +22938,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Keeper of Mask (Placeholder)",
+        "name": "Keeper of Masks",
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/561c2e8bc07346b7955c231481a393c3.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/67606d98bd3d8816e686dacacb91a56627d4b5f5-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/561c2e8bc07346b7955c231481a393c3.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Keeper of Mask (Placeholder)",
+    "name": "Keeper of Masks",
     "type": "Unit",
     "cost": 2,
     "Domain": [
@@ -22881,7 +22971,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/af125e052934.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/65d0af5361b335a7e65c7aa03a099fc0de3431e6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -22913,7 +23003,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/b928e5977d98.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b06072002316a5b86f11750bbe21e9dfb94be08d-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -23505,6 +23595,35 @@
     },
     "_unreleased": true
   },
+  "UNL-099": {
+    "id": "UNL-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Towering Combatant",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2a2eefa9b85684489e97870145eb2f94b20b60ed-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Towering Combatant",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-100": {
     "id": "UNL-100",
     "isToken": false,
@@ -23694,7 +23813,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cdn.imgchest.com/files/3e65b1b7e129.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ca56ad44ec24db67e10a4ee18f5c7f3756c83d94-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -23809,17 +23928,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Battle of Giants (Placeholder)",
+        "name": "Clash of Giants",
         "type": "Spell",
         "cost": 6,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/7c2099417b4b44f6a558fa3e512c95f5.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/afe7cbde874003db673925275a13614d5f35266b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/7c2099417b4b44f6a558fa3e512c95f5.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Battle of Giants (Placeholder)",
+    "name": "Clash of Giants",
     "type": "Spell",
     "cost": 6,
     "Domain": [
@@ -23871,7 +23990,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/1f1c98dff24a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6834e4b00a22dd6d7476d36884b43cf59b60c611-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -24408,6 +24527,35 @@
     },
     "_unreleased": true
   },
+  "UNL-125": {
+    "id": "UNL-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunar Boon",
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7dc31cec93a355ba52b8cf2ca0b232a0edd57586-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunar Boon",
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-126": {
     "id": "UNL-126",
     "isToken": false,
@@ -24507,7 +24655,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/99845de971eb165c7a6bb424050cd9a29b45b548-744x1039.png?auto=format&fit=fill&q=80&w=352",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/99845de971eb165c7a6bb424050cd9a29b45b548-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/f4b1efe36c424baaa7159239c83681f4.webp"
         },
         "isHorizontal": false
@@ -24593,17 +24741,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Angler Beast (Placeholder)",
+        "name": "Angler Beast",
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/71d0170c1b184e2a88f52e79672bdd6a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68872e2119146768f8fa113376876fa64699297d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/71d0170c1b184e2a88f52e79672bdd6a.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Angler Beast (Placeholder)",
+    "name": "Angler Beast",
     "type": "Unit",
     "cost": 5,
     "Domain": [
@@ -24704,6 +24852,38 @@
     },
     "_unreleased": true
   },
+  "UNL-136": {
+    "id": "UNL-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scryer's Bloom",
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b10a544d24d3ae3e177d4791743bb2cfb742abcc-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Scryer's Bloom",
+    "type": "Gear",
+    "cost": 1,
+    "tokens":[
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-137": {
     "id": "UNL-137",
     "isToken": false,
@@ -24780,6 +24960,35 @@
     "name": "Bone Skewer",
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-140": {
+    "id": "UNL-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conscription",
+        "type": "Spell",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1c05bff48666586a2b3552b5638deaf20d9006f7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Conscription",
+    "type": "Spell",
+    "cost": 5,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -25005,17 +25214,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Syndra, Champion (Placeholder)",
+        "name": "Syndra, Transcendent",
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/63311206012840ca810fc42da9c6c4af.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a3695d011175801aaf6ec5a6557b65b8d6341e81-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/63311206012840ca810fc42da9c6c4af.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Syndra, Champion (Placeholder)",
+    "name": "Syndra, Transcendent",
     "type": "Unit",
     "cost": 6,
     "Domain": [
@@ -25238,6 +25447,35 @@
     },
     "_unreleased": true
   },
+  "UNL-151": {
+    "id": "UNL-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandle Soldier",
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e43b54f22e0a038ee1f94ba2e99f80dd89999d8e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandle Soldier",
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-152": {
     "id": "UNL-152",
     "isToken": false,
@@ -25272,17 +25510,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Robot (Placeholder)",
+        "name": "Carrion Dredger",
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/c715ca1b0ead44c0990c1c7974c7682b.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/84d8b6d7a9cab2b78a465a8e0caf597f3ef5a175-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/c715ca1b0ead44c0990c1c7974c7682b.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Robot (Placeholder)",
+    "name": "Carrion Dredger",
     "type": "Unit",
     "cost": 2,
     "Domain": [
@@ -25415,22 +25653,54 @@
     },
     "_unreleased": true
   },
+  "UNL-158": {
+    "id": "UNL-158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shepherd's Heirloom",
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fadd95487f164f60c9ad08a457f11170c6afa420-744x1039.png?auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Shepherd's Heirloom",
+    "type": "Gear",
+    "cost": 2,
+    "tokens":[
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-159": {
     "id": "UNL-159",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Soul Hunt (Placeholder)",
+        "name": "Soul Harvest",
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.playloltcg.com/lol/card/20260327/c78902d2f84c4508b01a449317737a51.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/baee7644d00219dfa4160d59e6f6e78e55f5e619-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/c78902d2f84c4508b01a449317737a51.webp"
         },
         "isHorizontal": false
       }
     },
-    "name": "Soul Hunt (Placeholder)",
+    "name": "Soul Harvest",
     "type": "Spell",
     "cost": 2,
     "Domain": [
