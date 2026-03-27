@@ -20913,6 +20913,35 @@
     },
     "_unreleased": true
   },
+  "UNL-023": {
+    "id": "UNL-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Katarina, Reckless",
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/2b2cf4aa1d8b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Katarina, Reckless",
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-024": {
     "id": "UNL-024",
     "isToken": false,
