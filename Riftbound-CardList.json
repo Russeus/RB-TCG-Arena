@@ -21563,6 +21563,35 @@
     },
     "_unreleased": true
   },
+  "UNL-041": {
+    "id": "UNL-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Allay, Eager Admirer",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/1e049c54925a.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Allay, Eager Admirer",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-042": {
     "id": "UNL-042",
     "isToken": false,
@@ -22832,6 +22861,70 @@
     "name": "Keeper of Mask (Placeholder)",
     "type": "Unit",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-082": {
+    "id": "UNL-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lillia, Fae Fawn",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/af125e052934.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Lillia, Fae Fawn",
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "UNL-T07"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-082a": {
+    "id": "UNL-082a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lillia, Fae Fawn",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/b928e5977d98.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Lillia, Fae Fawn",
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "UNL-T07"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
