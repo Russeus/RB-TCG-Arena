@@ -20514,7 +20514,7 @@
         "cost": 1,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8046c9f133be83268d7dc9788abea58f461914d8-744x1039.png?auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/f32a07279ab14235bbd31125e162cbd2.webp"
         },
         "isHorizontal": false
       }
@@ -20707,6 +20707,35 @@
     },
     "_unreleased": true
   },
+  "UNL-017": {
+    "id": "UNL-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Square Up",
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/52bb80ccedda.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Square Up",
+    "type": "Spell",
+    "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-018": {
     "id": "UNL-018",
     "isToken": false,
@@ -20797,6 +20826,35 @@
     },
     "_unreleased": true
   },
+  "UNL-021": {
+    "id": "UNL-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Apothecary (Placeholder)",
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/067d2a83a6e247e0b282140b0fd58357.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/067d2a83a6e247e0b282140b0fd58357.webp"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Apothecary (Placeholder)",
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
   "UNL-022": {
     "id": "UNL-022",
     "isToken": false,
@@ -20844,35 +20902,6 @@
     "name": "Jhin, Murderous Artist",
     "type": "Unit",
     "cost": 4,
-    "Domain": [
-      "🔴 Fury"
-    ],
-    "Set": [
-      "03 - Unleashed"
-    ],
-    "_legal": {
-      "S03": true
-    },
-    "_unreleased": true
-  },
-  "UNL-023": {
-    "id": "UNL-023",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Dark Apothecary (Placeholder)",
-        "type": "Unit",
-        "cost": 3,
-        "image": {
-          "en": "https://cdn.imgchest.com/files/93dd7fe25949.png",
-          "zh": ""
-        },
-        "isHorizontal": false
-      }
-    },
-    "name": "Dark Apothecary (Placeholder)",
-    "type": "Unit",
-    "cost": 3,
     "Domain": [
       "🔴 Fury"
     ],
@@ -21247,8 +21276,8 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/9f85c3eb4a4b.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/e4e2d8278bd14f439c659fa531cb4413.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/e4e2d8278bd14f439c659fa531cb4413.webp"
         },
         "isHorizontal": false
       }
@@ -21485,8 +21514,8 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/031c24eefd1a.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/c0ed0e32b98f4f7f95b5c23a10ea1e55.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/c0ed0e32b98f4f7f95b5c23a10ea1e55.webp"
         },
         "isHorizontal": false
       }
@@ -21575,8 +21604,8 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.imgchest.com/files/9f0f028adb5d.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/ea09013037784e48bf8d94aa3338ece9.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/ea09013037784e48bf8d94aa3338ece9.webp"
         },
         "isHorizontal": false
       }
@@ -21695,7 +21724,7 @@
         "cost": 3,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa843ee80d1a35416d61482bc1602279955a2c7f-744x1039.png?auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/4200aef40fcf46f187c58bfee1d85778.webp"
         },
         "isHorizontal": false
       }
@@ -22318,8 +22347,8 @@
         "type": "Spell",
         "cost": 7,
         "image": {
-          "en": "https://cdn.imgchest.com/files/b6c6518f1571.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/d94f83b5e2f74696b3619286e9fe0a5b.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/d94f83b5e2f74696b3619286e9fe0a5b.webp"
         },
         "isHorizontal": false
       }
@@ -22377,7 +22406,7 @@
         "cost": 5,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4427ceffae1c3e7b012167461ce7c080bb2c1fe4-744x1039.png?auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/cbac43268f16487eb1189a47980e7afa.webp"
         },
         "isHorizontal": false
       }
@@ -22437,8 +22466,8 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.imgchest.com/files/4bc1451a9c2f.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/6a5180c2876d449ab29de213c6d2b22d.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/6a5180c2876d449ab29de213c6d2b22d.webp"
         },
         "isHorizontal": false
       }
@@ -22765,8 +22794,8 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/f4e0741055eb.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/561c2e8bc07346b7955c231481a393c3.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/561c2e8bc07346b7955c231481a393c3.webp"
         },
         "isHorizontal": false
       }
@@ -23515,7 +23544,7 @@
         "cost": 5,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/01596f6039ef5618fae686e1c7df291e1c570fc3-744x1039.png?auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/f405da34523445b7afe8030c7534d522.webp"
         },
         "isHorizontal": false
       }
@@ -23523,6 +23552,35 @@
     "name": "Imposing Challenger",
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "S03": true
+    },
+    "_unreleased": true
+  },
+  "UNL-106": {
+    "id": "UNL-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Repulse",
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cdn.imgchest.com/files/3e65b1b7e129.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Repulse",
+    "type": "Spell",
+    "cost": 1,
     "Domain": [
       "🟠 Body"
     ],
@@ -23633,8 +23691,8 @@
         "type": "Spell",
         "cost": 6,
         "image": {
-          "en": "https://cdn.imgchest.com/files/15ac83e79b16.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/7c2099417b4b44f6a558fa3e512c95f5.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/7c2099417b4b44f6a558fa3e512c95f5.webp"
         },
         "isHorizontal": false
       }
@@ -23910,7 +23968,7 @@
         "cost": 6,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae2ec829a6714ac75e8b203631af08c0c1e1565f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/c9583783e47348ce9aea66c5b51cacab.webp"
         },
         "isHorizontal": false
       }
@@ -24328,7 +24386,7 @@
         "cost": 5,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/99845de971eb165c7a6bb424050cd9a29b45b548-744x1039.png?auto=format&fit=fill&q=80&w=352",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/f4b1efe36c424baaa7159239c83681f4.webp"
         },
         "isHorizontal": false
       }
@@ -24417,8 +24475,8 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.imgchest.com/files/4b7b5531b6cb.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/71d0170c1b184e2a88f52e79672bdd6a.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/71d0170c1b184e2a88f52e79672bdd6a.webp"
         },
         "isHorizontal": false
       }
@@ -24829,8 +24887,8 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.imgchest.com/files/7e689bfb5d65.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/63311206012840ca810fc42da9c6c4af.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/63311206012840ca810fc42da9c6c4af.webp"
         },
         "isHorizontal": false
       }
@@ -25096,8 +25154,8 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/2915789db98f.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/c715ca1b0ead44c0990c1c7974c7682b.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/c715ca1b0ead44c0990c1c7974c7682b.webp"
         },
         "isHorizontal": false
       }
@@ -25244,8 +25302,8 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.imgchest.com/files/f89eeb76fb7d.png",
-          "zh": ""
+          "en": "https://cdn.playloltcg.com/lol/card/20260327/c78902d2f84c4508b01a449317737a51.webp",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/c78902d2f84c4508b01a449317737a51.webp"
         },
         "isHorizontal": false
       }
@@ -25715,7 +25773,7 @@
         "cost": 6,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d167f4e37714f0f8983fce16a9c657bc7ce39642-744x1039.png?auto=format&fit=fill&q=80&w=744",
-          "zh": ""
+          "zh": "https://cdn.playloltcg.com/lol/card/20260327/60b253854c9d4a67874171b24210f79b.webp"
         },
         "isHorizontal": false
       }
