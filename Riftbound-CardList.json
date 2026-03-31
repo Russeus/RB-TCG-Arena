@@ -5666,8 +5666,8 @@
       "01 - Origins"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "OGN-169": {
@@ -6072,8 +6072,8 @@
       "01 - Origins"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "OGN-183": {
@@ -9450,8 +9450,8 @@
       "01 - Origins"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "OGN-285": {
@@ -9479,8 +9479,8 @@
       "01 - Origins"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "OGN-286": {
@@ -9682,8 +9682,8 @@
       "01 - Origins"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "OGN-293": {
@@ -12068,8 +12068,8 @@
       "02 - Spiritforged"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "SFD-020a": {
@@ -12100,8 +12100,8 @@
       "02 - Spiritforged"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "SFD-021": {
@@ -15544,8 +15544,8 @@
       "02 - Spiritforged"
     ],
     "_legal": {
-      "S02": true,
-      "S03": true
+      "S02": false,
+      "S03": false
     }
   },
   "SFD-123": {
