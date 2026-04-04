@@ -8826,6 +8826,36 @@
       "S03": true
     }
   },
+  "OGN-263a": {
+    "id": "OGN-263a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teemo, Swift Scout",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.playloltcg.com/lol/card/20251022/d451ff1295244c5286a671fdf6b35f78.png",
+          "zh": "https://cdn.playloltcg.com/lol/card/20251022/d451ff1295244c5286a671fdf6b35f78.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Teemo, Swift Scout",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔵 Mind",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "01 - Origins"
+    ],
+    "_legal": {
+      "S02": true,
+      "S03": true
+    }
+  },
   "OGN-264": {
     "id": "OGN-264",
     "isToken": false,
