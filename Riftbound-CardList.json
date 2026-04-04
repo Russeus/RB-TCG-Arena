@@ -17948,6 +17948,36 @@
       "S03": true
     }
   },
+  "SFD-195a": {
+    "id": "SFD-195a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irelia, Blade Dancer",
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cdn.playloltcg.com/lol/card/20260130/ed3aa219dcb84b51ba599a97a66daa4c.png",
+          "zh": "https://cdn.playloltcg.com/lol/card/20260130/ed3aa219dcb84b51ba599a97a66daa4c.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Irelia, Blade Dancer",
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "02 - Spiritforged"
+    ],
+    "_legal": {
+      "S02": true,
+      "S03": true
+    }
+  },
   "SFD-196": {
     "id": "SFD-196",
     "isToken": false,
