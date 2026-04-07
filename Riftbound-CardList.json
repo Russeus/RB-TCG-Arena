@@ -25229,6 +25229,9 @@
     "name": "Pyke, Returned",
     "type": "Unit",
     "cost": 3,
+    "tokens":[
+      "UNL-T05"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -25258,6 +25261,9 @@
     "name": "Pyke, Returned",
     "type": "Unit",
     "cost": 3,
+    "tokens":[
+      "UNL-T05"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
