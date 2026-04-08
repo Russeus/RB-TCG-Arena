@@ -1630,5 +1630,317 @@
       }
     ]
   }
+},
+{
+  "title": "Vex Champion Deck (Precon)",
+  "id": "046c2952-45b2-446d-9ed6-ac664785b979",
+  "cardCount": 56,
+  "createdAt": "2026-04-08T21:20:05.446Z",
+  "lastModifiedAt": "2026-04-08T21:23:16.087Z",
+  "game": "Riftbound",
+  "format": [
+    "Unleashed"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "UNL-193"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "UNL-150"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 1,
+        "id": "SFD-146"
+      },
+      {
+        "count": 2,
+        "id": "UNL-055"
+      },
+      {
+        "count": 2,
+        "id": "UNL-036"
+      },
+      {
+        "count": 1,
+        "id": "UNL-035"
+      },
+      {
+        "count": 2,
+        "id": "UNL-041"
+      },
+      {
+        "count": 1,
+        "id": "UNL-043"
+      },
+      {
+        "count": 2,
+        "id": "UNL-048"
+      },
+      {
+        "count": 1,
+        "id": "UNL-126"
+      },
+      {
+        "count": 1,
+        "id": "UNL-141"
+      },
+      {
+        "count": 1,
+        "id": "UNL-052"
+      },
+      {
+        "count": 1,
+        "id": "UNL-050"
+      },
+      {
+        "count": 1,
+        "id": "UNL-194"
+      },
+      {
+        "count": 2,
+        "id": "UNL-127"
+      },
+      {
+        "count": 2,
+        "id": "UNL-034"
+      },
+      {
+        "count": 3,
+        "id": "UNL-040"
+      },
+      {
+        "count": 2,
+        "id": "UNL-047"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "UNL-134"
+      },
+      {
+        "count": 3,
+        "id": "UNL-042"
+      },
+      {
+        "count": 2,
+        "id": "UNL-038"
+      },
+      {
+        "count": 2,
+        "id": "UNL-031"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "UNL-133"
+      },
+      {
+        "count": 1,
+        "id": "UNL-136"
+      },
+      {
+        "count": 2,
+        "id": "UNL-039"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "UNL-207"
+      },
+      {
+        "count": 1,
+        "id": "UNL-213"
+      },
+      {
+        "count": 1,
+        "id": "UNL-214"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ]
+  }
+},
+{
+  "title": "Vi Champion Deck (Precon)",
+  "id": "77777452-4760-4ec0-b42c-09bb1bf636ff",
+  "cardCount": 56,
+  "createdAt": "2026-04-08T21:24:03.792Z",
+  "lastModifiedAt": "2026-04-08T21:26:33.099Z",
+  "game": "Riftbound",
+  "format": [
+    "Unleashed"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Unit",
+      "Spell",
+      "Gear",
+      "Battlefields",
+      "Runes"
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "UNL-187"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "UNL-030"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 1,
+        "id": "OGN-036"
+      },
+      {
+        "count": 2,
+        "id": "UNL-176"
+      },
+      {
+        "count": 3,
+        "id": "UNL-002"
+      },
+      {
+        "count": 2,
+        "id": "UNL-156"
+      },
+      {
+        "count": 2,
+        "id": "UNL-154"
+      },
+      {
+        "count": 2,
+        "id": "UNL-006"
+      },
+      {
+        "count": 1,
+        "id": "UNL-001"
+      },
+      {
+        "count": 2,
+        "id": "UNL-012"
+      },
+      {
+        "count": 2,
+        "id": "UNL-008"
+      },
+      {
+        "count": 2,
+        "id": "UNL-018"
+      },
+      {
+        "count": 2,
+        "id": "UNL-153"
+      },
+      {
+        "count": 1,
+        "id": "UNL-024"
+      },
+      {
+        "count": 2,
+        "id": "UNL-163"
+      },
+      {
+        "count": 1,
+        "id": "UNL-026"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "UNL-010"
+      },
+      {
+        "count": 2,
+        "id": "UNL-017"
+      },
+      {
+        "count": 2,
+        "id": "UNL-015"
+      },
+      {
+        "count": 1,
+        "id": "UNL-175"
+      },
+      {
+        "count": 1,
+        "id": "UNL-009"
+      },
+      {
+        "count": 1,
+        "id": "UNL-159"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 1,
+        "id": "UNL-188"
+      },
+      {
+        "count": 2,
+        "id": "SFD-009"
+      },
+      {
+        "count": 2,
+        "id": "UNL-161"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "UNL-217"
+      },
+      {
+        "count": 1,
+        "id": "UNL-215"
+      },
+      {
+        "count": 1,
+        "id": "UNL-218"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-214"
+      }
+    ]
+  }
 }
 ]
