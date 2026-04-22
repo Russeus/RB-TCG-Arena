@@ -106,7 +106,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "Mulligan up to 2 cards.",
+                    "info": "Mulligan up to 2 cards. You will autodraw that many cards.",
                     "steps": ["toBottom", "draw"],
                     "selectionRange": {
                         "min": 0,
@@ -533,13 +533,21 @@
     },
     "Multiplayer": {
             "mulligan": {
-                "info": "Choose up to 2 cards to Recycle, then manually draw that many.",
-                "startingHandSize": 4,
-                "drawNewHand": false,
-                "putSelectionAtBottom": true,
-                "drawNewSelectedCards": false,
                 "triggeredByButton": true,
-                "_NO_SHUFFLE": true
+                "startingHandSize": 4,
+                "mulliganCount": {
+                    "min": 0,
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "info": "Mulligan up to 2 cards. You will autodraw that many cards.",
+                    "steps": ["toBottom", "draw"],
+                    "selectionRange": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "keepCardOrder": false
+                }
             },
             "newTurn": {
                 "drawOnStart": false,
