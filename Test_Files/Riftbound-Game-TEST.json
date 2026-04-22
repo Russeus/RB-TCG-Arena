@@ -106,7 +106,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "translations.mulliganInfo",
+                    "info": "Mulligan up to 2 cards.",
                     "steps": ["toBottom", "draw"],
                     "selectionRange": {
                         "min": 0,
