@@ -507,35 +507,41 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "chosenBF": {
-                        "type": "custom",
-                        "isShared": true,
-                        "blueprint": {
-                            "type": "div",
-                            "props": {
-                                "style": {
-                                    "display": "flex",
-                                    "flexDirection": "column",
-                                    "alignItems": "center",
-                                    "justifyContent": "center",
-                                    "width": "100%",
-                                    "padding": "20px",
-                                    "backgroundColor": "rgba(30, 30, 30, 0.8)",
-                                    "borderRadius": "8px",
-                                    "border": "1px solid #444"
-                                }
-                            },
-                            "children": [
-                                {
-                                    "type": "text",
-                                    "props": {
-                                        "text": "Contenedor chosenBF listo",
-                                        "style": { "color": "#00ffcc", "fontWeight": "bold" }
-                                    }
-                                }
-                            ]
-                        }
-                    }
+"chosenBF": {
+    "type": "custom",
+    "isShared": true,
+    "blueprint": {
+        "type": "div",
+        "props": {
+            "style": {
+                "position": "fixed",
+                "top": "50%",
+                "left": "50%",
+                "transform": "translate(-50%, -50%)",
+                "width": "100vw",
+                "height": "140px",
+                "display": "flex",
+                "flexDirection": "column",
+                "alignItems": "center",
+                "justifyContent": "center",
+                "backgroundColor": "rgba(15, 15, 15, 0.85)",
+                "borderTop": "2px solid #00ffcc",
+                "borderBottom": "2px solid #00ffcc",
+                "zIndex": "100",
+                "pointerEvents": "none" 
+            }
+        },
+        "children": [
+            {
+                "type": "text",
+                "props": {
+                    "text": "ESPERANDO ELECCIÓN DE BATTLEFIELD",
+                    "style": { "color": "#00ffcc", "fontSize": "14px", "fontWeight": "bold", "letterSpacing": "3px" }
+                }
+            }
+        ]
+    }
+}
                 }
             }
     },
