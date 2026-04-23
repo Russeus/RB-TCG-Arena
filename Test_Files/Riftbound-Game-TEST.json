@@ -553,9 +553,6 @@
                                 "onChange": "game.data.Demo.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
                             }
                             ]
-                        },
-                        "events": {
-                            "onNewTurn": "game.data.Demo.counter_1 = 0"
                         }
                     }
                 }
