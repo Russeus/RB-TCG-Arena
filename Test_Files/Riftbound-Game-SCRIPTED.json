@@ -518,16 +518,12 @@
                 "left": "50%",
                 "transform": "translate(-50%, -50%)",
                 "width": "100vw",
-                "height": "280px",
                 "display": "flex",
                 "flexDirection": "column",
                 "alignItems": "center",
                 "justifyContent": "center",
-                "backgroundColor": "rgba(10, 10, 10, 0.9)",
-                "borderTop": "2px solid #00ffcc",
-                "borderBottom": "2px solid #00ffcc",
-                "zIndex": "999",
-                "boxShadow": "0 0 20px rgba(0, 255, 204, 0.2)"
+                "backgroundColor": "rgba(0, 0, 0, 0.8)",
+                "zIndex": "999"
             }
         },
         "children": [
@@ -535,28 +531,25 @@
                 "type": "text",
                 "props": {
                     "text": "SELECCIONA TU BATTLEFIELD",
-                    "style": { "color": "#00ffcc", "fontSize": "16px", "fontWeight": "bold", "marginBottom": "20px", "letterSpacing": "4px" }
+                    "style": { "color": "white", "marginBottom": "10px" }
                 }
             },
             {
                 "type": "div",
-                "props": { "style": { "display": "flex", "gap": "15px" } },
+                "props": { "style": { "display": "flex", "gap": "10px" } },
                 "children": [
                     {
                         "type": "loop",
-                        "iterable": "game.zones.Battlefields.cards ? game.zones.Battlefields.cards : []",
+                        "iterable": "game.zones.Battlefields.cards || []",
                         "template": {
                             "type": "img",
                             "props": {
                                 "src": "{{item.image}}",
                                 "style": { 
-                                    "width": "160px", 
-                                    "borderRadius": "8px", 
-                                    "border": "2px solid #555",
-                                    "cursor": "pointer",
-                                    "transition": "transform 0.1s"
+                                    "width": "150px", 
+                                    "cursor": "pointer"
                                 },
-                                "onClick": "chatLog('Has seleccionado: ' + item.name);"
+                                "onClick": "chatLog('Click en: ' + item.name);"
                             }
                         }
                     }
