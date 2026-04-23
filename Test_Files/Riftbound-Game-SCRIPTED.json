@@ -518,11 +518,14 @@
                 "left": "50%",
                 "transform": "translate(-50%, -50%)",
                 "width": "100vw",
+                "height": "180px",
                 "display": "flex",
                 "flexDirection": "column",
                 "alignItems": "center",
                 "justifyContent": "center",
-                "backgroundColor": "rgba(0, 0, 0, 0.8)",
+                "backgroundColor": "rgba(0, 0, 0, 0.85)",
+                "borderTop": "1px solid #444",
+                "borderBottom": "1px solid #444",
                 "zIndex": "999"
             }
         },
@@ -531,25 +534,27 @@
                 "type": "text",
                 "props": {
                     "text": "SELECCIONA TU BATTLEFIELD",
-                    "style": { "color": "white", "marginBottom": "10px" }
+                    "style": { "color": "#ccc", "fontSize": "12px", "marginBottom": "8px", "letterSpacing": "2px" }
                 }
             },
             {
                 "type": "div",
-                "props": { "style": { "display": "flex", "gap": "10px" } },
+                "props": { "style": { "display": "flex", "gap": "15px" } },
                 "children": [
                     {
                         "type": "loop",
-                        "iterable": "game.zones.Battlefields.cards || []",
+                        "iterable": "game.section.Battlefields.cards || []",
                         "template": {
                             "type": "img",
                             "props": {
                                 "src": "{{item.image}}",
                                 "style": { 
-                                    "width": "150px", 
-                                    "cursor": "pointer"
+                                    "height": "120px", 
+                                    "borderRadius": "6px",
+                                    "cursor": "pointer",
+                                    "boxShadow": "0 4px 8px rgba(0,0,0,0.5)"
                                 },
-                                "onClick": "chatLog('Click en: ' + item.name);"
+                                "onClick": "chatLog('Seleccionaste: ' + item.name);"
                             }
                         }
                     }
