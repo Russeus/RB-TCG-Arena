@@ -548,14 +548,14 @@
                             {
                                 "type": "input-number",
                                 "props": {
-                                "value": "{{game.data.Demo.counter_1}}"
+                                "value": "{{game.data.XP_Tracker.counter_1}}"
                                 },
-                                "onChange": "game.data.Demo.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
+                                "onChange": "game.data.XP_Tracker.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
                             }
                             ]
                         },
                         "events": {
-                            "onNewTurn": "game.data.Demo.counter_1 = 0"
+                            "onNewTurn": "game.data.XP_Tracker.counter_1 = 0"
                         }
                     }
                 }
