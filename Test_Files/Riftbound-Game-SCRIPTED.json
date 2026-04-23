@@ -524,8 +524,6 @@
                 "alignItems": "center",
                 "justifyContent": "center",
                 "backgroundColor": "rgba(0, 0, 0, 0.85)",
-                "borderTop": "1px solid #444",
-                "borderBottom": "1px solid #444",
                 "zIndex": "999"
             }
         },
@@ -533,28 +531,25 @@
             {
                 "type": "text",
                 "props": {
-                    "text": "SELECCIONA TU BATTLEFIELD",
-                    "style": { "color": "#ccc", "fontSize": "12px", "marginBottom": "8px", "letterSpacing": "2px" }
+                    "text": "PRUEBA: CARTAS DEL MAZO",
+                    "style": { "color": "yellow", "fontSize": "12px", "marginBottom": "8px" }
                 }
             },
             {
                 "type": "div",
-                "props": { "style": { "display": "flex", "gap": "15px" } },
+                "props": { "style": { "display": "flex", "gap": "10px" } },
                 "children": [
                     {
                         "type": "loop",
-                        "iterable": "game.section.Battlefields.cards || []",
+                        "iterable": "game.deck.cards.slice(0, 5)",
                         "template": {
                             "type": "img",
                             "props": {
                                 "src": "{{item.image}}",
                                 "style": { 
                                     "height": "120px", 
-                                    "borderRadius": "6px",
-                                    "cursor": "pointer",
-                                    "boxShadow": "0 4px 8px rgba(0,0,0,0.5)"
-                                },
-                                "onClick": "chatLog('Seleccionaste: ' + item.name);"
+                                    "borderRadius": "6px"
+                                }
                             }
                         }
                     }
