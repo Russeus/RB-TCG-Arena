@@ -676,6 +676,7 @@
                                         {
                                             "section": "B4",
                                             "style": {
+                                                "background": "linear-gradient(0deg, rgba(170, 35, 170, 0) 0%, rgba(170, 35, 170, 0.6) 90%)",
                                                 "borderRadius": "1vh",
                                                 "marginTop": "auto"
                                             }
@@ -730,7 +731,8 @@
                     "Spell": "Stack"
                 },
                 "autoPlayFromStack": {
-                    "Spell": "Discard"
+                    "Spell": "Discard",
+                    "Battlefields - Baron Pit": "myBF4"
                 },
                 "sectionsDict": {
                     "Runes": {
