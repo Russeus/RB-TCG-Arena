@@ -160,23 +160,12 @@
               }
           ],
             "sections": {
-                "customSections": [
-                    "Runes",
-                    "Mana",
-                    "Base",
-                    "B1",
-                    "Battlefields",
-                    "myBF2",
-                    "B2",
-                    "Chosen_Champion",
-                    "Legend",
-                    "myBF3",
-                    "B3"
-                ],
                 "layout": {
                     "direction": "column",
                     "isSymetricalForOpponents": false,
                     "content": [
+                        { "section": "BattlefieldSelection" },
+                        { "section": "BattlefieldDisplay" },
                         {
                             "direction": "row",
                             "style": false,
@@ -515,7 +504,93 @@
                         "enterSpun": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
-                    }
+                    },
+                    "BattlefieldSelection": {
+  "type": "custom",
+  "isShared": true,
+  "events": {
+    "onUpdate": "if (game.data.BattlefieldSelection.p1Choice && game.data.BattlefieldSelection.p2Choice && !game.data.BattlefieldSelection.revealed) { game.data.BattlefieldSelection.revealed = true; chatLog('Campos de batalla seleccionados'); }"
+  },
+  "blueprint": {
+    "type": "div",
+    "props": {
+      "style": {
+        "position": "fixed",
+        "top": "0",
+        "left": "0",
+        "width": "100vw",
+        "height": "100vh",
+        "backgroundColor": "rgba(0,0,0,0.9)",
+        "zIndex": "9999",
+        "display": "{{ game.data.BattlefieldSelection.revealed ? 'none' : 'flex' }}",
+        "flexDirection": "column",
+        "alignItems": "center",
+        "justifyContent": "center"
+      }
+    },
+    "children": [
+      {
+        "type": "h2",
+        "props": { "style": { "color": "white", "marginBottom": "20px" } },
+        "children": "Selecciona tu Battlefield"
+      },
+      {
+        "type": "div",
+        "props": { "style": { "display": "flex", "gap": "20px" } },
+        "children": [
+          {
+            "type": "loop",
+            "iterable": "game.deck.cards.filter(c => c.type === 'Battlefields')",
+            "template": {
+              "type": "img",
+              "props": {
+                "src": "{{item.image}}",
+                "style": { "width": "200px", "cursor": "pointer", "border": "2px solid gold" },
+                "onClick": "game.data.BattlefieldSelection[game.turn.orderPosition === 0 ? 'p1Choice' : 'p2Choice'] = item;"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+},
+"BattlefieldDisplay": {
+    "type": "custom",
+    "isShared": true,
+    "blueprint": {
+        "type": "div",
+        "props": {
+            "style": {
+                "position": "fixed",
+                "top": "50%",
+                "left": "50%",
+                "transform": "translate(-50%, -50%)",
+                "display": "{{ game.data.BattlefieldSelection.revealed ? 'flex' : 'none' }}",
+                "gap": "10px",
+                "zIndex": "-1",
+                "opacity": "0.4",
+                "pointerEvents": "none"
+            }
+        },
+        "children": [
+            {
+                "type": "img",
+                "props": {
+                    "src": "{{game.data.BattlefieldSelection.p1Choice.image}}",
+                    "style": { "width": "48vw", "borderRadius": "15px" }
+                }
+            },
+            {
+                "type": "img",
+                "props": {
+                    "src": "{{game.data.BattlefieldSelection.p2Choice.image}}",
+                    "style": { "width": "48vw", "borderRadius": "15px" }
+                }
+            }
+        ]
+    }
+}
                 }
             }
     },
