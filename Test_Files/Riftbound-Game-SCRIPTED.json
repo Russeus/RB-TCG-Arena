@@ -540,7 +540,7 @@
         "children": [
           {
             "type": "loop",
-            "iterable": "game.section.Battlefields.cards",
+            "iterable": "game.zones.Battlefields.cards ? game.zones.Battlefields.cards.filter(c => c.type === 'Battlefields') : []",
             "template": {
               "type": "img",
               "props": {
@@ -569,7 +569,7 @@
                 "display": "{{ game.data.BattlefieldSelection.revealed ? 'flex' : 'none' }}",
                 "gap": "10px",
                 "zIndex": "-1",
-                "opacity": "0.4",
+                "opacity": "0.3",
                 "pointerEvents": "none"
             }
         },
@@ -577,15 +577,15 @@
             {
                 "type": "img",
                 "props": {
-                    "src": "{{game.data.BattlefieldSelection.p1Choice.image}}",
-                    "style": { "width": "48vw", "borderRadius": "15px" }
+                    "src": "{{game.data.BattlefieldSelection.p1Choice ? game.data.BattlefieldSelection.p1Choice.image : ''}}",
+                    "style": { "width": "45vw", "borderRadius": "15px" }
                 }
             },
             {
                 "type": "img",
                 "props": {
-                    "src": "{{game.data.BattlefieldSelection.p2Choice.image}}",
-                    "style": { "width": "48vw", "borderRadius": "15px" }
+                    "src": "{{game.data.BattlefieldSelection.p2Choice ? game.data.BattlefieldSelection.p2Choice.image : ''}}",
+                    "style": { "width": "45vw", "borderRadius": "15px" }
                 }
             }
         ]
