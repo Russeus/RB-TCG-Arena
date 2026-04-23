@@ -546,7 +546,7 @@
       "style": {
         "backgroundColor": "rgba(0,0,0,0.85)",
         "zIndex": 1000,
-        "display": "{{ game.data.BattlefieldSelection.revealed ? 'none' : 'flex' }}"
+        "display": "flex"
       }
     },
     "children": [
