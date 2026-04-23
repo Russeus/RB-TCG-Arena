@@ -540,7 +540,7 @@
         "children": [
           {
             "type": "loop",
-            "iterable": "game.deck.cards.filter(c => c.type === 'Battlefields')",
+            "iterable": "game.zones.Battlefields.cards",
             "template": {
               "type": "img",
               "props": {
