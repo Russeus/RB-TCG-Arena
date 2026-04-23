@@ -541,7 +541,7 @@
                 "children": [
                     {
                         "type": "loop",
-                        "iterable": "game.deck.cards.slice(0, 5)",
+                        "iterable": "game.deck.cards",
                         "template": {
                             "type": "img",
                             "props": {
