@@ -106,7 +106,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "Mulligan up to 2 cards. You will autodraw that many cards.",
+                    "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
                     "steps": ["toBottom", "draw"],
                     "selectionRange": {
                         "min": 0,
@@ -305,7 +305,8 @@
                     "Spell": "Stack"
                 },
                 "autoPlayFromStack": {
-                    "Spell": "Discard"
+                    "Spell": "Discard",
+                    "Battlefields - Baron Pit": "myBF3"
                 },
                 "sectionsDict": {
                     "Runes": {
@@ -540,7 +541,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "Mulligan up to 2 cards. You will autodraw that many cards.",
+                    "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
                     "steps": ["toBottom", "draw"],
                     "selectionRange": {
                         "min": 0,
