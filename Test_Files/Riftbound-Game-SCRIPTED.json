@@ -540,7 +540,7 @@
         "children": [
           {
             "type": "loop",
-            "iterable": "game.zones.Battlefields.cards",
+            "iterable": "game.section.Battlefields.cards",
             "template": {
               "type": "img",
               "props": {
