@@ -164,13 +164,12 @@
                     "direction": "column",
                     "isSymetricalForOpponents": false,
                     "content": [
-                        {
-                        "section": "chosenBF",
-                        "style": { "marginBottom": "10px" }
-                        },
+                        { "section": "chosenBF" },
                         {
                             "direction": "row",
-                            "style": false,
+                            "style": {
+                                "marginTop": "5vh"
+                            },
                             "content": [
                                 {
                                     "direction": "column",
