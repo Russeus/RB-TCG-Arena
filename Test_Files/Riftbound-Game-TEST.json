@@ -507,55 +507,49 @@
                     },
 "DualTrackerGrid": {
   "type": "custom",
-  "defaultValue": {
-    "e_val": 0,
-    "p_val": 0
-  },
+  "defaultValue": { "e_val": 0, "p_val": 0 },
   "blueprint": {
     "type": "div",
     "props": {
-      "className": "position-absolute top-0 start-0 p-3",
+      "className": "position-absolute top-0 start-0",
       "style": {
-        "width": "12rem",
-        "background-color": "rgba(20, 30, 45, 0.95)",
-        "border-radius": "1rem",
-        "display": "grid",
-        "grid-template-columns": "auto 1fr",
-        "align-items": "center",
-        "gap": "1rem"
+        "display": "inline-grid",
+        "grid-template-columns": "auto auto",
+        "background-color": "#141e2d",
+        "border-radius": "0.5rem",
+        "padding": "4px 8px",
+        "gap": "8px",
+        "align-items": "center"
       }
     },
     "children": [
       {
         "type": "div",
-        "props": { "style": { "font-weight": "bold", "font-size": "1.2rem", "color": "#a0b0c0" } },
+        "props": { "style": { "color": "#a0b0c0", "font-size": "0.9rem", "font-weight": "bold" } },
         "children": "E"
       },
       {
         "type": "input-number",
         "props": {
           "value": "{{game.data.DualTrackerGrid.e_val}}",
-          "style": { "width": "100%", "text-align": "center" }
+          "style": { "width": "40px", "background": "transparent", "border": "none", "color": "white" }
         },
-        "onChange": "game.data.DualTrackerGrid.e_val = value; chatLog('E changed to ' + value)"
+        "onChange": "game.data.DualTrackerGrid.e_val = value"
       },
       {
         "type": "div",
-        "props": { "style": { "font-weight": "bold", "font-size": "1.2rem", "color": "#a0b0c0" } },
+        "props": { "style": { "color": "#a0b0c0", "font-size": "0.9rem", "font-weight": "bold" } },
         "children": "P"
       },
       {
         "type": "input-number",
         "props": {
           "value": "{{game.data.DualTrackerGrid.p_val}}",
-          "style": { "width": "100%", "text-align": "center" }
+          "style": { "width": "40px", "background": "transparent", "border": "none", "color": "white" }
         },
-        "onChange": "game.data.DualTrackerGrid.p_val = value; chatLog('P changed to ' + value)"
+        "onChange": "game.data.DualTrackerGrid.p_val = value"
       }
     ]
-  },
-  "events": {
-    "onNewTurn": "game.data.DualTrackerGrid.e_val = 0; game.data.DualTrackerGrid.p_val = 0;"
   }
 }
                 }
