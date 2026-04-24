@@ -278,7 +278,7 @@
                             ],
                             "isSymetricalForOpponents": false
                         },
-                        { "section": "FloatingCounter" }
+                        { "section": "DualTrackerGrid" }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
@@ -505,34 +505,59 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "FloatingCounter": {
-                        "type": "custom",
-                        "defaultValue": {
-                            "counter_1": 0
-                        },
-                        "blueprint": {
-                            "type": "div",
-                            "props": {
-                            "style": {
-                                "width": "11rem"
-                            },
-                            "className": "position-absolute top-0 start-0 box-container align-items-center text-nowrap gap-1 p-1 ps-2"
-                            },
-                            "children": [
-                            "Floating",
-                            {
-                                "type": "input-number",
-                                "props": {
-                                "value": "{{game.data.FloatingCounter.counter_1}}"
-                                },
-                                "onChange": "game.data.FloatingCounter.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
-                            }
-                            ]
-                        },
-                        "events": {
-                            "onNewTurn": "game.data.FloatingCounter.counter_1 = 0"
-                        }
-                    }
+"DualTrackerGrid": {
+  "type": "custom",
+  "defaultValue": {
+    "e_val": 0,
+    "p_val": 0
+  },
+  "blueprint": {
+    "type": "div",
+    "props": {
+      "className": "position-absolute top-0 start-0 p-3",
+      "style": {
+        "width": "12rem",
+        "background-color": "rgba(20, 30, 45, 0.95)",
+        "border-radius": "1rem",
+        "display": "grid",
+        "grid-template-columns": "auto 1fr",
+        "align-items": "center",
+        "gap": "1rem"
+      }
+    },
+    "children": [
+      {
+        "type": "div",
+        "props": { "style": { "font-weight": "bold", "font-size": "1.2rem", "color": "#a0b0c0" } },
+        "children": "E"
+      },
+      {
+        "type": "input-number",
+        "props": {
+          "value": "{{game.data.DualTrackerGrid.e_val}}",
+          "style": { "width": "100%", "text-align": "center" }
+        },
+        "onChange": "game.data.DualTrackerGrid.e_val = value; chatLog('E changed to ' + value)"
+      },
+      {
+        "type": "div",
+        "props": { "style": { "font-weight": "bold", "font-size": "1.2rem", "color": "#a0b0c0" } },
+        "children": "P"
+      },
+      {
+        "type": "input-number",
+        "props": {
+          "value": "{{game.data.DualTrackerGrid.p_val}}",
+          "style": { "width": "100%", "text-align": "center" }
+        },
+        "onChange": "game.data.DualTrackerGrid.p_val = value; chatLog('P changed to ' + value)"
+      }
+    ]
+  },
+  "events": {
+    "onNewTurn": "game.data.DualTrackerGrid.e_val = 0; game.data.DualTrackerGrid.p_val = 0;"
+  }
+}
                 }
             }
     },
