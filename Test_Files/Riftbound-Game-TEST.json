@@ -515,9 +515,10 @@
     "type": "div",
     "props": {
       "style": {
-        "width": "8rem",
+        "width": "7.5rem", 
         "display": "flex",
-        "flex-direction": "column"
+        "flex-direction": "column",
+        "font-size": "0.8rem" 
       },
       "className": "position-absolute top-0 start-0 box-container gap-1 p-1 ps-2"
     },
@@ -526,11 +527,18 @@
         "type": "div",
         "props": { "className": "d-flex align-items-center gap-1" },
         "children": [
-          "Ene",
+          {
+            "type": "div",
+            "props": { "style": { "width": "2.2rem" } },
+            "children": "Ene"
+          },
           {
             "type": "input-number",
-            "props": { "value": "{{game.data.Demo.counter_1}}" },
-            "onChange": "game.data.Demo.counter_1 = value; chatLog('counter 1 is now at ' + value)"
+            "props": { 
+              "value": "{{game.data.Demo.counter_1}}",
+              "style": { "font-size": "0.8rem", "padding": "2px" }
+            },
+            "onChange": "game.data.Demo.counter_1 = value; chatLog('counter 1 is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
           }
         ]
       },
@@ -538,11 +546,18 @@
         "type": "div",
         "props": { "className": "d-flex align-items-center gap-1" },
         "children": [
-          "Pow",
+          {
+            "type": "div",
+            "props": { "style": { "width": "2.2rem" } },
+            "children": "Pow"
+          },
           {
             "type": "input-number",
-            "props": { "value": "{{game.data.Demo.counter_2}}" },
-            "onChange": "game.data.Demo.counter_2 = value; chatLog('counter 2 is now at ' + value)"
+            "props": { 
+              "value": "{{game.data.Demo.counter_2}}",
+              "style": { "font-size": "0.8rem", "padding": "2px" }
+            },
+            "onChange": "game.data.Demo.counter_2 = value; chatLog('counter 2 is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
           }
         ]
       }
