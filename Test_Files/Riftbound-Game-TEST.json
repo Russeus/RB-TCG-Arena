@@ -508,63 +508,29 @@
 "Demo": {
   "type": "custom",
   "defaultValue": {
-    "counter_1": 0,
-    "counter_2": 0
+    "counter_1": 0
   },
   "blueprint": {
     "type": "div",
     "props": {
       "style": {
-        "width": "7.5rem", 
-        "display": "flex",
-        "flex-direction": "column",
-        "font-size": "0.8rem" 
+        "width": "11rem"
       },
-      "className": "position-absolute top-0 start-0 box-container gap-1 p-1 ps-2"
+      "className": "position-absolute top-0 start-0 box-container align-items-center text-nowrap gap-1 p-1 ps-2"
     },
     "children": [
+      "Counter 1",
       {
-        "type": "div",
-        "props": { "className": "d-flex align-items-center gap-1" },
-        "children": [
-          {
-            "type": "div",
-            "props": { "style": { "width": "2.2rem" } },
-            "children": "Ene"
-          },
-          {
-            "type": "input-number",
-            "props": { 
-              "value": "{{game.data.Demo.counter_1}}",
-              "style": { "font-size": "0.8rem", "padding": "2px" }
-            },
-            "onChange": "game.data.Demo.counter_1 = value; chatLog('counter 1 is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
-          }
-        ]
-      },
-      {
-        "type": "div",
-        "props": { "className": "d-flex align-items-center gap-1" },
-        "children": [
-          {
-            "type": "div",
-            "props": { "style": { "width": "2.2rem" } },
-            "children": "Pow"
-          },
-          {
-            "type": "input-number",
-            "props": { 
-              "value": "{{game.data.Demo.counter_2}}",
-              "style": { "font-size": "0.8rem", "padding": "2px" }
-            },
-            "onChange": "game.data.Demo.counter_2 = value; chatLog('counter 2 is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
-          }
-        ]
+        "type": "input-number",
+        "props": {
+          "value": "{{game.data.Demo.counter_1}}"
+        },
+        "onChange": "game.data.Demo.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
       }
     ]
   },
   "events": {
-    "onNewTurn": "game.data.Demo.counter_1 = 0; game.data.Demo.counter_2 = 0;"
+    "onNewTurn": "game.data.Demo.counter_1 = 0"
   }
 }
                 }
