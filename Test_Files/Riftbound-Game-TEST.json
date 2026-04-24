@@ -278,7 +278,7 @@
                             ],
                             "isSymetricalForOpponents": false
                         },
-                        { "section": "DualTrackerGrid" }
+                        { "section": "Demo" }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
@@ -505,51 +505,51 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-"DualTrackerGrid": {
+"Demo": {
   "type": "custom",
-  "defaultValue": { "e_val": 0, "p_val": 0 },
+  "defaultValue": {
+    "counter_1": 0,
+    "counter_2": 0
+  },
   "blueprint": {
     "type": "div",
     "props": {
-      "className": "position-absolute top-0 start-0",
       "style": {
-        "display": "inline-grid",
-        "grid-template-columns": "auto auto",
-        "background-color": "#141e2d",
-        "border-radius": "0.5rem",
-        "padding": "4px 8px",
-        "gap": "8px",
-        "align-items": "center"
-      }
+        "width": "11rem",
+        "display": "flex",
+        "flex-direction": "column"
+      },
+      "className": "position-absolute top-0 start-0 box-container gap-1 p-1 ps-2"
     },
     "children": [
       {
         "type": "div",
-        "props": { "style": { "color": "#a0b0c0", "font-size": "0.9rem", "font-weight": "bold" } },
-        "children": "E"
-      },
-      {
-        "type": "input-number",
-        "props": {
-          "value": "{{game.data.DualTrackerGrid.e_val}}",
-          "style": { "width": "40px", "background": "transparent", "border": "none", "color": "white" }
-        },
-        "onChange": "game.data.DualTrackerGrid.e_val = value"
+        "props": { "className": "d-flex align-items-center gap-1" },
+        "children": [
+          "Counter 1",
+          {
+            "type": "input-number",
+            "props": { "value": "{{game.data.Demo.counter_1}}" },
+            "onChange": "game.data.Demo.counter_1 = value; chatLog('counter 1 is now at ' + value)"
+          }
+        ]
       },
       {
         "type": "div",
-        "props": { "style": { "color": "#a0b0c0", "font-size": "0.9rem", "font-weight": "bold" } },
-        "children": "P"
-      },
-      {
-        "type": "input-number",
-        "props": {
-          "value": "{{game.data.DualTrackerGrid.p_val}}",
-          "style": { "width": "40px", "background": "transparent", "border": "none", "color": "white" }
-        },
-        "onChange": "game.data.DualTrackerGrid.p_val = value"
+        "props": { "className": "d-flex align-items-center gap-1" },
+        "children": [
+          "Counter 2",
+          {
+            "type": "input-number",
+            "props": { "value": "{{game.data.Demo.counter_2}}" },
+            "onChange": "game.data.Demo.counter_2 = value; chatLog('counter 2 is now at ' + value)"
+          }
+        ]
       }
     ]
+  },
+  "events": {
+    "onNewTurn": "game.data.Demo.counter_1 = 0; game.data.Demo.counter_2 = 0;"
   }
 }
                 }
