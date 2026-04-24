@@ -278,7 +278,7 @@
                             ],
                             "isSymetricalForOpponents": false
                         },
-                        { "section": "Demo" }
+                        { "section": "FloatingDual" }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
@@ -505,32 +505,69 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "Demo": {
+                    "FloatingDual": {
                         "type": "custom",
                         "defaultValue": {
-                            "counter_1": 0
+                        "counter_value": 0
                         },
                         "blueprint": {
+                        "type": "div",
+                        "props": {
+                            "style": {
+                            "width": "16rem",
+                            "background-color": "#1a2a3a",
+                            "border": "4px solid #000",
+                            "border-radius": "3rem"
+                            },
+                            "className": "position-absolute top-0 start-0 d-flex flex-column align-items-center gap-2 p-3 text-nowrap"
+                        },
+                        "children": [
+                            "E",
+                            {
                             "type": "div",
                             "props": {
-                            "style": {
-                                "width": "11rem"
-                            },
-                            "className": "position-absolute top-0 start-0 box-container align-items-center text-nowrap gap-1 p-1 ps-2"
+                                "className": "d-flex align-items-center gap-2"
                             },
                             "children": [
-                            "Counter 1",
-                            {
-                                "type": "input-number",
+                                {
+                                "type": "button",
                                 "props": {
-                                "value": "{{game.data.Demo.counter_1}}"
+                                    "className": "btn btn-outline-light",
+                                    "style": { "padding": "0.1rem 0.5rem" }
                                 },
-                                "onChange": "game.data.Demo.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
-                            }
+                                "children": "-",
+                                "onClick": "game.data.FloatingDual.counter_value = (game.data.FloatingDual.counter_value > 0 ? game.data.FloatingDual.counter_value - 1 : 0); chatLog('counter is now at ' + game.data.FloatingDual.counter_value + ' (-1)')"
+                                },
+                                {
+                                "type": "div",
+                                "props": {
+                                    "style": {
+                                    "border": "2px solid #000",
+                                    "padding": "0.5rem 1rem",
+                                    "min-width": "3rem",
+                                    "text-align": "center",
+                                    "color": "#fff",
+                                    "background-color": "transparent"
+                                    }
+                                },
+                                "children": "{{game.data.FloatingDual.counter_value}}"
+                                },
+                                {
+                                "type": "button",
+                                "props": {
+                                    "className": "btn btn-outline-light",
+                                    "style": { "padding": "0.1rem 0.5rem" }
+                                },
+                                "children": "+",
+                                "onClick": "game.data.FloatingDual.counter_value++; chatLog('counter is now at ' + game.data.FloatingDual.counter_value + ' (+1)')"
+                                }
                             ]
+                            },
+                            "P"
+                        ]
                         },
                         "events": {
-                            "onNewTurn": "game.data.Demo.counter_1 = 0"
+                        "onNewTurn": "game.data.FloatingDual.counter_value = 0"
                         }
                     }
                 }
