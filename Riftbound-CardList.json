@@ -25589,6 +25589,9 @@
     "name": "Carrion Dredger",
     "type": "Unit",
     "cost": 2,
+    "tokens": [
+      "UNL-T02"
+    ],
     "Domain": [
       "🟡 Order"
     ],
