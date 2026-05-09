@@ -365,7 +365,7 @@
                         "showHiddenCardInHistory": false
                     },
                     "Battlefields": {
-                        "isHidden": "opponent-only",
+                        "isHidden": "no",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
