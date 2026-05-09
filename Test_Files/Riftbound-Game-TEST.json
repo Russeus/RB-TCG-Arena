@@ -98,6 +98,50 @@
   },
   "gameplay": {
     "Classic": {
+            "beforeGameStart": {
+                "boardCategoriesInSideboard": [
+                    "Chosen_Champion"
+                ],
+                "boardCardSelection": [
+                    {
+                    "category": "Battlefields",
+                    "min": 1,
+                    "max": 1,
+                    "unselectedDestination": "ExileHidden"
+                    }
+                ],
+                "chooseAnotherStartingPlayer": true,
+                "initialBoardSetup": {
+                    "0": [
+                    {
+                        "drawFromTop": "Runes",
+                        "count": 1,
+                        "destination": "Mana",
+                        "overrideState": {
+                        "isHidden": "yes",
+                        "isTapped": true
+                        }
+                    }
+                    ],
+                    "1": [
+                    {
+                        "drawFromTop": "Runes",
+                        "count": 1,
+                        "destination": "Mana",
+                        "waitForPlayerTurn": true
+                    },
+                    {
+                        "drawFromTop": "Runes",
+                        "count": 1,
+                        "destination": "Mana",
+                        "overrideState": {
+                        "isHidden": "yes",
+                        "isTapped": true
+                        }
+                    }
+                    ]
+                }
+            },
             "mulligan": {
                 "triggeredByButton": true,
                 "startingHandSize": 4,
@@ -277,8 +321,7 @@
                                 }
                             ],
                             "isSymetricalForOpponents": false
-                        },
-                        { "section": "Demo" }
+                        }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
@@ -504,35 +547,7 @@
                         "enterSpun": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
-                    },
-"Demo": {
-  "type": "custom",
-  "defaultValue": {
-    "counter_1": 0
-  },
-  "blueprint": {
-    "type": "div",
-    "props": {
-      "style": {
-        "width": "11rem"
-      },
-      "className": "position-absolute top-0 start-0 box-container align-items-center text-nowrap gap-1 p-1 ps-2"
-    },
-    "children": [
-      "Counter 1",
-      {
-        "type": "input-number",
-        "props": {
-          "value": "{{game.data.Demo.counter_1}}"
-        },
-        "onChange": "game.data.Demo.counter_1 = value; chatLog('counter is now at ' + value + ` (`+ (delta > 0 ? `+` + delta : delta) + ')')"
-      }
-    ]
-  },
-  "events": {
-    "onNewTurn": "game.data.Demo.counter_1 = 0"
-  }
-}
+                    }
                 }
             }
     },
