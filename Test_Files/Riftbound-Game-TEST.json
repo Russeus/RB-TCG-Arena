@@ -120,7 +120,8 @@
                     },
                     {
                         "drawFromTop": "Deck",
-                        "count": 1
+                        "count": 1,
+                        "destination": "Hand"
                     }
                     ],
                     "1": [
@@ -803,7 +804,7 @@
                         "showHiddenCardInHistory": false
                     },
                     "Battlefields": {
-                        "isHidden": "opponent-only",
+                        "isHidden": "no",
                         "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
