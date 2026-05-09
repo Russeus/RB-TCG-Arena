@@ -115,12 +115,12 @@
                     "0": [
                     {
                         "drawFromTop": "Runes",
-                        "count": 1,
-                        "destination": "Mana",
-                        "overrideState": {
-                        "isHidden": "yes",
-                        "isTapped": true
-                        }
+                        "count": 2,
+                        "destination": "Mana"
+                    },
+                    {
+                        "drawFromTop": "Deck",
+                        "count": 1
                     }
                     ],
                     "1": [
@@ -129,15 +129,6 @@
                         "count": 1,
                         "destination": "Mana",
                         "waitForPlayerTurn": true
-                    },
-                    {
-                        "drawFromTop": "Runes",
-                        "count": 1,
-                        "destination": "Mana",
-                        "overrideState": {
-                        "isHidden": "yes",
-                        "isTapped": true
-                        }
                     }
                     ]
                 }
