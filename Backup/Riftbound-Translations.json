@@ -1,8 +1,17 @@
 {
+    "additionalLanguages": ["zh"],
     "en": {
         "Gameplay": {
             "Classic": "Standard (Spiritforged)",
-            "Multiplayer": "Multiplayer (Spiritforged)"
+            "Unleashed": "Preview (Unleashed)",
+            "Multiplayer": "Multiplayer (Unleashed)"
+        }
+    },
+    "zh": {
+        "Gameplay": {
+            "Classic": "Standard (Spiritforged)",
+            "Unleashed": "Preview (Unleashed)",
+            "Multiplayer": "Multiplayer (Unleashed)"
         }
     }
 }
