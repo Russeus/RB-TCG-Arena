@@ -381,14 +381,7 @@
                     "cardStyle": {
                         "marginTop": "-2vh"
                     },
-                    "reverseZOrder": true,
-                    "cardActionShortcut": {
-                        "action": "MOVE",
-                        "actionData": {
-                            "destination": "ExileHidden"
-                        },
-                        "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
-                    }
+                    "reverseZOrder": true
                 },
                 "myBF2": {
                     "isHidden": "no",
