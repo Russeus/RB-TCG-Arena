@@ -6,5 +6,12 @@
             "Unleashed": "Standard (Unleashed)",
             "Multiplayer": "Multiplayer (Unleashed)"
         }
+    },
+    "zh": {
+        "Gameplay": {
+            "Classic": "Legacy (Spiritforged)",
+            "Unleashed": "Standard (Unleashed)",
+            "Multiplayer": "Multiplayer (Unleashed)"
+        }
     }
 }
