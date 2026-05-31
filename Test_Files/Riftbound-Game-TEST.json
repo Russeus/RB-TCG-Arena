@@ -41,18 +41,18 @@
     "legalityCode": "S03"
     },
     {
-    "title": "Classic",
-    "gameplay": "Classic",
-    "customCategories": ["Chosen_Champion"],
-    "deckRuleset": "Standard",
-    "legalityCode": "S02"
-    },
-    {
     "title": "Multiplayer",
     "gameplay": "Multiplayer",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
     "legalityCode": "S03"
+    },
+    {
+    "title": "Classic",
+    "gameplay": "Classic",
+    "customCategories": ["Chosen_Champion"],
+    "deckRuleset": "Standard",
+    "legalityCode": "S02"
     }
 ],
 "deckRulesets": {
