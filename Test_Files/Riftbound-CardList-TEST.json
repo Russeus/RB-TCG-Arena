@@ -11,7 +11,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/15ed971e4029a92b362a81ccadf309fb81e40b81-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/bd5a8392eb2b4712a7643a495876ca53.png"
         },
         "isHorizontal": false
@@ -46,7 +46,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-002/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d481971f7560e7235e7d6934767da18daa019eff-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/acbb60d927254b5ca4bf0422612e68b0.png"
         },
         "isHorizontal": false
@@ -81,7 +81,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-003/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19dcf211457d9c9c6e9ea0cd32af76c2c92a3160-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/2095ee67e0c94526b6219cc15f53e25d.png"
         },
         "isHorizontal": false
@@ -116,7 +116,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-004/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95d476a1e88ff547fb846149619177bc7e3cea9f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/931d80cfd84f40bdb94fa500e6213465.png"
         },
         "isHorizontal": false
@@ -151,7 +151,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-005/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a27374ac3a81f3dfefb43c3c3237c23b4883cb5a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/0adbd73206f64356ade69038a7d5e45f.png"
         },
         "isHorizontal": false
@@ -186,7 +186,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-006/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1f6f5ebd18e5daac30d62626fddd785c4b457c2b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/6fe0ce2691d0480baddf6dd785a5f541.png"
         },
         "isHorizontal": false
@@ -221,7 +221,7 @@
         "type": "Runes",
         "cost": 0,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/9c353ec9e607479587696f6714603f2f.png"
         },
         "isHorizontal": false
@@ -256,7 +256,7 @@
         "type": "Runes",
         "cost": 0,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-007a/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09da06c69d07d4e72dde703737ef167472c715af-1488x2078.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/8bcfa24f535b4093a12526d5bdb82b5e.png"
         },
         "isHorizontal": false
@@ -326,7 +326,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-008/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2906c932c482af17fbb2979a8c42a6992f95d6a6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/0f1432a1aa0e4aa589bb75c4cd3209de.png"
         },
         "isHorizontal": false
@@ -361,7 +361,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-009/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7d12693822c38377ddc8f15db23e2f9b6d560a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/9da6bdb6154e405689fb5606895cd90a.png"
         },
         "isHorizontal": false
@@ -396,7 +396,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-010/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aedece01c7792c689050460db1670e6b9b15b61f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/d06befaafd6547179a11a152c43e839a.png"
         },
         "isHorizontal": false
@@ -431,7 +431,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-011/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f6565b15f65f538804e6a56623c8aa2eedeffc22-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/0a39108ca6e74609a9c3ac8926cf342f.png"
         },
         "isHorizontal": false
@@ -466,7 +466,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-012/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3bb6f4cb58feeb50e396d12ec9865c5434025af-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/745247b6e12447beb2b363cecbd3687c.png"
         },
         "isHorizontal": false
@@ -501,7 +501,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-013/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d541bf3bcb5aa3ad0d48d87f5753569b72ac426f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/e4030917ef0e43ca9f08f7fd95d4c27b.png"
         },
         "isHorizontal": false
@@ -536,7 +536,7 @@
         "type": "Spell",
         "cost": 8,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-014/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/01faae468720dd5bf5e3fe12ba56c01af70263be-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/3ccc9e782c71478597da0049733c7ff6.png"
         },
         "isHorizontal": false
@@ -571,7 +571,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-015/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c65e2cae6748590f589ad8b26bc5a20c0d770c2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/2806b76599a94da48f0474427de8e4b3.png"
         },
         "isHorizontal": false
@@ -606,7 +606,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-016/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c02ea9e438d407c739276b788e015ac93843651-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/5cb815a1e0c1476394b352fafabaee92.png"
         },
         "isHorizontal": false
@@ -641,7 +641,7 @@
         "type": "Gear",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-017/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b5cfe757b6067994e17e284eba46433880a1461-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/b09fb22d135842c18c89d6459077dcdd.png"
         },
         "isHorizontal": false
@@ -676,7 +676,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-018/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b78f0c822cb984db24ac3f1956cc8c10f8f88b22-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/88c6f8f0e7d7429ca0814188af6ac03f.png"
         },
         "isHorizontal": false
@@ -711,7 +711,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-019/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/037647d0decc94ff4a5d53b11cf36afe9d849533-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/170a30b18ff24f7d8d7fb4b054eaabd2.png"
         },
         "isHorizontal": false
@@ -746,7 +746,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-020/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/10f096d2b469fd73329386e5efe88c9bec667d7c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/64ed8b20487246cb9cd2e793e78070e6.png"
         },
         "isHorizontal": false
@@ -781,7 +781,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-021/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/146d7514f15e6674f471f3aa9c3fadf22c0b634b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/eb36eca404ae41f29ef3bf75ac723ef1.png"
         },
         "isHorizontal": false
@@ -816,7 +816,7 @@
         "type": "Spell",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-022/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88661e852b864491e6d7f5f087caf4263f61c361-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/242c9a5bc149455cb21e0b037d6ec339.png"
         },
         "isHorizontal": false
@@ -851,7 +851,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-023/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1a80bedd893d9024fc90f108da36b4fd1d496ad6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/acde143632894f17b02a10c453033747.png"
         },
         "isHorizontal": false
@@ -886,7 +886,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-024/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b64b63c6be58ff3c33c7fb3c2dcb168d64e287e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/1aba43a573ef40ff990b430ea0427daa.png"
         },
         "isHorizontal": false
@@ -921,7 +921,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-025/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d74ba4998df9348408f1400090a0b0737c675fbd-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/3657cbabf8d142b795a736d7d7fe66b9.png"
         },
         "isHorizontal": false
@@ -956,7 +956,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-026/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/44e805aa0f2928acf1156eef692403df319b333a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/bb513a97aa5f492fa29067a23e5f74ff.png"
         },
         "isHorizontal": false
@@ -991,7 +991,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf7a4900fd2296972c1305a4707c23860bb0522e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/1100323fe0204fa19db04765d5e7c889.png"
         },
         "isHorizontal": false
@@ -1026,7 +1026,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-027a/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df878ecc25160bb7e53b254a609ec243e133e8f1-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/34b7b3eca2e54d7fbb1e9230e7f55701.png"
         },
         "isHorizontal": false
@@ -1061,7 +1061,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-028/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7600d6cea66e8146ea2202f72cb9035cb44608a3-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/19c4a992982f489a9eff0837417e1060.png"
         },
         "isHorizontal": false
@@ -1096,7 +1096,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-029/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9cf2d2e59e1bf839cdf5c2a77e95f5d1e871788f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/956ae92bd0934befa5a73736b9d275e0.png"
         },
         "isHorizontal": false
@@ -1131,7 +1131,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d6cac988aa7798945e550eba6841d3993868c4a4-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/e9f63d073d834728a16366f55fbd612a.png"
         },
         "isHorizontal": false
@@ -1166,7 +1166,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-030a/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/60ff1aec7ecb1b11ff89fdb620c6182897a8b402-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/a579d5c3bc68410ea5b1206795ea53e5.png"
         },
         "isHorizontal": false
@@ -1201,7 +1201,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-031/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9566fc064c098bd7f3540f3074dc6353c7ca5663-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/4bde639f53a94792b9c1b5038bac9a72.png"
         },
         "isHorizontal": false
@@ -1236,7 +1236,7 @@
         "type": "Gear",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-032/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81f968126026635e5b9a2fa1048fc979fcd13a1d-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/e84ad14a85fb4cc9ade7a63cdb9caa9a.png"
         },
         "isHorizontal": false
@@ -1271,7 +1271,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-033/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ab71d92c94bf609e2fa6efc8fec06fe1e8b10108-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/c8ba08f01a49471287a2efc66d8f819c.png"
         },
         "isHorizontal": false
@@ -1306,7 +1306,7 @@
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-034/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/124c93495c927be1baea03fdacf6c7b283cf8b6c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/e0356a4274a34903b51f82019700c4b5.png"
         },
         "isHorizontal": false
@@ -1341,7 +1341,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-035/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b38a22e6f4bfaa8589f32754a7466fe5214e81b5-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/7f801ae446104b5686f6769e17e2f090.png"
         },
         "isHorizontal": false
@@ -1376,7 +1376,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-036/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7ab52254ac49b8853fc7ae65b03aaee3f8c5994a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/520ae5d653f6428fbaa3d7ed754f03c1.png"
         },
         "isHorizontal": false
@@ -1411,7 +1411,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-037/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b623ae985bf5f362b6d8d4a17e9b8146aeae3c3-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/84e7d07a83534a9ea0507e19e192db4a.png"
         },
         "isHorizontal": false
@@ -1446,7 +1446,7 @@
         "type": "Unit",
         "cost": 9,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-038/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/733c32b1fccc7e2983cbb3586358152f90a6df04-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/df96ef8689ad43379600442ddc7cb4f9.png"
         },
         "isHorizontal": false
@@ -1481,7 +1481,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d942c02ad4e96a36dba14d663c5105bb6614500-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/ad74e65ef9b549baacb0e7411dfd1198.png"
         },
         "isHorizontal": false
@@ -1516,7 +1516,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-039a/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ad69bde670ce218adee1d2a618a7295d2fb7bd4c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/62a73af942c24edbbc1430d7dfd85b84.png"
         },
         "isHorizontal": false
@@ -1551,7 +1551,7 @@
         "type": "Gear",
         "cost": 0,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-040/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fbdd14adb40b0ca46b89f476a356fa21413d812e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/1eebeeeb98bf4f3e9ff936133063c0f7.png"
         },
         "isHorizontal": false
@@ -1586,7 +1586,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c9165d49b8caae9a856433cd5151e8b368eb80b5-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/6819fca687fb45279b1405f267471829.png"
         },
         "isHorizontal": false
@@ -1621,7 +1621,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-041a/full-desktop-2x.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/744d1b950ae7ef1e6e5b244538a6afb9802e5e3d-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20250731/d9187abae44b489e955c284092dc7a82.png"
         },
         "isHorizontal": false
@@ -24449,7 +24449,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/db48f8c1da0e4f9804ae94398f0864859db0002a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/db48f8c1da0e4f9804ae94398f0864859db0002a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260326/476c4f003a4449868e32b75f7e94a446.webp"
         },
         "isHorizontal": false
@@ -25082,7 +25082,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a6425462180dc6bc3396397cd491c0abae58f616-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a6425462180dc6bc3396397cd491c0abae58f616-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260320/7d138597c0844ab5864e58e29e950227.webp"
         },
         "isHorizontal": false
@@ -25117,7 +25117,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8afc30b1bc7cc1841dfe11cfa29adbcc02257845-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8afc30b1bc7cc1841dfe11cfa29adbcc02257845-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/48a52a4962924db2954efad584ff08f0.webp"
         },
         "isHorizontal": false
@@ -25683,7 +25683,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/537b66b5f0259f80bf25b1aafb78558f4db6886a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/537b66b5f0259f80bf25b1aafb78558f4db6886a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260320/9de2d386082d4d6f8b0938b09cfdac9d.webp"
         },
         "isHorizontal": false
@@ -26042,7 +26042,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf1045b559b20d3e86383a07de54cd1893e5a94b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf1045b559b20d3e86383a07de54cd1893e5a94b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260328/b5ac5a064fb74cfe82c32ec4058f0ad0.webp"
         },
         "isHorizontal": false
@@ -26077,7 +26077,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0e7f7fa55ae618f94fe48920f92406ddd7e3512-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0e7f7fa55ae618f94fe48920f92406ddd7e3512-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260320/68630e61c00e4518b88639465c664604.webp"
         },
         "isHorizontal": false
@@ -26687,7 +26687,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39ec974dae18bf82fcc18a95044d8df04cc14d3c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39ec974dae18bf82fcc18a95044d8df04cc14d3c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/2a148a6ae6b942a8ba289275a7bef70c.webp"
         },
         "isHorizontal": false
@@ -26938,7 +26938,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d76418eabcddbea148f3331913223b79a39aabda-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d76418eabcddbea148f3331913223b79a39aabda-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/fb6357acac084a8bb05819d079822043.webp"
         },
         "isHorizontal": false
@@ -27291,7 +27291,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/29abe06f1c16a9eed622a5060330116268b73b8c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/29abe06f1c16a9eed622a5060330116268b73b8c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/6a5180c2876d449ab29de213c6d2b22d.webp"
         },
         "isHorizontal": false
@@ -27326,7 +27326,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/34ab7eff1eb8833ab8b9978eac18c4fb18b1ac81-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/34ab7eff1eb8833ab8b9978eac18c4fb18b1ac81-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/cc88a5dd6e8f415984030ae7f50d92b1.webp"
         },
         "isHorizontal": false
@@ -27361,7 +27361,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81195df7122beaba38ebc8b8212ceb0e7593afe9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81195df7122beaba38ebc8b8212ceb0e7593afe9-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260320/33a38739c2b34f359ea2c71c8e2f55bd.webp"
         },
         "isHorizontal": false
@@ -27580,7 +27580,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e284397713abb21d2c8d9b85202ab65d21689e9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e284397713abb21d2c8d9b85202ab65d21689e9-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/c6adebacf49749d2804021a7ee47992f.webp"
         },
         "isHorizontal": false
@@ -27615,7 +27615,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f538c2659c02af20a173503784989e39a0c291f6-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f538c2659c02af20a173503784989e39a0c291f6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/3cec0ee688334478a3d771405e2a62d6.webp"
         },
         "isHorizontal": false
@@ -27939,7 +27939,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bec7e8f108fac2d9c94db01c85cf143133d13325-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bec7e8f108fac2d9c94db01c85cf143133d13325-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/a897bfd6b612443eb969ffab388b8baf.webp"
         },
         "isHorizontal": false
@@ -27974,7 +27974,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d6c05e13dfb9ce38cc4d829d33acaf1560abe62a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d6c05e13dfb9ce38cc4d829d33acaf1560abe62a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/dc035b7c8be2410289bc765c0219b9b6.webp"
         },
         "isHorizontal": false
@@ -28187,7 +28187,7 @@
         "type": "Spell",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5e032420b6dcbdd96dca122b4d7875868feb82ed-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5e032420b6dcbdd96dca122b4d7875868feb82ed-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260321/9898213c2c594f9bb24240f111f1d91e.webp"
         },
         "isHorizontal": false
@@ -28222,7 +28222,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dabc873f161248d3c959932ee54b5cf550c471b9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dabc873f161248d3c959932ee54b5cf550c471b9-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/c21a3ad9d1bd411186c7202ac0d7e1cf.webp"
         },
         "isHorizontal": false
@@ -28552,7 +28552,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c7e0f93c72654f786f5df37895c6e95fa9d4d60-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c7e0f93c72654f786f5df37895c6e95fa9d4d60-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260320/54fe06c3df8e4530a60aa3c3d6acbbc5.webp"
         },
         "isHorizontal": false
@@ -28587,7 +28587,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0031569ff123a8317e1be753f0bd895501bf838b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0031569ff123a8317e1be753f0bd895501bf838b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/ab410c2822f34ac1a623f837922c363b.webp"
         },
         "isHorizontal": false
@@ -28625,7 +28625,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/de7b7c683f16a297418bc9a326178c520f17ef2b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/de7b7c683f16a297418bc9a326178c520f17ef2b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260325/f7a67b912e6346c5ab6c37bce7b6e977.webp"
         },
         "isHorizontal": false
@@ -28838,7 +28838,7 @@
         "type": "Gear",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/64067ebdbe3140e9a458da7ecf7253a5fae9a31b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/64067ebdbe3140e9a458da7ecf7253a5fae9a31b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260321/c67da1e9196d4272925085c6d54d61e8.webp"
         },
         "isHorizontal": false
@@ -28873,7 +28873,7 @@
         "type": "Spell",
         "cost": 6,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/afe7cbde874003db673925275a13614d5f35266b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/afe7cbde874003db673925275a13614d5f35266b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/7c2099417b4b44f6a558fa3e512c95f5.webp"
         },
         "isHorizontal": false
@@ -28908,7 +28908,7 @@
         "type": "Unit",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b491c050b8505c52000c5ad7bb5a0b7855fa4ad1-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b491c050b8505c52000c5ad7bb5a0b7855fa4ad1-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/fae3da63c6c2444081ec29b5f894c52a.webp"
         },
         "isHorizontal": false
@@ -29203,7 +29203,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae2ec829a6714ac75e8b203631af08c0c1e1565f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae2ec829a6714ac75e8b203631af08c0c1e1565f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/c9583783e47348ce9aea66c5b51cacab.webp"
         },
         "isHorizontal": false
@@ -29457,7 +29457,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a771917dea98b137c3f4a13e4967dccf9ee445e5-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260321/f49837ed10a943369ee1589a897ba4a3.webp"
         },
         "isHorizontal": false
@@ -29492,7 +29492,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0ff22e9a517d029fd17cfbbbc93ca2f90c2c676c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0ff22e9a517d029fd17cfbbbc93ca2f90c2c676c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/c5df7594235d4f7fb05c5d57ab0c33a3.webp"
         },
         "isHorizontal": false
@@ -29813,7 +29813,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/89929cfa4417c99576477793529c6808af145919-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/89929cfa4417c99576477793529c6808af145919-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/7f1504678e7c446bacbf712ca1aa0d84.webp"
         },
         "isHorizontal": false
@@ -29848,7 +29848,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68872e2119146768f8fa113376876fa64699297d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68872e2119146768f8fa113376876fa64699297d-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/71d0170c1b184e2a88f52e79672bdd6a.webp"
         },
         "isHorizontal": false
@@ -29883,7 +29883,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/093799f1ad34084f05011f3b326d4d32d96849e5-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/093799f1ad34084f05011f3b326d4d32d96849e5-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260325/245f2bfd1e3040da95efc3fb6abd66b4.webp"
         },
         "isHorizontal": false
@@ -30096,7 +30096,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e06e3e3033640bc8a5bc98acd4e3a0925c6e2c9a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e06e3e3033640bc8a5bc98acd4e3a0925c6e2c9a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/30b05ee66f70490ea89283024fc33419.webp"
         },
         "isHorizontal": false
@@ -30131,7 +30131,7 @@
         "type": "Spell",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1c05bff48666586a2b3552b5638deaf20d9006f7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1c05bff48666586a2b3552b5638deaf20d9006f7-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260328/1d2709934acf4d9aa55a12afbafbd170.webp"
         },
         "isHorizontal": false
@@ -30458,7 +30458,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/59946969e8d21869c3ffe801a3ffbdd8165a873f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/59946969e8d21869c3ffe801a3ffbdd8165a873f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/45c2abd0f9dd44deb893dddf5abab9bb.webp"
         },
         "isHorizontal": false
@@ -30496,7 +30496,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/97d0f7aa81f67bf8f4a19099c648a23a2df169ae-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/97d0f7aa81f67bf8f4a19099c648a23a2df169ae-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/a2d4eadfc201476ca46d7e3a43041622.webp"
         },
         "isHorizontal": false
@@ -30534,7 +30534,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae3823d4109d9bbae8c7983ec1c1082ba5b4f190-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae3823d4109d9bbae8c7983ec1c1082ba5b4f190-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/fd1d8d0f9d8f40aabd17929c47a27752.webp"
         },
         "isHorizontal": false
@@ -30569,7 +30569,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37b015a64b6bc15e856c2d78e275b10e64db1de4-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37b015a64b6bc15e856c2d78e275b10e64db1de4-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/2a4d5ff70fd24c9eba1f535670c0ca4a.webp"
         },
         "isHorizontal": false
@@ -30604,7 +30604,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d9082f75895c8645e05c0a38edc1b1c83c508d84-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d9082f75895c8645e05c0a38edc1b1c83c508d84-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/8d80c79070a14100a67e3bd8f93cdb40.webp"
         },
         "isHorizontal": false
@@ -30709,7 +30709,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e43b54f22e0a038ee1f94ba2e99f80dd89999d8e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e43b54f22e0a038ee1f94ba2e99f80dd89999d8e-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260328/274daec137564a889fcdeb6bed1a4a1f.webp"
         },
         "isHorizontal": false
@@ -30744,7 +30744,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b63912e07914c3ef7e2bcdb95d5521fc26c880f2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b63912e07914c3ef7e2bcdb95d5521fc26c880f2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260325/bf445e617cca423e9ea9d8611a0c4362.webp"
         },
         "isHorizontal": false
@@ -30779,7 +30779,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/84d8b6d7a9cab2b78a465a8e0caf597f3ef5a175-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/84d8b6d7a9cab2b78a465a8e0caf597f3ef5a175-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260327/c715ca1b0ead44c0990c1c7974c7682b.webp"
         },
         "isHorizontal": false
@@ -30817,7 +30817,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68786cd39a886a586b401d6bf818a80bf9f9e2cd-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68786cd39a886a586b401d6bf818a80bf9f9e2cd-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/e733856b5ad34493a9df503afc9c79c3.webp"
         },
         "isHorizontal": false
@@ -31071,7 +31071,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f2b626602f5db047b96cf9112474d42bf5b483e7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f2b626602f5db047b96cf9112474d42bf5b483e7-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260326/35642403f11e4885af42dadb0b589188.webp"
         },
         "isHorizontal": false
@@ -31354,7 +31354,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ebc033772f2005b7f39ba87ba9ea35f43df0da7a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ebc033772f2005b7f39ba87ba9ea35f43df0da7a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/df2b3b0e94204181be50428c081bad0b.webp"
         },
         "isHorizontal": false
@@ -31389,7 +31389,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0b3994aad6b6c64ace14193c1363713e6b6ede2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0b3994aad6b6c64ace14193c1363713e6b6ede2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/fa1298cafd6347a2be3a7bdcea77f447.webp"
         },
         "isHorizontal": false
@@ -31985,7 +31985,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/01496068d9a8d5567672d802bd008297bd1fe8cc-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/01496068d9a8d5567672d802bd008297bd1fe8cc-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/65daefd861db489b90d9d65c8c3d6009.webp"
         },
         "isHorizontal": false
@@ -32093,7 +32093,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8ca1bfde8d898a11a6abc73bbab8fc7092b0dcb4-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8ca1bfde8d898a11a6abc73bbab8fc7092b0dcb4-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/a7d0001c454d485f9082267900df9132.webp"
         },
         "isHorizontal": false
@@ -32132,7 +32132,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/17d93a11a252287e3b0f4bbe32722ecc9469ec66-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/17d93a11a252287e3b0f4bbe32722ecc9469ec66-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/c6516c4191274467b9f971cc4fb8a106.webp"
         },
         "isHorizontal": false
@@ -32240,7 +32240,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e1554365120c5042947aef8bcac48a07445e9f3-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e1554365120c5042947aef8bcac48a07445e9f3-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/f11f475222eb4de38a50bc6b4c84b337.webp"
         },
         "isHorizontal": false
@@ -32354,7 +32354,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/154940caa774fd8219625cf051ddcb230ffc7f02-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/154940caa774fd8219625cf051ddcb230ffc7f02-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/7cad3b2078d546bbade988723bb6b2c6.webp"
         },
         "isHorizontal": false
@@ -32504,7 +32504,7 @@
         "type": "Unit",
         "cost": 9,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ada85b2a6076b60933831454d02a21da3654362c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ada85b2a6076b60933831454d02a21da3654362c-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/2a24ea02754748dcadbba15e6ad8dc90.webp"
         },
         "isHorizontal": false
@@ -32612,7 +32612,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c17d29602d61d6702372fec4db44c6fb2a29e8a2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c17d29602d61d6702372fec4db44c6fb2a29e8a2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/676159225d354706b573d8a7a8cf4e02.webp"
         },
         "isHorizontal": false
@@ -32841,7 +32841,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7447b04d1e78192509e89e5ff3556368ea5c471a-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7447b04d1e78192509e89e5ff3556368ea5c471a-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.playloltcg.com/lol/card/20260325/9f5accc54c3f4139867c0c9d26f8d069.webp"
         },
         "isHorizontal": true
@@ -32876,7 +32876,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a17e5bb639866671772dc514a6096a5863712f71-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a17e5bb639866671772dc514a6096a5863712f71-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.playloltcg.com/lol/card/20260326/5f200e1a0e53420bb7932fce8bb678ed.webp"
         },
         "isHorizontal": true
@@ -32911,7 +32911,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9372a1574aa077e8b02cc6f00a1add060ae3b520-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9372a1574aa077e8b02cc6f00a1add060ae3b520-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.playloltcg.com/lol/card/20260326/63ecc3f0d2c34004a886dd616d93ee8c.webp"
         },
         "isHorizontal": true
@@ -32946,7 +32946,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8cd4edde3e59c8edc8cdcea626fc443c5ed6e1f2-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8cd4edde3e59c8edc8cdcea626fc443c5ed6e1f2-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.imgchest.com/files/4c86154328f1.png"
         },
         "isHorizontal": true
@@ -32981,7 +32981,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa81c474ff29b9d2c42dd4e64a5789bf793e5221-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa81c474ff29b9d2c42dd4e64a5789bf793e5221-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.imgchest.com/files/e9d74726e159.jpeg"
         },
         "isHorizontal": true
@@ -33555,7 +33555,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b097e8f9866788e0de2bfada48627c752d3e4b9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b097e8f9866788e0de2bfada48627c752d3e4b9-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/b4f5656d313746e093c85ca2dceb3806.webp"
         },
         "isHorizontal": false
@@ -33735,7 +33735,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4095d98aff998fda5a08d4c32e97a2a66ccf1e6-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4095d98aff998fda5a08d4c32e97a2a66ccf1e6-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/f40dced162d6409182febeddbb7e4539.webp"
         },
         "isHorizontal": false
@@ -33774,7 +33774,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75ff8f0b0a4ea110dd4af5b14c23da804481387a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75ff8f0b0a4ea110dd4af5b14c23da804481387a-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/9790c48c2c624801a7a039f33450937f.webp"
         },
         "isHorizontal": false
@@ -33885,7 +33885,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5099aa2938091dfcc54277877e320a7f83aeeec1-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5099aa2938091dfcc54277877e320a7f83aeeec1-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/18acc541b06c4e03bf668d24c4eb862c.webp"
         },
         "isHorizontal": false
@@ -33924,7 +33924,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8d270600e9ec7472cbb51eb56ad0799b7be38c7b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8d270600e9ec7472cbb51eb56ad0799b7be38c7b-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/b18ef3680b60403682f3d6476a4c6bb4.webp"
         },
         "isHorizontal": false
@@ -34263,7 +34263,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656450f89be4dc253438a4e0af7f7638ed5f90b2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656450f89be4dc253438a4e0af7f7638ed5f90b2-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/6e2e0fcd5a99440b89be7eb8eb9c0a1c.webp"
         },
         "isHorizontal": false
@@ -34302,7 +34302,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/78a3153e914b2124cdc918f3134a8087b342caf7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/78a3153e914b2124cdc918f3134a8087b342caf7-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/f1209ee74eb64572a09f6ba5e291d11f.webp"
         },
         "isHorizontal": false
@@ -34499,7 +34499,7 @@
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e8d207a8057b97f9059ea6025a16e59229dc54d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e8d207a8057b97f9059ea6025a16e59229dc54d-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260324/d43362b39fdc4a86ba566368fe5b07e0.webp"
         },
         "isHorizontal": false
@@ -34572,7 +34572,7 @@
         "type": "Unit",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/949a2e43263a9fe0d957595325c7e2ebe06bf85f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/949a2e43263a9fe0d957595325c7e2ebe06bf85f-744x1039.png?auto=format&fit=fill&q=80&w=744",
           "zh": "https://cdn.playloltcg.com/lol/card/20260319/d4c36bd47dc241e28ae134afd1493cfd.webp"
         },
         "isHorizontal": false
@@ -34607,7 +34607,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fad09d6bd9bf38e376f430ecb0b400762420d061-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744&or=270",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fad09d6bd9bf38e376f430ecb0b400762420d061-1039x744.png?auto=format&fit=fill&q=80&w=744&or=270",
           "zh": "https://cdn.imgchest.com/files/1d5125e5af29.jpeg"
         },
         "isHorizontal": true
