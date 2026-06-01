@@ -35129,5 +35129,41 @@
       "S03": true
     },
     "_unreleased": true
+  },
+  "RAD-138": {
+    "id": "RAD-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Not Alone",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-138.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Not Alone",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "05 - Radiance"
+    ],
+    "_legal": {
+      "S02": false,
+      "S03": false
+    },
+    "_unreleased": true
   }
 }
