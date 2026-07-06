@@ -34,13 +34,6 @@
 ],
 "formats": [
     {
-    "title": "Classic",
-    "gameplay": "Classic",
-    "customCategories": ["Chosen_Champion"],
-    "deckRuleset": "Standard",
-    "legalityCode": "S02"
-    },
-    {
     "title": "Unleashed",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
@@ -53,6 +46,13 @@
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
     "legalityCode": "S03"
+    },
+    {
+    "title": "Classic",
+    "gameplay": "Classic",
+    "customCategories": ["Chosen_Champion"],
+    "deckRuleset": "Standard",
+    "legalityCode": "S02"
     }
 ],
 "deckRulesets": {
