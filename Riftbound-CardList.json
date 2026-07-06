@@ -35301,7 +35301,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-046": {
     "id": "VEN-046",
@@ -35337,7 +35337,79 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
+  },
+  "VEN-068": {
+    "id": "VEN-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Brilliant Inventor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-068.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Brilliant Inventor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-068a": {
+    "id": "VEN-068a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Brilliant Inventor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-068a.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Brilliant Inventor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
   },
   "VEN-103": {
     "id": "VEN-103",
@@ -35373,7 +35445,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-104": {
     "id": "VEN-104",
@@ -35409,7 +35481,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-113": {
     "id": "VEN-113",
@@ -35445,7 +35517,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-114": {
     "id": "VEN-114",
@@ -35481,7 +35553,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-139": {
     "id": "VEN-139",
@@ -35518,7 +35590,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-155": {
     "id": "VEN-155",
@@ -35555,7 +35627,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-167": {
     "id": "VEN-167",
