@@ -35267,6 +35267,42 @@
     },
     "_unreleased": false
   },
+  "VEN-007": {
+    "id": "VEN-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Punching Poro",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/3382a1b1cc738d7de0dddfece19c09ea40f92e59-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Punching Poro",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-021": {
     "id": "VEN-021",
     "isToken": false,
@@ -35301,7 +35337,79 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
+  },
+  "VEN-031": {
+    "id": "VEN-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Twilight Shroud",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/df059084d9acefa0dcc3e3170c4b3eef41ee1bcf-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Twilight Shroud",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-041": {
+    "id": "VEN-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Shattered",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4e506b5a2a12df743aa72be0bbaef8779dcc8513-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Shattered",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
   },
   "VEN-046": {
     "id": "VEN-046",
@@ -35315,7 +35423,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-046.avif",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-046.jpg",
           "zh": ""
         },
         "isHorizontal": false
@@ -35337,7 +35445,223 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
+  },
+  "VEN-046a": {
+    "id": "VEN-046a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Ascended",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-046a.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Ascended",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 8,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-058": {
+    "id": "VEN-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Patched Porobot",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/19fd48ea157ecfcdcda18d0ecacf1dd5a0289b0d-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Patched Porobot",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-061": {
+    "id": "VEN-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Decree of Insight",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/39f0b9845b5e2cc8912089e987a57c151757d596-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Decree of Insight",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-068": {
+    "id": "VEN-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Brilliant Inventor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-068.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Brilliant Inventor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-068a": {
+    "id": "VEN-068a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Brilliant Inventor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-068a.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Brilliant Inventor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-095": {
+    "id": "VEN-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadows Order Disciple",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7e92f8094784cdb55ec54398cf8a2314472be23a-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadows Order Disciple",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
   },
   "VEN-103": {
     "id": "VEN-103",
@@ -35373,7 +35697,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-104": {
     "id": "VEN-104",
@@ -35409,7 +35733,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-113": {
     "id": "VEN-113",
@@ -35445,10 +35769,10 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
-  "VEN-114": {
-    "id": "VEN-114",
+  "VEN-115": {
+    "id": "VEN-115",
     "isToken": false,
     "face": {
       "front": {
@@ -35459,7 +35783,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-114.avif",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/ven-115.jpg",
           "zh": ""
         },
         "isHorizontal": false
@@ -35481,7 +35805,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-139": {
     "id": "VEN-139",
@@ -35518,7 +35842,7 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
   },
   "VEN-155": {
     "id": "VEN-155",
@@ -35555,7 +35879,43 @@
       "PRE": true,
       "STD": false
     },
-    "_unreleased": false
+    "_unreleased": true
+  },
+  "VEN-163": {
+    "id": "VEN-163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Risen Altar",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ee86783cdde66c59e902a52dfa7b6f686d46cff6-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Risen Altar",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
   },
   "VEN-167": {
     "id": "VEN-167",
@@ -35689,6 +36049,42 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-SP3": {
+    "id": "VEN-SP3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ahri, Inquisitive",
+          "zh": "阿狸 - 天真绮梦"
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/692e7b0162803dab4c568e06add7e42f66a52b73-744x1039.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ahri, Inquisitive",
+      "zh": "阿狸 - 天真绮梦"
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🔵 Mind"
     ],
