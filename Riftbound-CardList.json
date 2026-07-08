@@ -35591,6 +35591,42 @@
     },
     "_unreleased": true
   },
+  "VEN-042": {
+    "id": "VEN-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shen, Scourge of Shadows",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-042.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shen, Scourge of Shadows",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-042a": {
     "id": "VEN-042a",
     "isToken": false,
