@@ -35489,6 +35489,84 @@
     },
     "_unreleased": true
   },
+  "VEN-023": {
+    "id": "VEN-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zed, Red Champion",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zed, Red Champion",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "VEN-T05"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-023a": {
+    "id": "VEN-023a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zed, Red Champion",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023a.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zed, Red Champion",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "VEN-T05"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-031": {
     "id": "VEN-031",
     "isToken": false,
@@ -36626,6 +36704,43 @@
     "tokens": [
       "VEN-T01"
     ],
+    "Domain": [
+      "🔴 Fury",
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-140": {
+    "id": "VEN-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Signature Spell",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-140.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Signature Spell",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
     "Domain": [
       "🔴 Fury",
       "🟢 Calm"
