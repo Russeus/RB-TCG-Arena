@@ -35327,6 +35327,9 @@
     },
     "type": "Unit",
     "cost": 2,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury"
     ],
@@ -35471,6 +35474,9 @@
     },
     "type": "Unit",
     "cost": 3,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury"
     ],
@@ -35687,6 +35693,9 @@
     },
     "type": "Unit",
     "cost": 8,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -35723,6 +35732,9 @@
     },
     "type": "Unit",
     "cost": 8,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -35939,6 +35951,9 @@
     },
     "type": "Unit",
     "cost": 4,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
@@ -35975,6 +35990,9 @@
     },
     "type": "Unit",
     "cost": 4,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
@@ -36047,6 +36065,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟠 Body"
     ],
@@ -36191,6 +36212,9 @@
     },
     "type": "Unit",
     "cost": 4,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -36335,6 +36359,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens": [
+      "VEN-T05"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -36371,6 +36398,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens": [
+      "VEN-T05"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -36515,6 +36545,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟡 Order"
     ],
@@ -36551,6 +36584,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟡 Order"
     ],
@@ -36587,6 +36623,9 @@
     },
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury",
       "🟢 Calm"
@@ -36661,6 +36700,9 @@
     },
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury",
       "🟣 Chaos"
@@ -36698,6 +36740,9 @@
     },
     "type": "Spell",
     "cost": 2,
+    "tokens": [
+      "VEN-T05"
+    ],
     "Domain": [
       "🔴 Fury",
       "🟣 Chaos"
@@ -36735,6 +36780,9 @@
     },
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟣 Chaos",
       "🟡 Order"
@@ -37062,6 +37110,9 @@
     },
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury",
       "🟣 Chaos"
@@ -37099,6 +37150,9 @@
     },
     "type": "Legend",
     "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
     "Domain": [
       "🟣 Chaos",
       "🟡 Order"
@@ -37172,6 +37226,9 @@
     },
     "type": "Unit",
     "cost": 5,
+    "tokens":[
+      "OGN-T-Buff"
+    ],
     "Domain": [
       "🟠 Body"
     ],
