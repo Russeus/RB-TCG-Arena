@@ -37184,6 +37184,114 @@
     },
     "_unreleased": true
   },
+  "VEN-T01": {
+    "id": "VEN-T01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Empowered",
+          "zh": ""
+        },
+        "type": "Other",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-T01.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Empowered",
+      "zh": ""
+    },
+    "type": "Other",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-T05": {
+    "id": "VEN-T05",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadow Clone",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-T05.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadow Clone",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-T06": {
+    "id": "VEN-T06",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tentacle",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-T06.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tentacle",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "RAD-138": {
     "id": "RAD-138",
     "isToken": false,
