@@ -36419,6 +36419,84 @@
     },
     "_unreleased": true
   },
+  "VEN-084": {
+    "id": "VEN-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambessa, The Wolf",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-084.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambessa, The Wolf",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-084a": {
+    "id": "VEN-084a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambessa, The Wolf",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-084a.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambessa, The Wolf",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-088": {
     "id": "VEN-088",
     "isToken": false,
