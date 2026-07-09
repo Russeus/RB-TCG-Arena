@@ -35378,6 +35378,42 @@
     },
     "_unreleased": true
   },
+  "VEN-012": {
+    "id": "VEN-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Perfect Execution",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-012.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Perfect Execution",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-019": {
     "id": "VEN-019",
     "isToken": false,
@@ -35489,26 +35525,65 @@
     },
     "_unreleased": true
   },
-  "VEN-023": {
-    "id": "VEN-023",
+  "VEN-021a": {
+    "id": "VEN-021a",
     "isToken": false,
     "face": {
       "front": {
         "name": {
-          "en": "Zed, Red Champion",
+          "en": "Akali, Deadly Weapon",
           "zh": ""
         },
         "type": "Unit",
-        "cost": 4,
+        "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-021a.avif",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Zed, Red Champion",
+      "en": "Akali, Deadly Weapon",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-023": {
+    "id": "VEN-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zed, From the Shadows",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zed, From the Shadows",
       "zh": ""
     },
     "type": "Unit",
@@ -35534,7 +35609,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Zed, Red Champion",
+          "en": "Zed, From the Shadows",
           "zh": ""
         },
         "type": "Unit",
@@ -35547,7 +35622,7 @@
       }
     },
     "name": {
-      "en": "Zed, Red Champion",
+      "en": "Zed, From the Shadows",
       "zh": ""
     },
     "type": "Unit",
@@ -35557,6 +35632,42 @@
     ],
     "Domain": [
       "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-029": {
+    "id": "VEN-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ol' Poro",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-029.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ol' Poro",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm"
     ],
     "Set": [
       "04 - Vendetta"
@@ -35825,6 +35936,45 @@
     },
     "_unreleased": true
   },
+  "VEN-047": {
+    "id": "VEN-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Apprentice Mage",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-047.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Apprentice Mage",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-048": {
     "id": "VEN-048",
     "isToken": false,
@@ -35849,6 +35999,81 @@
     },
     "type": "Unit",
     "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-052": {
+    "id": "VEN-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mesmerize",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-052.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mesmerize",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-054": {
+    "id": "VEN-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Questionable Tome",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-054.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Questionable Tome",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
@@ -35921,6 +36146,42 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-062": {
+    "id": "VEN-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hextech Formula",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-062.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hextech Formula",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 2,
     "Domain": [
       "🔵 Mind"
     ],
@@ -36677,6 +36938,114 @@
     },
     "_unreleased": true
   },
+  "VEN-137": {
+    "id": "VEN-137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shady Spectacles",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-137.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shady Spectacles",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-138": {
+    "id": "VEN-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shen, Leader of the Kinkou Order",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-138.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shen, Leader of the Kinkou Order",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-138a": {
+    "id": "VEN-138a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shen, Leader of the Kinkou Order",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-138a.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shen, Leader of the Kinkou Order",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-139": {
     "id": "VEN-139",
     "isToken": false,
@@ -36723,20 +37092,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Akali, Signature Spell",
+          "en": "Shuriken Flip",
           "zh": ""
         },
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-140.jpg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-140.avif",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Akali, Signature Spell",
+      "en": "Shuriken Flip",
       "zh": ""
     },
     "type": "Spell",
@@ -36778,6 +37147,43 @@
     },
     "type": "Legend",
     "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-142": {
+    "id": "VEN-142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dominus",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-142.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dominus",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 4,
     "Domain": [
       "🔴 Fury",
       "🟠 Body"
@@ -36871,6 +37277,86 @@
     },
     "_unreleased": true
   },
+  "VEN-151": {
+    "id": "VEN-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Soul's Reflection",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-151.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Soul's Reflection",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-153": {
+    "id": "VEN-153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambessa, Matriarch of War",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-153.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambessa, Matriarch of War",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-155": {
     "id": "VEN-155",
     "isToken": false,
@@ -36938,6 +37424,42 @@
     "Domain": [
       "🟣 Chaos",
       "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-161": {
+    "id": "VEN-161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Piltovan Forge",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-161.avif",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Piltovan Forge",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
     ],
     "Set": [
       "04 - Vendetta"
@@ -37278,6 +37800,42 @@
     "_legal": {
       "PRE": true,
       "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-SP2": {
+    "id": "VEN-SP2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sona, Harmonious",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-SP2.avif",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sona, Harmonious",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
     },
     "_unreleased": true
   },
