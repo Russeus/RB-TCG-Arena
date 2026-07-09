@@ -37470,6 +37470,42 @@
     },
     "_unreleased": true
   },
+  "VEN-158": {
+    "id": "VEN-158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Heisho, Shell of the World",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-158.jpg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Heisho, Shell of the World",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-161": {
     "id": "VEN-161",
     "isToken": false,
