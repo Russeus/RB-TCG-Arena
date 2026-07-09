@@ -36602,6 +36602,42 @@
     },
     "_unreleased": true
   },
+  "VEN-102": {
+    "id": "VEN-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ravenbloom Prefect",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-102.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ravenbloom Prefect",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-103": {
     "id": "VEN-103",
     "isToken": false,
