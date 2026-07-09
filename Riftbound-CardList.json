@@ -35390,7 +35390,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-012.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cb13c46f8c3872678b87f68891d9f4a416ba8080-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35537,7 +35537,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-021a.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/92d8ad4bc4724da89f32348f290600f632f24e9e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35576,7 +35576,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/06793f17adbd827e468db40d644eb273a3932c7e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35615,7 +35615,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-023a.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dcf031bd69c4880c33d68f73dde8e391a6059be7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35654,7 +35654,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-029.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/267fdc483ff8c740779f23eb8f965105feb030cd-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35690,7 +35690,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bd93298503d6b1b2f6faf7e97ab494e6e26db76-744x1039.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0bd93298503d6b1b2f6faf7e97ab494e6e26db76-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35798,7 +35798,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-042.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bbe849918c7f4189379ae8957dd427a3f272a1a6-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -35948,7 +35948,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-047.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6e650b9680864a949299cbe2ef7d06d1d22c7d18-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -36023,7 +36023,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-052.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/854ceafc3f20c7e2d38c83170cb73232116f3d58-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -36059,7 +36059,7 @@
         "type": "Gear",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-054.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/07bb606d7cbcb218496b78a4fef354abb99875dc-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -36170,7 +36170,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-062.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95f4ee0625dda4213847e6649465397be03c8bd1-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -36614,7 +36614,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-102.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/57ecb26880ea084ea16b785c9a563ff298ee6a42-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -36986,7 +36986,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-137.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e49461109a4116c22af9206719f53fb73aee36d0-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37022,7 +37022,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-138.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b227d9f9abc6f165beffba4eaf3b5819cf06eab4-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37058,7 +37058,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-138a.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bf3f260e47de2887ba16fbc02e9df7f02e57a24a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37134,7 +37134,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-140.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bac1ecff92d022e99a3696ad00d020530a1a09e7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37208,7 +37208,7 @@
         "type": "Spell",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-142.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0d5ccc8bb0b70473add784a3f4c71e1e8635e2ce-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37325,7 +37325,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-151.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2e9e60b3f161b41219c40ef0426049634fb7ba1a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37365,7 +37365,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-153.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/49e81916d7ae72b24de845223e1798652d26e789-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37482,7 +37482,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-158.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f0655f6d3cd774553c7b1f8ad2c3c5832bb45e0-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": true
@@ -37518,7 +37518,7 @@
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-161.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cbed1bc8150e20ffacd0df01ab40f77c7ba7a342-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": true
@@ -37887,7 +37887,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-SP2.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2cc800fbd0011dd084426445ebb1c2831420063d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
