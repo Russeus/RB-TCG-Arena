@@ -36605,6 +36605,42 @@
     },
     "_unreleased": true
   },
+  "VEN-091": {
+    "id": "VEN-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Corrupted Dragon (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 10,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-091.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Corrupted Dragon (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 10,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-093": {
     "id": "VEN-093",
     "isToken": false,
@@ -36962,6 +36998,78 @@
     },
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-135": {
+    "id": "VEN-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kennen, Yellow (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-135.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kennen, Yellow (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-135a": {
+    "id": "VEN-135a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kennen, Yellow (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-135a.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kennen, Yellow (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🟡 Order"
     ],
