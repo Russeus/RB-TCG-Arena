@@ -36668,6 +36668,45 @@
     },
     "_unreleased": true
   },
+  "VEN-077": {
+    "id": "VEN-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tools of Empire",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-077.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tools of Empire",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-079": {
     "id": "VEN-079",
     "isToken": false,
