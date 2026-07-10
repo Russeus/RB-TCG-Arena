@@ -35414,6 +35414,78 @@
     },
     "_unreleased": true
   },
+  "VEN-013": {
+    "id": "VEN-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadow Assassin",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d5c1aed33b6aa109ff2baea8b3e0c146af750dcc-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadow Assassin",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-016": {
+    "id": "VEN-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Eclipse Dragon",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6b7ea97973ced0e0631554ff07c726fe0a257a3c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Eclipse Dragon",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 8,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-019": {
     "id": "VEN-019",
     "isToken": false,
@@ -35593,6 +35665,78 @@
     ],
     "Domain": [
       "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-025": {
+    "id": "VEN-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Esteemed Hierophant",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b47621d2b8efcee4d17de40b16c61fa06e404a2a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Esteemed Hierophant",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-026": {
+    "id": "VEN-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Field Musicians",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e880946b6c99023d9fb1e9aa7d23a0c673b0f6ac-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Field Musicians",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟢 Calm"
     ],
     "Set": [
       "04 - Vendetta"
@@ -36194,6 +36338,78 @@
     },
     "_unreleased": true
   },
+  "VEN-063": {
+    "id": "VEN-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Guardian of Knowledge",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aa96dbb8b4d72db7e47a72ce652ad542f55bf31d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Guardian of Knowledge",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-063a": {
+    "id": "VEN-063a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Guardian of Knowledge",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6bfe2146a52c3d8dd0230904435369ff29bac0e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Guardian of Knowledge",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-068": {
     "id": "VEN-068",
     "isToken": false,
@@ -36497,6 +36713,45 @@
     },
     "_unreleased": true
   },
+  "VEN-086": {
+    "id": "VEN-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gangplank, Naval",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f270a3ecc4850594513c45d145f2b855152e2cb7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gangplank, Naval",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-088": {
     "id": "VEN-088",
     "isToken": false,
@@ -36611,20 +36866,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Corrupted Dragon (Placeholder)",
+          "en": "Corrupted Dragon",
           "zh": ""
         },
         "type": "Unit",
         "cost": 10,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-091.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6000c549047967e619d47bdbd2f265e5bb8b5b19-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Corrupted Dragon (Placeholder)",
+      "en": "Corrupted Dragon",
       "zh": ""
     },
     "type": "Unit",
@@ -36824,6 +37079,123 @@
     },
     "_unreleased": true
   },
+  "VEN-109": {
+    "id": "VEN-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Illaoi, Prophet of the Great Kraken",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/86fccf469e67fb89312e0c860842e2801a8b12e7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Illaoi, Prophet of the Great Kraken",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "VEN-T06"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-110": {
+    "id": "VEN-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Defiant Soul",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/214567717b4f0156ff06c923e1603234cb52db61-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Defiant Soul",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-110a": {
+    "id": "VEN-110a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Defiant Soul",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0495d07746d71cdd1aeae8f7fd5a0b78da0817fb-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Defiant Soul",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-112": {
     "id": "VEN-112",
     "isToken": false,
@@ -36974,6 +37346,42 @@
     },
     "_unreleased": true
   },
+  "VEN-121": {
+    "id": "VEN-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Reluctant Leader",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d70352ba57ae548c405614ec6ba2bb17d7a19a44-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Reluctant Leader",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-126": {
     "id": "VEN-126",
     "isToken": false,
@@ -37010,26 +37418,65 @@
     },
     "_unreleased": true
   },
-  "VEN-135": {
-    "id": "VEN-135",
+  "VEN-133": {
+    "id": "VEN-133",
     "isToken": false,
     "face": {
       "front": {
         "name": {
-          "en": "Kennen, Yellow (Placeholder)",
+          "en": "Glowstone",
           "zh": ""
         },
-        "type": "Unit",
-        "cost": 3,
+        "type": "Gear",
+        "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-135.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6426e9c2b168f0dde5430d5bc57108a0cc2bcebb-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Kennen, Yellow (Placeholder)",
+      "en": "Glowstone",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 2,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-135": {
+    "id": "VEN-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kennen, Keeper of Balance",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/446ff54c091b07627f826952f45ee40e9976d040-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kennen, Keeper of Balance",
       "zh": ""
     },
     "type": "Unit",
@@ -37052,20 +37499,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Kennen, Yellow (Placeholder)",
+          "en": "Kennen, Keeper of Balance",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-135a.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1d55c475f395c2b1bac63844208687bb9b3232b2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Kennen, Yellow (Placeholder)",
+      "en": "Kennen, Keeper of Balance",
       "zh": ""
     },
     "type": "Unit",
@@ -37499,6 +37946,117 @@
     },
     "_unreleased": true
   },
+  "VEN-145": {
+    "id": "VEN-145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Curator of the Sands",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f26a25c5fddba7da788455c3d82b85c5abc7a2eb-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Curator of the Sands",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-146": {
+    "id": "VEN-146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Siphoning Strike",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b28e4a0681eee9b19c29770a5f167e1e68c78cf-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Siphoning Strike",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 4,
+    "Domain": [
+      "🟢 Calm",
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-147": {
+    "id": "VEN-147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shen, Eye of Twilight",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54388a3124b7e1f0331e5970f952778db5f24500-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shen, Eye of Twilight",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-151": {
     "id": "VEN-151",
     "isToken": false,
@@ -37812,7 +38370,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-167.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dff596efc7413bfdd9cc8e667c46bd4228447de5-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37848,7 +38406,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-168.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a7304f3c9897967812940838e978e54e251e545-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37884,7 +38442,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-175.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/be6d6a608c5bee9d2012e24d9e6f6f1d1977a37a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37920,7 +38478,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-176.avif",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0416b4a447494acac41413a4511bb59ce983b4ec-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -37941,6 +38499,159 @@
     "_legal": {
       "PRE": true,
       "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-179": {
+    "id": "VEN-179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rengar, Trophy Hunter",
+          "zh": "雷恩加尔-异兽猎手"
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1f16f5b1f980106057606a2faa3cce64fa4850e7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rengar, Trophy Hunter",
+      "zh": "雷恩加尔-异兽猎手"
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-180": {
+    "id": "VEN-180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kha'Zix, Evolving Hunter",
+          "zh": "卡兹克-进化猎手"
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4875b0eb5705f9723118f0895dd702373826bdbc-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kha'Zix, Evolving Hunter",
+      "zh": "卡兹克-进化猎手"
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens": [
+      "UNL-T08"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "03 - Unleashed"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-181": {
+    "id": "VEN-181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gangplank, Naval",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9d9fd99b083fb7104d533ca0eccb43a47c2cc74a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gangplank, Naval",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-182": {
+    "id": "VEN-182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Illaoi, Prophet of the Great Kraken",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a50aadbfd6f435433a80b12da9826fa0a6bd8172-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Illaoi, Prophet of the Great Kraken",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "VEN-T06"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
     },
     "_unreleased": true
   },
@@ -38011,6 +38722,80 @@
     "Domain": [
       "🔴 Fury",
       "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-192": {
+    "id": "VEN-192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Curator of the Sands",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1790b30538781eb2a55b5baee00fff9ed08794aa-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Curator of the Sands",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-193": {
+    "id": "VEN-193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shen, Eye of Twilight",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8c234c7efc30a24dc50c4b76517857bff6e1f906-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shen, Eye of Twilight",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🟡 Order"
     ],
     "Set": [
       "04 - Vendetta"
