@@ -35894,6 +35894,78 @@
     },
     "_unreleased": true
   },
+  "VEN-038": {
+    "id": "VEN-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Green (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-038.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Green (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-038a": {
+    "id": "VEN-038a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Green (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-038a.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Green (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-041": {
     "id": "VEN-041",
     "isToken": false,
@@ -38057,6 +38129,46 @@
     },
     "_unreleased": true
   },
+  "VEN-149": {
+    "id": "VEN-149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Legend (Placeholder)",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-149.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Legend (Placeholder)",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-151": {
     "id": "VEN-151",
     "isToken": false,
@@ -38530,7 +38642,7 @@
       "🟠 Body"
     ],
     "Set": [
-      "03 - Unleashed"
+      "04 - Vendetta"
     ],
     "_legal": {
       "PRE": true,
@@ -38569,7 +38681,7 @@
       "🟠 Body"
     ],
     "Set": [
-      "03 - Unleashed"
+      "04 - Vendetta"
     ],
     "_legal": {
       "PRE": true,
@@ -38645,6 +38757,46 @@
     ],
     "Domain": [
       "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-189": {
+    "id": "VEN-189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Rogue Assassin",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-189.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Rogue Assassin",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔴 Fury",
+      "🟢 Calm"
     ],
     "Set": [
       "04 - Vendetta"
@@ -38956,6 +39108,42 @@
       "STD": true
     },
     "_unreleased": true
+  },
+  "VEN-SP6": {
+    "id": "VEN-SP6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lux, Crownguard",
+          "zh": "拉克丝 - 冕卫之光"
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-SP6.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lux, Crownguard",
+      "zh": "拉克丝 - 冕卫之光"
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased":true
   },
   "VEN-T01": {
     "id": "VEN-T01",
