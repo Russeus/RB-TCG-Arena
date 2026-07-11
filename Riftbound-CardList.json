@@ -35303,6 +35303,42 @@
     },
     "_unreleased": true
   },
+  "VEN-006": {
+    "id": "VEN-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Oasis Raider",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d44355b9b129054e63b6f2c8de30518fe87b6295-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Oasis Raider",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-007": {
     "id": "VEN-007",
     "isToken": false,
@@ -35474,6 +35510,78 @@
     },
     "type": "Unit",
     "cost": 8,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-017": {
+    "id": "VEN-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Morgana, Vindictive",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/04f3ff3a25b08c9af33090e7a533396583f5e433-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Morgana, Vindictive",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-018": {
+    "id": "VEN-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rage Amplifier",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83a7cd497dd42f535f8f0adc72c3c4324f9aec14-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rage Amplifier",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
     "Domain": [
       "🔴 Fury"
     ],
@@ -35675,6 +35783,45 @@
     },
     "_unreleased": true
   },
+  "VEN-023a": {
+    "id": "VEN-023a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zed, From the Shadows",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dcf031bd69c4880c33d68f73dde8e391a6059be7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zed, From the Shadows",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "VEN-T05"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-025": {
     "id": "VEN-025",
     "isToken": false,
@@ -35747,35 +35894,35 @@
     },
     "_unreleased": true
   },
-  "VEN-023a": {
-    "id": "VEN-023a",
+  "VEN-028": {
+    "id": "VEN-028",
     "isToken": false,
     "face": {
       "front": {
         "name": {
-          "en": "Zed, From the Shadows",
+          "en": "Mournful Witness",
           "zh": ""
         },
         "type": "Unit",
-        "cost": 4,
+        "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dcf031bd69c4880c33d68f73dde8e391a6059be7-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2f31651fc37a3e8bc562d0a361c509c0998d82c8-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Zed, From the Shadows",
+      "en": "Mournful Witness",
       "zh": ""
     },
     "type": "Unit",
-    "cost": 4,
-    "tokens": [
-      "VEN-T05"
+    "cost": 2,
+    "tokens":[
+      "VEN-T01"
     ],
     "Domain": [
-      "🔴 Fury"
+      "🟢 Calm"
     ],
     "Set": [
       "04 - Vendetta"
@@ -35900,20 +36047,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Akali, Green (Placeholder)",
+          "en": "Akali, Silent",
           "zh": ""
         },
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-038.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f1a4d73853194a3dde02c51b083d197af89d2bda-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Akali, Green (Placeholder)",
+      "en": "Akali, Silent",
       "zh": ""
     },
     "type": "Unit",
@@ -35936,20 +36083,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Akali, Green (Placeholder)",
+          "en": "Akali, Silent",
           "zh": ""
         },
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-038a.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6924311aab46a74aa2c54030c053427725860ea8-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Akali, Green (Placeholder)",
+      "en": "Akali, Silent",
       "zh": ""
     },
     "type": "Unit",
@@ -36062,6 +36209,45 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-043": {
+    "id": "VEN-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Steel Paws",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/79d9b6583ed8e7d5a1486f1c15b66b19fb7f69a5-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Steel Paws",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 1,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -36338,6 +36524,42 @@
     },
     "_unreleased": true
   },
+  "VEN-060": {
+    "id": "VEN-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sky Cruiser",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4a99fbe995f6d5d71c1c46e1c38f64a9f9d7c3e9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sky Cruiser",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-061": {
     "id": "VEN-061",
     "isToken": false,
@@ -36470,6 +36692,78 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-066": {
+    "id": "VEN-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Temporal Breach",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7c670dc3d997c52b90d67043989b53c67a72f4c4-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Temporal Breach",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-067": {
+    "id": "VEN-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bottled Constellation",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 10,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2068b7c202cab7f877c331a7bad0531d6a8f0d73-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bottled Constellation",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 10,
     "Domain": [
       "🔵 Mind"
     ],
@@ -36746,6 +37040,78 @@
     },
     "_unreleased": true
   },
+  "VEN-080": {
+    "id": "VEN-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Noxian Demolitionist",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a8c9a1b0eefc89106aa154ce3958c82d86e70940-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Noxian Demolitionist",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-083": {
+    "id": "VEN-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rampage",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c85ae2c6bd5b2644651564fad0f86ad19c5709a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rampage",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-084": {
     "id": "VEN-084",
     "isToken": false,
@@ -36850,6 +37216,45 @@
     "cost": 6,
     "tokens":[
       "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-087": {
+    "id": "VEN-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hextech Disc",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/36acfeb7da10f1254e962b7bacda3e6ea559fe53-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hextech Disc",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "tokens":[
+      "SFD-T-Mech"
     ],
     "Domain": [
       "🟠 Body"
@@ -37082,6 +37487,42 @@
     },
     "_unreleased": true
   },
+  "VEN-101": {
+    "id": "VEN-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gust Monk",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/93a194c0c1f055c0b3bc3c0717cbe488749fed92-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gust Monk",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-102": {
     "id": "VEN-102",
     "isToken": false,
@@ -37178,6 +37619,42 @@
     },
     "type": "Spell",
     "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-107": {
+    "id": "VEN-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Decree of Discord",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b0e82842acddb99c47af6793dab48164caf498c2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Decree of Discord",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -37457,6 +37934,78 @@
     },
     "_unreleased": true
   },
+  "VEN-118": {
+    "id": "VEN-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Horns of the Dragon",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a7b3cb9f4175e71bc8fb60e69c55a0ea3f26fe8f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Horns of the Dragon",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-119": {
+    "id": "VEN-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Keeper of Law",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/42b965736c715293da57ec23472684506f49ba7f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Keeper of Law",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-121": {
     "id": "VEN-121",
     "isToken": false,
@@ -37517,6 +38066,78 @@
     },
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-127": {
+    "id": "VEN-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lacerate",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f21bbd09545d949f095756281e5506128eb4809d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lacerate",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-129": {
+    "id": "VEN-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sacred Protector",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a93887af1128d19cdec798611ffdd29900ac5d85-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sacred Protector",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
     "Domain": [
       "🟡 Order"
     ],
@@ -38174,20 +38795,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jayce, Legend (Placeholder)",
+          "en": "Jayce, Defender of Tomorrow",
           "zh": ""
         },
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-149.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/670b7efd367a42beba11c18fb59e240a7c574a57-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Jayce, Legend (Placeholder)",
+      "en": "Jayce, Defender of Tomorrow",
       "zh": ""
     },
     "type": "Legend",
@@ -38235,6 +38856,43 @@
     "tokens": [
       "VEN-T01"
     ],
+    "Domain": [
+      "🔵 Mind",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-152": {
+    "id": "VEN-152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rebuttal",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2df67fe2ba17f0796ff1f9c03b85d2db48fe954b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rebuttal",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
     "Domain": [
       "🔵 Mind",
       "🟣 Chaos"
@@ -38581,6 +39239,45 @@
     },
     "_unreleased": true
   },
+  "VEN-169": {
+    "id": "VEN-169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zed, From the Shadows",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5d665b28073066442b35f7b6aed98c83fca23631-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zed, From the Shadows",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "VEN-T05"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-175": {
     "id": "VEN-175",
     "isToken": false,
@@ -38818,7 +39515,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-189.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b0ec31df147b40bbb83c40644252b48a7619593-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -38997,6 +39694,86 @@
     },
     "_unreleased": true
   },
+  "VEN-195": {
+    "id": "VEN-195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Soul's Reflection",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f56cf2a3755318e1dc6afd01736f2a4d759cd4a1-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Soul's Reflection",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-196": {
+    "id": "VEN-196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambessa, Matriarch of War",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2d6c1bd7992ddd20fe524587274ed6f9a249e42c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambessa, Matriarch of War",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-197": {
     "id": "VEN-197",
     "isToken": false,
@@ -39148,6 +39925,42 @@
     },
     "_unreleased": true
   },
+  "VEN-SP5": {
+    "id": "VEN-SP5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ezreal, Prodigy",
+          "zh": "伊泽瑞尔 - 奥法逸才"
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd4beecca19d4e84ead0852acce83d4c34ac1b4c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ezreal, Prodigy",
+      "zh": "伊泽瑞尔 - 奥法逸才"
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
   "VEN-SP6": {
     "id": "VEN-SP6",
     "isToken": false,
@@ -39160,7 +39973,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-SP6.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b9778ec229e052268ea66213ca2dbf60612b2862-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
