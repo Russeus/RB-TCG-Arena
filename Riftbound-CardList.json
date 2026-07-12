@@ -38189,6 +38189,45 @@
     },
     "_unreleased": true
   },
+  "VEN-134": {
+    "id": "VEN-134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kayle, Yellow Unit (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-134.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kayle, Yellow Unit (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-135": {
     "id": "VEN-135",
     "isToken": false,
@@ -40101,6 +40140,114 @@
     ],
     "_legal": {
       "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "RAD-086-P": {
+    "id": "RAD-086-P",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Courageous",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-086-P.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Courageous",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "05 - Radiance"
+    ],
+    "_legal": {
+      "PRE": false,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "RAD-086a-P": {
+    "id": "RAD-086a-P",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Courageous",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-086a-P.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Courageous",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "05 - Radiance"
+    ],
+    "_legal": {
+      "PRE": false,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "RAD-086b-P": {
+    "id": "RAD-086b-P",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Courageous",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-086b-P.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Courageous",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "05 - Radiance"
+    ],
+    "_legal": {
+      "PRE": false,
       "STD": false
     },
     "_unreleased": true
