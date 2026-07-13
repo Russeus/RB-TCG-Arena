@@ -39359,6 +39359,42 @@
     },
     "_unreleased": true
   },
+  "VEN-157": {
+    "id": "VEN-157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dragon Roost",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-157.jpg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Dragon Roost",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-158": {
     "id": "VEN-158",
     "isToken": false,
@@ -39887,7 +39923,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-083.jpg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-183.jpg",
           "zh": ""
         },
         "isHorizontal": false
@@ -39944,6 +39980,84 @@
     "_legal": {
       "PRE": true,
       "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-187": {
+    "id": "VEN-187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambessa, Respected and Feared",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-187.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambessa, Respected and Feared",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-188": {
+    "id": "VEN-188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Defiant Soul",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-188.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Defiant Soul",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
     },
     "_unreleased": true
   },
