@@ -39911,6 +39911,42 @@
     },
     "_unreleased": true
   },
+  "VEN-184": {
+    "id": "VEN-184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Leona, Determined",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-184.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Leona, Determined",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
   "VEN-189": {
     "id": "VEN-189",
     "isToken": false,
