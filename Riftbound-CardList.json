@@ -36113,6 +36113,78 @@
     },
     "_unreleased": true
   },
+  "VEN-039": {
+    "id": "VEN-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Crumbling Sands",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-039.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Crumbling Sands",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-040": {
+    "id": "VEN-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Green Spell (Placeholder)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-040.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Green Spell (Placeholder)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-041": {
     "id": "VEN-041",
     "isToken": false,
@@ -36248,6 +36320,42 @@
     "tokens":[
       "VEN-T01"
     ],
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-044": {
+    "id": "VEN-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Astral Heron",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-044.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Astral Heron",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 7,
     "Domain": [
       "🟢 Calm"
     ],
@@ -36476,6 +36584,42 @@
     "tokens":[
       "VEN-T01"
     ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-056": {
+    "id": "VEN-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Clairvoyance",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-056.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Clairvoyance",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 7,
     "Domain": [
       "🔵 Mind"
     ],
@@ -37412,6 +37556,84 @@
     },
     "_unreleased": true
   },
+  "VEN-092": {
+    "id": "VEN-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Renekton, Brute",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-092.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Renekton, Brute",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-092a": {
+    "id": "VEN-092a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Renekton, Brute",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-092a.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Renekton, Brute",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-093": {
     "id": "VEN-093",
     "isToken": false,
@@ -37475,6 +37697,45 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-100": {
+    "id": "VEN-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Up from the Deep",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-100.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Up from the Deep",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "tokens":[
+      "VEN-T06"
+    ],
     "Domain": [
       "🟣 Chaos"
     ],
@@ -38138,6 +38399,42 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-132": {
+    "id": "VEN-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Yellow Cat (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-132.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Yellow Cat (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": [
       "🟡 Order"
     ],
@@ -39134,6 +39431,42 @@
     },
     "_unreleased": true
   },
+  "VEN-162": {
+    "id": "VEN-162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Protective Sands",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-162.jpg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Protective Sands",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-163": {
     "id": "VEN-163",
     "isToken": false,
@@ -39850,6 +40183,42 @@
     "_legal": {
       "PRE": true,
       "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-SP1": {
+    "id": "VEN-SP1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kai'Sa, Survivor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-SP1.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kai'Sa, Survivor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
     },
     "_unreleased": true
   },
