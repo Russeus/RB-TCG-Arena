@@ -39875,6 +39875,42 @@
     },
     "_unreleased": true
   },
+  "VEN-183": {
+    "id": "VEN-183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Diana, No Longer Human",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-083.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Diana, No Longer Human",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
   "VEN-189": {
     "id": "VEN-189",
     "isToken": false,
