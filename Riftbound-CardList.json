@@ -37745,6 +37745,42 @@
     },
     "_unreleased": true
   },
+  "VEN-096": {
+    "id": "VEN-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadowcloaked Lurker",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-096.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadowcloaked Lurker",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-100": {
     "id": "VEN-100",
     "isToken": false,
@@ -39161,6 +39197,43 @@
     },
     "_unreleased": true
   },
+  "VEN-148": {
+    "id": "VEN-148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadow Dash",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-148.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadow Dash",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟢 Calm",
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-149": {
     "id": "VEN-149",
     "isToken": false,
@@ -40278,6 +40351,46 @@
     "Domain": [
       "🟢 Calm",
       "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-194s": {
+    "id": "VEN-194s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jayce, Defender of Tomorrow",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-194s.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jayce, Defender of Tomorrow",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind",
+      "🟠 Body"
     ],
     "Set": [
       "04 - Vendetta"
