@@ -35705,6 +35705,42 @@
     },
     "_unreleased": true
   },
+  "VEN-022": {
+    "id": "VEN-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Endless Riches",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-022.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Endless Riches",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-021a": {
     "id": "VEN-021a",
     "isToken": false,
@@ -36155,7 +36191,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Nasus, Green Spell (Placeholder)",
+          "en": "Decree of Focus",
           "zh": ""
         },
         "type": "Spell",
@@ -36168,7 +36204,7 @@
       }
     },
     "name": {
-      "en": "Nasus, Green Spell (Placeholder)",
+      "en": "Decree of Focus",
       "zh": ""
     },
     "type": "Spell",
@@ -38417,7 +38453,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Yellow Cat (Placeholder)",
+          "en": "Fallen Feline",
           "zh": ""
         },
         "type": "Unit",
@@ -38430,7 +38466,7 @@
       }
     },
     "name": {
-      "en": "Yellow Cat (Placeholder)",
+      "en": "Fallen Feline",
       "zh": ""
     },
     "type": "Unit",
