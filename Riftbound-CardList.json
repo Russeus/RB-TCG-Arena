@@ -35303,6 +35303,42 @@
     },
     "_unreleased": true
   },
+  "VEN-003": {
+    "id": "VEN-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Brittle Steel",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-003.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Brittle Steel",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-004": {
     "id": "VEN-004",
     "isToken": false,
@@ -38510,6 +38546,45 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-124": {
+    "id": "VEN-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Escaped Grayback",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-124.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Escaped Grayback",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🟡 Order"
     ],
