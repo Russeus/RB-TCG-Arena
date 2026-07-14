@@ -35309,20 +35309,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Dune Surfer (Placeholder)",
+          "en": "Dune Surfer",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-004.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-004.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Dune Surfer (Placeholder)",
+      "en": "Dune Surfer",
       "zh": ""
     },
     "type": "Unit",
@@ -36083,20 +36083,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Resonating Strike (Placeholder)",
+          "en": "Resonating Strike",
           "zh": ""
         },
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-034.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-034.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Resonating Strike (Placeholder)",
+      "en": "Resonating Strike",
       "zh": ""
     },
     "type": "Spell",
@@ -37184,20 +37184,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Brutal Hunter (Placeholder)",
+          "en": "Brutal Hunter",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-070.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-070.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Brutal Hunter (Placeholder)",
+      "en": "Brutal Hunter",
       "zh": ""
     },
     "type": "Unit",
@@ -38117,20 +38117,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Forgotten Relic (Placeholder)",
+          "en": "Forgotten Relic",
           "zh": ""
         },
         "type": "Gear",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-108.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-108.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Forgotten Relic (Placeholder)",
+      "en": "Forgotten Relic",
       "zh": ""
     },
     "type": "Gear",
@@ -38711,20 +38711,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Kayle, Yellow Unit (Placeholder)",
+          "en": "Kayle, Justified",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-134.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-134.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Kayle, Yellow Unit (Placeholder)",
+      "en": "Kayle, Justified",
       "zh": ""
     },
     "type": "Unit",
@@ -39693,13 +39693,13 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mystic Vortex (Placeholder)",
+          "en": "Mystic Vortex",
           "zh": ""
         },
         "type": "Battlefields",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-160.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-160.png",
           "zh": ""
         },
         "isHorizontal": true
