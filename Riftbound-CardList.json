@@ -35303,6 +35303,42 @@
     },
     "_unreleased": true
   },
+  "VEN-004": {
+    "id": "VEN-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dune Surfer (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-004.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dune Surfer (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-006": {
     "id": "VEN-006",
     "isToken": false,
@@ -36029,6 +36065,42 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-034": {
+    "id": "VEN-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Resonating Strike (Placeholder)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-034.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Resonating Strike (Placeholder)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟢 Calm"
     ],
@@ -37106,6 +37178,45 @@
     },
     "_unreleased": true
   },
+  "VEN-070": {
+    "id": "VEN-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Brutal Hunter (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-070.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Brutal Hunter (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-073": {
     "id": "VEN-073",
     "isToken": false,
@@ -37988,6 +38099,42 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-108": {
+    "id": "VEN-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Forgotten Relic (Placeholder)",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-108.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Forgotten Relic (Placeholder)",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 5,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -39524,6 +39671,42 @@
     },
     "name": {
       "en": "Heisho, Shell of the World",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-160": {
+    "id": "VEN-160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mystic Vortex (Placeholder)",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-160.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Mystic Vortex (Placeholder)",
       "zh": ""
     },
     "type": "Battlefields",
