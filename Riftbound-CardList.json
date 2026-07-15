@@ -35486,6 +35486,42 @@
     },
     "_unreleased": true
   },
+  "VEN-010": {
+    "id": "VEN-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Consuming Curse",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-010.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Consuming Curse",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-011": {
     "id": "VEN-011",
     "isToken": false,
