@@ -38183,6 +38183,42 @@
     },
     "_unreleased": true
   },
+  "VEN-097": {
+    "id": "VEN-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Spiderling",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-097.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Spiderling",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-098": {
     "id": "VEN-098",
     "isToken": false,
