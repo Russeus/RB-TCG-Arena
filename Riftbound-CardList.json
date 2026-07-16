@@ -35267,6 +35267,45 @@
     },
     "_unreleased": false
   },
+  "VEN-001": {
+    "id": "VEN-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baccai Sandspinner",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d8abab7f0df7c8ec9fff8c8dfa71c732e1ce2e6a-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baccai Sandspinner",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-002": {
     "id": "VEN-002",
     "isToken": false,
@@ -35894,7 +35933,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-020.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c9b3acfc3f996d784d1b5f98ab87ba4d1c6136ce-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -36377,7 +36416,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-032.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/38e2b4f12346a1af420f875c0a5f922c56c4140f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -37151,7 +37190,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-050.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2f7f3759c59746486a5f91b8452302fa59eddde6-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -37661,20 +37700,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Swain, Strategist",
+          "en": "Swain, Visionary",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-065.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/66d8ec4322d6734719451bb3e004b7d2ec71af87-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Swain, Strategist",
+      "en": "Swain, Visionary",
       "zh": ""
     },
     "type": "Unit",
@@ -38024,6 +38063,45 @@
     },
     "_unreleased": true
   },
+  "VEN-075": {
+    "id": "VEN-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Platewyrm Egg",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f6a3940440a38e34fe306947d663018dd2df7ca8-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Platewyrm Egg",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-076": {
     "id": "VEN-076",
     "isToken": false,
@@ -38036,7 +38114,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-076.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b1ef578e372e64afbce717384fb8a3b7fd841fc8-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38375,7 +38453,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-085.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12106889f9f76914421f38e8958a248462637a22-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38786,7 +38864,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-094.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/21cf578371a75f6e2661d44f4d7389d8732c133e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39842,6 +39920,45 @@
     },
     "_unreleased": true
   },
+  "VEN-122": {
+    "id": "VEN-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Solari Sunhawk",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1aaf389ca46bd9122233aadcfd23fee8f9cdfdc9-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Solari Sunhawk",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-124": {
     "id": "VEN-124",
     "isToken": false,
@@ -40052,6 +40169,42 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-131": {
+    "id": "VEN-131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Decree of Unity",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/220161ac48f1307e4d74c372d549fea18829a86b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Decree of Unity",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
     "Domain": [
       "🟡 Order"
     ],
@@ -41411,6 +41564,42 @@
     },
     "_unreleased": true
   },
+  "VEN-166": {
+    "id": "VEN-166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Threshold of the Gray",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5521aac82f036f1070326c743a9f653955d67bb9-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Threshold of the Gray",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-167": {
     "id": "VEN-167",
     "isToken": false,
@@ -41558,26 +41747,98 @@
     },
     "_unreleased": true
   },
-  "VEN-173": {
-    "id": "VEN-173",
+  "VEN-171": {
+    "id": "VEN-171",
     "isToken": false,
     "face": {
       "front": {
         "name": {
-          "en": "Swain, Strategist",
+          "en": "Riven, Shattered",
           "zh": ""
         },
         "type": "Unit",
-        "cost": 6,
+        "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-173.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/929f7184d11756933729ab4d7e2e88547e6dd49b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Swain, Strategist",
+      "en": "Riven, Shattered",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-172": {
+    "id": "VEN-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Draven, Showboat",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ff8f818d7f59b549af9067e9956f25aec706587c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Draven, Showboat",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-173": {
+    "id": "VEN-173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Swain, Visionary",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f068252d62ab4eea8a779825d84c2c078bbd722-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Swain, Visionary",
       "zh": ""
     },
     "type": "Unit",
@@ -41606,7 +41867,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-174.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/45d83debda443f1bf88e1cf7123eb8b844143124-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
