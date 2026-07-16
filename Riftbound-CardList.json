@@ -35882,6 +35882,42 @@
     },
     "_unreleased": true
   },
+  "VEN-020": {
+    "id": "VEN-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Twilight Reveler",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-020.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Twilight Reveler",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-021": {
     "id": "VEN-021",
     "isToken": false,
@@ -36317,6 +36353,45 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-032": {
+    "id": "VEN-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Frostcoat Mother",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-032.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Frostcoat Mother",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -37052,6 +37127,45 @@
     },
     "type": "Spell",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-050": {
+    "id": "VEN-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Grumpy Rockbear",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-050.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Grumpy Rockbear",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🔵 Mind"
     ],
@@ -37910,6 +38024,42 @@
     },
     "_unreleased": true
   },
+  "VEN-076": {
+    "id": "VEN-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Repair Specialist",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-076.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Repair Specialist",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-077": {
     "id": "VEN-077",
     "isToken": false,
@@ -38612,6 +38762,42 @@
     "tokens": [
       "VEN-T01"
     ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-094": {
+    "id": "VEN-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mask Mother",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-094.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mask Mother",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": [
       "🟣 Chaos"
     ],
