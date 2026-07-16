@@ -37469,6 +37469,42 @@
     },
     "_unreleased": true
   },
+  "VEN-063a": {
+    "id": "VEN-063a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nasus, Guardian of Knowledge",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6bfe2146a52c3d8dd0230904435369ff29bac0e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nasus, Guardian of Knowledge",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-064": {
     "id": "VEN-064",
     "isToken": false,
@@ -37505,30 +37541,30 @@
     },
     "_unreleased": true
   },
-  "VEN-063a": {
-    "id": "VEN-063a",
+  "VEN-065": {
+    "id": "VEN-065",
     "isToken": false,
     "face": {
       "front": {
         "name": {
-          "en": "Nasus, Guardian of Knowledge",
+          "en": "Swain, Strategist",
           "zh": ""
         },
         "type": "Unit",
-        "cost": 5,
+        "cost": 6,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c6bfe2146a52c3d8dd0230904435369ff29bac0e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-065.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Nasus, Guardian of Knowledge",
+      "en": "Swain, Strategist",
       "zh": ""
     },
     "type": "Unit",
-    "cost": 5,
+    "cost": 6,
     "Domain": [
       "🔵 Mind"
     ],
@@ -41297,6 +41333,78 @@
     "_legal": {
       "PRE": true,
       "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-173": {
+    "id": "VEN-173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Swain, Strategist",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-173.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Swain, Strategist",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-174": {
+    "id": "VEN-174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Irelia, Fervent",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-174.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Irelia, Fervent",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": true
     },
     "_unreleased": true
   },
