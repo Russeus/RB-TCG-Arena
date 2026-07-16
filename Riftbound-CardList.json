@@ -38213,6 +38213,42 @@
     },
     "_unreleased": true
   },
+  "VEN-085": {
+    "id": "VEN-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Decree of Strength",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-085.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Decree of Strength",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-086": {
     "id": "VEN-086",
     "isToken": false,
