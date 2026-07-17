@@ -38027,6 +38027,42 @@
     },
     "_unreleased": true
   },
+  "VEN-072": {
+    "id": "VEN-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Guttural Roar",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-072.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Guttural Roar",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-073": {
     "id": "VEN-073",
     "isToken": false,
@@ -38163,6 +38199,45 @@
     "type": "Gear",
     "cost": 4,
     "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-078": {
+    "id": "VEN-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baccai Witherclaw",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-078.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baccai Witherclaw",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens":[
       "VEN-T01"
     ],
     "Domain": [
