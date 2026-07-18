@@ -42008,6 +42008,42 @@
     },
     "_unreleased": true
   },
+  "VEN-165": {
+    "id": "VEN-165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadow Temple",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/635a3a0b724a2cfc11938ecbc1d8abddd89d3436-1039x744.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Shadow Temple",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": [
+      "⚪ Domainless"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-166": {
     "id": "VEN-166",
     "isToken": false,
@@ -42704,6 +42740,81 @@
     "_legal": {
       "PRE": true,
       "STD": true
+    },
+    "_unreleased": true
+  },
+  "VEN-185": {
+    "id": "VEN-185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kayle, Justified",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-185.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kayle, Justified",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-186": {
+    "id": "VEN-186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Morgana, Vindictive",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-186.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Morgana, Vindictive",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
     },
     "_unreleased": true
   },
