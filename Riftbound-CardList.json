@@ -35414,6 +35414,42 @@
     },
     "_unreleased": true
   },
+  "VEN-005": {
+    "id": "VEN-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Forsaken Baccai",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33d3e7840280e2780687057f08f30312a56d230f-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Forsaken Baccai",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-006": {
     "id": "VEN-006",
     "isToken": false,
@@ -35693,6 +35729,45 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-014": {
+    "id": "VEN-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shadow Fiend",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3bbeed15ac517c2e39c039e376553ce7e1c65f0c-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shadow Fiend",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🔴 Fury"
     ],
@@ -36356,6 +36431,45 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-030": {
+    "id": "VEN-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Serene Ascetic",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7acc2f9fcdec5d2649e4a50dc3c96aeb31b87916-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Serene Ascetic",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🟢 Calm"
     ],
@@ -37442,6 +37556,42 @@
     },
     "_unreleased": true
   },
+  "VEN-057": {
+    "id": "VEN-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Covert Informant",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ff33454bf980a5c884b63e524c6580408e9b94e3-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Covert Informant",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-058": {
     "id": "VEN-058",
     "isToken": false,
@@ -37466,6 +37616,42 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-059": {
+    "id": "VEN-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shockblast",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a8b976725e4722dcbf327cde9f92625cb516150e-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shockblast",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
     "Domain": [
       "🔵 Mind"
     ],
@@ -38039,7 +38225,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-072.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/891f0f85b039b16593865c74b90b0640a312e59b-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38087,6 +38273,42 @@
     },
     "type": "Gear",
     "cost": 3,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-074": {
+    "id": "VEN-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Legion Marauder",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/15ec9e813e58c9ba96f37e78f09faaaa184ecdad-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Legion Marauder",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": [
       "🟠 Body"
     ],
@@ -38225,7 +38447,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-078.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fa41ae964411e63643025f7d8914627849ff57a8-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39107,6 +39329,42 @@
     },
     "_unreleased": true
   },
+  "VEN-099": {
+    "id": "VEN-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tornado Warrior",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f9b2ffecc997670713bffd3168e5578b5fb7a014-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tornado Warrior",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-100": {
     "id": "VEN-100",
     "isToken": false,
@@ -39542,6 +39800,42 @@
     "tokens":[
       "VEN-T01"
     ],
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-111": {
+    "id": "VEN-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Minah Swiftfoot",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/30b6e4a44bcadaa53168bd4ac043fbf2136f5eb3-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Minah Swiftfoot",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
     "Domain": [
       "🟣 Chaos"
     ],
@@ -40034,6 +40328,42 @@
     },
     "_unreleased": true
   },
+  "VEN-123": {
+    "id": "VEN-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Soulspinner",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9a23a1f2c83751c2a715049be32c2482ea10454d-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Soulspinner",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
   "VEN-124": {
     "id": "VEN-124",
     "isToken": false,
@@ -40244,6 +40574,45 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "PRE": true,
+      "STD": false
+    },
+    "_unreleased": true
+  },
+  "VEN-130": {
+    "id": "VEN-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aurok General",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2324531e93383ce0d7efbe67cbf7ee226127dea2-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aurok General",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "tokens":[
+      "VEN-T01"
+    ],
     "Domain": [
       "🟡 Order"
     ],
