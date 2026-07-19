@@ -1,5 +1,142 @@
 [
 {
+  "title": "Zed Champion Deck (Precon)",
+  "id": "f445dea7-b6fc-4a69-a401-1203bf7e34dc",
+  "cardCount": 56,
+  "createdAt": "2026-07-19T18:01:43.126Z",
+  "lastModifiedAt": "2026-07-19T18:02:05.174Z",
+  "game": "Riftbound",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Battlefields",
+      "Runes",
+      "Unit",
+      "Spell"
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "VEN-143"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "VEN-023"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-298"
+      },
+      {
+        "count": 1,
+        "id": "VEN-165"
+      },
+      {
+        "count": 1,
+        "id": "VEN-166"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-007"
+      },
+      {
+        "count": 6,
+        "id": "OGN-166"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "VEN-002"
+      },
+      {
+        "count": 3,
+        "id": "VEN-007"
+      },
+      {
+        "count": 3,
+        "id": "VEN-013"
+      },
+      {
+        "count": 3,
+        "id": "VEN-093"
+      },
+      {
+        "count": 3,
+        "id": "VEN-095"
+      },
+      {
+        "count": 3,
+        "id": "VEN-096"
+      },
+      {
+        "count": 2,
+        "id": "OGN-185"
+      },
+      {
+        "count": 2,
+        "id": "VEN-014"
+      },
+      {
+        "count": 2,
+        "id": "VEN-101"
+      },
+      {
+        "count": 1,
+        "id": "VEN-020"
+      },
+      {
+        "count": 1,
+        "id": "VEN-102"
+      },
+      {
+        "count": 2,
+        "id": "VEN-112"
+      },
+      {
+        "count": 1,
+        "id": "VEN-017"
+      },
+      {
+        "count": 1,
+        "id": "VEN-110"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 3,
+        "id": "VEN-008"
+      },
+      {
+        "count": 2,
+        "id": "VEN-012"
+      },
+      {
+        "count": 2,
+        "id": "VEN-105"
+      },
+      {
+        "count": 1,
+        "id": "VEN-106"
+      },
+      {
+        "count": 1,
+        "id": "VEN-144"
+      }
+    ]
+  }
+},
+{
   "title": "Jinx Trial Deck",
   "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
   "game": "Riftbound",
