@@ -137,6 +137,162 @@
   }
 },
 {
+  "title": "Shen Champion Deck (Precon)",
+  "id": "565065ba-ab93-4790-93d5-0c37f125c2d8",
+  "cardCount": 56,
+  "createdAt": "2026-07-19T18:03:17.581Z",
+  "lastModifiedAt": "2026-07-19T18:35:14.864Z",
+  "game": "Riftbound",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Chosen_Champion",
+      "Battlefields",
+      "Runes",
+      "Unit",
+      "Spell",
+      "Gear"
+    ],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "VEN-147"
+      }
+    ],
+    "Chosen_Champion": [
+      {
+        "count": 1,
+        "id": "VEN-138"
+      }
+    ],
+    "Battlefields": [
+      {
+        "count": 1,
+        "id": "OGN-280"
+      },
+      {
+        "count": 1,
+        "id": "VEN-159"
+      },
+      {
+        "count": 1,
+        "id": "VEN-166"
+      }
+    ],
+    "Runes": [
+      {
+        "count": 6,
+        "id": "OGN-042"
+      },
+      {
+        "count": 6,
+        "id": "OGN-214"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "VEN-028"
+      },
+      {
+        "count": 3,
+        "id": "VEN-117"
+      },
+      {
+        "count": 2,
+        "id": "UNL-156"
+      },
+      {
+        "count": 2,
+        "id": "VEN-026"
+      },
+      {
+        "count": 2,
+        "id": "VEN-030"
+      },
+      {
+        "count": 2,
+        "id": "VEN-033"
+      },
+      {
+        "count": 2,
+        "id": "VEN-119"
+      },
+      {
+        "count": 2,
+        "id": "VEN-123"
+      },
+      {
+        "count": 2,
+        "id": "VEN-128"
+      },
+      {
+        "count": 2,
+        "id": "VEN-129"
+      },
+      {
+        "count": 1,
+        "id": "VEN-043"
+      },
+      {
+        "count": 2,
+        "id": "VEN-042"
+      },
+      {
+        "count": 1,
+        "id": "OGN-241"
+      },
+      {
+        "count": 1,
+        "id": "VEN-135"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 2,
+        "id": "OGN-043"
+      },
+      {
+        "count": 2,
+        "id": "OGN-058"
+      },
+      {
+        "count": 1,
+        "id": "VEN-031"
+      },
+      {
+        "count": 1,
+        "id": "VEN-034"
+      },
+      {
+        "count": 1,
+        "id": "VEN-116"
+      },
+      {
+        "count": 1,
+        "id": "VEN-126"
+      },
+      {
+        "count": 1,
+        "id": "VEN-127"
+      },
+      {
+        "count": 1,
+        "id": "VEN-148"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 2,
+        "id": "VEN-027"
+      }
+    ]
+  }
+},
+{
   "title": "Jinx Trial Deck",
   "id": "e4f7c8b2-11a8-486b-8c72-e800eb0e6c01",
   "game": "Riftbound",
