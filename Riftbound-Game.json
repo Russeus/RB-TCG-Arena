@@ -34,11 +34,11 @@
 ],
 "formats": [
     {
-    "title": "Unleashed",
+    "title": "Classic",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "UNL"
+    "legalityCode": "VEN"
     },
     {
     "title": "Multiplayer",
@@ -48,11 +48,11 @@
     "legalityCode": "VEN"
     },
     {
-    "title": "Classic",
+    "title": "Unleashed",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "VEN"
+    "legalityCode": "UNL"
     }
 ],
 "deckRulesets": {
