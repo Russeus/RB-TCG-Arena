@@ -38,21 +38,21 @@
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "STD"
+    "legalityCode": "UNL"
     },
     {
     "title": "Multiplayer",
     "gameplay": "Multiplayer",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "STD"
+    "legalityCode": "VEN"
     },
     {
     "title": "Classic",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "PRE"
+    "legalityCode": "VEN"
     }
 ],
 "deckRulesets": {
