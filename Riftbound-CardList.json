@@ -39227,7 +39227,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Shadowcloaked Lurker",
+          "en": "Shadowblade Lurker",
           "zh": ""
         },
         "type": "Unit",
@@ -39240,7 +39240,7 @@
       }
     },
     "name": {
-      "en": "Shadowcloaked Lurker",
+      "en": "Shadowblade Lurker",
       "zh": ""
     },
     "type": "Unit",
