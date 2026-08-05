@@ -709,6 +709,7 @@
                 "content": [
                   {
                     "direction": "column",
+                    "reverseForOppositeSide": true,
                     "style": {
                       "height": "26.25vh",
                       "margin": "0.25vh"
@@ -735,6 +736,7 @@
                   },
                   {
                     "direction": "column",
+                    "reverseForOppositeSide": true,
                     "content": [
                       {
                         "section": "BFUnits2Upper",
@@ -757,6 +759,7 @@
                   },
                   {
                     "direction": "column",
+                    "reverseForOppositeSide": true,
                     "content": [
                       {
                         "section": "BFUnits3Upper",
@@ -779,6 +782,7 @@
                   },
                   {
                     "direction": "column",
+                    "reverseForOppositeSide": true,
                     "optional": {
                       "key": "Baron Pit"
                     },
@@ -804,6 +808,7 @@
                   },
                   {
                     "direction": "column",
+                    "reverseForOppositeSide": true,
                     "optional": {
                       "key": "Extra Baron Pit"
                     },
