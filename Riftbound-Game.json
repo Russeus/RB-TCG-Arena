@@ -700,7 +700,7 @@
           "height": 34,
           "layout": {
             "direction": "column",
-            "reverseForOppositeSide": false,
+            "reverseForOppositeSide": true,
             "content": [
               {
                 "direction": "row",
