@@ -43,7 +43,7 @@
         "legalityCode": "VEN"
       },
       {
-        "title": "Multiplayer FFA",
+        "title": "FFA",
         "gameplay": "ffa",
         "customCategories": [
           "Chosen_Champion"
@@ -52,7 +52,7 @@
         "legalityCode": "VEN"
       },
       {
-        "title": "Multiplayer 2v2",
+        "title": "2v2",
         "gameplay": "2v2",
         "customCategories": [
           "Chosen_Champion"
