@@ -661,11 +661,24 @@
       "sections": {
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "style": {
+                "marginTop": "-8vh"
+              },
+              "content": [
+                {
+                  "section": "Base",
+                  "style": {
+                    "marginLeft": "11vh",
+                    "marginRight": "11vh"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "row",
               "content": [
                 {
                   "section": "Runes"
@@ -673,11 +686,8 @@
                 {
                   "section": "Mana",
                   "style": {
-                    "width": "35%"
+                    "marginRight": "4vh"
                   }
-                },
-                {
-                  "section": "Base"
                 },
                 {
                   "section": "Legend",
@@ -691,8 +701,7 @@
                     "width": "10.2vh"
                   }
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             }
           ]
         },
@@ -700,135 +709,121 @@
           "height": 34,
           "layout": {
             "direction": "column",
-            "reverseForOppositeSide": true,
+            "style": {
+              "--bf-x-margin": "20vh"
+            },
             "content": [
               {
                 "direction": "row",
-                "style": false,
-                "reverseForOppositeSide": true,
                 "content": [
                   {
                     "direction": "column",
                     "reverseForOppositeSide": true,
                     "style": {
-                      "height": "26.25vh",
-                      "margin": "0.25vh"
+                      "alignItems": "center"
                     },
                     "content": [
                       {
-                        "section": "BFUnits1Upper",
+                        "section": "BFUnits1Upper"
+                      },
+                      {
+                        "section": "Battlefields",
                         "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
+                          "width": "calc(100% - var(--bf-x-margin))"
                         }
                       },
                       {
-                        "section": "Battlefields"
-                      },
-                      {
-                        "section": "BFUnits1Lower",
-                        "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
-                        }
+                        "section": "BFUnits1Lower"
                       }
                     ]
                   },
                   {
                     "direction": "column",
                     "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
                     "content": [
                       {
-                        "section": "BFUnits2Upper",
+                        "section": "BFUnits2Upper"
+                      },
+                      {
+                        "section": "Battlefields2",
                         "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
+                          "width": "calc(100% - var(--bf-x-margin))"
                         }
                       },
                       {
-                        "section": "Battlefields2"
-                      },
-                      {
-                        "section": "BFUnits2Lower",
-                        "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
-                        }
+                        "section": "BFUnits2Lower"
                       }
                     ]
                   },
                   {
                     "direction": "column",
                     "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
                     "content": [
                       {
-                        "section": "BFUnits3Upper",
+                        "section": "BFUnits3Upper"
+                      },
+                      {
+                        "section": "Battlefields3",
                         "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
+                          "width": "calc(100% - var(--bf-x-margin))"
                         }
                       },
                       {
-                        "section": "Battlefields3"
-                      },
-                      {
-                        "section": "BFUnits3Lower",
-                        "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
-                        }
+                        "section": "BFUnits3Lower"
                       }
                     ]
                   },
                   {
                     "direction": "column",
                     "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
                     "optional": {
                       "key": "Baron Pit"
                     },
                     "content": [
                       {
-                        "section": "BFUnits4Upper",
+                        "section": "BFUnits4Upper"
+                      },
+                      {
+                        "section": "Battlefields4",
                         "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
+                          "width": "calc(100% - var(--bf-x-margin))"
                         }
                       },
                       {
-                        "section": "Battlefields4"
-                      },
-                      {
-                        "section": "BFUnits4Lower",
-                        "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
-                        }
+                        "section": "BFUnits4Lower"
                       }
                     ]
                   },
                   {
                     "direction": "column",
                     "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
                     "optional": {
                       "key": "Extra Baron Pit"
                     },
                     "content": [
                       {
-                        "section": "BFUnits5Upper",
+                        "section": "BFUnits5Upper"
+                      },
+                      {
+                        "section": "Battlefields5",
                         "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
+                          "width": "calc(100% - var(--bf-x-margin))"
                         }
                       },
                       {
-                        "section": "Battlefields5"
-                      },
-                      {
-                        "section": "BFUnits5Lower",
-                        "style": {
-                          "borderRadius": "1vh",
-                          "marginTop": "auto"
-                        }
+                        "section": "BFUnits5Lower"
                       }
                     ]
                   }
@@ -888,6 +883,7 @@
           "Battlefields": {
             "isHidden": "no",
             "height": "6",
+            "heightReference": "horizontal",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -904,6 +900,7 @@
           "Battlefields2": {
             "isHidden": "no",
             "height": "6",
+            "heightReference": "horizontal",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -920,6 +917,7 @@
           "Battlefields3": {
             "isHidden": "no",
             "height": "6",
+            "heightReference": "horizontal",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -936,6 +934,7 @@
           "Battlefields4": {
             "isHidden": "no",
             "height": "6",
+            "heightReference": "horizontal",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -952,6 +951,7 @@
           "Battlefields5": {
             "isHidden": "no",
             "height": "6",
+            "heightReference": "horizontal",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -973,7 +973,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 1 Units Upper",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -988,7 +988,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 1 Units Lower",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1003,7 +1003,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 2 Units Upper",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1018,7 +1018,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Lower",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1033,7 +1033,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Upper",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1048,7 +1048,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Lower",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1063,7 +1063,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 4 Units Upper",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1078,7 +1078,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 4 Units Lower",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1093,7 +1093,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 5 Units Upper",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1108,7 +1108,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 5 Units Lower",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -1200,3 +1200,4 @@
     }
   }
 }
+
