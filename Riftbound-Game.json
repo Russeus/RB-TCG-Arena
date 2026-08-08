@@ -615,10 +615,13 @@
         }
       },
       "newTurn": {
+        "turnOrder": "default",
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": "1"
+      },
+      "teams": {
       },
       "defaultNotes": "",
       "tokens": [],
@@ -628,19 +631,9 @@
       "hideFacedDownCards": false,
       "draggableTokens": [
         {
-          "id": "stun-token",
-          "name": "Stun",
-          "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
-        },
-        {
           "id": "buff-token",
           "name": "Buff",
           "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
-        },
-        {
-          "id": "temporary-token",
-          "name": "Temporary",
-          "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
         },
         {
           "id": "deflect-token",
@@ -648,14 +641,29 @@
           "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
         },
         {
-          "id": "gaking-token",
-          "name": "Gaking",
+          "id": "empower-token",
+          "name": "Empower",
+          "image": "https://lh3.googleusercontent.com/d/1io8Ae9aR_wNr-8t-miqHKEwGX-nxafQi"
+        },
+        {
+          "id": "ganking-token",
+          "name": "Ganking",
           "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
+        },
+        {
+          "id": "stun-token",
+          "name": "Stun",
+          "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
         },
         {
           "id": "tank-token",
           "name": "Tank",
           "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
+        },
+        {
+          "id": "temporary-token",
+          "name": "Temporary",
+          "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
         }
       ],
       "sections": {
@@ -664,16 +672,9 @@
           "content": [
             {
               "direction": "row",
-              "style": {
-                "marginTop": "-8vh"
-              },
               "content": [
                 {
-                  "section": "Base",
-                  "style": {
-                    "marginLeft": "11vh",
-                    "marginRight": "11vh"
-                  }
+                  "section": "Base"
                 }
               ]
             },
@@ -706,11 +707,11 @@
           ]
         },
         "sharedZone": {
-          "height": 34,
+          "height": 30,
           "layout": {
             "direction": "column",
             "style": {
-              "--bf-x-margin": "20vh"
+              "--bf-x-margin": "24vh"
             },
             "content": [
               {
