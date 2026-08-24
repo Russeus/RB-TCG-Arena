@@ -1,1017 +1,1163 @@
 {
-"name": "Riftbound",
-"menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
-"defaultRessources": {
-"backgrounds": [
-    "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
-    "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
-    "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
-    "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
-    "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
-],
-"decksUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-Decks.json"
-},
-"customHelp": "(1) To Recycle a card, hold Shift while dragging the card to its deck or use the button on the Runes.\n(2) You can create Tokens and Buffs with right click on the source card.\n(3) You can mark buffed units and Damage/Might mods with 'C + click' and 'Ctrl + C + click'. You can put some status markers on cards like Buff or Temporary (center left menu).\n(4) To play a Hidden card, use Z + click on a card on your hand and then move it to the Battlefield. Then do the same to reveal it.\n(5) You can mark your points at the bottom left.\n(6) Some card will instruct you to look or reveal some cards from your Main Deck. You can do this by Right clicking the Main Deck to open the context menu and then click on Manage top cards.\n(7) Use Remove Hidden on context menu to remove unused Battlefields, otherwise it will show their names on the chat.",
-"cardRotation": "90",
-"cards": {
-"dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
-"cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
-"cardBackColor": "#03354a",
-"extraCardBacks": {
-    "Runes": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
-    "Battlefields": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
-    "Legend": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png"
+  "name": "Riftbound",
+  "menuBackgroundImage": "https://russeus.github.io/RB-TCG-Arena/Images/Banner.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Ahri-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_MF-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Sett-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Volibear-1.png",
+      "https://russeus.github.io/RB-TCG-Arena/Images/PM_Yasuo-1.png"
+    ],
+    "decksUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-Decks.json"
+  },
+  "customHelp": "(1) To Recycle a card, hold Shift while dragging the card to its deck or use the button on the Runes.\n(2) You can create Tokens and Buffs with right click on the source card.\n(3) You can mark buffed units and Damage/Might mods with 'C + click' and 'Ctrl + C + click'. You can put some status markers on cards like Buff or Temporary (center left menu).\n(4) To play a Hidden card, use Z + click on a card on your hand and then move it to the Battlefield. Then do the same to reveal it.\n(5) You can mark your points at the bottom left.\n(6) Some card will instruct you to look or reveal some cards from your Main Deck. You can do this by Right clicking the Main Deck to open the context menu and then click on Manage top cards.\n(7) Use Remove Hidden on context menu to remove unused Battlefields, otherwise it will show their names on the chat.",
+  "cardRotation": "90",
+  "scriptsUrls": [
+    "https://russeus.github.io/RB-TCG-Arena/rb-functions.jsx"
+  ],
+  "cards": {
+    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
+    "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
+    "cardBackColor": "#03354a",
+    "extraCardBacks": {
+      "Runes": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-white.png",
+      "Battlefields": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png",
+      "Legend": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png"
     }
-},
-"translationsUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-Translations.json",
-"deckBuilding": {
-"mainFilters": [
-    "type",
-    "cost",
-    "name",
-    "Domain",
-    "Set"
-],
-"formats": [
-    {
-    "title": "Classic",
-    "gameplay": "Classic",
-    "customCategories": ["Chosen_Champion"],
-    "deckRuleset": "Standard",
-    "legalityCode": "VEN"
-    },
-    {
-    "title": "Multiplayer",
-    "gameplay": "Multiplayer",
-    "customCategories": ["Chosen_Champion"],
-    "deckRuleset": "Standard",
-    "legalityCode": "VEN"
-    },
-    {
-    "title": "Unleashed",
-    "gameplay": "Classic",
-    "customCategories": ["Chosen_Champion"],
-    "deckRuleset": "Standard",
-    "legalityCode": "UNL"
-    }
-],
-"deckRulesets": {
-    "Standard": {
+  },
+  "translationsUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-Translations.json",
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "Domain",
+      "Set"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Chosen_Champion"
+        ],
+        "deckRuleset": "Standard",
+        "legalityCode": "VEN"
+      },
+      {
+        "title": "FFA",
+        "gameplay": "ffa",
+        "customCategories": [
+          "Chosen_Champion"
+        ],
+        "deckRuleset": "Standard",
+        "legalityCode": "VEN"
+      },
+      {
+        "title": "2v2",
+        "gameplay": "2v2",
+        "customCategories": [
+          "Chosen_Champion"
+        ],
+        "deckRuleset": "Standard",
+        "legalityCode": "VEN"
+      },
+      {
+        "title": "Unleashed",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Chosen_Champion"
+        ],
+        "deckRuleset": "Standard",
+        "legalityCode": "UNL"
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
         "reversedLegality": true,
         "general": {
-            "min": 56,
-            "max": 56,
-            "maxPerCard": 3
+          "min": 56,
+          "max": 56,
+          "maxPerCard": 3
         },
         "categories": [
-            {
-                "category": "Legend",
-                "min": 1,
-                "max": 1,
-                "maxPerCard": 1
-            },
-            {
-                "category": "Chosen_Champion",
-                "min": 1,
-                "max": 1
-            },
-            {
-                "category": "Battlefields",
-                "min": 3,
-                "max": 3,
-                "maxPerCard": 1
-            },
-            {
-                "category": "Runes",
-                "min": 12,
-                "max": 12,
-                "maxPerCard": 12
-            },
-            {
-                "category": "Sideboard",
-                "min": 0,
-                "max": 10
-            }
+          {
+            "category": "Legend",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Chosen_Champion",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "category": "Battlefields",
+            "min": 3,
+            "max": 3,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Runes",
+            "min": 12,
+            "max": 12,
+            "maxPerCard": 12
+          },
+          {
+            "category": "Sideboard",
+            "min": 0,
+            "max": 10
+          }
         ]
+      }
     }
-}
-},
-"gameplay": {
+  },
+  "gameplay": {
     "Classic": {
-        "beforeGameStart": {
-            "boardCategoriesInSideboard": [
-                "Chosen_Champion"
-            ],
-            "boardCardSelection": [
-                {
-                "category": "Battlefields",
-                "min": 1,
-                "max": 1,
-                "unselectedDestination": "ExileHidden"
-                }
-            ],
-            "chooseAnotherStartingPlayer": true,
-            "initialBoardSetup": {
-                "0": [
-                {
-                    "drawFromTop": "Runes",
-                    "count": 2,
-                    "destination": "Mana"
-                },
-                {
-                    "drawFromTop": "Deck",
-                    "count": 1,
-                    "destination": "Hand"
-                }
-                ],
-                "1": [
-                {
-                    "drawFromTop": "Runes",
-                    "count": 1,
-                    "destination": "Mana",
-                    "waitForPlayerTurn": true
-                }
-                ]
-            }
-        },
-        "mulligan": {
-            "triggeredByButton": true,
-            "startingHandSize": 4,
-            "mulliganCount": {
-                "min": 0,
-                "max": 1
-            },
-            "mulliganCycle": {
-                "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
-                "steps": ["toBottom", "draw"],
-                "selectionRange": {
-                    "min": 0,
-                    "max": 2
-                },
-                "keepCardOrder": false
-            }
-        },
-        "newTurn": {
-            "drawOnStart": false,
-            "sharedTurn": false,
-            "firstPlayerTokenName": "",
-            "drawPerTurn": "1"
-        },
-        "defaultNotes": "",
-        "tokens": [],
-        "countersStartingValues": [
-            0
+      "beforeGameStart": {
+        "boardCategoriesInSideboard": [
+          "Chosen_Champion"
         ],
-        "hideFacedDownCards": false,
-        "draggableTokens": [
-            {
-                "id": "buff-token",
-                "name": "Buff",
-                "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
-            },
-            {
-                "id": "deflect-token",
-                "name": "Deflect",
-                "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
-            },
-            {
-                "id": "empower-token",
-                "name": "Empower",
-                "image": "https://lh3.googleusercontent.com/d/1io8Ae9aR_wNr-8t-miqHKEwGX-nxafQi"
-            },
-            {
-                "id": "ganking-token",
-                "name": "Ganking",
-                "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
-            },
-            {
-                "id": "stun-token",
-                "name": "Stun",
-                "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
-            },
-            {
-                "id": "tank-token",
-                "name": "Tank",
-                "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
-            },
-            {
-                "id": "temporary-token",
-                "name": "Temporary",
-                "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
-            }  
+        "boardCardSelection": [
+          {
+            "category": "Battlefields",
+            "min": 1,
+            "max": 1,
+            "unselectedDestination": "ExileHidden"
+          }
         ],
-        "sections": {
-            "layout": {
-                "direction": "column",
-                "isSymetricalForOpponents": false,
-                "content": [
-                    {
-                        "direction": "row",
-                        "style": false,
-                        "content": [
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "content": [
-                                    {
-                                        "section": "Battlefields",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B1",
-                                        "style": {
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "optional": { "key": "Baron Pit" },
-                                "content": [
-                                    {
-                                        "section": "myBF3",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B3",
-                                        "style": {
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "content": [
-                                    {
-                                        "section": "myBF2",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B2",
-                                        "style": {
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            }
-                        ],
-                        "isSymetricalForOpponents": false
-                    },
-                    {
-                        "direction": "row",
-                        "style": false,
-                        "content": [
-                            {
-                                "section": "Runes"
-                            },
-                            {
-                                "section": "Mana",
-                                "style": {
-                                    "width": "35%"
-                                }
-                            },
-                            {
-                                "section": "Base"
-                            },
-                            {
-                                "section": "Legend",
-                                "style": {
-                                    "width": "10.2vh"
-                                }
-                            },
-                            {
-                                "section": "Chosen_Champion",
-                                "style": {
-                                    "width": "10.2vh"
-                                }
-                            }
-                        ],
-                        "isSymetricalForOpponents": false
-                    }
-                ]
+        "chooseAnotherStartingPlayer": true,
+        "initialBoardSetup": {
+          "0": [
+            {
+              "drawFromTop": "Runes",
+              "count": 2,
+              "destination": "Mana"
             },
-            "categoriesAlreadyOnBoard": [
-                "Runes",
-                "Battlefields",
-                "Legend",
-                "Chosen_Champion"
-            ],
-            "autoPlayFromHand": {
-                "Runes": "Mana",
-                "Gear": "Base",
-                "Spell": "Stack"
-            },
-            "autoPlayFromStack": {
-                "Spell": "Discard",
-                "Battlefields - Baron Pit": "myBF3"
-            },
-            "sectionsDict": {
-                "Runes": {
-                    "isHidden": "yes",
-                    "height": "SMALL",
-                    "alignment": "DECK",
-                    "drawPerTurn": 2,
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": false,
-                    "displayedTitle": "Runes Deck",
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardBackColor": "#e0e0e0"
-                },
-                "Base": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Base",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Battlefields": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Chosen Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    },
-                    "reverseZOrder": true
-                },
-                "myBF2": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Opponent Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "myBF3": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "B1": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 1",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B2": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 2",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B3": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit Units",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Chosen_Champion": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Chosen Champion",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Legend": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Legend",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Mana": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Runes",
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardActionShortcut": {
-                        "action": "MOVE",
-                        "actionData": {
-                            "destination": "Runes",
-                            "position": "BOTTOM"
-                        },
-                        "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
-                    }
-                },
-                "Stack": {
-                    "isDefaultSection": true,
-                    "isHidden": "no",
-                    "height": "HUGE",
-                    "alignment": "NONE",
-                    "isHorizontalAllowed": false,
-                    "isGroupForbidden": true,
-                    "displayedTitle": "Pile",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                }
+            {
+              "drawFromTop": "Deck",
+              "count": 1,
+              "destination": "Hand"
             }
+          ],
+          "1": [
+            {
+              "drawFromTop": "Runes",
+              "count": 1,
+              "destination": "Mana",
+              "waitForPlayerTurn": true
+            }
+          ]
         }
+      },
+      "mulligan": {
+        "triggeredByButton": true,
+        "startingHandSize": 4,
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
+          "steps": [
+            "toBottom",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 2
+          },
+          "keepCardOrder": false
+        }
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "buff-token",
+          "name": "Buff",
+          "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+        },
+        {
+          "id": "deflect-token",
+          "name": "Deflect",
+          "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
+        },
+        {
+          "id": "empower-token",
+          "name": "Empower",
+          "image": "https://lh3.googleusercontent.com/d/1io8Ae9aR_wNr-8t-miqHKEwGX-nxafQi"
+        },
+        {
+          "id": "ganking-token",
+          "name": "Ganking",
+          "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
+        },
+        {
+          "id": "stun-token",
+          "name": "Stun",
+          "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+        },
+        {
+          "id": "tank-token",
+          "name": "Tank",
+          "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
+        },
+        {
+          "id": "temporary-token",
+          "name": "Temporary",
+          "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+        }
+      ],
+      "sections": {
+        "sharedZone": {
+          "height": 0,
+          "layout": {
+            "direction": "row",
+            "style": {
+              "zIndex": 1,
+              "justifyContent": "space-around"
+            },
+            "content": [
+              {
+                "section": "Battlefields",
+                "style": {
+                  "width": "0",
+                  "position": "absolute",
+                  "left": "calc(50% - 5.5vh)",
+                  "top": "-5vh",
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "scale": 0
+                }
+              },
+              {
+                "section": "myBF1",
+                "style": {
+                  "width": "30vh"
+                }
+              },
+              {
+                "optional": { "key": "Baron Pit" },
+                "section": "myBF3",
+                "style": {
+                  "width": "30vh"
+                }
+              },
+              {
+                "section": "myBF2",
+                "style": {
+                  "width": "30vh"
+                }
+              }
+            ]
+          }
+        },
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": true,
+              "style": {
+                "marginTop": "4vh"
+              },
+              "content": [
+                {
+                  "section": "B1"
+                },
+                {
+                  "optional": { "key": "Baron Pit" },
+                  "section": "B3"
+                },
+                {
+                  "section": "B2"
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Floating"
+                },
+                {
+                  "section": "Runes"
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "35%"
+                  }
+                },
+                {
+                  "section": "Base"
+                },
+                {
+                  "section": "Legend",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Champion",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Runes",
+          "Battlefields",
+          "Legend",
+          "Chosen_Champion"
+        ],
+        "autoPlayFromHand": {
+          "Runes": "Mana",
+          "Gear": "Base",
+          "Spell": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Spell": "Discard",
+          "Battlefields - Baron Pit": "myBF3"
+        },
+        "sectionsDict": {
+          "Runes": {
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "drawPerTurn": 2,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Runes Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#e0e0e0"
+          },
+          "Base": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Base",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Battlefields": {
+            "isHidden": "opponent-only",
+            "height": "10",
+            "heightReference": "horizontal",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Battlefield",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "reverseZOrder": true
+          },
+          "myBF1": {
+            "isHidden": "no",
+            "height": "10",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Battlefield 1",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "myBF2": {
+            "isHidden": "no",
+            "height": "10",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Battlefield 2",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "myBF3": {
+            "isHidden": "no",
+            "height": "10",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Baron Pit",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "B1": {
+            "isHidden": "no",
+            "height": "16",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF Units 1",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "B2": {
+            "isHidden": "no",
+            "height": "16",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF Units 2",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "B3": {
+            "isHidden": "no",
+            "height": "16",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Baron Pit Units",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Chosen_Champion": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Champion",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Legend": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Legend",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Runes",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Runes",
+                "position": "BOTTOM"
+              },
+              "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+            }
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Scripts": {
+            "type": "custom",
+            "events": {
+              "onPlayersBoardCardSelected": "await placeBattlefields()"
+            }
+          },
+          "Floating": {
+            "type": "custom",
+            "defaultValue": {
+              "energy": 0,
+              "power": 0
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "className": "d-flex position-absolute align-items-center bottom-0 start-0",
+                "style": {
+                  "marginBottom": "-3vh",
+                  "marginLeft": "13vh",
+                  "fontWeight": 600
+                }
+              },
+              "children": [
+                "Energy:",
+                {
+                  "type": "input-number",
+                  "props": {
+                    "value": "{{game.data.Floating.energy}}",
+                    "className": "ms-1 me-3",
+                    "style": {
+                      "width": "4vh"
+                    }
+                  },
+                  "onChange": "game.data.Floating.energy = value; functions.chatLog('set floating energy to ' + value + ' (' + deltaDisplay + ')')"
+                },
+                "Power:",
+                {
+                  "type": "input-number",
+                  "props": {
+                    "value": "{{game.data.Floating.power}}",
+                    "className": "ms-1",
+                    "style": {
+                      "width": "4vh"
+                    }
+                  },
+                  "onChange": "game.data.Floating.power = value; functions.chatLog('set floating power to ' + value + ' (' + deltaDisplay + ')')"
+                }
+              ]
+            },
+            "events": {
+              "onNewTurn": "game.data.Floating = { energy: 0, power: 0 }"
+            }
+          }
+        }
+      }
     },
-    "Multiplayer": {
-        "mulligan": {
-            "triggeredByButton": true,
-            "startingHandSize": 4,
-            "mulliganCount": {
-                "min": 0,
-                "max": 1
-            },
-            "mulliganCycle": {
-                "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
-                "steps": ["toBottom", "draw"],
-                "selectionRange": {
-                    "min": 0,
-                    "max": 2
-                },
-                "keepCardOrder": false
-            }
-        },
-        "newTurn": {
-            "drawOnStart": false,
-            "sharedTurn": false,
-            "firstPlayerTokenName": "",
-            "drawPerTurn": "1"
-        },
-        "defaultNotes": "",
-        "tokens": [],
-        "countersStartingValues": [
-            0
+    "ffa": {
+      "beforeGameStart": {
+        "boardCategoriesInSideboard": [
+          "Chosen_Champion"
         ],
-        "hideFacedDownCards": false,
-        "draggableTokens": [
-            {
-                "id": "stun-token",
-                "name": "Stun",
-                "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
-            },
-            {
-                "id": "buff-token",
-                "name": "Buff",
-                "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
-            },
-            {
-                "id": "temporary-token",
-                "name": "Temporary",
-                "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
-            },
-            {
-                "id": "deflect-token",
-                "name": "Deflect",
-                "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
-            },
-            {
-                "id": "gaking-token",
-                "name": "Gaking",
-                "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
-            },
-            {
-                "id": "tank-token",
-                "name": "Tank",
-                "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
-            }
+        "boardCardSelection": [
+          {
+            "category": "Battlefields",
+            "min": 1,
+            "max": 1,
+            "unselectedDestination": "ExileHidden"
+          }
         ],
-        "sections": {
-            "layout": {
-                "direction": "column",
-                "isSymetricalForOpponents": false,
-                "content": [
-                    {
-                        "direction": "row",
-                        "style": false,
-                        "content": [
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "content": [
-                                    {
-                                        "section": "Battlefields",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B1",
-                                        "style": {
-                                            "background": "linear-gradient(0deg, rgba(170, 85, 85, 0) 0%, rgba(170, 85, 85, 0.6) 90%)",
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "content": [
-                                    {
-                                        "section": "myBF2",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B2",
-                                        "style": {
-                                            "background": "linear-gradient(0deg, rgba(85, 170, 85, 0) 0%, rgba(85, 170, 85, 0.6) 90%)",
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "content": [
-                                    {
-                                        "section": "myBF3",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B3",
-                                        "style": {
-                                            "background": "linear-gradient(0deg, rgba(85, 85, 170, 0) 0%, rgba(85, 85, 170, 0.6) 90%)",
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "direction": "column",
-                                "style": { "height": "24.25vh", "margin": "0.25vh" },
-                                "optional": { "key": "Baron Pit" },
-                                "content": [
-                                    {
-                                        "section": "myBF4",
-                                        "style": {
-                                            "width": "30vh",
-                                            "height": "12vh",
-                                            "scale": "0.68",
-                                            "position": "absolute",
-                                            "top": "0",
-                                            "left": "50%",
-                                            "translate": "-50% -3.25vh"
-                                        }
-                                    },
-                                    {
-                                        "section": "B4",
-                                        "style": {
-                                            "background": "linear-gradient(0deg, rgba(170, 35, 170, 0) 0%, rgba(170, 35, 170, 0.6) 90%)",
-                                            "borderRadius": "1vh",
-                                            "marginTop": "auto"
-                                        }
-                                    }
-                                ]
-                            }
-                        ],
-                        "isSymetricalForOpponents": true
-                    },
-                    {
-                        "direction": "row",
-                        "style": false,
-                        "content": [
-                            {
-                                "section": "Runes"
-                            },
-                            {
-                                "section": "Mana",
-                                "style": {
-                                    "width": "35%"
-                                }
-                            },
-                            {
-                                "section": "Base"
-                            },
-                            {
-                                "section": "Legend",
-                                "style": {
-                                    "width": "10.2vh"
-                                }
-                            },
-                            {
-                                "section": "Chosen_Champion",
-                                "style": {
-                                    "width": "10.2vh"
-                                }
-                            }
-                        ],
-                        "isSymetricalForOpponents": false
-                    }
-                ]
-            },
-            "categoriesAlreadyOnBoard": [
-                "Runes",
-                "Battlefields",
-                "Legend",
-                "Chosen_Champion"
-            ],
-            "autoPlayFromHand": {
-                "Runes": "Mana",
-                "Gear": "Base",
-                "Spell": "Stack"
-            },
-            "autoPlayFromStack": {
-                "Spell": "Discard",
-                "Battlefields - Baron Pit": "myBF4"
-            },
-            "sectionsDict": {
-                "Runes": {
-                    "isHidden": "yes",
-                    "height": "SMALL",
-                    "alignment": "DECK",
-                    "drawPerTurn": 2,
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": false,
-                    "displayedTitle": "Runes Deck",
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardBackColor": "#e0e0e0"
-                },
-                "Base": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Base",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Battlefields": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Chosen Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    },
-                    "reverseZOrder": true,
-                    "cardActionShortcut": {
-                        "action": "MOVE",
-                        "actionData": {
-                            "destination": "ExileHidden"
-                        },
-                        "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
-                    }
-                },
-                "myBF2": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Opponent Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "myBF3": {
-                    "isHidden": "no",
-                    "height": "12.5",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Opponent Battlefield",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "myBF4": {
-                    "isHidden": "no",
-                    "height": "12",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardStyle": {
-                        "marginTop": "-2vh"
-                    }
-                },
-                "B1": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 1",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B2": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 2",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B3": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "BF Units 3",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "B4": {
-                    "isHidden": "no",
-                    "height": "16",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Baron Pit Units",
-                    "noQuickActions": false,
-                    "enterTapped": true,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Chosen_Champion": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Chosen Champion",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Legend": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Legend",
-                    "noQuickActions": true,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                },
-                "Mana": {
-                    "isHidden": "no",
-                    "height": "SMALL",
-                    "alignment": "CENTER",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "isHorizontalAllowed": true,
-                    "displayedTitle": "Runes",
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "isGroupForbidden": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false,
-                    "cardActionShortcut": {
-                        "action": "MOVE",
-                        "actionData": {
-                            "destination": "Runes",
-                            "position": "BOTTOM"
-                        },
-                        "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
-                    }
-                },
-                "Stack": {
-                    "isDefaultSection": true,
-                    "isHidden": "no",
-                    "height": "HUGE",
-                    "alignment": "NONE",
-                    "isHorizontalAllowed": false,
-                    "isGroupForbidden": true,
-                    "displayedTitle": "Pile",
-                    "opponentAlignment": false,
-                    "noAutoPayTo": true,
-                    "noQuickActions": false,
-                    "enterTapped": false,
-                    "enterSpun": false,
-                    "keepTappedNewTurn": false,
-                    "showHiddenCardInHistory": false
-                }
+        "chooseAnotherStartingPlayer": true,
+        "initialBoardSetup": {
+          "0": [
+            {
+              "drawFromTop": "Runes",
+              "count": 2,
+              "destination": "Mana"
             }
+          ]
         }
+      },
+      "mulligan": {
+        "triggeredByButton": true,
+        "startingHandSize": 4,
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "Mulligan up to 2 cards. You will autodraw that many cards. GLHF!",
+          "steps": [
+            "toBottom",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 2
+          },
+          "keepCardOrder": false
+        }
+      },
+      "newTurn": {
+        "turnOrder": "default",
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "teams": {
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "buff-token",
+          "name": "Buff",
+          "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
+        },
+        {
+          "id": "deflect-token",
+          "name": "Deflect",
+          "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
+        },
+        {
+          "id": "empower-token",
+          "name": "Empower",
+          "image": "https://lh3.googleusercontent.com/d/1io8Ae9aR_wNr-8t-miqHKEwGX-nxafQi"
+        },
+        {
+          "id": "ganking-token",
+          "name": "Ganking",
+          "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
+        },
+        {
+          "id": "stun-token",
+          "name": "Stun",
+          "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+        },
+        {
+          "id": "tank-token",
+          "name": "Tank",
+          "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
+        },
+        {
+          "id": "temporary-token",
+          "name": "Temporary",
+          "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+        }
+      ],
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Base",
+                  "style": {
+                    "marginTop": "-0.5vh"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Runes"
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "marginRight": "4vh"
+                  }
+                },
+                {
+                  "section": "Legend",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Champion",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "sharedZone": {
+          "height": 30,
+          "layout": {
+            "direction": "column",
+            "style": {
+              "--bf-x-margin": "24vh"
+            },
+            "content": [
+              {
+                "direction": "row",
+                "content": [
+                  {
+                    "direction": "column",
+                    "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
+                    "content": [
+                      {
+                        "section": "BFUnits1Upper"
+                      },
+                      {
+                        "section": "Battlefields",
+                        "style": {
+                          "width": "calc(100% - var(--bf-x-margin))"
+                        }
+                      },
+                      {
+                        "section": "BFUnits1Lower"
+                      }
+                    ]
+                  },
+                  {
+                    "direction": "column",
+                    "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
+                    "content": [
+                      {
+                        "section": "BFUnits2Upper"
+                      },
+                      {
+                        "section": "Battlefields2",
+                        "style": {
+                          "width": "calc(100% - var(--bf-x-margin))"
+                        }
+                      },
+                      {
+                        "section": "BFUnits2Lower"
+                      }
+                    ]
+                  },
+                  {
+                    "direction": "column",
+                    "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
+                    "content": [
+                      {
+                        "section": "BFUnits3Upper"
+                      },
+                      {
+                        "section": "Battlefields3",
+                        "style": {
+                          "width": "calc(100% - var(--bf-x-margin))"
+                        }
+                      },
+                      {
+                        "section": "BFUnits3Lower"
+                      }
+                    ]
+                  },
+                  {
+                    "direction": "column",
+                    "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
+                    "optional": {
+                      "key": "Baron Pit"
+                    },
+                    "content": [
+                      {
+                        "section": "BFUnits4Upper"
+                      },
+                      {
+                        "section": "Battlefields4",
+                        "style": {
+                          "width": "calc(100% - var(--bf-x-margin))"
+                        }
+                      },
+                      {
+                        "section": "BFUnits4Lower"
+                      }
+                    ]
+                  },
+                  {
+                    "direction": "column",
+                    "reverseForOppositeSide": true,
+                    "style": {
+                      "alignItems": "center"
+                    },
+                    "optional": {
+                      "key": "Extra Baron Pit"
+                    },
+                    "content": [
+                      {
+                        "section": "BFUnits5Upper"
+                      },
+                      {
+                        "section": "Battlefields5",
+                        "style": {
+                          "width": "calc(100% - var(--bf-x-margin))"
+                        }
+                      },
+                      {
+                        "section": "BFUnits5Lower"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "categoriesAlreadyOnBoard": [
+          "Runes",
+          "Battlefields",
+          "Legend",
+          "Chosen_Champion"
+        ],
+        "autoPlayFromHand": {
+          "Runes": "Mana",
+          "Gear": "Base",
+          "Spell": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Spell": "Discard",
+          "Battlefields - Baron Pit": "Battlefields4"
+        },
+        "sectionsDict": {
+          "Runes": {
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "drawPerTurn": 2,
+            "noAutoPayTo": true,
+            "displayedTitle": "Runes Deck",
+            "cardBackColor": "#e0e0e0"
+          },
+          "Base": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Base",
+            "noQuickActions": true
+          },
+          "Battlefields": {
+            "isHidden": "no",
+            "height": "6",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Battlefield 1",
+            "noQuickActions": true,
+            "reverseZOrder": true
+          },
+          "Battlefields2": {
+            "isHidden": "no",
+            "height": "6",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Battlefield 2",
+            "noQuickActions": true,
+            "reverseZOrder": true
+          },
+          "Battlefields3": {
+            "isHidden": "no",
+            "height": "6",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Battlefield 3",
+            "noQuickActions": true,
+            "reverseZOrder": true
+          },
+          "Battlefields4": {
+            "isHidden": "no",
+            "height": "6",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Extra Battlefield 4",
+            "noQuickActions": true,
+            "reverseZOrder": true
+          },
+          "Battlefields5": {
+            "isHidden": "no",
+            "height": "6",
+            "heightReference": "horizontal",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Extra Battlefield 5",
+            "noQuickActions": true,
+            "reverseZOrder": true
+          },
+          "BFUnits1Upper": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 1 Units Upper",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits1Lower": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 1 Units Lower",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits2Upper": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 2 Units Upper",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits2Lower": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 3 Units Lower",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits3Upper": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 3 Units Upper",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits3Lower": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 3 Units Lower",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits4Upper": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 4 Units Upper",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits4Lower": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 4 Units Lower",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits5Upper": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 5 Units Upper",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "BFUnits5Lower": {
+            "isHidden": "no",
+            "height": "11",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "BF 5 Units Lower",
+            "noQuickActions": true,
+            "enterTapped": true
+          },
+          "Chosen_Champion": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Chosen Champion",
+            "noQuickActions": true
+          },
+          "Legend": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Legend",
+            "noQuickActions": true
+          },
+          "Mana": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Runes",
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Runes",
+                "position": "BOTTOM"
+              },
+              "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+            }
+          }
+        }
+      }
+    },
+    "2v2": {
+      "extends": "ffa",
+      "teams": {
+        "cardsVisibleToTeam": true,
+        "sharedPlayerCounter": true,
+        "placement": "sameSide"
+      },
+      "newTurn": {
+        "turnOrder": "teamsAlternating"
+      },
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "style": {
+            "--base-margin": "11vh"
+          },
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "marginTop": "-8vh"
+              },
+              "content": [
+                {
+                  "section": "Base",
+                  "style": {
+                    "marginLeft": "var(--base-margin)",
+                    "marginRight": "var(--base-margin)"
+                  }
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Runes"
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "marginRight": "4vh"
+                  }
+                },
+                {
+                  "section": "Legend",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
+                {
+                  "section": "Chosen_Champion",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
-}
+  }
 }

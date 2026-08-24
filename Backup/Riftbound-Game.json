@@ -34,25 +34,25 @@
 ],
 "formats": [
     {
-    "title": "Unleashed",
+    "title": "Classic",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "S03"
+    "legalityCode": "VEN"
     },
     {
     "title": "Multiplayer",
     "gameplay": "Multiplayer",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "S03"
+    "legalityCode": "VEN"
     },
     {
-    "title": "Classic",
+    "title": "Unleashed",
     "gameplay": "Classic",
     "customCategories": ["Chosen_Champion"],
     "deckRuleset": "Standard",
-    "legalityCode": "S02"
+    "legalityCode": "UNL"
     }
 ],
 "deckRulesets": {
@@ -90,7 +90,7 @@
             {
                 "category": "Sideboard",
                 "min": 0,
-                "max": 8
+                "max": 10
             }
         ]
     }
@@ -165,19 +165,9 @@
         "hideFacedDownCards": false,
         "draggableTokens": [
             {
-                "id": "stun-token",
-                "name": "Stun",
-                "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
-            },
-            {
                 "id": "buff-token",
                 "name": "Buff",
                 "image": "https://lh3.googleusercontent.com/d/1FpIll0WPnia4KrMeGjlMLU7AemLn7q_3"
-            },
-            {
-                "id": "temporary-token",
-                "name": "Temporary",
-                "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
             },
             {
                 "id": "deflect-token",
@@ -185,15 +175,30 @@
                 "image": "https://lh3.googleusercontent.com/d/1o7Wjh3eN8nvN0n51iQBlrFqA8X48BpU1"
             },
             {
+                "id": "empower-token",
+                "name": "Empower",
+                "image": "https://lh3.googleusercontent.com/d/1io8Ae9aR_wNr-8t-miqHKEwGX-nxafQi"
+            },
+            {
                 "id": "ganking-token",
                 "name": "Ganking",
                 "image": "https://lh3.googleusercontent.com/d/12EdryVQsAn8OWck3e2o3DBwM4GMECRZQ"
             },
             {
+                "id": "stun-token",
+                "name": "Stun",
+                "image": "https://lh3.googleusercontent.com/d/1rjBIrmynI-IXisMCBxdB3olsvmBA-QPc"
+            },
+            {
                 "id": "tank-token",
                 "name": "Tank",
                 "image": "https://lh3.googleusercontent.com/d/1X-3nn1ptXIfj6jOjJqcI_JGiLCxhTqvU"
-            }
+            },
+            {
+                "id": "temporary-token",
+                "name": "Temporary",
+                "image": "https://lh3.googleusercontent.com/d/1iqukKgbvOYy8-D8WvMzlXf1MFW3M5Oiw"
+            }  
         ],
         "sections": {
             "layout": {
