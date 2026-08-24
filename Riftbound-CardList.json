@@ -13673,6 +13673,150 @@
       "UNL": true
     }
   },
+  "OGS-025": {
+    "id": "OGS-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Annie, Dark Child",
+          "zh": "黑暗之女 - 安妮 - 入门"
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/OGS-025.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Annie, Dark Child",
+      "zh": "黑暗之女 - 安妮 - 入门"
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury",
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "00 - Proving Grounds"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "OGS-026": {
+    "id": "OGS-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Master Yi, Wuju Bladesman",
+          "zh": "无极剑圣 - 易 - 入门"
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/OGS-026.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Master Yi, Wuju Bladesman",
+      "zh": "无极剑圣 - 易 - 入门"
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm",
+      "🟠 Body"
+    ],
+    "Set": [
+      "00 - Proving Grounds"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "OGS-027": {
+    "id": "OGS-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lux, Lady of Luminosity",
+          "zh": "光辉女郎 - 拉克丝 入门"
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/OGS-027.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lux, Lady of Luminosity",
+      "zh": "光辉女郎 - 拉克丝 入门"
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🔵 Mind",
+      "🟡 Order"
+    ],
+    "Set": [
+      "00 - Proving Grounds"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "OGS-028": {
+    "id": "OGS-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Garen, Might of Demacia",
+          "zh": "德玛西亚之力-盖伦 入门"
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/OGS-028.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Garen, Might of Demacia",
+      "zh": "德玛西亚之力-盖伦 入门"
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": [
+      "🟠 Body",
+      "🟡 Order"
+    ],
+    "Set": [
+      "00 - Proving Grounds"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
   "ARC-001": {
     "id": "ARC-001",
     "isToken": false,
@@ -36920,6 +37064,42 @@
     },
     "_unreleased": false
   },
+  "VEN-041a": {
+    "id": "VEN-041a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Shattered",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-041a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Shattered",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": false
+    },
+    "_unreleased": false
+  },
   "VEN-042": {
     "id": "VEN-042",
     "isToken": false,
@@ -38112,6 +38292,45 @@
         "cost": 4,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2781dd135b5f42527df3bacee59ccee8684236fa-744x1039.png?accountingTag=RB&auto=format&fit=fill&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mel, Newly Awakened",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": false
+    },
+    "_unreleased": false
+  },
+  "VEN-069b": {
+    "id": "VEN-069b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mel, Newly Awakened",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-069b.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -41073,6 +41292,46 @@
     },
     "_unreleased": false
   },
+  "VEN-139a": {
+    "id": "VEN-139a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Rogue Assassin",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-139a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Rogue Assassin",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": [
+      "VEN-T01"
+    ],
+    "Domain": [
+      "🔴 Fury",
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": false
+    },
+    "_unreleased": false
+  },
   "VEN-140": {
     "id": "VEN-140",
     "isToken": false,
@@ -43465,6 +43724,426 @@
       "UNL": true
     },
     "_unreleased":true
+  },
+  "VEN-R01a": {
+    "id": "VEN-R01a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fury Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R01a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fury Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R01b": {
+    "id": "VEN-R01b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fury Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R01b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fury Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🔴 Fury"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R02a": {
+    "id": "VEN-R02a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Calm Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R02a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Calm Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R02b": {
+    "id": "VEN-R02b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Calm Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R02b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Calm Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟢 Calm"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R03a": {
+    "id": "VEN-R03a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mind Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R03a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mind Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R03b": {
+    "id": "VEN-R03b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mind Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R03b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mind Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🔵 Mind"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R04a": {
+    "id": "VEN-R04a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Body Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R04a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Body Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R04b": {
+    "id": "VEN-R04b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Body Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R04b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Body Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟠 Body"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R05a": {
+    "id": "VEN-R05a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chaos Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R05a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chaos Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R05b": {
+    "id": "VEN-R05b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chaos Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R05b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chaos Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟣 Chaos"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R06a": {
+    "id": "VEN-R06a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Order Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R06a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Order Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
+  },
+  "VEN-R06b": {
+    "id": "VEN-R06b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Order Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/VEN-R06b.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Order Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": [
+      "🟡 Order"
+    ],
+    "Set": [
+      "04 - Vendetta"
+    ],
+    "_legal": {
+      "VEN": true,
+      "UNL": true
+    }
   },
   "VEN-T01": {
     "id": "VEN-T01",
