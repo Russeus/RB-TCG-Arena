@@ -1927,9 +1927,7 @@
   "createdAt": "2026-04-08T21:20:05.446Z",
   "lastModifiedAt": "2026-04-08T21:23:16.087Z",
   "game": "Riftbound",
-  "format": [
-    "Unleashed"
-  ],
+  "format": ["Classic", "Unleashed", "FFA", "2v2"],
   "deckList": {
     "categoriesOrder": [
       "Legend",
@@ -2083,9 +2081,7 @@
   "createdAt": "2026-04-08T21:24:03.792Z",
   "lastModifiedAt": "2026-04-08T21:26:33.099Z",
   "game": "Riftbound",
-  "format": [
-    "Unleashed"
-  ],
+  "format": ["Classic", "Unleashed", "FFA", "2v2"],
   "deckList": {
     "categoriesOrder": [
       "Legend",

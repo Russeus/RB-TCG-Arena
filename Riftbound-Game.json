@@ -903,7 +903,8 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
-            "noQuickActions": true
+            "noQuickActions": true,
+            "enterTapped": true
           },
           "Battlefields": {
             "isHidden": "no",
