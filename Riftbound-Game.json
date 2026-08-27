@@ -1094,6 +1094,22 @@
               },
               "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
             }
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
