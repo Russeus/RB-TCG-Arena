@@ -365,7 +365,7 @@
             "displayedTitle": "Base",
             "noQuickActions": false,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -384,7 +384,7 @@
             "displayedTitle": "Chosen Battlefield",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -404,7 +404,7 @@
             "displayedTitle": "Battlefield 1",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -423,7 +423,7 @@
             "displayedTitle": "Battlefield 2",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -442,7 +442,7 @@
             "displayedTitle": "Baron Pit",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -460,7 +460,7 @@
             "displayedTitle": "BF Units 1",
             "noQuickActions": false,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -478,7 +478,7 @@
             "displayedTitle": "BF Units 2",
             "noQuickActions": false,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -496,7 +496,7 @@
             "displayedTitle": "Baron Pit Units",
             "noQuickActions": false,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             },
             "enterSpun": false,
@@ -929,7 +929,7 @@
             "displayedTitle": "Base",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -997,7 +997,7 @@
             "displayedTitle": "BF 1 Units Upper",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1010,7 +1010,7 @@
             "displayedTitle": "BF 1 Units Lower",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1023,7 +1023,7 @@
             "displayedTitle": "BF 2 Units Upper",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1036,7 +1036,7 @@
             "displayedTitle": "BF 3 Units Lower",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1049,7 +1049,7 @@
             "displayedTitle": "BF 3 Units Upper",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1062,7 +1062,7 @@
             "displayedTitle": "BF 3 Units Lower",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1075,7 +1075,7 @@
             "displayedTitle": "BF 4 Units Upper",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1088,7 +1088,7 @@
             "displayedTitle": "BF 4 Units Lower",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1101,7 +1101,7 @@
             "displayedTitle": "BF 5 Units Upper",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
@@ -1114,7 +1114,7 @@
             "displayedTitle": "BF 5 Units Lower",
             "noQuickActions": true,
             "enterTapped": {
-             "default": true,
+             "Unit": true,
              "Gear": false
             }
           },
