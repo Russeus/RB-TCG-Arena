@@ -364,7 +364,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -380,7 +383,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Chosen Battlefield",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -397,7 +403,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Battlefield 1",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -413,7 +422,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Battlefield 2",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -429,7 +441,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Baron Pit",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -444,7 +459,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 1",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -459,7 +477,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 2",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -474,7 +495,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Baron Pit Units",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -903,7 +927,11 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
-            "noQuickActions": true
+            "noQuickActions": true,
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "Battlefields": {
             "isHidden": "no",
@@ -968,7 +996,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 1 Units Upper",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits1Lower": {
             "isHidden": "no",
@@ -978,7 +1009,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 1 Units Lower",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits2Upper": {
             "isHidden": "no",
@@ -988,7 +1022,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 2 Units Upper",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits2Lower": {
             "isHidden": "no",
@@ -998,7 +1035,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Lower",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits3Upper": {
             "isHidden": "no",
@@ -1008,7 +1048,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Upper",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits3Lower": {
             "isHidden": "no",
@@ -1018,7 +1061,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 3 Units Lower",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits4Upper": {
             "isHidden": "no",
@@ -1028,7 +1074,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 4 Units Upper",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits4Lower": {
             "isHidden": "no",
@@ -1038,7 +1087,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 4 Units Lower",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits5Upper": {
             "isHidden": "no",
@@ -1048,7 +1100,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 5 Units Upper",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "BFUnits5Lower": {
             "isHidden": "no",
@@ -1058,7 +1113,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF 5 Units Lower",
             "noQuickActions": true,
-            "enterTapped": true
+            "enterTapped": {
+             "Unit": true,
+             "Gear": false
+            }
           },
           "Chosen_Champion": {
             "isHidden": "no",
@@ -1093,6 +1151,22 @@
               },
               "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
             }
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
