@@ -28808,7 +28808,7 @@
           "en": "Call to Battle",
           "zh": "战斗号令"
         },
-        "type": "Unit",
+        "type": "Spell",
         "cost": 3,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c7e0f93c72654f786f5df37895c6e95fa9d4d60-744x1039.png?auto=format&fit=fill&q=80&w=744",
@@ -28821,7 +28821,7 @@
       "en": "Call to Battle",
       "zh": "战斗号令"
     },
-    "type": "Unit",
+    "type": "Spell",
     "cost": 3,
     "Domain": [
       "🟠 Body"
