@@ -4,14 +4,18 @@
         "Gameplay": {
             "Classic": "Standard (Vendetta)",
             "Unleashed": "Preview (Radiance)",
-            "Multiplayer": "Multiplayer (Vendetta)"
+            "Multiplayer": "Multiplayer (Vendetta)",
+            "2v2": "2v2 (Vendetta) [WIP]",
+            "FFA": "FFA (Vendetta) [WIP]"
         }
     },
     "zh": {
         "Gameplay": {
             "Classic": "Standard (Vendetta)",
             "Unleashed": "Preview (Radiance)",
-            "Multiplayer": "Multiplayer (Vendetta)"
+            "Multiplayer": "Multiplayer (Vendetta)",
+            "2v2": "2v2 (Vendetta) [WIP]",
+            "FFA": "FFA (Vendetta) [WIP]"
         }
     }
 }
