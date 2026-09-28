@@ -3847,8 +3847,8 @@
     "Domain": ["🔵 Mind"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-111": {
@@ -6024,8 +6024,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-169": {
@@ -6303,8 +6303,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-178": {
@@ -6458,8 +6458,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-183": {
@@ -6489,8 +6489,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-184": {
@@ -9790,8 +9790,8 @@
     "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-277": {
@@ -10039,8 +10039,8 @@
     "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-285": {
@@ -10070,8 +10070,8 @@
     "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-286": {
@@ -10225,8 +10225,8 @@
     "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-291": {
@@ -10287,8 +10287,8 @@
     "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "OGN-293": {
@@ -12923,8 +12923,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "SFD-020a": {
@@ -12955,8 +12955,8 @@
     "Domain": ["🔴 Fury"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "SFD-021": {
@@ -16599,8 +16599,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": false,
+      "RAD": false
     }
   },
   "SFD-123": {
@@ -34189,8 +34189,8 @@
     "Domain": ["🟣 Chaos"],
     "Set": ["04 - Vendetta"],
     "_legal": {
-      "VEN": true,
-      "RAD": true
+      "VEN": 39,
+      "RAD": 39
     }
   },
   "VEN-098": {
