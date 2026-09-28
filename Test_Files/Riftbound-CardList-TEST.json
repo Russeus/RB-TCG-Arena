@@ -39459,7 +39459,7 @@
   },
   "RAD-T02": {
     "id": "RAD-T02",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -39485,7 +39485,7 @@
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
-      "VEN": true,
+      "VEN": false,
       "RAD": true
     }
   }
