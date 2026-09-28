@@ -5,8 +5,8 @@
             "Classic": "Standard (Vendetta)",
             "Unleashed": "Preview (Radiance)",
             "Multiplayer": "Multiplayer (Vendetta)",
-            "2v2": "2v2 (Vendetta) [WIP]",
-            "FFA": "FFA (Vendetta) [WIP]"
+            "2v2": "2v2 (Vendetta)",
+            "FFA": "FFA (Vendetta)"
         }
     },
     "zh": {
@@ -14,8 +14,8 @@
             "Classic": "Standard (Vendetta)",
             "Unleashed": "Preview (Radiance)",
             "Multiplayer": "Multiplayer (Vendetta)",
-            "2v2": "2v2 (Vendetta) [WIP]",
-            "FFA": "FFA (Vendetta) [WIP]"
+            "2v2": "2v2 (Vendetta)",
+            "FFA": "FFA (Vendetta)"
         }
     }
 }
