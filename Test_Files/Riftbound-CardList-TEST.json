@@ -9631,7 +9631,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9662,7 +9662,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9693,7 +9693,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9724,7 +9724,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9756,7 +9756,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-271"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9787,7 +9787,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9818,7 +9818,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9849,7 +9849,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9880,7 +9880,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9911,7 +9911,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9942,7 +9942,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -9973,7 +9973,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10005,7 +10005,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-T-Buff"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10036,7 +10036,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10067,7 +10067,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10098,7 +10098,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10129,7 +10129,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10160,7 +10160,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10191,7 +10191,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10222,7 +10222,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10253,7 +10253,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10284,7 +10284,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10315,7 +10315,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10346,7 +10346,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10377,7 +10377,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10408,7 +10408,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10439,7 +10439,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -10470,7 +10470,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -11248,7 +11248,7 @@
     },
     "type": "Other",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["01 - Origins"],
     "_legal": {
       "VEN": true,
@@ -19527,7 +19527,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["SFD-T-SandSoldier"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19558,7 +19558,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19589,7 +19589,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19620,7 +19620,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19651,7 +19651,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19682,7 +19682,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19713,7 +19713,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19744,7 +19744,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19775,7 +19775,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19806,7 +19806,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19837,7 +19837,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19868,7 +19868,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19899,7 +19899,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19931,7 +19931,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["SFD-T-Gold"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -19962,7 +19962,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -21488,7 +21488,7 @@
     },
     "type": "Gear",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -21519,7 +21519,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -21550,7 +21550,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["02 - Spiritforged"],
     "_legal": {
       "VEN": true,
@@ -28894,7 +28894,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -28925,7 +28925,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -28956,7 +28956,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -28987,7 +28987,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29018,7 +29018,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29049,7 +29049,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29080,7 +29080,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29111,7 +29111,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29143,7 +29143,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["UNL-T08"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29174,7 +29174,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29205,7 +29205,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29236,7 +29236,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29267,7 +29267,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29299,7 +29299,7 @@
     "type": "Battlefields",
     "cost": 0,
     "tokens": ["OGN-T-Buff"],
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -29330,7 +29330,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30338,7 +30338,7 @@
     },
     "type": "Battlefields - Baron Pit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30369,7 +30369,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30400,7 +30400,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30431,7 +30431,7 @@
     },
     "type": "Gear",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30462,7 +30462,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30493,7 +30493,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -30524,7 +30524,7 @@
     },
     "type": "Other",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["03 - Unleashed"],
     "_legal": {
       "VEN": true,
@@ -36287,7 +36287,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36318,7 +36318,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36349,7 +36349,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36380,7 +36380,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36411,7 +36411,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36442,7 +36442,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36473,7 +36473,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36504,7 +36504,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36535,7 +36535,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -36566,7 +36566,7 @@
     },
     "type": "Battlefields",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -38131,7 +38131,7 @@
     },
     "type": "Other",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -38162,7 +38162,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -38193,7 +38193,7 @@
     },
     "type": "Unit",
     "cost": 0,
-    "Domain": ["⚪ Domainless"],
+    "Domain": ["⚪ Neutral"],
     "Set": ["04 - Vendetta"],
     "_legal": {
       "VEN": true,
@@ -38224,6 +38224,7 @@
     },
     "type": "Unit",
     "cost": 2,
+    "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -38257,6 +38258,327 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-045": {
+    "id": "RAD-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Dauntless",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-045.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Dauntless",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-059": {
+    "id": "RAD-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Supernova",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 9,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-059.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Supernova",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 9,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-061": {
+    "id": "RAD-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Ingenious",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-061.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Ingenious",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-061a": {
+    "id": "RAD-061a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Ingenious",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-061a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Ingenious",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-063": {
+    "id": "RAD-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kai'Sa, Rebel",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-063.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kai'Sa, Rebel",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-067": {
+    "id": "RAD-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Clocktower Guardian",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-067.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Clocktower Guardian",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 8,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-069": {
+    "id": "RAD-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Zero Point Inflection",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 9,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-069.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Zero Point Inflection",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 9,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-073": {
+    "id": "RAD-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pillaged Armory",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-073.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pillaged Armory",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "tokens": ["OGN-T-Buff"],
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-082": {
+    "id": "RAD-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Primordial Roar",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-082.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Primordial Roar",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-086": {
+    "id": "RAD-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Courageous",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-086.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Courageous",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
@@ -38360,6 +38682,200 @@
       "RAD": true
     }
   },
+  "RAD-090": {
+    "id": "RAD-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, Consuming",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-090.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, Consuming",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-090a": {
+    "id": "RAD-090a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, Consuming",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-090a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, Consuming",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-093": {
+    "id": "RAD-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Disposal Expert",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-093.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Disposal Expert",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-127": {
+    "id": "RAD-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rousing Display",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-127.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rousing Display",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 5,
+    "tokens": ["OGN-271"],
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-132": {
+    "id": "RAD-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Heimerdinger, Academy Instructor",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-132.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Heimerdinger, Academy Instructor",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens": ["SFD-T-Mech"],
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-136": {
+    "id": "RAD-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dockside Lock-Up",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-136.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dockside Lock-Up",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 6,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-138": {
     "id": "RAD-138",
     "isToken": false,
@@ -38372,7 +38888,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-138.avif",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-138.jpeg",
           "zh": ""
         },
         "isHorizontal": false
@@ -38389,6 +38905,427 @@
     "_unreleased": true,
     "_legal": {
       "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-139": {
+    "id": "RAD-139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Boy Who Shattered Time",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-139.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Boy Who Shattered Time",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["VEN-T01"],
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-141": {
+    "id": "RAD-141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ziggs, Hexplosives Expert",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-141.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ziggs, Hexplosives Expert",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["RAD-T02"],
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-142": {
+    "id": "RAD-142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hexplosives Minefield",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-142.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hexplosives Minefield",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "tokens": ["RAD-T02"],
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-145": {
+    "id": "RAD-145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Orianna, Lady of Clockwork",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-145.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Orianna, Lady of Clockwork",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-148": {
+    "id": "RAD-148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ntofo Strikes",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-148.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ntofo Strikes",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-151": {
+    "id": "RAD-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Starry-Eyed Songstress",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-151.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Starry-Eyed Songstress",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-167": {
+    "id": "RAD-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Neeko, Blending In",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-167.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Neeko, Blending In",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-169s": {
+    "id": "RAD-169s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ziggs, Hexplosives Expert",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-169s.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ziggs, Hexplosives Expert",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["RAD-T02"],
+    "Domain": ["🔴 Fury", "🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-171s": {
+    "id": "RAD-171s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Orianna, Lady of Clockwork",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-171s.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Orianna, Lady of Clockwork",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-172": {
+    "id": "RAD-172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Pride of Nazumah",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-172.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Pride of Nazumah",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-174s": {
+    "id": "RAD-174s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Starry-Eyed Songstress",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-174s.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Starry-Eyed Songstress",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-178": {
+    "id": "RAD-178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "K'Sante, Courageous",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-178.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "K'Sante, Courageous",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-179": {
+    "id": "RAD-179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aphelios, Exalted",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-179.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aphelios, Exalted",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["OGN-T-Buff"],
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
       "RAD": true
     }
   },
@@ -38417,6 +39354,134 @@
     "type": "Unit",
     "cost": 4,
     "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-181": {
+    "id": "RAD-181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Yone, Blademaster",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-181.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Yone, Blademaster",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-182": {
+    "id": "RAD-182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kayn, Unleashed",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-182.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kayn, Unleashed",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-183": {
+    "id": "RAD-183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sett, Kingpin",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-183.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sett, Kingpin",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-T02": {
+    "id": "RAD-T02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bomb",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-T02.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bomb",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
