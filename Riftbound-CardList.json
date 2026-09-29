@@ -38233,6 +38233,134 @@
       "RAD": true
     }
   },
+  "RAD-002": {
+    "id": "RAD-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Banner of Conquest",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-002.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Banner of Conquest",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-012": {
+    "id": "RAD-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Runeblade Anvil (Placeholder)",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-012.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Runeblade Anvil (Placeholder)",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-013": {
+    "id": "RAD-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lost to the Sands",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-013.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lost to the Sands",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-023": {
+    "id": "RAD-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ziggs, Short-Fused",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-023.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ziggs, Short-Fused",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-038": {
     "id": "RAD-038",
     "isToken": false,
