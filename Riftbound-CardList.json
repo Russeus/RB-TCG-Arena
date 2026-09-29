@@ -38523,6 +38523,39 @@
       "RAD": true
     }
   },
+  "RAD-043": {
+    "id": "RAD-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Broken Blade",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-043.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Broken Blade",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["OGN-T-Buff"],
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-045": {
     "id": "RAD-045",
     "isToken": false,
@@ -39486,6 +39519,38 @@
       "RAD": true
     }
   },
+  "RAD-126": {
+    "id": "RAD-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mournful Spirit",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-126.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mournful Spirit",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-127": {
     "id": "RAD-127",
     "isToken": false,
@@ -39900,6 +39965,38 @@
     "type": "Spell",
     "cost": 2,
     "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-149": {
+    "id": "RAD-149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, the Exile",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-149.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, the Exile",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
