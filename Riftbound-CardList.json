@@ -39421,6 +39421,39 @@
       "RAD": true
     }
   },
+  "RAD-116": {
+    "id": "RAD-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Concert Poster",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-116.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Concert Poster",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "tokens": ["OGN-271"],
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-125": {
     "id": "RAD-125",
     "isToken": false,
@@ -39944,7 +39977,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan, Legend (Placeholder)",
+          "en": "Jarvan, Exemplar of Demacia",
           "zh": ""
         },
         "type": "Legend",
@@ -39957,7 +39990,7 @@
       }
     },
     "name": {
-      "en": "Jarvan, Legend (Placeholder)",
+      "en": "Jarvan, Exemplar of Demacia",
       "zh": ""
     },
     "type": "Legend",
@@ -40262,7 +40295,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan, Legend (Placeholder)",
+          "en": "Jarvan, Exemplar of Demacia",
           "zh": ""
         },
         "type": "Legend",
@@ -40275,7 +40308,7 @@
       }
     },
     "name": {
-      "en": "Jarvan, Legend (Placeholder)",
+      "en": "Jarvan, Exemplar of Demacia",
       "zh": ""
     },
     "type": "Legend",
