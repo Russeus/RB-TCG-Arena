@@ -40256,6 +40256,37 @@
       "RAD": true
     }
   },
+  "RAD-166": {
+    "id": "RAD-166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ruined Monastery",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-166.jpg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Ruined Monastery",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-167": {
     "id": "RAD-151",
     "isToken": false,
