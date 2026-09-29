@@ -38277,7 +38277,7 @@
         "type": "Gear",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-012.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-012.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -38631,7 +38631,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-055.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-055.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -38978,20 +38978,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Einuk Herd (Placeholder)",
+          "en": "Elnuk Herd (Placeholder)",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-081.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-081.png",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Einuk Herd (Placeholder)",
+      "en": "Elnuk Herd (Placeholder)",
       "zh": ""
     },
     "type": "Unit",
@@ -39369,7 +39369,7 @@
         "type": "Gear",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-106.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-106.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -39983,7 +39983,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-155.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-155.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -40015,7 +40015,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-156.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-156.png",
           "zh": ""
         },
         "isHorizontal": false
@@ -40086,6 +40086,37 @@
     },
     "name": {
       "en": "Durand Monument (Placeholder)",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-164": {
+    "id": "RAD-164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Packed Amphitheater",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-164.png",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Packed Amphitheater",
       "zh": ""
     },
     "type": "Battlefields",
