@@ -38587,6 +38587,38 @@
       "RAD": true
     }
   },
+  "RAD-036": {
+    "id": "RAD-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stormbill (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-036.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stormbill (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-038": {
     "id": "RAD-038",
     "isToken": false,
@@ -39678,6 +39710,38 @@
       "RAD": true
     }
   },
+  "RAD-110": {
+    "id": "RAD-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lulu, Quirky (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-110.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lulu, Quirky (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-115": {
     "id": "RAD-115",
     "isToken": false,
@@ -40579,6 +40643,37 @@
       "RAD": true
     }
   },
+  "RAD-162": {
+    "id": "RAD-162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Firelights Base (Placeholder)",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-162.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Firelights Base (Placeholder)",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-164": {
     "id": "RAD-164",
     "isToken": false,
@@ -40717,6 +40812,39 @@
         "cost": 0,
         "image": {
           "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-168.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Boy Who Shattered Time",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["VEN-T01"],
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-168s": {
+    "id": "RAD-168s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Boy Who Shattered Time",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-168s.jpeg",
           "zh": ""
         },
         "isHorizontal": false
