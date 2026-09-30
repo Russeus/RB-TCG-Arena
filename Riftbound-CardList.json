@@ -39710,6 +39710,70 @@
       "RAD": true
     }
   },
+  "RAD-109": {
+    "id": "RAD-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, In Control",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-109.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, In Control",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-109a": {
+    "id": "RAD-109a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, In Control",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-109a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, In Control",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-110": {
     "id": "RAD-110",
     "isToken": false,
@@ -40478,6 +40542,38 @@
     "cost": 3,
     "tokens": ["OGN-271"],
     "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-153": {
+    "id": "RAD-153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, Agony's Embrace",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-153.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, Agony's Embrace",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
