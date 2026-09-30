@@ -17,7 +17,7 @@
     "https://russeus.github.io/RB-TCG-Arena/rb-functions.jsx"
   ],
   "cards": {
-    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Test_Files/Riftbound-CardList-TEST.json",
+    "dataUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-CardList.json",
     "cardBack": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-blue.png",
     "cardBackColor": "#03354a",
     "extraCardBacks": {
@@ -26,7 +26,7 @@
       "Legend": "https://russeus.github.io/RB-TCG-Arena/Images/cardBack-black.png"
     }
   },
-  "translationsUrl": "https://russeus.github.io/RB-TCG-Arena/Test_Files/Riftbound-Translations-TEST.json",
+  "translationsUrl": "https://russeus.github.io/RB-TCG-Arena/Riftbound-Translations.json",
   "deckBuilding": {
     "mainFilters": [
       "type",
@@ -364,7 +364,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+              "Unit": true,
+              "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -444,7 +447,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 1",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+              "Unit": true,
+              "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -459,7 +465,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 2",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+              "Unit": true,
+              "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -474,7 +483,10 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Baron Pit Units",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": {
+              "Unit": true,
+              "Gear": false
+            },
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
