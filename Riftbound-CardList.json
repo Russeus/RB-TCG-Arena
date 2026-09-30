@@ -38393,6 +38393,38 @@
       "RAD": true
     }
   },
+  "RAD-015": {
+    "id": "RAD-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Brash",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-015.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Brash",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-023": {
     "id": "RAD-023",
     "isToken": false,
