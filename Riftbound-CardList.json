@@ -38297,6 +38297,38 @@
       "RAD": true
     }
   },
+  "RAD-004": {
+    "id": "RAD-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Brawl",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-004.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Brawl",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -39068,6 +39100,38 @@
       "RAD": true
     }
   },
+  "RAD-071": {
+    "id": "RAD-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nazuman Ntofo",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-071.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nazuman Ntofo",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-073": {
     "id": "RAD-073",
     "isToken": false,
@@ -39093,6 +39157,38 @@
     "type": "Gear",
     "cost": 1,
     "tokens": ["OGN-T-Buff"],
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-079": {
+    "id": "RAD-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Avalanche",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-079.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Avalanche",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39188,6 +39284,38 @@
       "zh": ""
     },
     "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-084": {
+    "id": "RAD-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cataclysm",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-084.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Cataclysm",
+      "zh": ""
+    },
+    "type": "Spell",
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
@@ -39518,6 +39646,38 @@
       "RAD": true
     }
   },
+  "RAD-107": {
+    "id": "RAD-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bedeviling Stranger",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-107.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bedeviling Stranger",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-115": {
     "id": "RAD-115",
     "isToken": false,
@@ -39575,6 +39735,38 @@
     "type": "Gear",
     "cost": 1,
     "tokens": ["OGN-271"],
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-117": {
+    "id": "RAD-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "For Demacia!",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-117.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "For Demacia!",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40196,6 +40388,39 @@
       "RAD": true
     }
   },
+  "RAD-152": {
+    "id": "RAD-152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Encore",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-152.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Encore",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "tokens": ["OGN-271"],
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-155": {
     "id": "RAD-155",
     "isToken": false,
@@ -40255,6 +40480,38 @@
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-157": {
+    "id": "RAD-157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bandle Scouts' Academy",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-157.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Bandle Scouts' Academy",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "tokens": ["SFD-T-Gold"],
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40440,6 +40697,39 @@
     "type": "Unit",
     "cost": 6,
     "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-168": {
+    "id": "RAD-168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Boy Who Shattered Time",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-168.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Boy Who Shattered Time",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "tokens": ["VEN-T01"],
+    "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
@@ -40930,6 +41220,38 @@
       "RAD": true
     }
   },
+  "RAD-SP3": {
+    "id": "RAD-SP3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, In Control",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-SP3.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, In Control",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-SP5": {
     "id": "RAD-SP5",
     "isToken": false,
@@ -41019,6 +41341,38 @@
     "type": "Runes",
     "cost": 0,
     "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R04a": {
+    "id": "RAD-R04a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Body Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R04a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Body Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
