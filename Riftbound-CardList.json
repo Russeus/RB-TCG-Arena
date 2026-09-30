@@ -38271,20 +38271,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Runeblade Anvil (Placeholder)",
+          "en": "Runeblade Anvil",
           "zh": ""
         },
         "type": "Gear",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-012.png",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-012.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Runeblade Anvil (Placeholder)",
+      "en": "Runeblade Anvil",
       "zh": ""
     },
     "type": "Gear",
@@ -38658,23 +38658,55 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mech Mind (Placeholder)",
+          "en": "Clanging Sentry",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-055.png",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-055.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Mech Mind (Placeholder)",
+      "en": "Clanging Sentry",
       "zh": ""
     },
     "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-056": {
+    "id": "RAD-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Improvised Projectile",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-056.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Improvised Projectile",
+      "zh": ""
+    },
+    "type": "Spell",
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
@@ -39011,20 +39043,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Elnuk Herd (Placeholder)",
+          "en": "Elnuk Herd",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-081.png",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-081.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Elnuk Herd (Placeholder)",
+      "en": "Elnuk Herd",
       "zh": ""
     },
     "type": "Unit",
@@ -39060,6 +39092,38 @@
       "zh": ""
     },
     "type": "Spell",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-083": {
+    "id": "RAD-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stalwart Goatherd",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-083.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stalwart Goatherd",
+      "zh": ""
+    },
+    "type": "Unit",
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
@@ -39396,7 +39460,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Barrel (Placeholder)",
+          "en": "The Good Stuff",
           "zh": ""
         },
         "type": "Gear",
@@ -39409,7 +39473,7 @@
       }
     },
     "name": {
-      "en": "Barrel (Placeholder)",
+      "en": "The Good Stuff",
       "zh": ""
     },
     "type": "Gear",
@@ -40080,7 +40144,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-155.png",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-155.webp",
           "zh": ""
         },
         "isHorizontal": false
