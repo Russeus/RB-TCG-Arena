@@ -38491,6 +38491,38 @@
       "RAD": true
     }
   },
+  "RAD-025": {
+    "id": "RAD-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Consult the Heavens",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-025.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Consult the Heavens",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-033": {
     "id": "RAD-033",
     "isToken": false,
