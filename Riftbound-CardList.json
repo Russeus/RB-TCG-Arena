@@ -38908,6 +38908,38 @@
       "RAD": true
     }
   },
+  "RAD-057": {
+    "id": "RAD-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Piltovan Guidebot",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-057.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Piltovan Guidebot",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-059": {
     "id": "RAD-059",
     "isToken": false,
