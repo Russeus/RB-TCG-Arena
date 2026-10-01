@@ -38457,6 +38457,38 @@
       "RAD": true
     }
   },
+  "RAD-016": {
+    "id": "RAD-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Coalesced Energy",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-016.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Coalesced Energy",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-023": {
     "id": "RAD-023",
     "isToken": false,
