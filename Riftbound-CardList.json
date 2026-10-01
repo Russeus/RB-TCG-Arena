@@ -38715,6 +38715,38 @@
       "RAD": true
     }
   },
+  "RAD-037": {
+    "id": "RAD-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Watchful Curator",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-037.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Watchful Curator",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-038": {
     "id": "RAD-038",
     "isToken": false,
