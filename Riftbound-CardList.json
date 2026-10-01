@@ -39773,6 +39773,70 @@
       "RAD": true
     }
   },
+  "RAD-091": {
+    "id": "RAD-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jarvan IV, Martial Paragon",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-091.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jarvan IV, Martial Paragon",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-091a": {
+    "id": "RAD-091a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jarvan IV, Martial Paragon",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-091a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jarvan IV, Martial Paragon",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-095": {
     "id": "RAD-095",
     "isToken": false,
@@ -40907,7 +40971,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan, Exemplar of Demacia",
+          "en": "Jarvan IV, Exemplar of Demacia",
           "zh": ""
         },
         "type": "Legend",
@@ -40920,7 +40984,7 @@
       }
     },
     "name": {
-      "en": "Jarvan, Exemplar of Demacia",
+      "en": "Jarvan IV, Exemplar of Demacia",
       "zh": ""
     },
     "type": "Legend",
@@ -41671,7 +41735,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan, Exemplar of Demacia",
+          "en": "Jarvan IV, Exemplar of Demacia",
           "zh": ""
         },
         "type": "Legend",
@@ -41684,7 +41748,7 @@
       }
     },
     "name": {
-      "en": "Jarvan, Exemplar of Demacia",
+      "en": "Jarvan IV, Exemplar of Demacia",
       "zh": ""
     },
     "type": "Legend",
