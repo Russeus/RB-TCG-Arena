@@ -38393,6 +38393,38 @@
       "RAD": true
     }
   },
+  "RAD-014": {
+    "id": "RAD-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shimmer Swimmer (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-014.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shimmer Swimmer (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-015": {
     "id": "RAD-015",
     "isToken": false,
@@ -39741,6 +39773,38 @@
       "RAD": true
     }
   },
+  "RAD-097": {
+    "id": "RAD-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shallows Siren (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-097.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shallows Siren (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-105": {
     "id": "RAD-105",
     "isToken": false,
@@ -40120,6 +40184,38 @@
     "type": "Spell",
     "cost": 5,
     "tokens": ["OGN-271"],
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-128": {
+    "id": "RAD-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Steadfast Ranger (Placeholder)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-128.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Steadfast Ranger (Placeholder)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
