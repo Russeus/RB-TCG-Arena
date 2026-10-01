@@ -38844,6 +38844,38 @@
       "RAD": true
     }
   },
+  "RAD-047": {
+    "id": "RAD-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fanfare",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-047.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fanfare",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-055": {
     "id": "RAD-055",
     "isToken": false,
