@@ -38908,6 +38908,38 @@
       "RAD": true
     }
   },
+  "RAD-048": {
+    "id": "RAD-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "High Note",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-048.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "High Note",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-055": {
     "id": "RAD-055",
     "isToken": false,
@@ -39509,6 +39541,38 @@
     },
     "type": "Spell",
     "cost": 4,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-085": {
+    "id": "RAD-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Graves, Blasting Through",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-085.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Graves, Blasting Through",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40548,6 +40612,38 @@
       "RAD": true
     }
   },
+  "RAD-143": {
+    "id": "RAD-143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mordekaiser, Iron Revenant",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-143.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mordekaiser, Iron Revenant",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-145": {
     "id": "RAD-145",
     "isToken": false,
@@ -40901,6 +40997,37 @@
       "RAD": true
     }
   },
+  "RAD-158": {
+    "id": "RAD-158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Black Market",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-158.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Black Market",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-160": {
     "id": "RAD-160",
     "isToken": false,
@@ -40983,6 +41110,37 @@
     },
     "name": {
       "en": "Firelights Base (Placeholder)",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-163": {
+    "id": "RAD-163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hunters' Circle",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-163.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Hunters' Circle",
       "zh": ""
     },
     "type": "Battlefields",
@@ -41251,6 +41409,70 @@
       "RAD": true
     }
   },
+  "RAD-170": {
+    "id": "RAD-170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mordekaiser, Iron Revenant",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-170.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mordekaiser, Iron Revenant",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-170s": {
+    "id": "RAD-170s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mordekaiser, Iron Revenant",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-170s.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mordekaiser, Iron Revenant",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-171": {
     "id": "RAD-171",
     "isToken": false,
@@ -41404,6 +41626,38 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-175": {
+    "id": "RAD-175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, Agony's Embrace",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-175.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, Agony's Embrace",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
@@ -41821,6 +42075,38 @@
     "type": "Runes",
     "cost": 0,
     "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R05a": {
+    "id": "RAD-R05a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chaos Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R05a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chaos Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
