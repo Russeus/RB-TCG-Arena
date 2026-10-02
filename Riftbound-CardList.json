@@ -38689,7 +38689,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Comand: Attack",
+          "en": "Command: Attack",
           "zh": ""
         },
         "type": "Spell",
@@ -38702,7 +38702,7 @@
       }
     },
     "name": {
-      "en": "Comand: Attack",
+      "en": "Command: Attack",
       "zh": ""
     },
     "type": "Spell",
