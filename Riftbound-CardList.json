@@ -38399,20 +38399,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Shimmer Swimmer (Placeholder)",
+          "en": "Shimmering Swimmer",
           "zh": ""
         },
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-014.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-014.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Shimmer Swimmer (Placeholder)",
+      "en": "Shimmering Swimmer",
       "zh": ""
     },
     "type": "Unit",
@@ -38721,7 +38721,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Stormbill (Placeholder)",
+          "en": "Storm Raptor",
           "zh": ""
         },
         "type": "Unit",
@@ -38734,7 +38734,7 @@
       }
     },
     "name": {
-      "en": "Stormbill (Placeholder)",
+      "en": "Storm Raptor",
       "zh": ""
     },
     "type": "Unit",
@@ -39971,20 +39971,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Shallows Siren (Placeholder)",
+          "en": "Siren of the Shallows",
           "zh": ""
         },
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-097.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-097.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Shallows Siren (Placeholder)",
+      "en": "Siren of the Shallows",
       "zh": ""
     },
     "type": "Unit",
@@ -40164,7 +40164,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Lulu, Quirky (Placeholder)",
+          "en": "Lulu, Whimsical",
           "zh": ""
         },
         "type": "Unit",
@@ -40177,7 +40177,7 @@
       }
     },
     "name": {
-      "en": "Lulu, Quirky (Placeholder)",
+      "en": "Lulu, Whimsical",
       "zh": ""
     },
     "type": "Unit",
@@ -40390,20 +40390,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Steadfast Ranger (Placeholder)",
+          "en": "Steadfast Outrider",
           "zh": ""
         },
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-128.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-128.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Steadfast Ranger (Placeholder)",
+      "en": "Steadfast Outrider",
       "zh": ""
     },
     "type": "Unit",
@@ -41224,7 +41224,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Firelights Base (Placeholder)",
+          "en": "Firelights' Hideout",
           "zh": ""
         },
         "type": "Battlefields",
@@ -41237,7 +41237,7 @@
       }
     },
     "name": {
-      "en": "Firelights Base (Placeholder)",
+      "en": "Firelights' Hideout",
       "zh": ""
     },
     "type": "Battlefields",
