@@ -38329,6 +38329,38 @@
       "RAD": true
     }
   },
+  "RAD-005": {
+    "id": "RAD-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lingering Spirit (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-005.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lingering Spirit (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -38611,6 +38643,38 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-026": {
+    "id": "RAD-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Boar (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-026.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Boar (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39100,6 +39164,38 @@
       "RAD": true
     }
   },
+  "RAD-058": {
+    "id": "RAD-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raging Sea Mage (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-058.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raging Sea Mage (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-059": {
     "id": "RAD-059",
     "isToken": false,
@@ -39412,6 +39508,38 @@
     },
     "type": "Gear",
     "cost": 1,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-072": {
+    "id": "RAD-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aloof Travelers (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-072.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aloof Travelers (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39997,6 +40125,38 @@
       "RAD": true
     }
   },
+  "RAD-098": {
+    "id": "RAD-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Siren's Song (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-098.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Siren's Song (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-105": {
     "id": "RAD-105",
     "isToken": false,
@@ -40287,6 +40447,38 @@
       "RAD": true
     }
   },
+  "RAD-118": {
+    "id": "RAD-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Emperor's Emissary (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-118.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Emperor's Emissary (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-125": {
     "id": "RAD-125",
     "isToken": false,
@@ -40408,6 +40600,38 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-129": {
+    "id": "RAD-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Trifarian Captain (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-129.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Trifarian Captain (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41021,6 +41245,39 @@
     },
     "type": "Legend",
     "cost": 0,
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-154": {
+    "id": "RAD-154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Last Caress (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-154.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Last Caress (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
