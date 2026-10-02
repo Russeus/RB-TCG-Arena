@@ -41607,6 +41607,38 @@
       "RAD": true
     }
   },
+  "RAD-159": {
+    "id": "RAD-159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Black Rose Sanctum",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-159.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Black Rose Sanctum",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "tokens": ["OGN-271"],
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-160": {
     "id": "RAD-160",
     "isToken": false,
