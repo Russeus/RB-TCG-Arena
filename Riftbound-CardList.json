@@ -39837,6 +39837,38 @@
       "RAD": true
     }
   },
+  "RAD-087": {
+    "id": "RAD-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Portable Portal",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-087.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Portable Portal",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-086b-P": {
     "id": "RAD-086b-P",
     "isToken": false,
