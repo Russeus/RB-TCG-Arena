@@ -38521,6 +38521,38 @@
       "RAD": true
     }
   },
+  "RAD-017": {
+    "id": "RAD-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Detonation Amplifier",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-017.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Detonation Amplifier",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-023": {
     "id": "RAD-023",
     "isToken": false,
@@ -38675,6 +38707,39 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-027": {
+    "id": "RAD-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Iridescent Avian",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-027.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Iridescent Avian",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39060,6 +39125,39 @@
     },
     "type": "Spell",
     "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-049": {
+    "id": "RAD-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Diligent Machinist (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-049.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Diligent Machinist (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["SFD-T-Mech"],
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40664,6 +40762,38 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-130": {
+    "id": "RAD-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Battlefield Armorer",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-130.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Battlefield Armorer",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -42435,6 +42565,38 @@
       "RAD": true
     }
   },
+  "RAD-R01a": {
+    "id": "RAD-R01a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fury Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R01a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fury Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
   "RAD-R02a": {
     "id": "RAD-R02a",
     "isToken": false,
@@ -42556,6 +42718,38 @@
     "type": "Runes",
     "cost": 0,
     "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R06a": {
+    "id": "RAD-R06a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Order Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R06a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Order Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
