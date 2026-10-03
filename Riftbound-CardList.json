@@ -38361,6 +38361,38 @@
       "RAD": true
     }
   },
+  "RAD-006": {
+    "id": "RAD-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scorched Earth (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-006.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scorched Earth (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -39679,6 +39711,38 @@
       "RAD": true
     }
   },
+  "RAD-074": {
+    "id": "RAD-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fanatic Witness (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-074.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fanatic Witness (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-079": {
     "id": "RAD-079",
     "isToken": false,
@@ -40279,6 +40343,38 @@
     },
     "type": "Spell",
     "cost": 2,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-099": {
+    "id": "RAD-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Smooth Talker (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-099.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Smooth Talker (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
