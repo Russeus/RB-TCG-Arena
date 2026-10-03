@@ -42501,6 +42501,38 @@
       "RAD": true
     }
   },
+  "RAD-SP1": {
+    "id": "RAD-SP1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ahri, Confident",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-SP1.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ahri, Confident",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-SP2": {
     "id": "RAD-SP2",
     "isToken": false,
