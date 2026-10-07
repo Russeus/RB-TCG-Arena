@@ -38426,6 +38426,38 @@
       "RAD": true
     }
   },
+  "RAD-008": {
+    "id": "RAD-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "War Scout",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-008.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "War Scout",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -38650,6 +38682,38 @@
       "RAD": true
     }
   },
+  "RAD-019": {
+    "id": "RAD-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Firebrand Raider",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-019.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Firebrand Raider",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-021": {
     "id": "RAD-021",
     "isToken": false,
@@ -38662,7 +38726,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d13964c46506f9f36430dfe91ee02d258a304908-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d13964c46506f9f36430dfe91ee02d258a304908-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38694,7 +38758,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4e49d03e297db4593a6ebc0d7e6c165dff6dcfe-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4e49d03e297db4593a6ebc0d7e6c165dff6dcfe-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38921,7 +38985,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33af916b50007c01b33e78aef3dc99b757edc3f2-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33af916b50007c01b33e78aef3dc99b757edc3f2-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38929,6 +38993,38 @@
     },
     "name": {
       "en": "Ki Burst",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-029": {
+    "id": "RAD-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Reborn Anew (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-029.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Reborn Anew (PH)",
       "zh": ""
     },
     "type": "Spell",
@@ -39145,7 +39241,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d2e562a1b69a42ebd9c8f95a9420750f45aca5dc-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d2e562a1b69a42ebd9c8f95a9420750f45aca5dc-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39157,6 +39253,38 @@
     },
     "type": "Gear",
     "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-040": {
+    "id": "RAD-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Heartening Soul",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-040.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Heartening Soul",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 7,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39177,7 +39305,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c9ac0da1c144f46a1e0c5423f51f9b8f6ba295b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c9ac0da1c144f46a1e0c5423f51f9b8f6ba295b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39210,7 +39338,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9870e0f591e2ca04bea2274209e8df3d4435213b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9870e0f591e2ca04bea2274209e8df3d4435213b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39436,7 +39564,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/72828b0fe019b2e03069510f781dfa8f5759ac12-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/72828b0fe019b2e03069510f781dfa8f5759ac12-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39448,6 +39576,38 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-051": {
+    "id": "RAD-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Parallel Convergence",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-051.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Parallel Convergence",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39628,7 +39788,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b7cd2e475834863bf4e66994118a835ba4377d16-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b7cd2e475834863bf4e66994118a835ba4377d16-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40077,7 +40237,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/694a362579d3f2e9805cac0da4814ea911423033-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/694a362579d3f2e9805cac0da4814ea911423033-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40089,6 +40249,38 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-076": {
+    "id": "RAD-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sneaky Zeebles",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-076.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sneaky Zeebles",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40429,7 +40621,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91c4670531d7773cae9e7b4bfd5ac4e259602162-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91c4670531d7773cae9e7b4bfd5ac4e259602162-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40441,6 +40633,38 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-089": {
+    "id": "RAD-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Titanic Shrine",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-089.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Titanic Shrine",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40781,7 +41005,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0552932562db1dd48f14c74779999a645d62cc0d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0552932562db1dd48f14c74779999a645d62cc0d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40793,6 +41017,39 @@
     },
     "type": "Spell",
     "cost": 1,
+    "tokens": ["SFD-T-Gold"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-101": {
+    "id": "RAD-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "An Offer You Can't Refuse",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-101.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "An Offer You Can't Refuse",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
     "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
@@ -40995,6 +41252,102 @@
       "RAD": true
     }
   },
+  "RAD-111": {
+    "id": "RAD-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mechanical Bandit",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-111.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mechanical Bandit",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-114": {
+    "id": "RAD-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Deserter",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-114.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Deserter",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-114a": {
+    "id": "RAD-114a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, Deserter",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-114a.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, Deserter",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-115": {
     "id": "RAD-115",
     "isToken": false,
@@ -41169,7 +41522,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ee50fbf5e902e7109a3d54b417edc440b5a37198-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ee50fbf5e902e7109a3d54b417edc440b5a37198-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -41181,6 +41534,38 @@
     },
     "type": "Unit",
     "cost": 2,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-121": {
+    "id": "RAD-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Full Combo (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-121.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Full Combo (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41394,7 +41779,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/127c2700ee4e2557dfd463ed84c45f4600ad9723-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/127c2700ee4e2557dfd463ed84c45f4600ad9723-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -41847,7 +42232,7 @@
         "type": "Gear",
         "cost": 5,
         "image": {
-          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4b11f36bd5ce2b08677959664cda3906a04d234c-744x1040.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4b11f36bd5ce2b08677959664cda3906a04d234c-744x1040.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
