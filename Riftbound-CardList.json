@@ -38405,7 +38405,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-007.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09c0fc35d8f4b72f58a95d1745b99c4133d02513-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38630,7 +38630,7 @@
         "type": "Unit",
         "cost": 9,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-018.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9ddc2759cf8b039bc1ee77e32326c5475cc001e8-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38662,7 +38662,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-021.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d13964c46506f9f36430dfe91ee02d258a304908-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -38694,7 +38694,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-021a.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4e49d03e297db4593a6ebc0d7e6c165dff6dcfe-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -38921,7 +38921,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-028.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33af916b50007c01b33e78aef3dc99b757edc3f2-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -39145,7 +39145,7 @@
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-039.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d2e562a1b69a42ebd9c8f95a9420750f45aca5dc-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -39177,7 +39177,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-043.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c9ac0da1c144f46a1e0c5423f51f9b8f6ba295b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -39210,7 +39210,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-043a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9870e0f591e2ca04bea2274209e8df3d4435213b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -39436,7 +39436,7 @@
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-050.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/72828b0fe019b2e03069510f781dfa8f5759ac12-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -39628,7 +39628,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-060.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b7cd2e475834863bf4e66994118a835ba4377d16-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -40071,20 +40071,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Eaglewing Squadron (PH)",
+          "en": "Skystrike Squadron",
           "zh": ""
         },
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-075.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/694a362579d3f2e9805cac0da4814ea911423033-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Eaglewing Squadron (PH)",
+      "en": "Skystrike Squadron",
       "zh": ""
     },
     "type": "Unit",
@@ -40429,7 +40429,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-088.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/91c4670531d7773cae9e7b4bfd5ac4e259602162-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -40775,20 +40775,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Crossing Fee (PH)",
+          "en": "The Waters' Wage",
           "zh": ""
         },
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-100.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0552932562db1dd48f14c74779999a645d62cc0d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Crossing Fee (PH)",
+      "en": "The Waters' Wage",
       "zh": ""
     },
     "type": "Spell",
@@ -41163,20 +41163,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Meticulous Mechanic (PH)",
+          "en": "Meticulous Restorationist",
           "zh": ""
         },
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-120.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ee50fbf5e902e7109a3d54b417edc440b5a37198-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Meticulous Mechanic (PH)",
+      "en": "Meticulous Restorationist",
       "zh": ""
     },
     "type": "Unit",
@@ -41394,7 +41394,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-131.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/127c2700ee4e2557dfd463ed84c45f4600ad9723-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -41847,7 +41847,7 @@
         "type": "Gear",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-146.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4b11f36bd5ce2b08677959664cda3906a04d234c-744x1040.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
