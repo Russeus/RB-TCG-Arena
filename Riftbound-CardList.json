@@ -38714,6 +38714,70 @@
       "RAD": true
     }
   },
+  "RAD-020": {
+    "id": "RAD-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mordekaiser, Twice Slain",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-020.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mordekaiser, Twice Slain",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-02a": {
+    "id": "RAD-020a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mordekaiser, Twice Slain",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-020a.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mordekaiser, Twice Slain",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-021": {
     "id": "RAD-021",
     "isToken": false,
@@ -39285,6 +39349,38 @@
     },
     "type": "Unit",
     "cost": 7,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-041": {
+    "id": "RAD-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Silence (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-041.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Silence (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -39928,6 +40024,38 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-064": {
+    "id": "RAD-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scrutinizing Scope",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-064.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scrutinizing Scope",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40833,6 +40961,38 @@
       "RAD": true
     }
   },
+  "RAD-092": {
+    "id": "RAD-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Celestial Dragon (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-092.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Celestial Dragon (PH).",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-095": {
     "id": "RAD-095",
     "isToken": false,
@@ -41156,6 +41316,38 @@
       "RAD": true
     }
   },
+  "RAD-108": {
+    "id": "RAD-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ambush Trap (PH)",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 1,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-108.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ambush Trap (PH)",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 1,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-109": {
     "id": "RAD-109",
     "isToken": false,
@@ -41276,6 +41468,72 @@
     },
     "type": "Gear",
     "cost": 4,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-112": {
+    "id": "RAD-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ziggs, Explosive",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-112.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ziggs, Explosive",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["RAD-T02"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-112a": {
+    "id": "RAD-112a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ziggs, Explosive",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-112a.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ziggs, Explosive",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "tokens": ["RAD-T02"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41566,6 +41824,38 @@
     },
     "type": "Spell",
     "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-122": {
+    "id": "RAD-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Party Crasher",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 9,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-122.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Party Crasher",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 9,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -43267,6 +43557,38 @@
     "type": "Legend",
     "cost": 0,
     "Domain": ["🟢 Calm", "🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-173": {
+    "id": "RAD-173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Riven, the Exile",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-173.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Riven, the Exile",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
     "_legal": {
