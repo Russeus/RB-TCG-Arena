@@ -39428,7 +39428,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Silence (PH)",
+          "en": "Hush",
           "zh": ""
         },
         "type": "Spell",
@@ -39441,7 +39441,7 @@
       }
     },
     "name": {
-      "en": "Silence (PH)",
+      "en": "Hush",
       "zh": ""
     },
     "type": "Spell",
@@ -39810,6 +39810,38 @@
       "RAD": true
     }
   },
+  "RAD-053": {
+    "id": "RAD-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Winged Oracle (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-053.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Winged Oracle (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-055": {
     "id": "RAD-055",
     "isToken": false,
@@ -40154,6 +40186,38 @@
     },
     "type": "Gear",
     "cost": 2,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-065": {
+    "id": "RAD-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Mind (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-065.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Mind (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40539,6 +40603,38 @@
     },
     "type": "Unit",
     "cost": 9,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-078": {
+    "id": "RAD-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Armored Elephant (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-078.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Armored Elephant (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41355,7 +41451,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Demon Shade (PH)",
+          "en": "Demon Shade",
           "zh": ""
         },
         "type": "Spell",
@@ -41368,7 +41464,7 @@
       }
     },
     "name": {
-      "en": "Demon Shade (PH)",
+      "en": "Demon Shade",
       "zh": ""
     },
     "type": "Spell",
@@ -42026,6 +42122,38 @@
       "RAD": true
     }
   },
+  "RAD-123": {
+    "id": "RAD-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Guardian's Shield (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 9,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-123.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Guardian's Shield (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 9,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-125": {
     "id": "RAD-125",
     "isToken": false,
@@ -42291,7 +42419,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan IV, Order (PH)",
+          "en": "Jarvan IV, Royal Heir",
           "zh": ""
         },
         "type": "Unit",
@@ -42304,7 +42432,7 @@
       }
     },
     "name": {
-      "en": "Jarvan IV, Order (PH)",
+      "en": "Jarvan IV, Royal Heir",
       "zh": ""
     },
     "type": "Unit",
@@ -42323,20 +42451,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jarvan IV, Order (PH)",
+          "en": "Jarvan IV, Royal Heir",
           "zh": ""
         },
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-133a.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-133a.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Jarvan IV, Order (PH)",
+      "en": "Jarvan IV, Royal Heir",
       "zh": ""
     },
     "type": "Unit",
@@ -42844,7 +42972,7 @@
         "type": "Legend",
         "cost": 0,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-149.webp",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-149.jpeg",
           "zh": ""
         },
         "isHorizontal": false
