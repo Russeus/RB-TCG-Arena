@@ -38491,6 +38491,38 @@
       "RAD": true
     }
   },
+  "RAD-010": {
+    "id": "RAD-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Forbidden Technique",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-010.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Forbidden Technique",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -39166,6 +39198,38 @@
       "RAD": true
     }
   },
+  "RAD-031": {
+    "id": "RAD-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stoic Ferryman",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-031.jpeg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stoic Ferryman",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-033": {
     "id": "RAD-033",
     "isToken": false,
@@ -39446,6 +39510,70 @@
     },
     "type": "Spell",
     "cost": 1,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-042": {
+    "id": "RAD-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Orianna, Exquisite",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-042.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Orianna, Exquisite",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-042a": {
+    "id": "RAD-042a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Orianna, Exquisite",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-042a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Orianna, Exquisite",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41477,6 +41605,38 @@
       "RAD": true
     }
   },
+  "RAD-103": {
+    "id": "RAD-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gutter Guardian",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-103.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gutter Guardian",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-105": {
     "id": "RAD-105",
     "isToken": false,
@@ -41792,6 +41952,38 @@
     "type": "Unit",
     "cost": 4,
     "tokens": ["RAD-T02"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-113": {
+    "id": "RAD-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Angler Wyrm",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-113.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Angler Wyrm",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 8,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -42468,6 +42660,38 @@
       "zh": ""
     },
     "type": "Unit",
+    "cost": 7,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-134": {
+    "id": "RAD-134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raucous Anthem",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 7,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-134.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raucous Anthem",
+      "zh": ""
+    },
+    "type": "Spell",
     "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
