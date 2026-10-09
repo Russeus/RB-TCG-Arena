@@ -38523,6 +38523,38 @@
       "RAD": true
     }
   },
+  "RAD-011": {
+    "id": "RAD-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Headstrong Construct (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-011.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Headstrong Construct (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-012": {
     "id": "RAD-012",
     "isToken": false,
@@ -38899,6 +38931,39 @@
     },
     "type": "Unit",
     "cost": 5,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-022": {
+    "id": "RAD-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Spinning Gyroscope (PH)",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-022.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Spinning Gyroscope (PH)",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "tokens": ["SFD-T-Gold", "OGN-271", "SFD-T-Mech"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40328,7 +40393,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Seraphine, Mind (PH)",
+          "en": "Seraphine, Inspiring",
           "zh": ""
         },
         "type": "Unit",
@@ -40341,7 +40406,39 @@
       }
     },
     "name": {
-      "en": "Seraphine, Mind (PH)",
+      "en": "Seraphine, Inspiring",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-065a": {
+    "id": "RAD-065a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Inspiring",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-065a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Inspiring",
       "zh": ""
     },
     "type": "Unit",
