@@ -38464,20 +38464,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Antagonistic Apparatus (PH)",
+          "en": "Antagonistic Apparatus",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-009.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5be775464c8b897501317c6d32fd60c8b962b5c2-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Antagonistic Apparatus (PH)",
+      "en": "Antagonistic Apparatus",
       "zh": ""
     },
     "type": "Unit",
@@ -38759,7 +38759,7 @@
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-020.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/66db9510de566ac43157ecdcc96f33b5f553a38d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38791,7 +38791,7 @@
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-020a.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/30e0267246c161d62eebb264cd6f1c07228ae749-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39140,20 +39140,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Sanctuary Keeper (PH)",
+          "en": "Sanctum Conservator",
           "zh": ""
         },
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-030.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/776973101613a15a7d0a2fc90587d19098ecc894-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Sanctuary Keeper (PH)",
+      "en": "Sanctum Conservator",
       "zh": ""
     },
     "type": "Unit",
@@ -39434,7 +39434,7 @@
         "type": "Spell",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-041.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b9c1b9441e42639805b715466938ccd26b89892d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39783,20 +39783,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Resource Miner (PH)",
+          "en": "Resource Extractor",
           "zh": ""
         },
         "type": "Gear",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-052.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d5cc2f85febe2260e51b88bddfeab6ce700c85dd-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Resource Miner (PH)",
+      "en": "Resource Extractor",
       "zh": ""
     },
     "type": "Gear",
@@ -40174,7 +40174,7 @@
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-064.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6a028fc372c14dda73864aba3d3e84063f6da98d-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40585,20 +40585,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Wrath of Freljord (PH)",
+          "en": "Wrath of the Freljord",
           "zh": ""
         },
         "type": "Unit",
         "cost": 9,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-077.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/531b923f3437f497b858bf186b46b4ac88460da6-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Wrath of Freljord (PH)",
+      "en": "Wrath of the Freljord",
       "zh": ""
     },
     "type": "Unit",
@@ -41457,7 +41457,7 @@
         "type": "Spell",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-102.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e9dd313886624aafc7e0c7f9e1689225c042b484-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -41580,20 +41580,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Ambush Trap (PH)",
+          "en": "Bushwhack Trap",
           "zh": ""
         },
         "type": "Gear",
         "cost": 1,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-108.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/120762e23a599ee14d3f88856fcf707154338fb0-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Ambush Trap (PH)",
+      "en": "Bushwhack Trap",
       "zh": ""
     },
     "type": "Gear",
@@ -41746,7 +41746,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-112.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0c1f1f3b69b31a69f9637ece841b5ee1029cdd3-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -41779,7 +41779,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-112a.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/080e606b0ae3ac048e3d4e90451ac84767cb2864-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -42102,7 +42102,7 @@
         "type": "Unit",
         "cost": 9,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-122.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3413fc46086d559c2a60657e4729f22475bbdec0-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -42131,8 +42131,8 @@
           "en": "Guardian's Shield (PH)",
           "zh": ""
         },
-        "type": "Unit",
-        "cost": 9,
+        "type": "Gear",
+        "cost": 2,
         "image": {
           "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-123.jpeg",
           "zh": ""
@@ -42144,8 +42144,8 @@
       "en": "Guardian's Shield (PH)",
       "zh": ""
     },
-    "type": "Unit",
-    "cost": 9,
+    "type": "Gear",
+    "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -42425,7 +42425,7 @@
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-133.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/967de7aa18d5833896825bfd7d78b234e088ae73-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -42457,7 +42457,7 @@
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-133a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5f1541017b1b250f11770c5fb2c84f0152e16042-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
