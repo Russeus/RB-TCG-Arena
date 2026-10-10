@@ -39295,6 +39295,38 @@
       "RAD": true
     }
   },
+  "RAD-032": {
+    "id": "RAD-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Battle Preparations (PH)",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 2,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-032.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Battle Preparations (PH)",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 2,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-033": {
     "id": "RAD-033",
     "isToken": false,
@@ -40035,6 +40067,38 @@
       "RAD": true
     }
   },
+  "RAD-054": {
+    "id": "RAD-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Trinket Peddler",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-054.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Trinket Peddler",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-055": {
     "id": "RAD-055",
     "isToken": false,
@@ -40443,6 +40507,38 @@
     },
     "type": "Unit",
     "cost": 4,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-066": {
+    "id": "RAD-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Spirit of the Forge",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-066.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Spirit of the Forge",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -40892,6 +40988,38 @@
     },
     "type": "Spell",
     "cost": 5,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-080": {
+    "id": "RAD-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bloodscent Swarm",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 8,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-080.jpg",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bloodscent Swarm",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 8,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -41444,6 +41572,39 @@
       "RAD": true
     }
   },
+  "RAD-094": {
+    "id": "RAD-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Explosive Monkey (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 6,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-094.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Explosive Monkey (PH).",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 6,
+    "tokens": ["RAD-T02"],
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-095": {
     "id": "RAD-095",
     "isToken": false,
@@ -41726,6 +41887,38 @@
     },
     "type": "Unit",
     "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-104": {
+    "id": "RAD-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ruthless Lurker (PH)",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-104.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ruthless Lurker (PH)",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
@@ -42443,6 +42636,38 @@
       "RAD": true
     }
   },
+  "RAD-124": {
+    "id": "RAD-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Burn Away",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-124.png",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Burn Away",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 3,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-125": {
     "id": "RAD-125",
     "isToken": false,
@@ -42790,6 +43015,38 @@
     },
     "type": "Spell",
     "cost": 7,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-135": {
+    "id": "RAD-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Remember the Fallen",
+          "zh": ""
+        },
+        "type": "Spell",
+        "cost": 8,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-135.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Remember the Fallen",
+      "zh": ""
+    },
+    "type": "Spell",
+    "cost": 8,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
     "_unreleased": true,
