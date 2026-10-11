@@ -39745,6 +39745,38 @@
       "RAD": true
     }
   },
+  "RAD-044": {
+    "id": "RAD-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hunting Cover (PH)",
+          "zh": ""
+        },
+        "type": "Gear",
+        "cost": 4,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-044.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hunting Cover (PH)",
+      "zh": ""
+    },
+    "type": "Gear",
+    "cost": 4,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-045": {
     "id": "RAD-045",
     "isToken": false,
@@ -40041,20 +40073,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Winged Oracle (PH)",
+          "en": "Strigian Oracle",
           "zh": ""
         },
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-053.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-053.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Winged Oracle (PH)",
+      "en": "Strigian Oracle",
       "zh": ""
     },
     "type": "Unit",
@@ -42610,20 +42642,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Guardian's Shield (PH)",
+          "en": "Protector's Shield",
           "zh": ""
         },
         "type": "Gear",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-123.jpeg",
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-123.webp",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Guardian's Shield (PH)",
+      "en": "Protector's Shield",
       "zh": ""
     },
     "type": "Gear",
@@ -44477,6 +44509,38 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88f6970ac5639bdd47552befcb575a6f73c6dcdb-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Seraphine, Starry-Eyed Songstress",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔵 Mind", "🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-174as": {
+    "id": "RAD-174as",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Seraphine, Starry-Eyed Songstress",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-174as.webp",
           "zh": ""
         },
         "isHorizontal": false
