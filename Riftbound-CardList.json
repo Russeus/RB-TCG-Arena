@@ -38503,7 +38503,7 @@
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-010.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/293518dcf6c2f9e3f59a2e259826fd813436b3a5-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -38529,20 +38529,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Headstrong Construct (PH)",
+          "en": "Incorrigible Construct",
           "zh": ""
         },
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-011.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e95470d5c2fbc9f7f8ab0b1c19f32fd704918c83-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Headstrong Construct (PH)",
+      "en": "Incorrigible Construct",
       "zh": ""
     },
     "type": "Unit",
@@ -38945,20 +38945,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Spinning Gyroscope (PH)",
+          "en": "Whirlwind Twirligig",
           "zh": ""
         },
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-022.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a05ff95e5bb933664e09656973c72f4d39d8e701-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Spinning Gyroscope (PH)",
+      "en": "Whirlwind Twirligig",
       "zh": ""
     },
     "type": "Gear",
@@ -39275,7 +39275,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-031.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8513fbe02a37f957b2a98bcee5badfdc56f41e82-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39301,20 +39301,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Battle Preparations (PH)",
+          "en": "Battle Preparations",
           "zh": ""
         },
         "type": "Spell",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-032.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9422caf2fcd4cfb346cf0dce48245ef13a77180f-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Battle Preparations (PH)",
+      "en": "Battle Preparations",
       "zh": ""
     },
     "type": "Spell",
@@ -39627,7 +39627,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-042.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e608c51698b6fb0cc6a00335dbd1bca84f57c73-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39659,7 +39659,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-042a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eeda2acfac6215104d70976c679c93f6f09fc351-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -39751,20 +39751,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Hunting Cover (PH)",
+          "en": "Hunting Blind",
           "zh": ""
         },
         "type": "Gear",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-044.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a625c22d828c83302132b0465dceb3ab11a08bc-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Hunting Cover (PH)",
+      "en": "Hunting Blind",
       "zh": ""
     },
     "type": "Gear",
@@ -40079,7 +40079,7 @@
         "type": "Unit",
         "cost": 2,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-053.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5973b5036060f29e24f8778949bf6f01f360c0a4-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40111,7 +40111,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-054.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/78106b7cea441b13d108e532adc5ce063f448165-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
           "zh": ""
         },
         "isHorizontal": false
@@ -40495,7 +40495,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-065.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/60e0711c64958cc3a59a3bd3bf4c013758b1b92b-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -40527,7 +40527,7 @@
         "type": "Unit",
         "cost": 4,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-065a.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/23b295012070c5c5071922057050dcb5c4398794-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -40559,7 +40559,7 @@
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-066.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7a1f527e5910fbc18f7cb3cddf2aa59b483393f4-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -40970,20 +40970,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Armored Elephant (PH)",
+          "en": "Armored Tusker",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-078.jpeg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c479f2fda00506e71a57ac4e8cc297f7f3110a54-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Armored Elephant (PH)",
+      "en": "Armored Tusker",
       "zh": ""
     },
     "type": "Unit",
@@ -41040,7 +41040,7 @@
         "type": "Unit",
         "cost": 8,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-080.jpg",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/775ccea752fb404be2433c4b870c7877e2445a8c-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -41578,20 +41578,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Celestial Dragon (PH)",
+          "en": "Seraphic Wyvern",
           "zh": ""
         },
         "type": "Unit",
         "cost": 7,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-092.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ad1793554440d8d5017eadc565ca6c787a969de1-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Celestial Dragon (PH).",
+      "en": "Seraphic Wyvern",
       "zh": ""
     },
     "type": "Unit",
@@ -41610,20 +41610,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Explosive Monkey (PH)",
+          "en": "Explosimian",
           "zh": ""
         },
         "type": "Unit",
         "cost": 6,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-094.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f2590617229f3efc078aa2429f65b85101303200-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Explosive Monkey (PH).",
+      "en": "Explosimian",
       "zh": ""
     },
     "type": "Unit",
@@ -41907,7 +41907,7 @@
         "type": "Unit",
         "cost": 3,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-103.webp",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/756827744317003e4992163ff9bf1dc991682de8-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
@@ -41933,20 +41933,20 @@
     "face": {
       "front": {
         "name": {
-          "en": "Ruthless Lurker (PH)",
+          "en": "Pitiless Stalker",
           "zh": ""
         },
         "type": "Unit",
         "cost": 5,
         "image": {
-          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-104.png",
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc61b244fb3ed01d61617c3c2633a71424604130-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=444",
           "zh": ""
         },
         "isHorizontal": false
       }
     },
     "name": {
-      "en": "Ruthless Lurker (PH)",
+      "en": "Pitiless Stalker",
       "zh": ""
     },
     "type": "Unit",
