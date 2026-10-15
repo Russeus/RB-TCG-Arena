@@ -44656,6 +44656,38 @@
       "RAD": true
     }
   },
+  "RAD-177": {
+    "id": "RAD-177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Revolutionary",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fb1dc5301c1dd9054e5da6d9735b8ad27ce200c4-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Revolutionary",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": true,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-178": {
     "id": "RAD-178",
     "isToken": false,
