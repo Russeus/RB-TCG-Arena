@@ -38939,6 +38939,38 @@
       "RAD": true
     }
   },
+  "RAD-021b": {
+    "id": "RAD-021b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ekko, Revolutionary",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 5,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-021b.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ekko, Revolutionary",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 5,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-022": {
     "id": "RAD-022",
     "isToken": false,
@@ -42184,6 +42216,38 @@
       "RAD": true
     }
   },
+  "RAD-110a": {
+    "id": "RAD-110a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lulu, Whimsical",
+          "zh": ""
+        },
+        "type": "Unit",
+        "cost": 3,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-110a.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lulu, Whimsical",
+      "zh": ""
+    },
+    "type": "Unit",
+    "cost": 3,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-111": {
     "id": "RAD-111",
     "isToken": false,
@@ -43860,6 +43924,38 @@
       "RAD": true
     }
   },
+  "RAD-157a": {
+    "id": "RAD-157a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bandle Scouts' Academy",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-157a.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Bandle Scouts' Academy",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "tokens": ["SFD-T-Gold"],
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-158": {
     "id": "RAD-158",
     "isToken": false,
@@ -43873,6 +43969,37 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9a02ae108f32a8b88be47a94b5f0d39b5a06a6a1-1039x744.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Black Market",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-158a": {
+    "id": "RAD-158a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Black Market",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-158a.webp",
           "zh": ""
         },
         "isHorizontal": true
@@ -43923,6 +44050,38 @@
       "RAD": true
     }
   },
+  "RAD-159a": {
+    "id": "RAD-159a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Black Rose Sanctum",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-159a.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Black Rose Sanctum",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "tokens": ["OGN-271"],
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-160": {
     "id": "RAD-160",
     "isToken": false,
@@ -43936,6 +44095,37 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0efb6db0a41350e9cfc116b235eeb92bb05ed5bf-1039x744.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Cosmic Vista",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-160a": {
+    "id": "RAD-160a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cosmic Vista",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-160a.webp",
           "zh": ""
         },
         "isHorizontal": true
@@ -43985,6 +44175,37 @@
       "RAD": true
     }
   },
+  "RAD-161a": {
+    "id": "RAD-161a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Durand Memorial",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-161a.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Durand Memorial",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-162": {
     "id": "RAD-162",
     "isToken": false,
@@ -43998,6 +44219,37 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f8e2d555ff0dc250de38a1c8924a199dc121f036-1039x744.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Firelights' Hideout",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-162a": {
+    "id": "RAD-162a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Firelights' Hideout",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-162a.webp",
           "zh": ""
         },
         "isHorizontal": true
@@ -44047,6 +44299,37 @@
       "RAD": true
     }
   },
+  "RAD-163a": {
+    "id": "RAD-163a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hunters' Circle",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-163a.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Hunters' Circle",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-164": {
     "id": "RAD-164",
     "isToken": false,
@@ -44060,6 +44343,37 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f4b396780dd7a5aa1be43f763265f308ee0fe665-1039x744.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Packed Amphitheater",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-164a": {
+    "id": "RAD-164a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Packed Amphitheater",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-164a.webp",
           "zh": ""
         },
         "isHorizontal": true
@@ -44109,6 +44423,37 @@
       "RAD": true
     }
   },
+  "RAD-165a": {
+    "id": "RAD-165a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rakelstake",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-165a.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Rakelstake",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-166": {
     "id": "RAD-166",
     "isToken": false,
@@ -44122,6 +44467,37 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2d756c5198dafb151f51cceca4f11824575960cd-1039x744.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=620&or=270",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Ruined Monastery",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "RAD-166a": {
+    "id": "RAD-166a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ruined Monastery",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-166a.webp",
           "zh": ""
         },
         "isHorizontal": true
@@ -45069,6 +45445,131 @@
     "_unreleased": false,
     "_legal": {
       "VEN": false,
+      "RAD": true
+    }
+  },
+  "KDA-001": {
+    "id": "KDA-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ahri, Nine-Tailed Fox",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/KDA-001.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ahri, Nine-Tailed Fox",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟢 Calm", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "KDA-002": {
+    "id": "KDA-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Evelynn, Agony's Embrace",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/KDA-002.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Evelynn, Agony's Embrace",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🟠 Body", "🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
+  "KDA-003": {
+    "id": "KDA-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kai'Sa, Daughter of the Void",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/KDA-003.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kai'Sa, Daughter of the Void",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "KDA-004": {
+    "id": "KDA-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Akali, Rogue Assassin",
+          "zh": ""
+        },
+        "type": "Legend",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/KDA-004.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Akali, Rogue Assassin",
+      "zh": ""
+    },
+    "type": "Legend",
+    "cost": 0,
+    "Domain": ["🔴 Fury", "🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": true,
       "RAD": true
     }
   },
