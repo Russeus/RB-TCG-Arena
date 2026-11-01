@@ -37,13 +37,21 @@
     ],
     "formats": [
       {
-        "title": "Classic",
+        "title": "Unleashed",
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD",
+        "gameModes": [
+            {
+                "title": "gm.bo1"
+            },
+            {
+                "title": "gm.bo3"
+            }
+        ]
       },
       {
         "title": "FFA",
@@ -52,7 +60,17 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD",
+        "gameModes": [
+            {
+                "title": "gm.ffa3",
+                "players": 3
+            },
+            {
+                "title": "gm.ffa4",
+                "players": 4
+            }
+        ]
       },
       {
         "title": "2v2",
@@ -61,16 +79,24 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD"
       },
       {
-        "title": "Unleashed",
+        "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "RAD"
+        "legalityCode": "VEN",
+        "gameModes": [
+            {
+                "title": "gm.bo1"
+            },
+            {
+                "title": "gm.bo3"
+            }
+        ]
       }
     ],
     "deckRulesets": {
@@ -364,10 +390,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Base",
             "noQuickActions": false,
-            "enterTapped": {
-              "Unit": true,
-              "Gear": false
-            },
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -447,10 +470,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 1",
             "noQuickActions": false,
-            "enterTapped": {
-              "Unit": true,
-              "Gear": false
-            },
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -465,10 +485,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "BF Units 2",
             "noQuickActions": false,
-            "enterTapped": {
-              "Unit": true,
-              "Gear": false
-            },
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -483,10 +500,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Baron Pit Units",
             "noQuickActions": false,
-            "enterTapped": {
-              "Unit": true,
-              "Gear": false
-            },
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,

@@ -2,20 +2,32 @@
     "additionalLanguages": ["zh"],
     "en": {
         "Gameplay": {
-            "Classic": "Standard (Vendetta)",
-            "Unleashed": "Preview (Radiance)",
+            "Classic": "Legacy (Vendetta)",
+            "Unleashed": "Standard (Radiance)",
             "Multiplayer": "Multiplayer (Vendetta)",
             "2v2": "2v2 (Vendetta)",
             "FFA": "FFA (Vendetta)"
+        },
+        "gameModes": {
+            "gm.bo1": "Best of 1",
+            "gm.bo3": "Best of 3",
+            "gm.ffa3": "3 players",
+            "gm.ffa4": "4 players"
         }
     },
     "zh": {
         "Gameplay": {
-            "Classic": "Standard (Vendetta)",
-            "Unleashed": "Preview (Radiance)",
+            "Classic": "Legacy (Vendetta)",
+            "Unleashed": "Standard (Radiance)",
             "Multiplayer": "Multiplayer (Vendetta)",
             "2v2": "2v2 (Vendetta)",
             "FFA": "FFA (Vendetta)"
+        },
+        "gameModes": {
+            "gm.bo1": "Best of 1",
+            "gm.bo3": "Best of 3",
+            "gm.ffa3": "3 players",
+            "gm.ffa4": "4 players"
         }
     }
 }

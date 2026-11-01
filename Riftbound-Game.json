@@ -37,13 +37,13 @@
     ],
     "formats": [
       {
-        "title": "Classic",
+        "title": "Unleashed",
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD"
       },
       {
         "title": "FFA",
@@ -52,7 +52,7 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD"
       },
       {
         "title": "2v2",
@@ -61,16 +61,16 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "RAD"
       },
       {
-        "title": "Unleashed",
+        "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "RAD"
+        "legalityCode": "VEN"
       }
     ],
     "deckRulesets": {

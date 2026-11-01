@@ -38227,7 +38227,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38259,7 +38259,7 @@
     "cost": 1,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38291,7 +38291,7 @@
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38323,7 +38323,7 @@
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38355,7 +38355,7 @@
     "cost": 2,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38387,7 +38387,7 @@
     "cost": 4,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38420,7 +38420,7 @@
     "tokens": ["OGN-272"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38452,7 +38452,7 @@
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38485,7 +38485,7 @@
     "tokens": ["SFD-T-Mech"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38517,7 +38517,7 @@
     "cost": 2,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38549,7 +38549,7 @@
     "cost": 4,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38581,7 +38581,7 @@
     "cost": 1,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38613,7 +38613,7 @@
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38645,7 +38645,7 @@
     "cost": 3,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38677,7 +38677,7 @@
     "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38709,7 +38709,7 @@
     "cost": 4,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38741,7 +38741,7 @@
     "cost": 4,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38773,7 +38773,7 @@
     "cost": 9,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38805,7 +38805,7 @@
     "cost": 6,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38837,7 +38837,7 @@
     "cost": 7,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38869,7 +38869,7 @@
     "cost": 7,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38901,7 +38901,7 @@
     "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38933,7 +38933,7 @@
     "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38966,7 +38966,7 @@
     "tokens": ["SFD-T-Gold", "OGN-271", "SFD-T-Mech"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -38999,7 +38999,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39032,7 +39032,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39064,7 +39064,7 @@
     "cost": 2,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39096,7 +39096,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39128,7 +39128,7 @@
     "cost": 2,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39161,7 +39161,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39193,7 +39193,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39225,7 +39225,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39257,7 +39257,7 @@
     "cost": 5,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39289,7 +39289,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39321,7 +39321,7 @@
     "cost": 2,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39353,7 +39353,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39385,7 +39385,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39417,7 +39417,7 @@
     "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39449,7 +39449,7 @@
     "cost": 6,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39481,7 +39481,7 @@
     "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39513,7 +39513,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39545,7 +39545,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39577,7 +39577,7 @@
     "cost": 7,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39609,7 +39609,7 @@
     "cost": 1,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39641,7 +39641,7 @@
     "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39673,7 +39673,7 @@
     "cost": 3,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39706,7 +39706,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39739,7 +39739,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39771,7 +39771,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39803,7 +39803,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39835,7 +39835,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39867,7 +39867,7 @@
     "cost": 8,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39899,7 +39899,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39931,7 +39931,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39964,7 +39964,7 @@
     "tokens": ["SFD-T-Mech"],
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -39996,7 +39996,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40028,7 +40028,7 @@
     "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40061,7 +40061,7 @@
     "tokens": ["SFD-T-Gold"],
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40093,7 +40093,7 @@
     "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40125,7 +40125,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40157,7 +40157,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40189,7 +40189,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40221,7 +40221,7 @@
     "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40253,7 +40253,7 @@
     "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40285,7 +40285,7 @@
     "cost": 9,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40317,7 +40317,7 @@
     "cost": 8,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40349,7 +40349,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40381,7 +40381,7 @@
     "cost": 3,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40413,7 +40413,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40445,7 +40445,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40477,7 +40477,7 @@
     "cost": 2,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40509,7 +40509,7 @@
     "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40541,7 +40541,7 @@
     "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40573,7 +40573,7 @@
     "cost": 6,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40605,7 +40605,7 @@
     "cost": 8,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40637,7 +40637,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40669,7 +40669,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40701,7 +40701,7 @@
     "cost": 9,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40733,7 +40733,7 @@
     "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40765,7 +40765,7 @@
     "cost": 1,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40797,7 +40797,7 @@
     "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40830,7 +40830,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40862,7 +40862,7 @@
     "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40894,7 +40894,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40926,7 +40926,7 @@
     "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40958,7 +40958,7 @@
     "cost": 9,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -40990,7 +40990,7 @@
     "cost": 6,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41022,7 +41022,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41054,7 +41054,7 @@
     "cost": 8,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41086,7 +41086,7 @@
     "cost": 63,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41118,7 +41118,7 @@
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41150,7 +41150,7 @@
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41182,7 +41182,7 @@
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41214,7 +41214,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41246,7 +41246,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41278,7 +41278,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41310,7 +41310,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41342,7 +41342,7 @@
     "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41374,7 +41374,7 @@
     "cost": 2,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41406,7 +41406,7 @@
     "cost": 3,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41438,7 +41438,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41470,7 +41470,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41502,7 +41502,7 @@
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41534,7 +41534,7 @@
     "cost": 4,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41566,7 +41566,7 @@
     "cost": 7,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41598,7 +41598,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41631,7 +41631,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41663,7 +41663,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41695,7 +41695,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41727,7 +41727,7 @@
     "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41759,7 +41759,7 @@
     "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41791,7 +41791,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41824,7 +41824,7 @@
     "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41857,7 +41857,7 @@
     "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41889,7 +41889,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41921,7 +41921,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41953,7 +41953,7 @@
     "cost": 5,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -41986,7 +41986,7 @@
     "tokens": ["SFD-T-Gold"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42018,7 +42018,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42050,7 +42050,7 @@
     "cost": 2,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42082,7 +42082,7 @@
     "cost": 1,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42114,7 +42114,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42146,7 +42146,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42178,7 +42178,7 @@
     "cost": 3,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42210,7 +42210,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42243,7 +42243,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42276,7 +42276,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42308,7 +42308,7 @@
     "cost": 8,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42340,7 +42340,7 @@
     "cost": 5,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42372,7 +42372,7 @@
     "cost": 5,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42404,7 +42404,7 @@
     "cost": 6,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42437,7 +42437,7 @@
     "tokens": ["OGN-271"],
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42469,7 +42469,7 @@
     "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42501,7 +42501,7 @@
     "cost": 5,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42534,7 +42534,7 @@
     "tokens": ["UNL-T02"],
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42566,7 +42566,7 @@
     "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42598,7 +42598,7 @@
     "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42630,7 +42630,7 @@
     "cost": 9,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42662,7 +42662,7 @@
     "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42694,7 +42694,7 @@
     "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42726,7 +42726,7 @@
     "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42758,7 +42758,7 @@
     "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42791,7 +42791,7 @@
     "tokens": ["OGN-271"],
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42823,7 +42823,7 @@
     "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42855,7 +42855,7 @@
     "cost": 2,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42887,7 +42887,7 @@
     "cost": 3,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42920,7 +42920,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42953,7 +42953,7 @@
     "tokens": ["SFD-T-Mech"],
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -42985,7 +42985,7 @@
     "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43017,7 +43017,7 @@
     "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43049,7 +43049,7 @@
     "cost": 7,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43081,7 +43081,7 @@
     "cost": 8,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43113,7 +43113,7 @@
     "cost": 6,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43145,7 +43145,7 @@
     "cost": 9,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43177,7 +43177,7 @@
     "cost": 9,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43209,7 +43209,7 @@
     "cost": 5,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43241,7 +43241,7 @@
     "cost": 5,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43274,7 +43274,7 @@
     "tokens": ["VEN-T01"],
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43306,7 +43306,7 @@
     "cost": 2,
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43339,7 +43339,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43372,7 +43372,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43404,7 +43404,7 @@
     "cost": 0,
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43436,7 +43436,7 @@
     "cost": 2,
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43468,7 +43468,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43500,7 +43500,7 @@
     "cost": 5,
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43532,7 +43532,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43564,7 +43564,7 @@
     "cost": 2,
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43596,7 +43596,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43628,7 +43628,7 @@
     "cost": 3,
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43660,7 +43660,7 @@
     "cost": 0,
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43693,7 +43693,7 @@
     "tokens": ["OGN-271"],
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43725,7 +43725,7 @@
     "cost": 0,
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43758,7 +43758,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43790,7 +43790,7 @@
     "cost": 0,
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -43822,7 +43822,7 @@
     "cost": 2,
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44166,7 +44166,7 @@
     "cost": 6,
     "Domain": ["⚪ Neutral"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44199,7 +44199,7 @@
     "tokens": ["VEN-T01"],
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44232,7 +44232,7 @@
     "tokens": ["VEN-T01"],
     "Domain": ["🔴 Fury", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44265,7 +44265,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44298,7 +44298,7 @@
     "tokens": ["RAD-T02"],
     "Domain": ["🔴 Fury", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44330,7 +44330,7 @@
     "cost": 0,
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44362,7 +44362,7 @@
     "cost": 0,
     "Domain": ["🔴 Fury", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44394,7 +44394,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44426,7 +44426,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44458,7 +44458,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44490,7 +44490,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44522,7 +44522,7 @@
     "cost": 0,
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44554,7 +44554,7 @@
     "cost": 0,
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44586,7 +44586,7 @@
     "cost": 0,
     "Domain": ["🔵 Mind", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44618,7 +44618,7 @@
     "cost": 0,
     "Domain": ["🟠 Body", "🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44650,7 +44650,7 @@
     "cost": 0,
     "Domain": ["🟠 Body", "🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44682,7 +44682,7 @@
     "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44714,7 +44714,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44747,7 +44747,7 @@
     "tokens": ["OGN-T-Buff"],
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -44779,7 +44779,7 @@
     "cost": 4,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -44811,7 +44811,7 @@
     "cost": 5,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -44843,7 +44843,7 @@
     "cost": 6,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -44875,7 +44875,7 @@
     "cost": 4,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -44938,7 +44938,7 @@
     "cost": 4,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -44970,7 +44970,7 @@
     "cost": 5,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -45002,7 +45002,7 @@
     "cost": 4,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -45034,7 +45034,7 @@
     "cost": 5,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -45066,7 +45066,7 @@
     "cost": 5,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
@@ -45098,7 +45098,7 @@
     "cost": 0,
     "Domain": ["🔴 Fury"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45130,7 +45130,7 @@
     "cost": 0,
     "Domain": ["🟢 Calm"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45162,7 +45162,7 @@
     "cost": 0,
     "Domain": ["🔵 Mind"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45194,7 +45194,7 @@
     "cost": 0,
     "Domain": ["🟠 Body"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45226,7 +45226,7 @@
     "cost": 0,
     "Domain": ["🟣 Chaos"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45258,7 +45258,7 @@
     "cost": 0,
     "Domain": ["🟡 Order"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": true,
       "RAD": true
@@ -45290,7 +45290,7 @@
     "cost": 0,
     "Domain": ["⚪ Neutral"],
     "Set": ["05 - Radiance"],
-    "_unreleased": true,
+    "_unreleased": false,
     "_legal": {
       "VEN": false,
       "RAD": true
