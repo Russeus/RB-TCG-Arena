@@ -4,9 +4,9 @@
         "Gameplay": {
             "Classic": "Legacy (Vendetta)",
             "Unleashed": "Standard (Radiance)",
-            "Multiplayer": "Multiplayer (Vendetta)",
-            "2v2": "2v2 (Vendetta)",
-            "FFA": "FFA (Vendetta)"
+            "Multiplayer": "Multiplayer (Radiance)",
+            "2v2": "2v2 (Radiance)",
+            "FFA": "FFA (Radiance)"
         },
         "gameModes": {
             "gm.bo1": "Best of 1",
@@ -19,9 +19,9 @@
         "Gameplay": {
             "Classic": "Legacy (Vendetta)",
             "Unleashed": "Standard (Radiance)",
-            "Multiplayer": "Multiplayer (Vendetta)",
-            "2v2": "2v2 (Vendetta)",
-            "FFA": "FFA (Vendetta)"
+            "Multiplayer": "Multiplayer (Radiance)",
+            "2v2": "2v2 (Radiance)",
+            "FFA": "FFA (Radiance)"
         },
         "gameModes": {
             "gm.bo1": "Best of 1",

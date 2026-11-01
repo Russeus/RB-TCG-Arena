@@ -43,7 +43,15 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "RAD"
+        "legalityCode": "RAD",
+        "gameModes": [
+            {
+                "title": "gm.bo1"
+            },
+            {
+                "title": "gm.bo3"
+            }
+        ]
       },
       {
         "title": "FFA",
@@ -52,7 +60,17 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "RAD"
+        "legalityCode": "RAD",
+        "gameModes": [
+            {
+                "title": "gm.ffa3",
+                "players": 3
+            },
+            {
+                "title": "gm.ffa4",
+                "players": 4
+            }
+        ]
       },
       {
         "title": "2v2",
@@ -70,7 +88,15 @@
           "Chosen_Champion"
         ],
         "deckRuleset": "Standard",
-        "legalityCode": "VEN"
+        "legalityCode": "VEN",
+        "gameModes": [
+            {
+                "title": "gm.bo1"
+            },
+            {
+                "title": "gm.bo3"
+            }
+        ]
       }
     ],
     "deckRulesets": {
