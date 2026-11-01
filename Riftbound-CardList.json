@@ -45605,6 +45605,38 @@
       "RAD": true
     }
   },
+  "RAD-R01b": {
+    "id": "RAD-R01b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fury Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R01b.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fury Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔴 Fury"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
   "RAD-R02a": {
     "id": "RAD-R02a",
     "isToken": false,
@@ -45618,6 +45650,38 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/34b4e5127ca68f78ad43e824af61728cfc7fbc19-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Calm Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟢 Calm"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R02b": {
+    "id": "RAD-R02b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Calm Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R02b.webp",
           "zh": ""
         },
         "isHorizontal": false
@@ -45669,6 +45733,38 @@
       "RAD": true
     }
   },
+  "RAD-R03b": {
+    "id": "RAD-R03b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mind Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R03b.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mind Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🔵 Mind"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
   "RAD-R04a": {
     "id": "RAD-R04a",
     "isToken": false,
@@ -45682,6 +45778,38 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/90b2706af9f1eaf167065087a09a8451f303ffe1-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Body Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟠 Body"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R04b": {
+    "id": "RAD-R04b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Body Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R04b.webp",
           "zh": ""
         },
         "isHorizontal": false
@@ -45733,6 +45861,38 @@
       "RAD": true
     }
   },
+  "RAD-R05b": {
+    "id": "RAD-R05b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chaos Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R05b.webp",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chaos Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟣 Chaos"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
   "RAD-R06a": {
     "id": "RAD-R06a",
     "isToken": false,
@@ -45746,6 +45906,38 @@
         "cost": 0,
         "image": {
           "en": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/689797f63857003c7f21c478e86a811040c463c2-744x1039.png?accountingTag=RB&fit=fill&fm=webp&q=80&w=744",
+          "zh": ""
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Order Rune",
+      "zh": ""
+    },
+    "type": "Runes",
+    "cost": 0,
+    "Domain": ["🟡 Order"],
+    "Set": ["05 - Radiance"],
+    "_unreleased": false,
+    "_legal": {
+      "VEN": true,
+      "RAD": true
+    }
+  },
+  "RAD-R06b": {
+    "id": "RAD-R06b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Order Rune",
+          "zh": ""
+        },
+        "type": "Runes",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-R06b.webp",
           "zh": ""
         },
         "isHorizontal": false
