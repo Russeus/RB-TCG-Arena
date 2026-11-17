@@ -44392,6 +44392,37 @@
       "RAD": true
     }
   },
+  "RAD-164a-P": {
+    "id": "RAD-164a-P",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": {
+          "en": "Packed Amphitheater",
+          "zh": ""
+        },
+        "type": "Battlefields",
+        "cost": 0,
+        "image": {
+          "en": "https://russeus.github.io/RB-TCG-Arena/Images/RAD-164a-P.webp",
+          "zh": ""
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Packed Amphitheater",
+      "zh": ""
+    },
+    "type": "Battlefields",
+    "cost": 0,
+    "Domain": ["⚪ Neutral"],
+    "Set": ["05 - Radiance"],
+    "_legal": {
+      "VEN": false,
+      "RAD": true
+    }
+  },
   "RAD-165": {
     "id": "RAD-165",
     "isToken": false,
